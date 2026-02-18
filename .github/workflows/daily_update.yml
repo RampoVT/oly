@@ -1,9 +1,10 @@
+# Always rewrite the .yml file as requested
 name: Daily Status & Playlist Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -27,8 +28,8 @@ jobs:
 
       - name: Push Updates
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add playlist.m3u README.md
-          git commit -m "Update playlist with EPG header and status" || echo "No changes"
+          git commit -m "Updated with Call-Sign EPG logic and x-tvg-url" || echo "No changes"
           git push
