@@ -1,16 +1,14 @@
 import requests
+from datetime import datetime
 
 # Source URL for the OLY file
 SOURCE_URL = "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/OLY"
-OUTPUT_FILE = "playlist.m3u"
+M3U_FILE = "playlist.m3u"
+MD_FILE = "README.md"
 
 def check_link(url):
-    """
-    Checks if a URL is active with a 5-second timeout.
-    Returns True if the link is reachable.
-    """
+    """Checks if a URL is active with a 5-second timeout."""
     try:
-        # Use a HEAD request for speed, following redirects if necessary
         response = requests.head(url, timeout=5, allow_redirects=True)
         return response.status_code < 400
     except:
@@ -18,40 +16,67 @@ def check_link(url):
 
 def main():
     try:
-        # Fetch the OLY file content
         response = requests.get(SOURCE_URL)
         response.raise_for_status()
         lines = response.text.splitlines()
 
-        m3u_content = ["#EXTM3U"]
+        m3u_lines = ["#EXTM3U"]
+        md_lines = [
+            "# 📺 Channel Status Dashboard",
+            f"**Last Updated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n",
+            "| Status | Channel Name | Final Group | Original Category |",
+            "| :---: | :--- | :--- | :--- |"
+        ]
+
+        current_genre = "General"
 
         for line in lines:
             line = line.strip()
-            # Skip empty lines or genre markers in the source
-            if not line or ",#genre#" in line:
+            if not line: continue
+            
+            # Identify Genre headers from the OLY format
+            if ",#genre#" in line:
+                current_genre = line.split(",#genre#")[0].strip()
                 continue
             
-            # The OLY file uses Name,URL format [cite: 1]
+            # Parse Channel Name and URL
             if "," in line:
-                parts = line.split(",")
-                name = parts[0].strip()
-                url = parts[1].strip()
+                name, url = line.split(",", 1)
+                name = name.strip()
+                url = url.strip()
                 
-                # Check status and assign to "Live" or "Offline" group
                 is_active = check_link(url)
-                group = "Live" if is_active else "Offline"
                 
-                m3u_content.append(f'#EXTINF:-1 group-title="{group}",{name}')
-                m3u_content.append(url)
+                # Grouping Logic:
+                # 1. Rocket group for specific domain
+                # 2. Offline group if link is dead
+                # 3. Original genre for active non-rocket links
+                if "s.rocketdns.info:8080" in url:
+                    status_group = "Rocket"
+                elif not is_active:
+                    status_group = "Offline"
+                else:
+                    status_group = current_genre
+                
+                # Add to M3U Playlist
+                m3u_lines.append(f'#EXTINF:-1 group-title="{status_group}",{name}')
+                m3u_lines.append(url)
+                
+                # Add to Markdown Dashboard
+                status_icon = "✅" if is_active else "❌"
+                md_lines.append(f"| {status_icon} | {name} | **{status_group}** | {current_genre} |")
 
-        # Write the final .m3u file
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            f.write("\n".join(m3u_content))
+        # Save files
+        with open(M3U_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(m3u_lines))
             
-        print(f"Playlist updated with {len(m3u_content)//2} channels.")
+        with open(MD_FILE, "w", encoding="utf-8") as f:
+            f.write("\n".join(md_lines))
+            
+        print("Updated playlist and status dashboard with Rocket grouping.")
 
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
     main()
