@@ -1,4 +1,3 @@
-# Always rewrite the .yml file as requested
 name: Daily Status & Playlist Update
 
 on:
@@ -31,5 +30,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u README.md
-          git commit -m "Updated with Call-Sign EPG logic and x-tvg-url" || echo "No changes"
+          git commit -m "Merged patcher logic with call-sign EPG mapping" || echo "No changes"
           git push
