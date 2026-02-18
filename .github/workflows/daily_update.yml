@@ -1,17 +1,17 @@
-name: Daily Playlist Update
+name: Daily Status & Playlist Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight
-  workflow_dispatch: # Allows manual run from GitHub UI
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -19,16 +19,16 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Install Requests
         run: pip install requests
 
-      - name: Run converter
+      - name: Run Update Script
         run: python convert_oly.py
 
-      - name: Commit and push changes
+      - name: Push Updates
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.m3u
-          git commit -m "Daily update: Sorted Live and Offline channels" || echo "No changes"
+          git add playlist.m3u README.md
+          git commit -m "Updated playlist and status dashboard" || echo "No changes"
           git push
