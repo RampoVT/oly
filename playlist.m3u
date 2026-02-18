@@ -1045,7 +1045,7 @@ http://dai.google.com/ssai/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="" group-title="News Channels",CGTN America
 http://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Offline",CGTN World
+#EXTINF:-1 tvg-id="" group-title="News Channels",CGTN World
 https://live-stream.cgtn.com/event-live/CGTN_1_1KuaIJvmqkw/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="News Channels",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
@@ -1557,7 +1557,7 @@ https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/
 https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Local Public Access",Lompoc TAP TV Channel 25 (Lompoc CA)
 https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Local Public Access",Long Beach Television (Long Beach CA)
+#EXTINF:-1 tvg-id="" group-title="Offline",Long Beach Television (Long Beach CA)
 https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Local Public Access",Manatee Schools Television MSTV (Manatee County FL)
 https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8
@@ -2033,7 +2033,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/89502.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/629647.ts
 #EXTINF:-1 tvg-id="" group-title="Latino (Spanish)",WUVG-TV Univision 34.1 (Atlanta GA)
 https://streaming-live-fcdn.api.prd.univisionnow.com/wuvg/wuvg.isml/hls/wuvg-audio_eng=128000-video=6000000.m3u8
-#EXTINF:-1 tvg-id="" group-title="Latino (Spanish)",WUVP-TV Univision 65 (Philadelphia PA)
+#EXTINF:-1 tvg-id="" group-title="Offline",WUVP-TV Univision 65 (Philadelphia PA)
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/410645.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",WWSI-TV Telemundo 62 (Philadelphia PA)
 http://s.rocketdns.info:8080/live/52748969/72335180/3878.ts
@@ -3793,13 +3793,13 @@ http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430738.ts
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430739.ts
 #EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Comedy
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430741.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",PPV Cinebox Cult
+#EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Cult
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430742.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",PPV Cinebox Family
+#EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Family
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430743.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",PPV Cinebox Greats
+#EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Greats
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430744.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",PPV Cinebox Hits
+#EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Hits
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430746.ts
 #EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Musical
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430747.ts
@@ -3807,9 +3807,9 @@ http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430747.ts
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430748.ts
 #EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Premiere
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430749.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",PPV Cinebox Romance
+#EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Romance
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430750.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",PPV Cinebox Sci-Fi
+#EXTINF:-1 tvg-id="" group-title="PPV (Pay Per View)",PPV Cinebox Sci-Fi
 http://bedroombullyonline.com:5050/live/rvoisinet/DwDzzJydmG/430751.ts
 #EXTINF:-1 tvg-id="" group-title="Offline",Canela.TV Music Hits
 https://amg00658-amg00658c41-canelatv-international-5234.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichitsta-canelatvinternational/playlist.m3u8
@@ -4431,9 +4431,9 @@ http://s.rocketdns.info:8080/live/52748969/72335180/42086.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/42082.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",MC (Music Choice) | Easy Listening
 http://s.rocketdns.info:8080/live/52748969/72335180/647335.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Easy Listening (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Easy Listening (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47964.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Funk (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Funk (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47970.ts
 #EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Gospel (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47971.ts
@@ -4451,11 +4451,11 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47883.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47993.ts
 #EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Mainstream Rap (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47995.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Malt Shop Favorites (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Malt Shop Favorites (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47996.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",MC (Music Choice) | Mellow Hits
 http://s.rocketdns.info:8080/live/52748969/72335180/42092.ts
-#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Metal (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Metal (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47998.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",MC (Music Choice) | Mexicana
 http://s.rocketdns.info:8080/live/52748969/72335180/42090.ts
@@ -4467,9 +4467,9 @@ http://s.rocketdns.info:8080/live/52748969/72335180/38042.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/38043.ts
 #EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Musica Urbana (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48003.ts
-#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | New Wave (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | New Wave (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48006.ts
-#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Party Favorites (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Party Favorites (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48008.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",MC (Music Choice) | Pop And Country
 http://s.rocketdns.info:8080/live/52748969/72335180/42077.ts
@@ -4513,7 +4513,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/647316.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/647323.ts
 #EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Sounds of The Seasons (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48035.ts
-#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Teen Beats (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Teen Beats (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48041.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",MC (Music Choice) | Throwback Jams (Audio Channel)
 http://s.rocketdns.info:8080/live/52748969/72335180/42087.ts
@@ -4533,7 +4533,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/42089.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/48047.ts
 #EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Underground Hip-Hop (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48049.ts
-#EXTINF:-1 tvg-id="" group-title="Music",MC (Music Choice) | Y2K (Audio Channel)
+#EXTINF:-1 tvg-id="" group-title="Offline",MC (Music Choice) | Y2K (Audio Channel)
 http://kstv.us:8080/live/N427DpynGE/7049166651/48056.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",MC (Music Choice) | Y2K Rap (Audio Channel)
 http://s.rocketdns.info:8080/live/52748969/72335180/42088.tss
@@ -4597,7 +4597,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/21891.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/92737.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",CBC Winnipeg (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/21893.ts
-#EXTINF:-1 tvg-id="" group-title="Canadian Channels",CHCH (Canada)
+#EXTINF:-1 tvg-id="404: Not Found" group-title="Canadian Channels",CHCH (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40754.ts
 #EXTINF:-1 tvg-id="" group-title="Canadian Channels",Cheddar News (Canada)
 https://95cd6c85.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtY2FfQ2hlZGRhcl9ITFM/playlist.m3u8
@@ -4623,7 +4623,7 @@ http://xxip25.top:8080/live/char@dot.com/char@14223/100631.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/3122.ts
 #EXTINF:-1 tvg-id="" group-title="Canadian Channels",CNN (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40748.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",CNN International (Canada)
+#EXTINF:-1 tvg-id="" group-title="Canadian Channels",CNN International (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40747.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",Cottage Life (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/3260.ts
@@ -4871,7 +4871,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40616.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/40615.ts
 #EXTINF:-1 tvg-id="" group-title="Canadian Channels",Sportsnet Pacific (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40614.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",Sportsnet West (Canada)
+#EXTINF:-1 tvg-id="" group-title="Canadian Channels",Sportsnet West (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40613.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",Sportsnet World (Canada)
 http://s.rocketdns.info:8080/live/52748969/72335180/88060.ts
@@ -4979,13 +4979,13 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47748.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47749.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket",Challenge (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2316.ts
-#EXTINF:-1 tvg-id="" group-title="Offline",Channel 4 (UK)
+#EXTINF:-1 tvg-id="404: Not Found" group-title="Offline",Channel 4 (UK)
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-id="" group-title="Offline",Channel 4 Seven (UK)
 https://livetvde.net/4seven/index.m3u8?token=5f5b5ba498257e261f0671e12fb9af3cf201db44-d16a3e62ca9bc18d2cd36418de24fa1b-1739998779-1739987979
 #EXTINF:-1 tvg-id="" group-title="Offline",Channel 5 (UK)
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-id="" group-title="UK Channels",Channel 5 Action (UK)
+#EXTINF:-1 tvg-id="" group-title="Offline",Channel 5 Action (UK)
 http://lunar.pm:8080/live/mrjayp/Spectrum2/110305.ts
 #EXTINF:-1 tvg-id="" group-title="Offline",Channel 5 USA (UK)
 http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/12169.ts

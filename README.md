@@ -1,6 +1,6 @@
-# 📺 Channel Status
+# 📺 Channel Status Dashboard
 
-| Status | Channel | Group | EPG Match |
+| Status | Channel | Group | EPG ID |
 | :---: | :--- | :--- | :--- |
 | ✅ | KCBS-TV CBS 2 (Los Angeles CA) | Rocket | `` |
 | ✅ | KNBC-TV NBC 4 (Los Angeles CA) | Rocket | `` |
@@ -54,7 +54,7 @@
 | ✅ | WLS-TV ABC 7 (Chicago IL) | Rocket | `` |
 | ✅ | WGN-TV CW 9 (Chicago IL) | Rocket | `` |
 | ✅ | WFLD-TV FOX 32 (Chicago IL) | Rocket | `` |
-| ✅ | WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL) | Rocket | `` |
+| ❌ | WPWR-TV MyNetworkTV 50 (FOX+) (Chicago IL) | Rocket | `` |
 | ✅ | WJBK-TV FOX 2 (Detroit MI) | Rocket | `` |
 | ✅ | WDIV-TV NBC 4 (Detroit MI) | Rocket | `` |
 | ❌ | WXYZ-TV ABC 7 (Detroit MI) | Offline | `` |
@@ -139,7 +139,7 @@
 | ✅ | KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX) | Rocket | `` |
 | ❌ | KDFW-TV FOX 4 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KXAS-TV NBC 5 (Ft. Worth/Dallas TX) | Rocket | `` |
-| ✅ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `` |
+| ❌ | WFAA-TV ABC 8 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KTVT-TV CBS 11 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KTXA-TV Ind. 21 (Ft. Worth/Dallas TX) | Rocket | `` |
 | ✅ | KDFI-TV MyNetworkTV/FOX 27 (More27) (Ft. Worth/Dallas TX) | Rocket | `` |
@@ -525,7 +525,7 @@
 | ✅ | CBS News | News Channels | `` |
 | ✅ | CGTN | News Channels | `` |
 | ✅ | CGTN America | News Channels | `` |
-| ❌ | CGTN World | Offline | `` |
+| ✅ | CGTN World | News Channels | `` |
 | ✅ | Cheddar | News Channels | `` |
 | ✅ | CNBC | Rocket | `` |
 | ❌ | CNBC Europe | Offline | `` |
@@ -781,7 +781,7 @@
 | ✅ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Public Access | `` |
 | ✅ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Public Access | `` |
 | ✅ | Lompoc TAP TV Channel 25 (Lompoc CA) | Local Public Access | `` |
-| ✅ | Long Beach Television (Long Beach CA) | Local Public Access | `` |
+| ❌ | Long Beach Television (Long Beach CA) | Offline | `` |
 | ✅ | Manatee Schools Television MSTV (Manatee County FL) | Local Public Access | `` |
 | ❌ | Marin TV Community Channel (San Rafael CA) | Offline | `` |
 | ❌ | Marin TV Educational Channel (San Rafael CA) | Offline | `` |
@@ -1019,7 +1019,7 @@
 | ✅ | WTMO-TV Telemundo 31 (Orlando FL) | Rocket | `` |
 | ✅ | WUVG-DT UniMás 34.2 (Atlanta GA) | Rocket | `` |
 | ✅ | WUVG-TV Univision 34.1 (Atlanta GA) | Latino (Spanish) | `` |
-| ✅ | WUVP-TV Univision 65 (Philadelphia PA) | Latino (Spanish) | `` |
+| ❌ | WUVP-TV Univision 65 (Philadelphia PA) | Offline | `` |
 | ✅ | WWSI-TV Telemundo 62 (Philadelphia PA) | Rocket | `` |
 | ✅ | WWXY-DT 19.3 (San Juan PR) | Latino (Spanish) | `` |
 | ✅ | WWXY-TV Ind. 19.1 (San Juan PR) | Latino (Spanish) | `` |
@@ -1133,7 +1133,7 @@
 | ✅ | Nickelodeon (West) | Rocket | `` |
 | ✅ | Nickelodeon 90's Kids (Pluto TV) | Children Channels | `` |
 | ✅ | Nickelodeon 90's Kids 2 (Pluto TV) | Children Channels | `` |
-| ❌ | Nicktoons | Rocket | `` |
+| ✅ | Nicktoons | Rocket | `` |
 | ✅ | PBS Kids (Alaska) | Children Channels | `` |
 | ✅ | PBS Kids (Eastern) | Children Channels | `` |
 | ✅ | PBS Kids (Hawaii) | Children Channels | `` |
@@ -1406,7 +1406,7 @@
 | ✅ | USA Network (East) | Rocket | `` |
 | ✅ | USA Network (West) | Rocket | `` |
 | ✅ | VH1 (East) | Rocket | `` |
-| ✅ | VH1 (West) | Rocket | `` |
+| ❌ | VH1 (West) | Rocket | `` |
 | ✅ | Vice | Rocket | `` |
 | ✅ | Vice News | Network Channels | `` |
 | ✅ | WE Absolute Reality | Network Channels | `` |
@@ -1899,15 +1899,15 @@
 | ✅ | PPV Cinebox Animation | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Blockbuster | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Comedy | PPV (Pay Per View) | `` |
-| ❌ | PPV Cinebox Cult | Offline | `` |
-| ❌ | PPV Cinebox Family | Offline | `` |
-| ❌ | PPV Cinebox Greats | Offline | `` |
-| ❌ | PPV Cinebox Hits | Offline | `` |
+| ✅ | PPV Cinebox Cult | PPV (Pay Per View) | `` |
+| ✅ | PPV Cinebox Family | PPV (Pay Per View) | `` |
+| ✅ | PPV Cinebox Greats | PPV (Pay Per View) | `` |
+| ✅ | PPV Cinebox Hits | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Musical | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Mystery | PPV (Pay Per View) | `` |
 | ✅ | PPV Cinebox Premiere | PPV (Pay Per View) | `` |
-| ❌ | PPV Cinebox Romance | Offline | `` |
-| ❌ | PPV Cinebox Sci-Fi | Offline | `` |
+| ✅ | PPV Cinebox Romance | PPV (Pay Per View) | `` |
+| ✅ | PPV Cinebox Sci-Fi | PPV (Pay Per View) | `` |
 | ❌ | Canela.TV Music Hits | Offline | `` |
 | ✅ | CMC (California Music Channel) | Music | `` |
 | ✅ | CMC (Country Music Channel) | Music | `` |
@@ -2218,8 +2218,8 @@
 | ✅ | MC (Music Choice) | Dance | Rocket | `` |
 | ✅ | MC (Music Choice) | Dance EDM | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening | Rocket | `` |
-| ❌ | MC (Music Choice) | Easy Listening (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Funk (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Easy Listening (Audio Channel) | Music | `` |
+| ✅ | MC (Music Choice) | Funk (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Gospel (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Hard Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Hip-Hop And R&B | Rocket | `` |
@@ -2228,16 +2228,16 @@
 | ❌ | MC (Music Choice) | Kids Only | Offline | `` |
 | ❌ | MC (Music Choice) | Love Songs (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Mainstream Rap (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Mellow Hits | Rocket | `` |
-| ✅ | MC (Music Choice) | Metal (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Metal (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Mexicana | Rocket | `` |
 | ✅ | MC (Music Choice) | Mexicana (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Music Choice Max (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Musica Urbana | Rocket | `` |
 | ✅ | MC (Music Choice) | Musica Urbana (Audio Channel) | Music | `` |
-| ✅ | MC (Music Choice) | New Wave (Audio Channel) | Music | `` |
-| ✅ | MC (Music Choice) | Party Favorites (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | New Wave (Audio Channel) | Offline | `` |
+| ❌ | MC (Music Choice) | Party Favorites (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Pop And Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits (Audio Channel) | Music | `` |
@@ -2259,7 +2259,7 @@
 | ✅ | MC (Music Choice) | Solid Gold Oldies | Rocket | `` |
 | ✅ | MC (Music Choice) | Sounds of The Seasons | Rocket | `` |
 | ✅ | MC (Music Choice) | Sounds of The Seasons (Audio Channel) | Music | `` |
-| ✅ | MC (Music Choice) | Teen Beats (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Teen Beats (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Throwback Jams (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Today's Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Today's Country (Audio Channel) | Music | `` |
@@ -2269,7 +2269,7 @@
 | ✅ | MC (Music Choice) | Tropicales | Rocket | `` |
 | ✅ | MC (Music Choice) | Tropicales (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Underground Hip-Hop (Audio Channel) | Offline | `` |
-| ✅ | MC (Music Choice) | Y2K (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Y2K (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Y2K Rap (Audio Channel) | Rocket | `` |
 | ❌ | (ZH) NTD (Canada) | Offline | `` |
 | ✅ | 3ABN (Canada) | Canadian Channels | `` |
@@ -2278,7 +2278,7 @@
 | ❌ | AHC (American Heroes Channel) (Canada) | Rocket | `` |
 | ✅ | AMC (Canada) | Rocket | `` |
 | ✅ | APTN (Canada) | Rocket | `` |
-| ❌ | BBC Earth (Canada) | Rocket | `` |
+| ✅ | BBC Earth (Canada) | Rocket | `` |
 | ✅ | BBC World News (Canada) | Canadian Channels | `` |
 | ✅ | beIN Sports 1 (Canada) | Rocket | `` |
 | ✅ | beIN Sports 2 (Canada) | Rocket | `` |
@@ -2301,7 +2301,7 @@
 | ✅ | CBC Vancouver (Canada) | Rocket | `` |
 | ✅ | CBC Windsor (Canada) | Rocket | `` |
 | ✅ | CBC Winnipeg (Canada) | Rocket | `` |
-| ✅ | CHCH (Canada) | Canadian Channels | `` |
+| ✅ | CHCH (Canada) | Canadian Channels | `404: Not Found` |
 | ✅ | Cheddar News (Canada) | Canadian Channels | `` |
 | ✅ | Christmas 365 (Canada) | Canadian Channels | `` |
 | ✅ | City TV Calgary (Canada) | Canadian Channels | `` |
@@ -2314,7 +2314,7 @@
 | ❌ | City TV Winnipeg (Canada) | Offline | `` |
 | ✅ | CMT (Canada) | Rocket | `` |
 | ✅ | CNN (Canada) | Canadian Channels | `` |
-| ❌ | CNN International (Canada) | Offline | `` |
+| ✅ | CNN International (Canada) | Canadian Channels | `` |
 | ✅ | Cottage Life (Canada) | Rocket | `` |
 | ✅ | CP24 News (Canada) | Canadian Channels | `` |
 | ✅ | CPAC (Canada) | Canadian Channels | `` |
@@ -2438,7 +2438,7 @@
 | ✅ | Sportsnet One (Canada) | Canadian Channels | `` |
 | ✅ | Sportsnet Ontario (Canada) | Canadian Channels | `` |
 | ✅ | Sportsnet Pacific (Canada) | Canadian Channels | `` |
-| ❌ | Sportsnet West (Canada) | Offline | `` |
+| ✅ | Sportsnet West (Canada) | Canadian Channels | `` |
 | ✅ | Sportsnet World (Canada) | Rocket | `` |
 | ❌ | Starz (Canada) | Rocket | `` |
 | ❌ | Starz 2 (Canada) | Rocket | `` |
@@ -2492,10 +2492,10 @@
 | ✅ | Boomerang (UK) | UK Channels | `` |
 | ✅ | Cartoon Network (UK) | UK Channels | `` |
 | ✅ | Challenge (UK) | Rocket | `` |
-| ❌ | Channel 4 (UK) | Offline | `` |
+| ❌ | Channel 4 (UK) | Offline | `404: Not Found` |
 | ❌ | Channel 4 Seven (UK) | Offline | `` |
 | ❌ | Channel 5 (UK) | Offline | `` |
-| ✅ | Channel 5 Action (UK) | UK Channels | `` |
+| ❌ | Channel 5 Action (UK) | Offline | `` |
 | ❌ | Channel 5 USA (UK) | Offline | `` |
 | ❌ | Channel 5+ (UK) | Offline | `` |
 | ✅ | CNBC (UK) | UK Channels | `` |
@@ -2532,7 +2532,7 @@
 | ✅ | Jewellery Maker (UK) | UK Channels | `` |
 | ✅ | Legend Xtra (UK) | UK Channels | `` |
 | ❌ | More4 (UK) | Offline | `` |
-| ❌ | Movie Spare (UK) | Rocket | `` |
+| ✅ | Movie Spare (UK) | Rocket | `` |
 | ✅ | Movie24 (UK) | UK Channels | `` |
 | ✅ | MTV (UK) | UK Channels | `` |
 | ✅ | MUTV (UK) | Rocket | `` |
