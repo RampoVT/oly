@@ -60,7 +60,7 @@
 | ❌ | WXYZ-TV ABC 7 (Detroit MI) | Offline | `WXYZ-DT.us_locals1` |
 | ✅ | WKBD-TV CW 50 (Detroit MI) | Rocket | `WKBD-DT.us_locals1` |
 | ✅ | WWJ-TV CBS 62 (Detroit MI) | Rocket | `` |
-| ✅ | WCCO-TV CBS 4 (Minneapolis/St. Paul MN) | Rocket | `WCCO-DT.us_locals1` |
+| ❌ | WCCO-TV CBS 4 (Minneapolis/St. Paul MN) | Rocket | `WCCO-DT.us_locals1` |
 | ✅ | KSTP-TV ABC 5 (Minneapolis/St. Paul MN) | Rocket | `KSTP-DT.us_locals1` |
 | ✅ | KMSP-TV FOX 9 (Minneapolis/St. Paul MN) | Rocket | `KMSP-DT.us_locals1` |
 | ✅ | KARE-TV NBC 11 (Minneapolis/St. Paul MN) | Rocket | `KARE-DT.us_locals1` |
@@ -76,7 +76,7 @@
 | ✅ | WCVB-TV ABC 5 (Boston MA) | Rocket | `WCVB-DT.us_locals1` |
 | ✅ | WBTS-LD NBC 10 (Boston MA) | Rocket | `WBTS-CD.us_locals1` |
 | ✅ | WFXT-CD FOX 25 (Boston MA) | Rocket | `WFXT-DT.us_locals1` |
-| ❌ | WSBK-TV Ind. 38 (Boston MA) | Rocket | `WSBK-DT.us_locals1` |
+| ✅ | WSBK-TV Ind. 38 (Boston MA) | Rocket | `WSBK-DT.us_locals1` |
 | ✅ | WLVI-TV CW 56 (Boston MA) | Rocket | `WLVI-DT.us_locals1` |
 | ✅ | KDKA-TV CBS 2 (Pittsburgh PA) | Rocket | `KDKA-DT.us_locals1` |
 | ✅ | WTAE-TV ABC 4 (Pittsburgh PA) | Rocket | `WTAE-DT.us_locals1` |
@@ -305,7 +305,7 @@
 | ✅ | WBNS-TV CBS 10 (Columbus OH) | Rocket | `WBNS-DT.us_locals1` |
 | ✅ | WWHO-TV CW 53 (Columbus OH) | Rocket | `WWHO-DT.us_locals1` |
 | ✅ | WKYC-TV NBC 3 (Cleveland OH) | Rocket | `WKYC-DT.us_locals1` |
-| ✅ | WEWS-TV ABC 5 (Cleveland OH) | Rocket | `WEWS-DT.us_locals1` |
+| ❌ | WEWS-TV ABC 5 (Cleveland OH) | Rocket | `WEWS-DT.us_locals1` |
 | ✅ | WJW-TV FOX 8 (Cleveland OH) | Rocket | `` |
 | ✅ | WOIO CBS 19 (Cleveland OH) | Rocket | `WOIO-DT.us_locals1` |
 | ✅ | WLWT-TV NBC 5 (Cincinnati OH) | Rocket | `WLWT-DT.us_locals1` |
@@ -364,7 +364,7 @@
 | ✅ | WBAY-TV ABC 2 (Green Bay WI) | Rocket | `WBAY-DT.us_locals1` |
 | ✅ | WFRV-TV CBS 5 (Green Bay WI) | Rocket | `WFRV-DT.us_locals1` |
 | ✅ | WLUK-TV FOX 11 (Green Bay WI) | Rocket | `WLUK-DT.us_locals1` |
-| ✅ | WCWF-TV CW 14 (Green Bay WI) | Rocket | `WCWF-DT.us_locals1` |
+| ❌ | WCWF-TV CW 14 (Green Bay WI) | Rocket | `WCWF-DT.us_locals1` |
 | ✅ | WBGA-TV NBC 26 (Green Bay WI) | Rocket | `` |
 | ✅ | KREM-TV CBS 2 (Spokane WA) | Local Channels (Not 24/7) | `KREM-DT.us_locals1` |
 | ✅ | KOMO-TV ABC 4 (Seattle WA) | Rocket | `KOMO-DT.us_locals1` |
@@ -402,7 +402,7 @@
 | ❌ | KABC-TV ABC 7 24/7 News (Los Angeles CA) | Offline | `KABC-DT.us_locals1` |
 | ❌ | KTTV-TV FOX 11 24/7 News (Los Angeles CA) | Offline | `KTTV-DT.us_locals1` |
 | ✅ | KNSD-TV NBC 7/39 24/7 News (San Diego CA) | 24/7 Local News | `KNSD-DT.us_locals1` |
-| ❌ | KFMB-TV CBS 8 24/7 News (San Diego CA) | Offline | `KFMB-DT.us_locals1` |
+| ✅ | KFMB-TV CBS 8 24/7 News (San Diego CA) | 24/7 Local News | `KFMB-DT.us_locals1` |
 | ✅ | KGTV-TV ABC 10 24/7 News (San Diego CA) | 24/7 Local News | `KGTV-DT.us_locals1` |
 | ✅ | KERO-TV ABC 23 24/7 News (Bakersfield CA) | 24/7 Local News | `KERO-DT.us_locals1` |
 | ❌ | WITN-TV 22 24/7 News (Wilmington DE) | Offline | `WITN-DT.us_locals1` |
@@ -607,7 +607,7 @@
 | ✅ | WOSU-TV PBS 34 (Columbus OH) | Rocket | `WOSU-DT.us_locals1` |
 | ✅ | WTVS-DT 56.6 Michigan Learning Channel (Detroit MI) | Local Public Broadcast | `WTVS-DT.us_locals1` |
 | ✅ | WTTW-TV PBS 11.1 (Chicago IL) | Rocket | `WTTW-DT.us_locals1` |
-| ✅ | WTTW-DT Prime 11.2 (Chicago IL) | Local Public Broadcast | `WTTW-DT.us_locals1` |
+| ❌ | WTTW-DT Prime 11.2 (Chicago IL) | Offline | `WTTW-DT.us_locals1` |
 | ✅ | KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO) | Local Public Broadcast | `KMOS-DT.us_locals1` |
 | ❌ | KCPT-TV PBS 19 (Kansas City MO) | Offline | `KCPT-DT.us_locals1` |
 | ✅ | KETC-TV Nine PBS 9 (St. Louis MO) | Rocket | `KETC-DT.us_locals1` |
@@ -1133,7 +1133,7 @@
 | ✅ | Nickelodeon (West) | Rocket | `Nickelodeon.HD.us2` |
 | ✅ | Nickelodeon 90's Kids (Pluto TV) | Children Channels | `Nickelodeon.HD.us2` |
 | ✅ | Nickelodeon 90's Kids 2 (Pluto TV) | Children Channels | `Nickelodeon.HD.us2` |
-| ✅ | Nicktoons | Rocket | `Nicktoons.us2` |
+| ❌ | Nicktoons | Rocket | `Nicktoons.us2` |
 | ✅ | PBS Kids (Alaska) | Children Channels | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Eastern) | Children Channels | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Hawaii) | Children Channels | `PBS.KIDS.HD.us2` |
@@ -1193,7 +1193,7 @@
 | ✅ | Cooking Channel | Rocket | `Cooking.Channel.HD.us2` |
 | ✅ | Recipe.tv | Rocket | `` |
 | ✅ | Gusto TV | Cooking | `` |
-| ❌ | Bon Appétit | Offline | `Bon.AppÃ©tit.TV.us2` |
+| ✅ | Bon Appétit | Cooking | `Bon.AppÃ©tit.TV.us2` |
 | ✅ | PBS Food | Cooking | `` |
 | ✅ | BBC Food | Cooking | `` |
 | ✅ | Cook's Country Channel | Cooking | `` |
@@ -1476,18 +1476,18 @@
 | ✅ | FanDuel 2 Racing | Sports | `` |
 | ✅ | FanDuel Extra | Sports | `` |
 | ✅ | Fanduel Sports Network (Detroit) | Sports | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Florida) | Offline | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (Florida) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Indiana) | Rocket | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Kansas City) | Rocket | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Midwest) | Sports | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (North) | Offline | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Ohio) | Offline | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (North) | Sports | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (Ohio) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Oklahoma) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Socal) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (South) | Sports | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Southeast) | Offline | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (Southeast) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Southwest) | Sports | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Sun) | Offline | `CBS.Sports.Network.HD.us2` |
+| ✅ | Fanduel Sports Network (Sun) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (West) | Sports | `CBS.Sports.Network.HD.us2` |
 | ✅ | Fanduel Sports Network (Wisconsin) | Rocket | `CBS.Sports.Network.HD.us2` |
 | ✅ | FanDuel TV (Formerly TVG) | Rocket | `` |
@@ -1575,7 +1575,7 @@
 | ✅ | Space City Home Network | Sports | `Space.City.Home.Network.HD.us2` |
 | ✅ | Spectrum Sports | Rocket | `` |
 | ✅ | Spectrum Sports Encore | Rocket | `` |
-| ✅ | Spectrum SportsNet LA | Sports | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
+| ❌ | Spectrum SportsNet LA | Offline | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
 | ✅ | Spectrum Sportsnet Lakers | Rocket | `Spectrum.SportsNet.Lakers.HD.us2` |
 | ✅ | Spectrum Sportsnet OC16 | Rocket | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
 | ✅ | Speed Vision | Sports | `` |
@@ -1657,7 +1657,7 @@
 | ✅ | FilmRise Black TV | Premium Channels | `` |
 | ✅ | FilmRise Classic TV | Premium Channels | `` |
 | ✅ | FilmRise Creators | Premium Channels | `` |
-| ❌ | FilmRise Free Movies | Offline | `Movies!.us2` |
+| ✅ | FilmRise Free Movies | Premium Channels | `Movies!.us2` |
 | ✅ | FilmRise Horror | Premium Channels | `` |
 | ✅ | FilmRise Sci-Fi | Premium Channels | `` |
 | ✅ | FilmRise Western | Premium Channels | `` |
@@ -1759,10 +1759,10 @@
 | ✅ | The Film Detective | Premium Channels | `The.Film.Detective.us2` |
 | ✅ | The Movie Channel (East) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Movie Channel (West) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
-| ✅ | The Movie Channel Xtra (East) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
+| ❌ | The Movie Channel Xtra (East) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Movie Channel Xtra (West) | Rocket | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Premium Channels | `Movies!.us2` |
-| ✅ | TVS Action Network | Premium Channels | `` |
+| ❌ | TVS Action Network | Offline | `` |
 | ✅ | TVS Classic Movies | Premium Channels | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Premium Channels | `` |
 | ✅ | TVS Horror | Premium Channels | `Horror.Machine.us2` |
@@ -1872,7 +1872,7 @@
 | ✅ | The Carol Burnette Show | 24/7 Shows | `` |
 | ✅ | The Connors | 24/7 Shows | `` |
 | ✅ | The Dick Van Dyke Show | 24/7 Shows | `` |
-| ✅ | The Doctors | 24/7 Shows | `` |
+| ❌ | The Doctors | Offline | `` |
 | ✅ | The Ed Sullivan Show | 24/7 Shows | `` |
 | ❌ | The Ellen Channel | Offline | `[TFC].The.Filipino.Channel.HD.us2` |
 | ❌ | The Good Wife | Offline | `` |
@@ -2202,25 +2202,25 @@
 | ✅ | MC (Music Choice) | '80s Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | '90s | Rocket | `` |
 | ✅ | MC (Music Choice) | '90s (Audio Channel) | Music | `` |
-| ✅ | MC (Music Choice) | Adult Alternative (Audio Channel) | Music | `` |
-| ❌ | MC (Music Choice) | Alternative (Audio Channel) | Offline | `` |
-| ❌ | MC (Music Choice) | Choice Blues | Offline | `` |
+| ❌ | MC (Music Choice) | Adult Alternative (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Alternative (Audio Channel) | Music | `` |
+| ✅ | MC (Music Choice) | Choice Blues | Music | `` |
 | ✅ | MC (Music Choice) | Classic Alternative (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Classic Christmas (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Classic Country | Rocket | `XITE.Classic.Country.DUMMY.us` |
 | ❌ | MC (Music Choice) | Classic Country (Audio Channel) | Offline | `XITE.Classic.Country.DUMMY.us` |
-| ❌ | MC (Music Choice) | Classic Dance | Offline | `` |
+| ✅ | MC (Music Choice) | Classic Dance | Music | `` |
 | ✅ | MC (Music Choice) | Classic Rock | Rocket | `` |
 | ✅ | MC (Music Choice) | Classic Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Contemporary Christian | Rocket | `` |
 | ✅ | MC (Music Choice) | Country Hits | Rocket | `` |
-| ❌ | MC (Music Choice) | Country Hits (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Country Hits (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Dance | Rocket | `` |
 | ✅ | MC (Music Choice) | Dance EDM | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening | Rocket | `` |
 | ✅ | MC (Music Choice) | Easy Listening (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Funk (Audio Channel) | Offline | `` |
-| ✅ | MC (Music Choice) | Gospel (Audio Channel) | Music | `BET.GOSPEL.us2` |
+| ❌ | MC (Music Choice) | Gospel (Audio Channel) | Offline | `BET.GOSPEL.us2` |
 | ✅ | MC (Music Choice) | Hard Rock (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Hip-Hop And R&B | Rocket | `` |
 | ❌ | MC (Music Choice) | Hip-Hop And R&B (Audio Channel) | Offline | `` |
@@ -2228,24 +2228,24 @@
 | ❌ | MC (Music Choice) | Kids Only | Offline | `` |
 | ✅ | MC (Music Choice) | Love Songs (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Mainstream Rap (Audio Channel) | Offline | `` |
-| ✅ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Malt Shop Favorites (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Mellow Hits | Rocket | `` |
-| ✅ | MC (Music Choice) | Metal (Audio Channel) | Music | `XITE.Rock.x.Metal.DUMMY.us` |
+| ❌ | MC (Music Choice) | Metal (Audio Channel) | Offline | `XITE.Rock.x.Metal.DUMMY.us` |
 | ✅ | MC (Music Choice) | Mexicana | Rocket | `` |
 | ❌ | MC (Music Choice) | Mexicana (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Music Choice Max (Audio Channel) | Rocket | `Music.Choice.Dummy.us` |
 | ✅ | MC (Music Choice) | Musica Urbana | Rocket | `` |
 | ❌ | MC (Music Choice) | Musica Urbana (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | New Wave (Audio Channel) | Music | `WAVE-DT.us_locals1` |
-| ❌ | MC (Music Choice) | Party Favorites (Audio Channel) | Offline | `` |
+| ✅ | MC (Music Choice) | Party Favorites (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Pop And Country | Rocket | `` |
 | ✅ | MC (Music Choice) | Pop Hits | Rocket | `` |
-| ✅ | MC (Music Choice) | Pop Hits (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Pop Hits (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Pop Latino (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | R&B Classics | Rocket | `` |
 | ❌ | MC (Music Choice) | R&B Hits (Audio Channel) | Rocket | `` |
-| ✅ | MC (Music Choice) | Rap (Audio Channel) | Music | `` |
-| ✅ | MC (Music Choice) | Reggae (Audio Channel) | Music | `XITE.Reggae.Vibes.DUMMY.us` |
+| ❌ | MC (Music Choice) | Rap (Audio Channel) | Offline | `` |
+| ❌ | MC (Music Choice) | Reggae (Audio Channel) | Offline | `XITE.Reggae.Vibes.DUMMY.us` |
 | ✅ | MC (Music Choice) | Rock | Rocket | `` |
 | ❌ | MC (Music Choice) | Rock (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Rock Hits (Audio Channel) | Rocket | `` |
@@ -2265,9 +2265,9 @@
 | ✅ | MC (Music Choice) | Today's Country (Audio Channel) | Music | `` |
 | ✅ | MC (Music Choice) | Today's Hits "Hit List" (Audio Channel) | Rocket | `` |
 | ✅ | MC (Music Choice) | Today's R&B | Rocket | `` |
-| ✅ | MC (Music Choice) | Toddler Tunes | Music | `` |
+| ❌ | MC (Music Choice) | Toddler Tunes | Offline | `` |
 | ✅ | MC (Music Choice) | Tropicales | Rocket | `` |
-| ✅ | MC (Music Choice) | Tropicales (Audio Channel) | Music | `` |
+| ❌ | MC (Music Choice) | Tropicales (Audio Channel) | Offline | `` |
 | ❌ | MC (Music Choice) | Underground Hip-Hop (Audio Channel) | Offline | `` |
 | ✅ | MC (Music Choice) | Y2K (Audio Channel) | Music | `` |
 | ❌ | MC (Music Choice) | Y2K Rap (Audio Channel) | Rocket | `` |
@@ -2294,7 +2294,7 @@
 | ✅ | CBC Halifax (Canada) | Rocket | `` |
 | ✅ | CBC Montreal (Canada) | Rocket | `` |
 | ✅ | CBC New Brunswick/Fredericton (Canada) | Rocket | `` |
-| ❌ | CBC News (Canada) | Offline | `` |
+| ✅ | CBC News (Canada) | Canadian Channels | `` |
 | ✅ | CBC News Network (Canada) | Canadian Channels | `One.America.News.Network.HD.us2` |
 | ✅ | CBC Ottawa (Canada) | Rocket | `` |
 | ✅ | CBC Toronto (Canada) | Rocket | `` |
@@ -2416,7 +2416,7 @@
 | ✅ | National Geographic (Canada) | Rocket | `National.Geographic.HD.(Pacific).us2` |
 | ✅ | National Geographic Wild (Canada) | Rocket | `National.Geographic.Wild.HD.us2` |
 | ✅ | NBA TV (Canada) | Canadian Channels | `NBA.TV.HD.us2` |
-| ❌ | NBC Golf Channel (Canada) | Offline | `Golf.Channel.HD.us2` |
+| ✅ | NBC Golf Channel (Canada) | Canadian Channels | `Golf.Channel.HD.us2` |
 | ✅ | NFL Network (Canada) | Rocket | `NFL.Network.HD.us2` |
 | ✅ | Nonstop Drama (Canada) | Canadian Channels | `` |
 | ✅ | NTV St. John`s (Canada) | Canadian Channels | `` |
@@ -2430,14 +2430,14 @@
 | ✅ | RDS Info (Canada) | Canadian Channels | `` |
 | ✅ | Romance 365 (Canada) | Canadian Channels | `` |
 | ✅ | Showcase (Canada) | Rocket | `Showtime.Showcase.HD.us2` |
-| ❌ | Silver Screen (Canada) | Rocket | `` |
-| ❌ | Slice TV (Canada) | Offline | `` |
+| ✅ | Silver Screen (Canada) | Rocket | `` |
+| ✅ | Slice TV (Canada) | Canadian Channels | `` |
 | ✅ | Smithsonian Channel (Canada) | Canadian Channels | `` |
-| ❌ | Sportsnet 360 (Canada) | Offline | `MSG.Sportsnet.2.HD.us2` |
-| ❌ | Sportsnet East (Canada) | Offline | `MSG.Sportsnet.2.HD.us2` |
+| ✅ | Sportsnet 360 (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
+| ✅ | Sportsnet East (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
 | ✅ | Sportsnet One (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
-| ❌ | Sportsnet Ontario (Canada) | Offline | `` |
-| ❌ | Sportsnet Pacific (Canada) | Offline | `` |
+| ✅ | Sportsnet Ontario (Canada) | Canadian Channels | `` |
+| ✅ | Sportsnet Pacific (Canada) | Canadian Channels | `` |
 | ✅ | Sportsnet West (Canada) | Canadian Channels | `MSG.Sportsnet.2.HD.us2` |
 | ✅ | Sportsnet World (Canada) | Rocket | `MSG.Sportsnet.2.HD.us2` |
 | ❌ | Starz (Canada) | Rocket | `Starz.Cinema.HD.us2` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Offline | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Offline | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Offline | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | UK Channels | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Offline | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Offline | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Offline | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | UK Channels | `CNBC.HD.uk` |
@@ -2612,7 +2612,7 @@
 | ✅ | True Crime (UK) | UK Channels | `True.Crime.+1.uk` |
 | ✅ | True Crime Xtra (UK) | UK Channels | `True.Crime.Xtra.uk` |
 | ✅ | TVSN (Austrailia) | UK Channels | `` |
-| ❌ | U&Alibi (UK) | Offline | `` |
+| ✅ | U&Alibi (UK) | UK Channels | `` |
 | ✅ | U&Dave (UK) | UK Channels | `` |
 | ✅ | U&Drama (UK) | UK Channels | `` |
 | ✅ | U&Eden (UK) | UK Channels | `` |
