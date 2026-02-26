@@ -2089,7 +2089,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/3826.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/3858.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Discovery Science
 http://s.rocketdns.info:8080/live/52748969/72335180/2595.ts
-#EXTINF:-1 tvg-id="" group-title="Tubi TV",Discovery Turbo TV
+#EXTINF:-1 tvg-id="Discovery.Turbo.TV.us2" group-title="Tubi TV",Discovery Turbo TV
 https://apollo.production-public.tubi.io/live/wbd-motortrend-GHD6sF.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",DOC+
 https://dbrb49pjoymg4.cloudfront.net/10001/99991638/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991638
