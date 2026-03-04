@@ -3505,7 +3505,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/631880.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/3956.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-shift="-3" group-title="Rocket Service",Starz Kids & Family (West)
 http://s.rocketdns.info:8080/live/52748969/72335180/631881.ts
-#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" group-title="Rocket Service",The Asylum Movie Channel
+#EXTINF:-1 tvg-id="Asylum.Movie.us2" group-title="Rocket Service",The Asylum Movie Channel
 http://s.rocketdns.info:8080/live/52748969/72335180/709958.ts
 #EXTINF:-1 tvg-id="The.Film.Detective.us2" group-title="Other Services",The Film Detective
 https://cineverse.g-mana.live/media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8
