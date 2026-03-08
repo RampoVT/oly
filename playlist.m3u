@@ -1577,7 +1577,7 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",MCN 6 Community Channel (Minneapolis/St. Paul MN)
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_BUSINESS.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",MCN 6 Music Channel (Minneapolis/St. Paul MN)
+#EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" group-title="Backend: Cloudfront",MCN 6 Music Channel (Minneapolis/St. Paul MN)
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Independent Streams",MCPSS (Mobile County Public Schools TV Network) (Mobile AL)
 https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
@@ -4117,7 +4117,7 @@ http://prem1.jazzradio.com/smoothvocals?cde33649952951390c0ac1bb
 https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="Backend: Cloudfront",MCN6 Music Channel
+#EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" group-title="Backend: Cloudfront",MCN6 Music Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",Nago TV
 https://lakay.online/public/nagotv/index.fmp4.m3u8
@@ -5137,17 +5137,17 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/47817.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/47818.ts
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" group-title="KSTV UK",Sky Hits (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47819.ts
-#EXTINF:-1 tvg-id="Sky.Max.HD.uk" group-title="KSTV UK",Sky Max (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Max (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47829.ts
 #EXTINF:-1 tvg-id="Sky.Nature.HD.uk" group-title="KSTV UK",Sky Nature (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47830.ts
 #EXTINF:-1 tvg-id="Sky.News.HD.uk" group-title="Other Services",Sky News (UK)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky One (UK)
+#EXTINF:-1 tvg-id="Sky.One.HD.uk" group-title="Rocket Service",Sky One (UK)
 http://s.rocketdns.info:8080/live/52748969/72335180/2196.ts
 #EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="KSTV UK",Sky Premiere (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47820.ts
-#EXTINF:-1 tvg-id="Sky.Showcase.uk" group-title="KSTV UK",Sky Showcase (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Showcase (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47832.ts
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Other Services",Sky Sports (UK)
 http://xxip25.top:8080/live/char@dot.com/char@14223/35244.ts
