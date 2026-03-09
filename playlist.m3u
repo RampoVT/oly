@@ -463,7 +463,7 @@ http://s.rocketdns.info:8080/live/52748969/72335180/2681.ts
 http://s.rocketdns.info:8080/live/52748969/72335180/2449.ts
 #EXTINF:-1 tvg-id="WTVF-DT.us_locals1" group-title="Rocket Service",WTVF-TV CBS 5 (Nashville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2633.ts
-#EXTINF:-1 tvg-id="WZTV-DT.us_locals1" group-title="Rocket Service",WZTV-TV FOX 17.1 (Nashville TN)
+#EXTINF:-1 tvg-id="WZTV-DT2.us_locals1" group-title="Rocket Service",WZTV-TV FOX 17.1 (Nashville TN)
 http://s.rocketdns.info:8080/live/52748969/72335180/2546.ts
 #EXTINF:-1 tvg-id="WUXP-DT.us_locals1" group-title="KSTV US",WUXP-TV MyNetworkTV 30 (Nashville TN)
 http://kstv.us:8080/live/N427DpynGE/7049166651/49093.ts
