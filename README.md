@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-03-25 17:57
+# 📺 Playlist Status Update: 2026-03-25 19:01
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -517,7 +517,7 @@
 | ✅ | Bloomberg Politics Live Event | Other Services | `Live.Event.us` |
 | ✅ | Bloomberg TV | Other Services | `Bloomberg.Business.Television.us2` |
 | ✅ | Bloomberg TV+ (4K) | Backend: Wurl | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
+| ✅ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
 | ✅ | CBS 48 Hours | Other Services | `` |
 | ✅ | CBS 60 Minutes | Other Services | `` |
 | ✅ | CBS ET (Entertainment Tonight) | Other Services | `` |
@@ -953,7 +953,7 @@
 | ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
