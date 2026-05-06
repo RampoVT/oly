@@ -2641,7 +2641,7 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/597246.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/607734.ts
 #EXTINF:-1 tvg-id="" group-title="Other Services",Midnight Pulp
 https://cineverse.g-mana.live/media/579fa853-ff49-426e-bc2d-d16ce9b1bdf6/mainManifest.m3u8
-#EXTINF:-1 tvg-id="ATN.Movies.us2" group-title="Other Services",Movies!
+#EXTINF:-1 tvg-id="Amazon.Movies.us2" group-title="Other Services",Movies!
 https://bozztv.com/dvrfl03/hdirect/hdirect-ovair1-movies!/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",MT (Motor Trend)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3662.ts
