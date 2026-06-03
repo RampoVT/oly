@@ -2903,7 +2903,7 @@ https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/pl
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" group-title="Rocket Service",Big Ten Network
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/4443.ts
-#EXTINF:-1 tvg-id="" group-title="Backend: Wurl",Billiard TV
+#EXTINF:-1 tvg-id="Billiard.TV.us2" group-title="Backend: Wurl",Billiard TV
 https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",CampusLore
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
@@ -3285,7 +3285,7 @@ https://apollo.production-public.tubi.io/live/cinevault-UZPUok.m3u8
 https://apollo.production-public.tubi.io/live/cinevault-classics-ObCDhf.m3u8
 #EXTINF:-1 tvg-id="CINEVAULT.Westerns.us2" group-title="Tubi TV",CineVault Westerns
 https://apollo.production-public.tubi.io/live/cinevault-westerns2-7z47L6.m3u8
-#EXTINF:-1 tvg-id="Cinemax.Classics.us2" group-title="Backend: Amagi",Classic Cinema by WB
+#EXTINF:-1 tvg-id="Classic.Cinema.us2" group-title="Backend: Amagi",Classic Cinema by WB
 https://amg00136-wbd-amg00136c18-tclideo-na-6554.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvclassiccinema-tclideona/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pluto TV",Classic Movie Westerns (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f33318210549000806a530/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1574-7b2e-11ef-9f59-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e2a04b0-a96c-4cc0-8658-f2d21c2cefef&userId=&serverSideAds=true
