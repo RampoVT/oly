@@ -3379,7 +3379,7 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3724.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/4430.ts
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" group-title="Other Services",Miramax Movie Channel
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Roku Channel",Movie Hub
+#EXTINF:-1 tvg-id="Movie.Hub.Romance.us2" group-title="Roku Channel",Movie Hub
 https://live1009.delivery.roku.com/4eddfb64-e03e-4a12-b889-53eed835572e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Roku Channel",Movie Hub Action
 https://live1009.delivery.roku.com/be8e0aad-9c0d-4b4d-ac10-d0c72bb6c7f3/t2-origin/out/v1/live.m3u8
@@ -4851,7 +4851,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/40629.ts
 http://kstv.us:8080/live/N427DpynGE/7049166651/40628.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV US",RDS Info (Canada)
 http://kstv.us:8080/live/N427DpynGE/7049166651/40627.ts
-#EXTINF:-1 tvg-id="" group-title="Other Services",Romance 365 (Canada)
+#EXTINF:-1 tvg-id="Movie.Hub.Romance.us2" group-title="Other Services",Romance 365 (Canada)
 https://e0d481b9df1fee3144ca6e5a59af31bb.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/e242df02-8810-11f0-b2e4-0242ac110002/index-dash.mpd
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" group-title="Rocket Service",Showcase (Canada)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3066.ts
