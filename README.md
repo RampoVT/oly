@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-17 06:09
+# 📺 Playlist Status Update: 2026-06-17 11:46
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -729,12 +729,12 @@
 | ✅ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DKN (District Knowledge Network) | Other Services | `` |
 | ✅ | El Segundo Media (El Segundo CA) | Other Services | `` |
-| ✅ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
+| ❌ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
 | ✅ | Fairfield Government Access Channel 26 (Fairfield CA) | Local Gov/Public | `` |
 | ✅ | FCPS Channel 21 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 25 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 99 (Fairfax County Public Schools) | Other Services | `` |
-| ❌ | Fernandina Beach City Meeting (Fernandina Beach FL) | Other Services | `` |
+| ✅ | Fernandina Beach City Meeting (Fernandina Beach FL) | Other Services | `` |
 | ✅ | Fort Lauderdale FLTV (Fort Lauderdale FL) | Other Services | `` |
 | ❌ | Fort Pierce Live Stream (Fort Pierce FL) | Other Services | `` |
 | ❌ | FPTV (Fayetteville Public Television) (Fayetteville AR) | Other Services | `` |
@@ -1002,8 +1002,8 @@
 | ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Spanish Services | `WFUT-DT.us_locals1` |
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ✅ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
-| ❌ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
-| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
