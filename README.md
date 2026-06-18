@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-18 08:45
+# 📺 Playlist Status Update: 2026-06-18 12:24
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -1003,7 +1003,7 @@
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ✅ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
 | ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
-| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
@@ -2488,14 +2488,14 @@
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
+| ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
 | ❌ | Challenge (UK) | Rocket Service | `Challenge.uk` |
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
