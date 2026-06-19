@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-19 11:21
+# 📺 Playlist Status Update: 2026-06-19 15:11
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -1386,7 +1386,7 @@
 | ✅ | The Nest | Other Services | `The.Nest.us2` |
 | ✅ | The Walk Network | Other Services | `The.Word.Network.us2` |
 | ❌ | theGrio | Rocket Service | `` |
-| ✅ | theGrio+ | Backend: Amagi | `` |
+| ❌ | theGrio+ | Backend: Amagi | `` |
 | ❌ | TLC (The Learning Channel) (East) | Rocket Service | `TLC.HD.(Pacific).us2` |
 | ❌ | TLC (The Learning Channel) (West) | Rocket Service | `TLC.HD.(Pacific).us2` |
 | ❌ | TNT (East) | Rocket Service | `TNT.HD.(Pacific).us2` |
@@ -1761,7 +1761,7 @@
 | ❌ | The Movie Channel (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
-| ❌ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
+| ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
 | ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
@@ -1878,7 +1878,7 @@
 | ✅ | The Good Wife | Pluto TV | `` |
 | ✅ | The Graham Norton Show | Other Services | `` |
 | ✅ | The Incredible Dr Pol | Backend: Amagi | `` |
-| ❌ | The Jack Hannah Channel | Other Services | `` |
+| ✅ | The Jack Hannah Channel | Other Services | `` |
 | ✅ | The Jamie Kennedy | Local Now | `` |
 | ✅ | The Joel Osteen Channel | Other Services | `` |
 | ✅ | The Judge Judy Channel | Pluto TV | `` |
