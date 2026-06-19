@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-18 22:06
+# 📺 Playlist Status Update: 2026-06-19 00:25
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -974,7 +974,7 @@
 | ✅ | Telemundo Noticias Florida | Backend: Cloudfront | `` |
 | ✅ | Telemundo Noticias Noreste | Backend: Cloudfront | `` |
 | ✅ | Telemundo Noticias Texas | Backend: Cloudfront | `` |
-| ❌ | Telesur | Other Services | `` |
+| ✅ | Telesur | Other Services | `` |
 | ❌ | Tlaxcala Televisión | Other Services | `` |
 | ❌ | TLN (TeleLatino) (East) (Canada) | Rocket Service | `` |
 | ❌ | TLN (TeleLatino) (West) (Canada) | Rocket Service | `` |
