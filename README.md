@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-20 11:17
+# 📺 Playlist Status Update: 2026-06-20 13:58
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -596,12 +596,12 @@
 | ✅ | The Weather Channel+ | Other Services | `The.Weather.Channel.HD.us2` |
 | ✅ | WeatherNation | Roku Channel | `` |
 | ✅ | Weather Spy | Backend: Wurl | `The.Weather.Channel.HD.us2` |
-| ❌ | Create | Other Services | `Create.us2` |
-| ❌ | NHK World | Other Services | `NHK.World.TV.us2` |
-| ❌ | PBS World | Other Services | `` |
-| ❌ | FNX | Other Services | `FNX.First.Nations.Experience.us2` |
-| ❌ | PBS National (West) | Other Services | `ABC.National.Feed.Pacific.us2` |
-| ❌ | PBS National (East) | Other Services | `ABC.National.Feed.Pacific.us2` |
+| ✅ | Create | Other Services | `Create.us2` |
+| ✅ | NHK World | Other Services | `NHK.World.TV.us2` |
+| ✅ | PBS World | Other Services | `` |
+| ✅ | FNX | Other Services | `FNX.First.Nations.Experience.us2` |
+| ✅ | PBS National (West) | Other Services | `ABC.National.Feed.Pacific.us2` |
+| ✅ | PBS National (East) | Other Services | `ABC.National.Feed.Pacific.us2` |
 | ✅ | PBS Retro | Other Services | `RETRO.us2` |
 | ❌ | WVIZ-DT 25.2 The Ohio Channel (Cleveland OH) | Other Services | `WVIZ-DT.us_locals1` |
 | ❌ | WOSU-TV PBS 34 (Columbus OH) | Rocket Service | `WOSU-DT.us_locals1` |
@@ -626,8 +626,8 @@
 | ❌ | WXXI-TV PBS 21 (Rochester NY) | Rocket Service | `WXXI-DT.us_locals1` |
 | ❌ | WEDH-TV P-CPTV PBS 24 (Hartfort CT) | Rocket Service | `WEDH-DT.us_locals1` |
 | ❌ | WETA-TV WETA PBS 26.1 (Washington DC) | Rocket Service | `WETA-DT.us_locals1` |
-| ❌ | WETA-DT WETA UK 26.2 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
-| ❌ | WETA-DT PBS Metro 26.5 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
+| ✅ | WETA-DT WETA UK 26.2 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
+| ✅ | WETA-DT PBS Metro 26.5 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
 | ❌ | WHUT-TV PBS 32 (Washington DC) | Rocket Service | `WHUT-DT.us_locals1` |
 | ✅ | WMPB-TV MPT PBS 67 (Baltimore MD) | Other Services | `WMPB-DT.us_locals1` |
 | ✅ | WMPT-TV MPT PBS 22 (Annapolis MD) | Other Services | `WMPT-DT.us_locals1` |
@@ -641,7 +641,7 @@
 | ❌ | KLRN-TV PBS 9 (San Antonio TX) | Rocket Service | `KLRN-DT.us_locals1` |
 | ❌ | KERA-TV PBS 13 (Ft. Worth/Dallas TX) | Rocket Service | `KERA-DT.us_locals1` |
 | ❌ | KQED-TV PBS 9.1 (San Francisco CA) | Rocket Service | `KQED-DT.us_locals1` |
-| ❌ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Other Services | `KQED-DT.us_locals1` |
+| ✅ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Other Services | `KQED-DT.us_locals1` |
 | ❌ | KVIE-TV PBS 6 (Sacramento CA) | Rocket Service | `KVIE-DT.us_locals1` |
 | ❌ | KUED-TV Utah PBS 7 (Salt Lake City UT) | Rocket Service | `KUED-DT.us_locals1` |
 | ❌ | KOPB-TV PBS 10 (Portland OR) | Rocket Service | `KOPB-DT.us_locals1` |
@@ -1002,8 +1002,8 @@
 | ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Spanish Services | `WFUT-DT.us_locals1` |
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ✅ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
-| ❌ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
-| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
@@ -1027,7 +1027,7 @@
 | ✅ | WXWZ-LD MásTV 23 (San Juan PR) | Independent Streams | `` |
 | ❌ | WZDC-CD Telemundo 44 (Washington DC) | Rocket Service | `WZDC-CD.us_locals1` |
 | ✅ | XHGV-TDT TVMás | Independent Streams | `` |
-| ❌ | XHMNL-TDT TV Nuevo León Canal 28 | Other Services | `` |
+| ✅ | XHMNL-TDT TV Nuevo León Canal 28 | Other Services | `` |
 | ❌ | 4K Travel | Backend: Cloudfront | `Tastemade.Travel.us2` |
 | ❌ | AHC (American Heroes Channel) | Rocket Service | `` |
 | ✅ | AKC TV | Other Services | `` |
@@ -1084,7 +1084,7 @@
 | ❌ | Pursuit Channel | Backend: Cloudfront | `Pursuit.Channel.us2` |
 | ❌ | REELZ (East) | KSTV US | `` |
 | ❌ | REELZ (West) | Other Services | `` |
-| ❌ | REELZ Famous and Infamous | Other Services | `` |
+| ✅ | REELZ Famous and Infamous | Other Services | `` |
 | ✅ | Rovr Pets | Backend: Amagi | `` |
 | ✅ | Taste Made Travel | Backend: Amagi | `` |
 | ✅ | The Real Disaster Channel | Backend: Cloudfront | `` |
@@ -2067,7 +2067,7 @@
 | ✅ | Now 80s Music | Backend: Amagi | `` |
 | ✅ | Now 90s & 00s Music | Backend: Amagi | `` |
 | ✅ | Now Rock Music | Backend: Amagi | `` |
-| ❌ | Pop World TV | Other Services | `NHK.World.TV.us2` |
+| ✅ | Pop World TV | Other Services | `NHK.World.TV.us2` |
 | ✅ | Radio Tunes 2000's Dance | Other Services | `` |
 | ✅ | Radio Tunes 2000's Hits | Other Services | `` |
 | ✅ | Radio Tunes 2000's R&B | Other Services | `` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
