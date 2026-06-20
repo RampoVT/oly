@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-20 05:12
+# 📺 Playlist Status Update: 2026-06-20 08:53
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -2058,7 +2058,7 @@
 | ✅ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
 | ✅ | JAZZRADIO.com Smooth Jazz 24/7 | Other Services | `` |
 | ✅ | JAZZRADIO.com Smooth Uptempo | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
 | ❌ | La Mega Mundial | Other Services | `` |
 | ✅ | LiveXLive | Other Services | `` |
 | ✅ | MCN6 Music Channel | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
@@ -2070,7 +2070,7 @@
 | ❌ | Pop World TV | Other Services | `NHK.World.TV.us2` |
 | ✅ | Radio Tunes 2000's Dance | Other Services | `` |
 | ✅ | Radio Tunes 2000's Hits | Other Services | `` |
-| ✅ | Radio Tunes 2000's R&B | Other Services | `` |
+| ❌ | Radio Tunes 2000's R&B | Other Services | `` |
 | ✅ | Radio Tunes 60's Hits | Other Services | `` |
 | ✅ | Radio Tunes 60's Rock | Other Services | `` |
 | ✅ | Radio Tunes 70's Hits | Other Services | `` |
@@ -2089,7 +2089,7 @@
 | ✅ | Radio Tunes Disco Party | Other Services | `` |
 | ✅ | Radio Tunes Easy Listening | Other Services | `` |
 | ✅ | Radio Tunes EuroDance | Other Services | `` |
-| ✅ | Radio Tunes Modern Rock | Other Services | `` |
+| ❌ | Radio Tunes Modern Rock | Other Services | `` |
 | ✅ | Radio Tunes Old School Funk & Soul | Other Services | `` |
 | ✅ | Radio Tunes Oldies | Other Services | `` |
 | ❌ | Radio Tunes Pop Christmas | Other Services | `Christmas.Radio.Dummy.us` |
@@ -2488,7 +2488,7 @@
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
+| ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
 | ❌ | Challenge (UK) | Rocket Service | `Challenge.uk` |
