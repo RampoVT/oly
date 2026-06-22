@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-22 00:10
+# 📺 Playlist Status Update: 2026-06-22 06:28
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -747,7 +747,7 @@
 | ✅ | Gilroy CMAP TV Channel 17 Live Meetings (Gilroy CA) | Local Gov/Public | `` |
 | ✅ | Gilroy CMAP TV Channel 18 Government Meeting Replay (Gilroy CA) | Local Gov/Public | `` |
 | ✅ | Gilroy CMAP TV Channel 19 Education (Gilroy CA) | Local Gov/Public | `` |
-| ✅ | Gilroy CMAP TV Channel 20 Community Access (Gilroy CA) | Local Gov/Public | `` |
+| ❌ | Gilroy CMAP TV Channel 20 Community Access (Gilroy CA) | Local Gov/Public | `` |
 | ✅ | Glendale 11 AZ (Glendale AZ) | Other Services | `` |
 | ✅ | Glendale TV (Glendale CA) | Local Gov/Public | `` |
 | ✅ | Greensboro TV (Greensboro NC) | Other Services | `Spectrum.News.1.(Carolinas).-.Greensboro.STVA.us2` |
@@ -804,8 +804,8 @@
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
 | ✅ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
-| ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
-| ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
+| ❌ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
+| ❌ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | NECAT Network Access Nashville (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network IQTV Education (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network Music City Arts (Nashville TN) | Other Services | `` |
@@ -850,7 +850,7 @@
 | ✅ | Salem News Channel | Backend: Amagi | `Salem.News.Channel.us2` |
 | ✅ | Santa Maria Community Television Education Channel | Local Gov/Public | `` |
 | ✅ | Santa Maria Community Television Government Channel | Local Gov/Public | `` |
-| ✅ | Santa Maria Community Television Public Access Channel | Local Gov/Public | `` |
+| ❌ | Santa Maria Community Television Public Access Channel | Local Gov/Public | `` |
 | ✅ | Santa Monica City TV 20 (Santa Monica CA) | Other Services | `` |
 | ✅ | SCTV (Santa Clarita CA) | Local Gov/Public | `` |
 | ✅ | Seattle Channel (Seattle WA) | Other Services | `` |
@@ -900,8 +900,8 @@
 | ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
-| ❌ | Canal 2 de Ushuaia | Other Services | `` |
-| ❌ | Canal 2 Misiones | Other Services | `` |
+| ✅ | Canal 2 de Ushuaia | Other Services | `` |
+| ✅ | Canal 2 Misiones | Other Services | `` |
 | ❌ | Canal 21 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 26 Aguascalientes | Independent Streams | `` |
 | ❌ | Canal 28 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
