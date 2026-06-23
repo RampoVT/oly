@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-23 04:59
+# 📺 Playlist Status Update: 2026-06-23 08:32
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -597,7 +597,7 @@
 | ✅ | WeatherNation | Roku Channel | `` |
 | ✅ | Weather Spy | Backend: Wurl | `The.Weather.Channel.HD.us2` |
 | ❌ | Create | Other Services | `Create.us2` |
-| ✅ | NHK World | Other Services | `NHK.World.TV.us2` |
+| ❌ | NHK World | Other Services | `NHK.World.TV.us2` |
 | ❌ | PBS World | Other Services | `` |
 | ❌ | FNX | Other Services | `FNX.First.Nations.Experience.us2` |
 | ❌ | PBS National (West) | Other Services | `ABC.National.Feed.Pacific.us2` |
@@ -865,7 +865,7 @@
 | ✅ | Sound View Community Media Government | Local Gov/Public | `` |
 | ✅ | Sound View Community Media Local Public | Local Gov/Public | `` |
 | ✅ | St. Johns County Government GTV (St. Johns County FL) | Other Services | `` |
-| ✅ | St. Pete TV (SPTV) (St Petersburg FL) | Other Services | `` |
+| ❌ | St. Pete TV (SPTV) (St Petersburg FL) | Other Services | `` |
 | ✅ | Stockton GovTV (Stockton CA) | Other Services | `` |
 | ✅ | Tampa Bay Communnity Network TBCN (Tampa Bay FL) | Local Gov/Public | `` |
 | ✅ | Temecula TV (Temecula CA) | Local Gov/Public | `` |
@@ -1250,7 +1250,7 @@
 | ✅ | Comet | Other Services | `Comet.(Pacific).us2` |
 | ✅ | Confess by Nosey | Backend: Amagi | `` |
 | ❌ | COZI TV | Rocket Service | `COZI.TV.us2` |
-| ❌ | Crime Beat TV | Local Now | `` |
+| ✅ | Crime Beat TV | Local Now | `` |
 | ✅ | Crime Thriller | Backend: Wurl | `` |
 | ✅ | CW Forever | Backend: Amagi | `` |
 | ✅ | CW Gold | Backend: Amagi | `` |
@@ -1885,7 +1885,7 @@
 | ✅ | The Love Boat | Pluto TV | `` |
 | ✅ | The Masked Singer | Roku Channel | `` |
 | ✅ | The Osbournes | Backend: Amagi | `` |
-| ❌ | The Pink Panther | Other Services | `` |
+| ✅ | The Pink Panther | Other Services | `` |
 | ✅ | The Price Is Right | Pluto TV | `` |
 | ✅ | The Price Is Right - The Barker Era | Backend: Amagi | `` |
 | ✅ | The Three Stooges+ | Local Now | `` |
