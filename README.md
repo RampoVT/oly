@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-24 13:21
+# 📺 Playlist Status Update: 2026-06-24 16:20
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -2163,7 +2163,7 @@
 | ✅ | TuneIn Today's R&B | Other Services | `` |
 | ✅ | TuneIn Vintage Country | Other Services | `` |
 | ✅ | TVS Music Network | Other Services | `Me.TV.Network.us2` |
-| ❌ | V2BEAT TV (UK) | Other Services | `` |
+| ✅ | V2BEAT TV (UK) | Other Services | `` |
 | ✅ | Vevo 2K | Roku Channel | `Vevo.2K.us2` |
 | ❌ | Vevo '70s | Backend: Amagi | `Vevo.70s.us2` |
 | ❌ | Vevo '80s | Backend: Amagi | `Vevo.80s.us2` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
