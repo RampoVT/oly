@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-24 07:38
+# 📺 Playlist Status Update: 2026-06-24 10:47
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -794,11 +794,11 @@
 | ✅ | MCN 6 Music Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
 | ❌ | MCPSS (Mobile County Public Schools TV Network) (Mobile AL) | Independent Streams | `` |
 | ✅ | MCTV (Monroe County Television) (Monroe County FL) | Other Services | `` |
-| ✅ | Midpen Media Center Arts Issues and Lifestyles Channel 30 | Independent Streams | `` |
-| ✅ | Midpen Media Center Diversity and Culture Channel 75 | Independent Streams | `` |
-| ✅ | Midpen Media Center Government Channel 26 | Independent Streams | `` |
-| ✅ | Midpen Media Center Government Channel 28 | Independent Streams | `` |
-| ✅ | Midpen Media Center Government Channel 29 | Independent Streams | `` |
+| ❌ | Midpen Media Center Arts Issues and Lifestyles Channel 30 | Independent Streams | `` |
+| ❌ | Midpen Media Center Diversity and Culture Channel 75 | Independent Streams | `` |
+| ❌ | Midpen Media Center Government Channel 26 | Independent Streams | `` |
+| ❌ | Midpen Media Center Government Channel 28 | Independent Streams | `` |
+| ❌ | Midpen Media Center Government Channel 29 | Independent Streams | `` |
 | ❌ | Millbrae Community Television (Millbrae CA) | Independent Streams | `` |
 | ✅ | Moorpark Government Channel (Moorpark CA) | Other Services | `` |
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
@@ -1511,7 +1511,7 @@
 | ✅ | HBO Boxing by WB | Backend: Amagi | `` |
 | ❌ | Impact Plus! | Backend: Cloudfront | `` |
 | ✅ | K-Baseball TV | Backend: Amagi | `` |
-| ❌ | Lacrosse TV | Other Services | `` |
+| ✅ | Lacrosse TV | Other Services | `` |
 | ✅ | Locked on Atlanta | Other Services | `` |
 | ✅ | Locked on College Sports | Other Services | `` |
 | ✅ | Locked on Los Angeles | Other Services | `` |
