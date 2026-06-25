@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-25 21:47
+# 📺 Playlist Status Update: 2026-06-25 23:16
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -820,7 +820,7 @@
 | ✅ | Olelo Community Media Channel 55 | Other Services | `` |
 | ✅ | ONNJ (On New Jersey) | Backend: Amagi | `` |
 | ✅ | Ontario Public Access Channel (Ontario CA) | Other Services | `` |
-| ❌ | Orange TV (Orange County CA) | Other Services | `` |
+| ✅ | Orange TV (Orange County CA) | Other Services | `` |
 | ✅ | Pacific Coast TV HMB Coastside Channel 27 (Pacifica CA) | Local Gov/Public | `` |
 | ✅ | Pacific Coast TV MWSD Channel 26 (Pacifica CA) | Local Gov/Public | `` |
 | ❌ | Palm Beach County TV Channel 20 (Palm Beach County FL) | Other Services | `` |
@@ -1000,7 +1000,7 @@
 | ❌ | WECN-TV Único TV | Independent Streams | `WECN-DT.us_locals1` |
 | ✅ | WELU-DT1 CTNi 34 (Puerto Rico) | Other Services | `WELU-DT.us_locals1` |
 | ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Spanish Services | `WFUT-DT.us_locals1` |
-| ❌ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
+| ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ✅ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
 | ❌ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
