@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-06-29 05:49
+# 📺 Playlist Status Update: 2026-06-29 10:54
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,14 +552,14 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -596,12 +596,12 @@
 | ✅ | The Weather Channel+ | Other Services | `The.Weather.Channel.HD.us2` |
 | ✅ | WeatherNation | Roku Channel | `` |
 | ✅ | Weather Spy | Backend: Wurl | `The.Weather.Channel.HD.us2` |
-| ❌ | Create | Other Services | `Create.us2` |
-| ❌ | NHK World | Other Services | `NHK.World.TV.us2` |
-| ❌ | PBS World | Other Services | `` |
-| ❌ | FNX | Other Services | `FNX.First.Nations.Experience.us2` |
-| ❌ | PBS National (West) | Other Services | `ABC.National.Feed.Pacific.us2` |
-| ❌ | PBS National (East) | Other Services | `ABC.National.Feed.Pacific.us2` |
+| ✅ | Create | Other Services | `Create.us2` |
+| ✅ | NHK World | Other Services | `NHK.World.TV.us2` |
+| ✅ | PBS World | Other Services | `` |
+| ✅ | FNX | Other Services | `FNX.First.Nations.Experience.us2` |
+| ✅ | PBS National (West) | Other Services | `ABC.National.Feed.Pacific.us2` |
+| ✅ | PBS National (East) | Other Services | `ABC.National.Feed.Pacific.us2` |
 | ✅ | PBS Retro | Other Services | `RETRO.us2` |
 | ❌ | WVIZ-DT 25.2 The Ohio Channel (Cleveland OH) | Other Services | `WVIZ-DT.us_locals1` |
 | ❌ | WOSU-TV PBS 34 (Columbus OH) | Rocket Service | `WOSU-DT.us_locals1` |
@@ -626,8 +626,8 @@
 | ❌ | WXXI-TV PBS 21 (Rochester NY) | Rocket Service | `WXXI-DT.us_locals1` |
 | ❌ | WEDH-TV P-CPTV PBS 24 (Hartfort CT) | Rocket Service | `WEDH-DT.us_locals1` |
 | ❌ | WETA-TV WETA PBS 26.1 (Washington DC) | Rocket Service | `WETA-DT.us_locals1` |
-| ❌ | WETA-DT WETA UK 26.2 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
-| ❌ | WETA-DT PBS Metro 26.5 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
+| ✅ | WETA-DT WETA UK 26.2 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
+| ✅ | WETA-DT PBS Metro 26.5 (Washington DC) | Other Services | `WETA-DT.us_locals1` |
 | ❌ | WHUT-TV PBS 32 (Washington DC) | Rocket Service | `WHUT-DT.us_locals1` |
 | ✅ | WMPB-TV MPT PBS 67 (Baltimore MD) | Other Services | `WMPB-DT.us_locals1` |
 | ✅ | WMPT-TV MPT PBS 22 (Annapolis MD) | Other Services | `WMPT-DT.us_locals1` |
@@ -641,7 +641,7 @@
 | ❌ | KLRN-TV PBS 9 (San Antonio TX) | Rocket Service | `KLRN-DT.us_locals1` |
 | ❌ | KERA-TV PBS 13 (Ft. Worth/Dallas TX) | Rocket Service | `KERA-DT.us_locals1` |
 | ❌ | KQED-TV PBS 9.1 (San Francisco CA) | Rocket Service | `KQED-DT.us_locals1` |
-| ❌ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Other Services | `KQED-DT.us_locals1` |
+| ✅ | KQED-DT KQED+ PBS 9.2 (San Francisco CA) | Other Services | `KQED-DT.us_locals1` |
 | ❌ | KVIE-TV PBS 6 (Sacramento CA) | Rocket Service | `KVIE-DT.us_locals1` |
 | ❌ | KUED-TV Utah PBS 7 (Salt Lake City UT) | Rocket Service | `KUED-DT.us_locals1` |
 | ❌ | KOPB-TV PBS 10 (Portland OR) | Rocket Service | `KOPB-DT.us_locals1` |
@@ -711,7 +711,7 @@
 | ✅ | Collier Television CTV (Naples FL) | Local Gov/Public | `` |
 | ✅ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
-| ❌ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
 | ❌ | Coral Gables Television (Coral Gables FL) | Other Services | `` |
 | ❌ | Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA) | Other Services | `` |
@@ -725,7 +725,7 @@
 | ✅ | DCC (District Council Channel) | Other Services | `` |
 | ✅ | DCN (District of Columbia Network) | Other Services | `` |
 | ✅ | Denver 8 TV (Denver CO) | Other Services | `` |
-| ❌ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
+| ✅ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DKN (District Knowledge Network) | Other Services | `` |
 | ❌ | El Segundo Media (El Segundo CA) | Other Services | `` |
@@ -744,10 +744,10 @@
 | ✅ | G10TV (Jacksonville Onslow Government Television) (Jacksonville NC) | Local Gov/Public | `` |
 | ✅ | Gainesville Community 12TV (Gainesville FL) | Other Services | `` |
 | ✅ | GCO.tv (Golden Community Television) (Golden CO) | Local Gov/Public | `` |
-| ❌ | Gilroy CMAP TV Channel 17 Live Meetings (Gilroy CA) | Local Gov/Public | `` |
+| ✅ | Gilroy CMAP TV Channel 17 Live Meetings (Gilroy CA) | Local Gov/Public | `` |
 | ✅ | Gilroy CMAP TV Channel 18 Government Meeting Replay (Gilroy CA) | Local Gov/Public | `` |
-| ❌ | Gilroy CMAP TV Channel 19 Education (Gilroy CA) | Local Gov/Public | `` |
-| ❌ | Gilroy CMAP TV Channel 20 Community Access (Gilroy CA) | Local Gov/Public | `` |
+| ✅ | Gilroy CMAP TV Channel 19 Education (Gilroy CA) | Local Gov/Public | `` |
+| ✅ | Gilroy CMAP TV Channel 20 Community Access (Gilroy CA) | Local Gov/Public | `` |
 | ✅ | Glendale 11 AZ (Glendale AZ) | Other Services | `` |
 | ✅ | Glendale TV (Glendale CA) | Local Gov/Public | `` |
 | ✅ | Greensboro TV (Greensboro NC) | Other Services | `Spectrum.News.1.(Carolinas).-.Greensboro.STVA.us2` |
@@ -778,8 +778,8 @@
 | ❌ | LNKTV City (Lincoln NE) | Local Gov/Public | `` |
 | ❌ | LNKTV Education (Lincoln NE) | Local Gov/Public | `` |
 | ❌ | LNKTV Health (Lincoln NE) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Gov/Public | `` |
 | ✅ | Lompoc TAP TV Channel 25 (Lompoc CA) | Local Gov/Public | `` |
 | ✅ | Long Beach Television (Long Beach CA) | Other Services | `` |
 | ✅ | Manatee Schools Television MSTV (Manatee County FL) | Local Gov/Public | `` |
@@ -809,7 +809,7 @@
 | ✅ | NECAT Network Access Nashville (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network IQTV Education (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network Music City Arts (Nashville TN) | Other Services | `` |
-| ❌ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Local Gov/Public | `` |
+| ✅ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Local Gov/Public | `` |
 | ❌ | Newington Community Television Channel 14 (Newington CT) | Other Services | `` |
 | ❌ | Newington Community Television Channel 16 (Newington CT) | Other Services | `` |
 | ✅ | NOTV (New Orleans Television) | Independent Streams | `` |
@@ -828,7 +828,7 @@
 | ❌ | Palm Springs Community Television (Palm Springs CA) | Other Services | `` |
 | ❌ | Pasco City Television (Pasco County FL) | Other Services | `` |
 | ❌ | Pasco TV (Pasco County FL) | Other Services | `` |
-| ❌ | PCTV (Piscataway Community Television) (Piscataway NJ) | Local Gov/Public | `` |
+| ✅ | PCTV (Piscataway Community Television) (Piscataway NJ) | Local Gov/Public | `` |
 | ✅ | PCTV Pinole Community Television Channel 26 (Pinole CA) | Other Services | `` |
 | ✅ | PCTV Pinole Community Television Channel 28 (Pinole CA) | Other Services | `` |
 | ✅ | PhillyCAM (Philadelphia PA) | Local Gov/Public | `` |
@@ -848,9 +848,9 @@
 | ✅ | Room 123 (District of Columbia Channel) | Other Services | `` |
 | ✅ | Room 412 (District of Columbia Channel) | Other Services | `` |
 | ✅ | Salem News Channel | Backend: Amagi | `Salem.News.Channel.us2` |
-| ❌ | Santa Maria Community Television Education Channel | Local Gov/Public | `` |
-| ❌ | Santa Maria Community Television Government Channel | Local Gov/Public | `` |
-| ❌ | Santa Maria Community Television Public Access Channel | Local Gov/Public | `` |
+| ✅ | Santa Maria Community Television Education Channel | Local Gov/Public | `` |
+| ✅ | Santa Maria Community Television Government Channel | Local Gov/Public | `` |
+| ✅ | Santa Maria Community Television Public Access Channel | Local Gov/Public | `` |
 | ✅ | Santa Monica City TV 20 (Santa Monica CA) | Other Services | `` |
 | ✅ | SCTV (Santa Clarita CA) | Local Gov/Public | `` |
 | ✅ | Seattle Channel (Seattle WA) | Other Services | `` |
@@ -1150,7 +1150,7 @@
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
 | ✅ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
-| ✅ | 30A Ridiculous TV | Other Services | `` |
+| ❌ | 30A Ridiculous TV | Other Services | `` |
 | ✅ | Adult Swim 24/7 | Other Services | `` |
 | ✅ | Adult Swim+ (East) | Other Services | `` |
 | ✅ | Adult Swim+ (West) | Other Services | `` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
