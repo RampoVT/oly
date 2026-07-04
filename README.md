@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-03 23:01
+# 📺 Playlist Status Update: 2026-07-04 02:42
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -514,10 +514,10 @@
 | ✅ | BEK TV News | Other Services | `` |
 | ✅ | Biz TV | Other Services | `Biz.TV.us2` |
 | ✅ | Bloomberg Originals | Other Services | `` |
-| ❌ | Bloomberg Politics Live Event | Other Services | `Live.Event.us` |
+| ✅ | Bloomberg Politics Live Event | Other Services | `Live.Event.us` |
 | ✅ | Bloomberg TV | Other Services | `Bloomberg.Business.Television.us2` |
 | ✅ | Bloomberg TV+ (4K) | Backend: Wurl | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
+| ✅ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
 | ✅ | CBS 48 Hours | Other Services | `` |
 | ✅ | CBS 60 Minutes | Other Services | `` |
 | ✅ | CBS ET (Entertainment Tonight) | Other Services | `` |
@@ -551,19 +551,19 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1910,7 +1910,7 @@
 | ❌ | PPV Cinebox Sci-Fi | Other Services | `` |
 | ❌ | Canela.TV Music Hits | Backend: Amagi | `` |
 | ✅ | CMC (California Music Channel) | Backend: Amagi | `` |
-| ✅ | CMC (Country Music Channel) | Other Services | `` |
+| ❌ | CMC (Country Music Channel) | Other Services | `` |
 | ✅ | Def Jam | Tubi TV | `` |
 | ✅ | iHeart 2000's Y2K | Radio: iHeart | `` |
 | ✅ | iHeart 2010's | Radio: iHeart | `` |
@@ -2132,36 +2132,36 @@
 | ✅ | Stingray Music Soul Storm | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Techno Warehouse | Other Services | `` |
 | ✅ | The Country Network | Other Services | `` |
-| ✅ | TuneIn 2000's Hits | Other Services | `` |
-| ✅ | TuneIn 60's Hits | Other Services | `` |
-| ✅ | TuneIn 70's Hits | Other Services | `` |
-| ✅ | TuneIn 80's Hits | Other Services | `` |
-| ✅ | TuneIn 90's Classic Rock | Other Services | `` |
-| ✅ | TuneIn 90's Country | Other Services | `` |
-| ✅ | TuneIn 90's Hits | Other Services | `` |
-| ✅ | TuneIn Adult Alternative | Other Services | `` |
-| ✅ | TuneIn Adult Hits | Other Services | `` |
-| ✅ | TuneIn Alternative Hits | Other Services | `` |
-| ✅ | TuneIn Classic Alternative | Other Services | `` |
-| ✅ | TuneIn Classic Hip-Hop | Other Services | `` |
-| ✅ | TuneIn Classic Hits | Other Services | `` |
-| ✅ | TuneIn Classic Rock | Other Services | `` |
-| ✅ | TuneIn Country Hits | Other Services | `` |
-| ✅ | TuneIn Country Roads | Other Services | `` |
-| ✅ | TuneIn Éxitos Mexicanos | Other Services | `` |
-| ✅ | TuneIn Hot Hip-Hop and R&B | Other Services | `` |
-| ✅ | TuneIn Latin Hits | Other Services | `` |
+| ❌ | TuneIn 2000's Hits | Other Services | `` |
+| ❌ | TuneIn 60's Hits | Other Services | `` |
+| ❌ | TuneIn 70's Hits | Other Services | `` |
+| ❌ | TuneIn 80's Hits | Other Services | `` |
+| ❌ | TuneIn 90's Classic Rock | Other Services | `` |
+| ❌ | TuneIn 90's Country | Other Services | `` |
+| ❌ | TuneIn 90's Hits | Other Services | `` |
+| ❌ | TuneIn Adult Alternative | Other Services | `` |
+| ❌ | TuneIn Adult Hits | Other Services | `` |
+| ❌ | TuneIn Alternative Hits | Other Services | `` |
+| ❌ | TuneIn Classic Alternative | Other Services | `` |
+| ❌ | TuneIn Classic Hip-Hop | Other Services | `` |
+| ❌ | TuneIn Classic Hits | Other Services | `` |
+| ❌ | TuneIn Classic Rock | Other Services | `` |
+| ❌ | TuneIn Country Hits | Other Services | `` |
+| ❌ | TuneIn Country Roads | Other Services | `` |
+| ❌ | TuneIn Éxitos Mexicanos | Other Services | `` |
+| ❌ | TuneIn Hot Hip-Hop and R&B | Other Services | `` |
+| ❌ | TuneIn Latin Hits | Other Services | `` |
 | ❌ | TuneIn Mix Lite | Other Services | `` |
-| ✅ | TuneIn Pop Hits | Other Services | `` |
-| ✅ | TuneIn R&B Hits | Other Services | `` |
-| ✅ | TuneIn Rock On | Other Services | `` |
-| ✅ | TuneIn Sailing | Other Services | `` |
-| ✅ | TuneIn Smooth Jazz | Other Services | `` |
-| ✅ | TuneIn Soft Rock Hits | Other Services | `` |
-| ✅ | TuneIn Soul Groove | Other Services | `` |
-| ✅ | TuneIn Today's Hits | Other Services | `` |
-| ✅ | TuneIn Today's R&B | Other Services | `` |
-| ✅ | TuneIn Vintage Country | Other Services | `` |
+| ❌ | TuneIn Pop Hits | Other Services | `` |
+| ❌ | TuneIn R&B Hits | Other Services | `` |
+| ❌ | TuneIn Rock On | Other Services | `` |
+| ❌ | TuneIn Sailing | Other Services | `` |
+| ❌ | TuneIn Smooth Jazz | Other Services | `` |
+| ❌ | TuneIn Soft Rock Hits | Other Services | `` |
+| ❌ | TuneIn Soul Groove | Other Services | `` |
+| ❌ | TuneIn Today's Hits | Other Services | `` |
+| ❌ | TuneIn Today's R&B | Other Services | `` |
+| ❌ | TuneIn Vintage Country | Other Services | `` |
 | ✅ | TVS Music Network | Other Services | `Me.TV.Network.us2` |
 | ✅ | V2BEAT TV (UK) | Other Services | `` |
 | ✅ | Vevo 2K | Roku Channel | `Vevo.2K.us2` |
