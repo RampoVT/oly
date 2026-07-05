@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-05 18:01
+# 📺 Playlist Status Update: 2026-07-05 20:12
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -555,15 +555,15 @@
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -1002,8 +1002,8 @@
 | ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Spanish Services | `WFUT-DT.us_locals1` |
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ❌ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
-| ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
-| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ❌ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
@@ -1459,7 +1459,7 @@
 | ✅ | CBS Sports Golazo Network | Other Services | `CBS.Sports.Network.HD.us2` |
 | ✅ | CBS Sports HQ | Other Services | `CBS.Sports.Network.HD.us2` |
 | ❌ | CBS Sports Network | Rocket Service | `CBS.Sports.Network.HD.us2` |
-| ✅ | CBS Sports UEFA Champions League | Other Services | `UEFA.Champions.League.Dummy.us` |
+| ❌ | CBS Sports UEFA Champions League | Other Services | `UEFA.Champions.League.Dummy.us` |
 | ✅ | CHGO Sports | Other Services | `` |
 | ❌ | Chicago Sports Network | KSTV US | `CHSN.Chicago.Sports.Network.us2` |
 | ✅ | Court Sports Network | Other Services | `CBS.Sports.Network.HD.us2` |
@@ -1569,7 +1569,7 @@
 | ❌ | Racer (Formerly MAV TV) | Rocket Service | `RACER.Network.HD.us2` |
 | ✅ | Racer International | Backend: Amagi | `3ABN.International.Network.us2` |
 | ✅ | Racer Select | Backend: Amagi | `` |
-| ❌ | Red Bull TV | Other Services | `` |
+| ✅ | Red Bull TV | Other Services | `` |
 | ✅ | Right Now TV | Other Services | `Right.Now.TV.us2` |
 | ❌ | SEC Network ESPN | Rocket Service | `SEC.Network.HD.us2` |
 | ❌ | Space City Home Network | KSTV US | `Space.City.Home.Network.HD.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
