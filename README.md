@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-05 04:55
+# 📺 Playlist Status Update: 2026-07-05 07:55
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,16 +552,16 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ✅ | TED Talks | Backend: Amagi | `` |
+| ❌ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -729,7 +729,7 @@
 | ✅ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DKN (District Knowledge Network) | Other Services | `` |
 | ✅ | El Segundo Media (El Segundo CA) | Other Services | `` |
-| ❌ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
+| ✅ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
 | ✅ | Fairfield Government Access Channel 26 (Fairfield CA) | Local Gov/Public | `` |
 | ✅ | FCPS Channel 21 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 25 (Fairfax County Public Schools) | Other Services | `` |
@@ -891,13 +891,13 @@
 | ✅ | 13Cultura | Other Services | `` |
 | ❌ | Canal 1 | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 1 Mar Menor-Torre Pacheco | Other Services | `` |
-| ✅ | Canal 10 | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
+| ❌ | Canal 10 | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 10 Cancun (México) | Other Services | `` |
 | ❌ | Canal 13 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 14 (México) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 15 Sabinas | Other Services | `` |
 | ❌ | Canal 2 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
-| ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
+| ❌ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
 | ✅ | Canal 2 de Ushuaia | Other Services | `` |
@@ -1145,8 +1145,8 @@
 | ❌ | TeenNick (East) | Rocket Service | `` |
 | ❌ | TeenNick (West) | Rocket Service | `` |
 | ❌ | The Lego Channel | Other Services | `[TFC].The.Filipino.Channel.HD.us2` |
-| ✅ | Toonami Aftermath (East) | Other Services | `` |
-| ✅ | Toonami Aftermath (West) | Other Services | `` |
+| ❌ | Toonami Aftermath (East) | Other Services | `` |
+| ❌ | Toonami Aftermath (West) | Other Services | `` |
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
 | ✅ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
@@ -1761,7 +1761,7 @@
 | ❌ | The Movie Channel (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
-| ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
+| ❌ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
 | ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
