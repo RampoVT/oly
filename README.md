@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-07 19:52
+# 📺 Playlist Status Update: 2026-07-07 21:22
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -555,14 +555,14 @@
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -721,7 +721,7 @@
 | ✅ | CreaTV Classrooms Channel 28 (San Jose CA) | Local Gov/Public | `` |
 | ✅ | CreaTV Community Channel 15 (San Jose CA) | Local Gov/Public | `` |
 | ✅ | CreaTV The Outlet Channel 30 (San Jose CA) | Local Gov/Public | `` |
-| ✅ | Cupertino City Channel (Cupertino CA) | Other Services | `` |
+| ❌ | Cupertino City Channel (Cupertino CA) | Other Services | `` |
 | ✅ | DCC (District Council Channel) | Other Services | `` |
 | ✅ | DCN (District of Columbia Network) | Other Services | `` |
 | ✅ | Denver 8 TV (Denver CO) | Other Services | `` |
@@ -967,7 +967,7 @@
 | ❌ | RCG .3 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.1 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.2 | Other Services | `` |
-| ✅ | SIPSE TV 8.1 | Other Services | `` |
+| ❌ | SIPSE TV 8.1 | Other Services | `` |
 | ✅ | SIPSE TVCUN 8.1 | Other Services | `` |
 | ❌ | Spectrum Noticias NY1 | Rocket Service | `` |
 | ✅ | Telemundo Noticias California | Backend: Cloudfront | `` |
@@ -1003,7 +1003,7 @@
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ❌ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
 | ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
-| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
@@ -1617,7 +1617,7 @@
 | ✅ | Willow Sports | Backend: Amagi | `` |
 | ✅ | Women's Sports Network | Tubi TV | `CBS.Sports.Network.HD.us2` |
 | ✅ | WPT (World Poker Tour) | Backend: Amagi | `` |
-| ✅ | WSN (Women's Sports Network) | Other Services | `` |
+| ❌ | WSN (Women's Sports Network) | Other Services | `` |
 | ❌ | WWE Network | Rocket Service | `WWE.Network.us2` |
 | ❌ | Yahoo! Sports Network | Other Services | `CBS.Sports.Network.HD.us2` |
 | ❌ | YES Network | Rocket Service | `Yes.Network.Overflow.us2` |
@@ -2053,12 +2053,12 @@
 | ✅ | iHeart Women of iHeartCountry | Radio: iHeart | `` |
 | ✅ | iHeart Yacht Rock Radio | Radio: iHeart | `` |
 | ✅ | iHeart Yee Yee Radio | Radio: iHeart | `` |
-| ✅ | JAZZRADIO.com Love Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Mellow Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Jazz 24/7 | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Uptempo | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
+| ❌ | JAZZRADIO.com Love Smooth Jazz | Other Services | `` |
+| ❌ | JAZZRADIO.com Mellow Smooth Jazz | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Jazz 24/7 | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Uptempo | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
 | ❌ | La Mega Mundial | Other Services | `` |
 | ✅ | LiveXLive | Other Services | `` |
 | ✅ | MCN6 Music Channel | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
@@ -2068,52 +2068,52 @@
 | ✅ | Now 90s & 00s Music | Backend: Amagi | `` |
 | ✅ | Now Rock Music | Backend: Amagi | `` |
 | ✅ | Pop World TV | Other Services | `NHK.World.TV.us2` |
-| ✅ | Radio Tunes 2000's Dance | Other Services | `` |
-| ✅ | Radio Tunes 2000's Hits | Other Services | `` |
-| ✅ | Radio Tunes 2000's R&B | Other Services | `` |
-| ✅ | Radio Tunes 60's Hits | Other Services | `` |
-| ✅ | Radio Tunes 60's Rock | Other Services | `` |
-| ✅ | Radio Tunes 70's Hits | Other Services | `` |
-| ✅ | Radio Tunes 70's Rock | Other Services | `` |
-| ✅ | Radio Tunes 80's Alt & New Wave | Other Services | `WAVE-DT.us_locals1` |
-| ✅ | Radio Tunes 80's Hits | Other Services | `` |
-| ✅ | Radio Tunes 80's Rock | Other Services | `` |
-| ✅ | Radio Tunes 90's Dance | Other Services | `` |
-| ✅ | Radio Tunes 90's Hits | Other Services | `` |
-| ✅ | Radio Tunes 90's R&B | Other Services | `` |
+| ❌ | Radio Tunes 2000's Dance | Other Services | `` |
+| ❌ | Radio Tunes 2000's Hits | Other Services | `` |
+| ❌ | Radio Tunes 2000's R&B | Other Services | `` |
+| ❌ | Radio Tunes 60's Hits | Other Services | `` |
+| ❌ | Radio Tunes 60's Rock | Other Services | `` |
+| ❌ | Radio Tunes 70's Hits | Other Services | `` |
+| ❌ | Radio Tunes 70's Rock | Other Services | `` |
+| ❌ | Radio Tunes 80's Alt & New Wave | Other Services | `WAVE-DT.us_locals1` |
+| ❌ | Radio Tunes 80's Hits | Other Services | `` |
+| ❌ | Radio Tunes 80's Rock | Other Services | `` |
+| ❌ | Radio Tunes 90's Dance | Other Services | `` |
+| ❌ | Radio Tunes 90's Hits | Other Services | `` |
+| ❌ | Radio Tunes 90's R&B | Other Services | `` |
 | ❌ | Radio Tunes Classic Christmas | Other Services | `Christmas.Radio.Dummy.us` |
-| ✅ | Radio Tunes Classic Hip-Hop | Other Services | `` |
-| ✅ | Radio Tunes Classic Motown | Other Services | `` |
-| ✅ | Radio Tunes Classic Rock | Other Services | `` |
-| ✅ | Radio Tunes Dance Hits | Other Services | `` |
-| ✅ | Radio Tunes Disco Party | Other Services | `` |
-| ✅ | Radio Tunes Easy Listening | Other Services | `` |
-| ✅ | Radio Tunes EuroDance | Other Services | `` |
-| ✅ | Radio Tunes Modern Rock | Other Services | `` |
-| ✅ | Radio Tunes Old School Funk & Soul | Other Services | `` |
-| ✅ | Radio Tunes Oldies | Other Services | `` |
+| ❌ | Radio Tunes Classic Hip-Hop | Other Services | `` |
+| ❌ | Radio Tunes Classic Motown | Other Services | `` |
+| ❌ | Radio Tunes Classic Rock | Other Services | `` |
+| ❌ | Radio Tunes Dance Hits | Other Services | `` |
+| ❌ | Radio Tunes Disco Party | Other Services | `` |
+| ❌ | Radio Tunes Easy Listening | Other Services | `` |
+| ❌ | Radio Tunes EuroDance | Other Services | `` |
+| ❌ | Radio Tunes Modern Rock | Other Services | `` |
+| ❌ | Radio Tunes Old School Funk & Soul | Other Services | `` |
+| ❌ | Radio Tunes Oldies | Other Services | `` |
 | ❌ | Radio Tunes Pop Christmas | Other Services | `Christmas.Radio.Dummy.us` |
 | ❌ | Radio Tunes Slow R&B | Other Services | `` |
-| ✅ | Radio Tunes Smooth Jazz | Other Services | `` |
-| ✅ | Radio Tunes Smooth Jazz 24/7 | Other Services | `` |
-| ✅ | Radio Tunes Soft Rock | Other Services | `` |
-| ✅ | Radio Tunes Top Hits | Other Services | `` |
-| ✅ | Radio Tunes Uptempo Smooth Jazz | Other Services | `` |
-| ✅ | Radio Tunes Urban Hits | Other Services | `` |
-| ✅ | Radio Tunes Urban Pop Hits | Other Services | `` |
-| ✅ | Radio Tunes Vocal Smooth Jazz | Other Services | `` |
-| ✅ | ROCKRADIO.com 60's Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com 70's Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com 80's Alternative | Other Services | `` |
-| ✅ | ROCKRADIO.com 80's Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Classic Folk-Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Classic Hard-Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Classic Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Modern Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Progressive Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Rock Ballads | Other Services | `` |
-| ✅ | ROCKRADIO.com Soft Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Yacht Radio | Other Services | `` |
+| ❌ | Radio Tunes Smooth Jazz | Other Services | `` |
+| ❌ | Radio Tunes Smooth Jazz 24/7 | Other Services | `` |
+| ❌ | Radio Tunes Soft Rock | Other Services | `` |
+| ❌ | Radio Tunes Top Hits | Other Services | `` |
+| ❌ | Radio Tunes Uptempo Smooth Jazz | Other Services | `` |
+| ❌ | Radio Tunes Urban Hits | Other Services | `` |
+| ❌ | Radio Tunes Urban Pop Hits | Other Services | `` |
+| ❌ | Radio Tunes Vocal Smooth Jazz | Other Services | `` |
+| ❌ | ROCKRADIO.com 60's Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com 70's Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com 80's Alternative | Other Services | `` |
+| ❌ | ROCKRADIO.com 80's Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Classic Folk-Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Classic Hard-Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Classic Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Modern Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Progressive Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Rock Ballads | Other Services | `` |
+| ❌ | ROCKRADIO.com Soft Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Yacht Radio | Other Services | `` |
 | ✅ | Stingray Music Alternative | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Stingray Music Classic Rock | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Stingray Music Country Greats | Radio: Stingray | `Stingray.Music.Dummy.us` |
