@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-09 16:26
+# 📺 Playlist Status Update: 2026-07-09 18:49
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,18 +552,18 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ❌ | TED Talks | Backend: Amagi | `` |
+| ✅ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -683,7 +683,7 @@
 | ✅ | BHTV35 (Beverly Hills Television) (Beverly Hills CA) | Other Services | `` |
 | ✅ | BNN (Boston Neighborhood Network) | Local Gov/Public | `` |
 | ✅ | Brevard County Government Access TV (Brevard FL) | Other Services | `` |
-| ❌ | Buena Park Television (Buena Park CA) | Local Gov/Public | `` |
+| ✅ | Buena Park Television (Buena Park CA) | Local Gov/Public | `` |
 | ✅ | Burbank Channel (Burbank CA) | Other Services | `` |
 | ✅ | Calabasas Channel (Calabasas CA) | Other Services | `` |
 | ❌ | CAN TV19 (Chicago IL) | Other Services | `` |
@@ -693,10 +693,10 @@
 | ❌ | CAPS Media Channel 15 (Ventura CA) | Local Gov/Public | `` |
 | ❌ | CAPS Media Channel 6 (Ventura CA) | Local Gov/Public | `` |
 | ✅ | Carlsbad City TV Channel (Carlsbad CA) | Other Services | `` |
-| ✅ | CCPS (Collier County Public Schools Education Channel) (Naples FL) | Other Services | `` |
+| ❌ | CCPS (Collier County Public Schools Education Channel) (Naples FL) | Other Services | `` |
 | ❌ | CCPTV (Community College of Philadelphia) (Philadelphia PA) | Local Gov/Public | `` |
 | ❌ | CCX Media (Minneapolis/St. Paul MN) | Local Gov/Public | `` |
-| ❌ | Cerritos TV | Local Gov/Public | `` |
+| ✅ | Cerritos TV | Local Gov/Public | `` |
 | ✅ | CGTV (Champaign Government Television) (Champaign IL) | Local Gov/Public | `` |
 | ✅ | Charlotte County CC-TV (Charlotte County FL) | Other Services | `` |
 | ✅ | City of Detroit Channel 10 | Local Gov/Public | `` |
@@ -771,7 +771,7 @@
 | ❌ | KTUU-TV 2 Alaska's News Source (Anchorage AK) | Backend: Syncbak | `KTUU-DT.us_locals1` |
 | ✅ | KVVB-TV 33 (Victorville CA) | Other Services | `` |
 | ✅ | L.A. 36 Local Television (Los Angeles CA) | Local Gov/Public | `` |
-| ❌ | L.A. CityView Channel 35 (Los Angeles CA) | Local Gov/Public | `` |
+| ✅ | L.A. CityView Channel 35 (Los Angeles CA) | Local Gov/Public | `` |
 | ❌ | Lakewood Channel 8 (Lakewood CO) | Other Services | `` |
 | ✅ | Lakewood CityTV (Lakewood CA) | Other Services | `` |
 | ✅ | Leesburg Lakefront TV (Leesburg FL) | Local Gov/Public | `` |
@@ -967,8 +967,8 @@
 | ❌ | RCG .3 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.1 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.2 | Other Services | `` |
-| ❌ | SIPSE TV 8.1 | Other Services | `` |
-| ❌ | SIPSE TVCUN 8.1 | Other Services | `` |
+| ✅ | SIPSE TV 8.1 | Other Services | `` |
+| ✅ | SIPSE TVCUN 8.1 | Other Services | `` |
 | ❌ | Spectrum Noticias NY1 | Rocket Service | `` |
 | ✅ | Telemundo Noticias California | Backend: Cloudfront | `` |
 | ✅ | Telemundo Noticias Florida | Backend: Cloudfront | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -2067,7 +2067,7 @@
 | ✅ | Now 80s Music | Backend: Amagi | `` |
 | ✅ | Now 90s & 00s Music | Backend: Amagi | `` |
 | ✅ | Now Rock Music | Backend: Amagi | `` |
-| ✅ | Pop World TV | Other Services | `NHK.World.TV.us2` |
+| ❌ | Pop World TV | Other Services | `NHK.World.TV.us2` |
 | ✅ | Radio Tunes 2000's Dance | Other Services | `` |
 | ✅ | Radio Tunes 2000's Hits | Other Services | `` |
 | ✅ | Radio Tunes 2000's R&B | Other Services | `` |
