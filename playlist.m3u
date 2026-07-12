@@ -355,7 +355,7 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89699.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89700.ts
 #EXTINF:-1 tvg-id="KTNV-DT.us_locals1" group-title="Rocket Service",KTNV-TV ABC 13 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38255.ts
-#EXTINF:-1 tvg-id="KVCW-DT.us_locals1" group-title="Rocket Service",KVCW-TV CW 33 (Las Vegas NV)
+#EXTINF:-1 tvg-id="KVCW-DT2.us_locals1" group-title="Rocket Service",KVCW-TV CW 33 (Las Vegas NV)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34441.ts
 #EXTINF:-1 tvg-id="WJXT-DT.us_locals1" group-title="Rocket Service",WJXT-TV 4 Ind. (Jacksonville FL)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/607668.ts
