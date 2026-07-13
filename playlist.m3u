@@ -2685,7 +2685,7 @@ http://kstv.us:8080/live/N427DpynGE/7049166651/44204.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3675.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",OWN (Oprah Winfrey Network) (West)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/631868.ts
-#EXTINF:-1 tvg-id="" group-title="Pluto TV",Paramount Movie Channel (Pluto TV)
+#EXTINF:-1 tvg-id="Paramount.Movie.Channel.DUMMY.us" group-title="Pluto TV",Paramount Movie Channel (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c82c0-7b2e-11ef-af19-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=858a11e8-9c04-47cc-9673-b475e94a0e97&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" group-title="Other Services",Paramount Network (East)
 http://nocable.cc:8080/live/darriusthomas115@gmail.com/darriusthomas115@2025/46694.ts
