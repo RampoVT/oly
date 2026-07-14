@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-14 20:59
+# 📺 Playlist Status Update: 2026-07-14 22:04
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,18 +551,18 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -706,11 +706,11 @@
 | ✅ | City TV Channels 3/41 (Chino Hills CA) | Other Services | `` |
 | ✅ | City TV San Diego (San Diego CA) | Other Services | `` |
 | ✅ | CNC TV (County News Center) (San Diego CA) | Other Services | `` |
-| ❌ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
+| ✅ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
 | ❌ | CobbTV (Atlanta GA) | Other Services | `` |
 | ❌ | Collier Television CTV (Naples FL) | Local Gov/Public | `` |
-| ❌ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
-| ❌ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
 | ❌ | Coral Gables Television (Coral Gables FL) | Other Services | `` |
@@ -725,8 +725,8 @@
 | ✅ | DCC (District Council Channel) | Other Services | `` |
 | ✅ | DCN (District of Columbia Network) | Other Services | `` |
 | ✅ | Denver 8 TV (Denver CO) | Other Services | `` |
-| ❌ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
-| ❌ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
+| ✅ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
+| ✅ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DKN (District Knowledge Network) | Other Services | `` |
 | ✅ | El Segundo Media (El Segundo CA) | Other Services | `` |
 | ❌ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
@@ -745,9 +745,9 @@
 | ✅ | Gainesville Community 12TV (Gainesville FL) | Other Services | `` |
 | ✅ | GCO.tv (Golden Community Television) (Golden CO) | Local Gov/Public | `` |
 | ✅ | Gilroy CMAP TV Channel 17 Live Meetings (Gilroy CA) | Local Gov/Public | `` |
-| ❌ | Gilroy CMAP TV Channel 18 Government Meeting Replay (Gilroy CA) | Local Gov/Public | `` |
-| ❌ | Gilroy CMAP TV Channel 19 Education (Gilroy CA) | Local Gov/Public | `` |
-| ❌ | Gilroy CMAP TV Channel 20 Community Access (Gilroy CA) | Local Gov/Public | `` |
+| ✅ | Gilroy CMAP TV Channel 18 Government Meeting Replay (Gilroy CA) | Local Gov/Public | `` |
+| ✅ | Gilroy CMAP TV Channel 19 Education (Gilroy CA) | Local Gov/Public | `` |
+| ✅ | Gilroy CMAP TV Channel 20 Community Access (Gilroy CA) | Local Gov/Public | `` |
 | ✅ | Glendale 11 AZ (Glendale AZ) | Other Services | `` |
 | ✅ | Glendale TV (Glendale CA) | Local Gov/Public | `` |
 | ✅ | Greensboro TV (Greensboro NC) | Other Services | `Spectrum.News.1.(Carolinas).-.Greensboro.STVA.us2` |
@@ -778,9 +778,9 @@
 | ❌ | LNKTV City (Lincoln NE) | Local Gov/Public | `` |
 | ❌ | LNKTV Education (Lincoln NE) | Local Gov/Public | `` |
 | ❌ | LNKTV Health (Lincoln NE) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 25 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 25 (Lompoc CA) | Local Gov/Public | `` |
 | ✅ | Long Beach Television (Long Beach CA) | Other Services | `` |
 | ✅ | Manatee Schools Television MSTV (Manatee County FL) | Local Gov/Public | `` |
 | ❌ | Marin TV Community Channel (San Rafael CA) | Other Services | `` |
@@ -804,12 +804,12 @@
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
 | ❌ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
-| ❌ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
-| ❌ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
+| ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
+| ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | NECAT Network Access Nashville (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network IQTV Education (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network Music City Arts (Nashville TN) | Other Services | `` |
-| ❌ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Local Gov/Public | `` |
+| ✅ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Local Gov/Public | `` |
 | ❌ | Newington Community Television Channel 14 (Newington CT) | Other Services | `` |
 | ❌ | Newington Community Television Channel 16 (Newington CT) | Other Services | `` |
 | ✅ | NOTV (New Orleans Television) | Independent Streams | `` |
@@ -821,8 +821,8 @@
 | ✅ | ONNJ (On New Jersey) | Backend: Amagi | `` |
 | ✅ | Ontario Public Access Channel (Ontario CA) | Other Services | `` |
 | ✅ | Orange TV (Orange County CA) | Other Services | `` |
-| ❌ | Pacific Coast TV HMB Coastside Channel 27 (Pacifica CA) | Local Gov/Public | `` |
-| ❌ | Pacific Coast TV MWSD Channel 26 (Pacifica CA) | Local Gov/Public | `` |
+| ✅ | Pacific Coast TV HMB Coastside Channel 27 (Pacifica CA) | Local Gov/Public | `` |
+| ✅ | Pacific Coast TV MWSD Channel 26 (Pacifica CA) | Local Gov/Public | `` |
 | ❌ | Palm Beach County TV Channel 20 (Palm Beach County FL) | Other Services | `` |
 | ✅ | Palm Beaches TV | Other Services | `` |
 | ❌ | Palm Springs Community Television (Palm Springs CA) | Other Services | `` |
@@ -861,9 +861,9 @@
 | ❌ | SGTV (Seminole County FL) | Other Services | `` |
 | ✅ | SLO County Channel 21 (Morro Bay CA) | Other Services | `` |
 | ❌ | SLO County Channel 21 (San Luis Obispo CA) | Other Services | `` |
-| ❌ | Sound View Community Media Education | Local Gov/Public | `` |
-| ❌ | Sound View Community Media Government | Local Gov/Public | `` |
-| ❌ | Sound View Community Media Local Public | Local Gov/Public | `` |
+| ✅ | Sound View Community Media Education | Local Gov/Public | `` |
+| ✅ | Sound View Community Media Government | Local Gov/Public | `` |
+| ✅ | Sound View Community Media Local Public | Local Gov/Public | `` |
 | ✅ | St. Johns County Government GTV (St. Johns County FL) | Other Services | `` |
 | ✅ | St. Pete TV (SPTV) (St Petersburg FL) | Other Services | `` |
 | ❌ | Stockton GovTV (Stockton CA) | Other Services | `` |
@@ -900,8 +900,8 @@
 | ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
-| ❌ | Canal 2 de Ushuaia | Other Services | `` |
-| ❌ | Canal 2 Misiones | Other Services | `` |
+| ✅ | Canal 2 de Ushuaia | Other Services | `` |
+| ✅ | Canal 2 Misiones | Other Services | `` |
 | ❌ | Canal 21 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 26 Aguascalientes | Independent Streams | `` |
 | ❌ | Canal 28 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
@@ -1003,7 +1003,7 @@
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ❌ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
 | ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
-| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -2175,7 +2175,7 @@
 | ❌ | Vevo R&B | Backend: Amagi | `` |
 | ✅ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
 | ✅ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
-| ❌ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
+| ✅ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
 | ✅ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
 | ✅ | Amazon | XITE 60s & 70s Groove | Backend: Amagi | `` |
 | ✅ | Amazon | XITE 80s Flashback | Backend: Amagi | `XITE.80s.Flashback.DUMMY.us` |
