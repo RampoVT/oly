@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-14 12:10
+# 📺 Playlist Status Update: 2026-07-14 14:48
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,18 +551,18 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -709,9 +709,9 @@
 | ✅ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
 | ❌ | CobbTV (Atlanta GA) | Other Services | `` |
 | ❌ | Collier Television CTV (Naples FL) | Local Gov/Public | `` |
-| ✅ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
-| ✅ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
-| ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
+| ❌ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
+| ❌ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
+| ❌ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
 | ❌ | Coral Gables Television (Coral Gables FL) | Other Services | `` |
 | ✅ | Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA) | Other Services | `` |
@@ -1005,7 +1005,7 @@
 | ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
-| ❌ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
+| ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
 | ❌ | WNEU-TV Telemundo 60 (Boston MA) | Rocket Service | `WNEU-DT.us_locals1` |
 | ❌ | WNJU-TV Telemundo 47 (New York NY) | Rocket Service | `WNJU-DT.us_locals1` |
@@ -1558,7 +1558,7 @@
 | ✅ | Outdoor America | Local Now | `Outdoor.America.Field.and.Stream.us2` |
 | ✅ | Outdoor TV | Backend: Amagi | `Outdoor.America.Field.and.Stream.us2` |
 | ✅ | PAC 12 Insider | Backend: Amagi | `` |
-| ✅ | PBR RidePass | Other Services | `` |
+| ❌ | PBR RidePass | Other Services | `` |
 | ✅ | PBTV Pickleball TV | Backend: Amagi | `` |
 | ✅ | People are Awesome | Other Services | `` |
 | ✅ | PGA Tour | Backend: Cloudfront | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
