@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-15 20:07
+# 📺 Playlist Status Update: 2026-07-15 21:58
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,15 +553,15 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
@@ -960,8 +960,8 @@
 | ✅ | N+ Univision 24/7 | Spanish Services | `Univision.Network.HD.us2` |
 | ✅ | Noticias Telemundo Ahora | Backend: Cloudfront | `` |
 | ✅ | Once (México) | Other Services | `Once.us2` |
-| ✅ | PSN Canal 45.1 | Other Services | `` |
-| ✅ | PSN Canal 45.2 | Other Services | `` |
+| ❌ | PSN Canal 45.1 | Other Services | `` |
+| ❌ | PSN Canal 45.2 | Other Services | `` |
 | ✅ | RCG | Other Services | `` |
 | ❌ | RCG .2 | Other Services | `` |
 | ❌ | RCG .3 | Other Services | `` |
@@ -998,12 +998,12 @@
 | ✅ | WBGO-TV Univision 66 (Chicago IL) | Spanish Services | `` |
 | ❌ | WDWL-DT1 36 (Bayamon PR) | Independent Streams | `WDWL-DT.us_locals1` |
 | ❌ | WECN-TV Único TV | Independent Streams | `WECN-DT.us_locals1` |
-| ❌ | WELU-DT1 CTNi 34 (Puerto Rico) | Other Services | `WELU-DT.us_locals1` |
+| ✅ | WELU-DT1 CTNi 34 (Puerto Rico) | Other Services | `WELU-DT.us_locals1` |
 | ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Spanish Services | `WFUT-DT.us_locals1` |
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ❌ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
 | ✅ | WKAQ-DT Punto 2 2.2 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
-| ❌ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
+| ✅ | WKAQ-TV Telemundo 2.1 (San Juan PR) | Other Services | `WKAQ-DT.us_locals1` |
 | ❌ | WKTB-TV Telemundo 47 (Atlanta GA) | Rocket Service | `WKTB-CD.us_locals1` |
 | ✅ | WLII-TV Univision 11 (San Juan PR) | Other Services | `WLII-DT.us_locals1` |
 | ✅ | WLTV-TV Univision 23 (Miami FL) | Spanish Services | `WLTV-DT.us_locals1` |
@@ -1873,7 +1873,7 @@
 | ✅ | The Connors | Backend: Amagi | `` |
 | ✅ | The Dick Van Dyke Show | Other Services | `` |
 | ✅ | The Doctors | Other Services | `` |
-| ✅ | The Ed Sullivan Show | Other Services | `` |
+| ❌ | The Ed Sullivan Show | Other Services | `` |
 | ❌ | The Ellen Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
 | ✅ | The Good Wife | Pluto TV | `` |
 | ✅ | The Graham Norton Show | Other Services | `` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
