@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-16 04:07
+# 📺 Playlist Status Update: 2026-07-16 07:22
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,19 +551,19 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -573,13 +573,13 @@
 | ✅ | OAN Plus | Backend: Amagi | `` |
 | ✅ | Real America's Voice | Backend: Wurl | `Real.Americas.Voice.us2` |
 | ✅ | Reuters TV | Backend: Amagi | `` |
-| ❌ | RT News | Other Services | `` |
+| ✅ | RT News | Other Services | `` |
 | ✅ | Salem News Channel | Backend: Amagi | `Salem.News.Channel.us2` |
 | ✅ | Scripps News | Backend: Uplynk | `Scripps.News.us2` |
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ✅ | TED Talks | Backend: Amagi | `` |
+| ❌ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -692,7 +692,7 @@
 | ❌ | CAN TV36 (Chicago IL) | Other Services | `` |
 | ❌ | CAPS Media Channel 15 (Ventura CA) | Local Gov/Public | `` |
 | ❌ | CAPS Media Channel 6 (Ventura CA) | Local Gov/Public | `` |
-| ✅ | Carlsbad City TV Channel (Carlsbad CA) | Other Services | `` |
+| ❌ | Carlsbad City TV Channel (Carlsbad CA) | Other Services | `` |
 | ✅ | CCPS (Collier County Public Schools Education Channel) (Naples FL) | Other Services | `` |
 | ❌ | CCPTV (Community College of Philadelphia) (Philadelphia PA) | Local Gov/Public | `` |
 | ❌ | CCX Media (Minneapolis/St. Paul MN) | Local Gov/Public | `` |
@@ -731,8 +731,8 @@
 | ✅ | El Segundo Media (El Segundo CA) | Other Services | `` |
 | ❌ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
 | ✅ | Fairfield Government Access Channel 26 (Fairfield CA) | Local Gov/Public | `` |
-| ❌ | FCPS Channel 21 (Fairfax County Public Schools) | Other Services | `` |
-| ❌ | FCPS Channel 25 (Fairfax County Public Schools) | Other Services | `` |
+| ✅ | FCPS Channel 21 (Fairfax County Public Schools) | Other Services | `` |
+| ✅ | FCPS Channel 25 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 99 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | Fernandina Beach City Meeting (Fernandina Beach FL) | Other Services | `` |
 | ✅ | Fort Lauderdale FLTV (Fort Lauderdale FL) | Other Services | `` |
@@ -802,7 +802,7 @@
 | ❌ | Millbrae Community Television (Millbrae CA) | Independent Streams | `` |
 | ❌ | Moorpark Government Channel (Moorpark CA) | Other Services | `` |
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
-| ✅ | MPLS-TV | Other Services | `` |
+| ❌ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
 | ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
