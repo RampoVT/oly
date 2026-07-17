@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-17 14:42
+# 📺 Playlist Status Update: 2026-07-17 16:13
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,19 +551,19 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -709,9 +709,9 @@
 | ✅ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
 | ❌ | CobbTV (Atlanta GA) | Other Services | `` |
 | ❌ | Collier Television CTV (Naples FL) | Local Gov/Public | `` |
-| ✅ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
-| ✅ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
-| ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
+| ❌ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
+| ❌ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
+| ❌ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
 | ❌ | Coral Gables Television (Coral Gables FL) | Other Services | `` |
 | ✅ | Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA) | Other Services | `` |
@@ -898,7 +898,7 @@
 | ❌ | Canal 15 Sabinas | Other Services | `` |
 | ❌ | Canal 2 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
-| ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
+| ❌ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
 | ✅ | Canal 2 de Ushuaia | Other Services | `` |
 | ✅ | Canal 2 Misiones | Other Services | `` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
