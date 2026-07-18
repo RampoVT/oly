@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-18 09:23
+# 📺 Playlist Status Update: 2026-07-18 11:01
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,18 +551,18 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -693,7 +693,7 @@
 | ❌ | CAPS Media Channel 15 (Ventura CA) | Local Gov/Public | `` |
 | ❌ | CAPS Media Channel 6 (Ventura CA) | Local Gov/Public | `` |
 | ✅ | Carlsbad City TV Channel (Carlsbad CA) | Other Services | `` |
-| ✅ | CCPS (Collier County Public Schools Education Channel) (Naples FL) | Other Services | `` |
+| ❌ | CCPS (Collier County Public Schools Education Channel) (Naples FL) | Other Services | `` |
 | ❌ | CCPTV (Community College of Philadelphia) (Philadelphia PA) | Local Gov/Public | `` |
 | ❌ | CCX Media (Minneapolis/St. Paul MN) | Local Gov/Public | `` |
 | ✅ | Cerritos TV | Local Gov/Public | `` |
@@ -1510,7 +1510,7 @@
 | ✅ | HBCU Go Sports | Other Services | `` |
 | ✅ | HBO Boxing by WB | Backend: Amagi | `` |
 | ❌ | Impact Plus! | Backend: Cloudfront | `` |
-| ✅ | K-Baseball TV | Backend: Amagi | `` |
+| ❌ | K-Baseball TV | Backend: Amagi | `` |
 | ✅ | Lacrosse TV | Other Services | `` |
 | ✅ | Locked on Atlanta | Other Services | `` |
 | ✅ | Locked on College Sports | Other Services | `` |
@@ -2175,7 +2175,7 @@
 | ❌ | Vevo R&B | Backend: Amagi | `` |
 | ✅ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
 | ✅ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
-| ✅ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
+| ❌ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
 | ✅ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
 | ✅ | Amazon | XITE 60s & 70s Groove | Backend: Amagi | `` |
 | ✅ | Amazon | XITE 80s Flashback | Backend: Amagi | `XITE.80s.Flashback.DUMMY.us` |
@@ -2488,14 +2488,14 @@
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
+| ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
 | ❌ | Challenge (UK) | Rocket Service | `Challenge.uk` |
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
