@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-19 16:57
+# 📺 Playlist Status Update: 2026-07-19 17:58
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,16 +551,16 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -734,7 +734,7 @@
 | ✅ | FCPS Channel 21 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 25 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 99 (Fairfax County Public Schools) | Other Services | `` |
-| ❌ | Fernandina Beach City Meeting (Fernandina Beach FL) | Other Services | `` |
+| ✅ | Fernandina Beach City Meeting (Fernandina Beach FL) | Other Services | `` |
 | ✅ | Fort Lauderdale FLTV (Fort Lauderdale FL) | Other Services | `` |
 | ✅ | Fort Pierce Live Stream (Fort Pierce FL) | Other Services | `` |
 | ❌ | FPTV (Fayetteville Public Television) (Fayetteville AR) | Other Services | `` |
@@ -1607,7 +1607,7 @@
 | ✅ | TVS Boxing | Other Services | `Bowling.TV.us2` |
 | ✅ | TVS TeleSports | Other Services | `` |
 | ✅ | TVS Turbo Network | Other Services | `Start.TV.Network.us2` |
-| ❌ | TVS Women Sports | Other Services | `` |
+| ✅ | TVS Women Sports | Other Services | `` |
 | ❌ | UFC Channel | Other Services | `ABS-CBN.News.Channel.us2` |
 | ❌ | UFC Channel 24/7 | KSTV US | `` |
 | ❌ | UFC Fight Pass | Rocket Service | `UFC.Fight.Pass.Dummy.us` |
@@ -1761,7 +1761,7 @@
 | ❌ | The Movie Channel (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
-| ❌ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
+| ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
 | ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
