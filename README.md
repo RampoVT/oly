@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-19 05:50
+# 📺 Playlist Status Update: 2026-07-19 08:13
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -555,15 +555,15 @@
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ✅ | TED Talks | Backend: Amagi | `` |
+| ❌ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -864,7 +864,7 @@
 | ✅ | Sound View Community Media Education | Local Gov/Public | `` |
 | ✅ | Sound View Community Media Government | Local Gov/Public | `` |
 | ✅ | Sound View Community Media Local Public | Local Gov/Public | `` |
-| ❌ | St. Johns County Government GTV (St. Johns County FL) | Other Services | `` |
+| ✅ | St. Johns County Government GTV (St. Johns County FL) | Other Services | `` |
 | ✅ | St. Pete TV (SPTV) (St Petersburg FL) | Other Services | `` |
 | ❌ | Stockton GovTV (Stockton CA) | Other Services | `` |
 | ✅ | Tampa Bay Communnity Network TBCN (Tampa Bay FL) | Local Gov/Public | `` |
@@ -898,7 +898,7 @@
 | ❌ | Canal 15 Sabinas | Other Services | `` |
 | ❌ | Canal 2 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
-| ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
+| ❌ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
 | ✅ | Canal 2 de Ushuaia | Other Services | `` |
 | ✅ | Canal 2 Misiones | Other Services | `` |
@@ -953,7 +953,7 @@
 | ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
@@ -1064,7 +1064,7 @@
 | ❌ | Justice Central TV | Rocket Service | `Justice.Central.HD.us2` |
 | ❌ | Law & Crime | Local Now | `Law.and.Crime.us2` |
 | ✅ | Love & Nature | Backend: Amagi | `Love.Nature.Dummy.us` |
-| ✅ | Meateater | Backend: Amagi | `` |
+| ❌ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
 | ❌ | NASA | Other Services | `NASA.Plus.us2` |
@@ -1510,7 +1510,7 @@
 | ✅ | HBCU Go Sports | Other Services | `` |
 | ✅ | HBO Boxing by WB | Backend: Amagi | `` |
 | ❌ | Impact Plus! | Backend: Cloudfront | `` |
-| ❌ | K-Baseball TV | Backend: Amagi | `` |
+| ✅ | K-Baseball TV | Backend: Amagi | `` |
 | ✅ | Lacrosse TV | Other Services | `` |
 | ✅ | Locked on Atlanta | Other Services | `` |
 | ✅ | Locked on College Sports | Other Services | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1869,11 +1869,11 @@
 | ✅ | The Best of Dr. Phil | Pluto TV | `` |
 | ✅ | The Beverly Hillbillies | Other Services | `` |
 | ✅ | The Bob Ross Channel | Other Services | `The.Cowboy.Channel.us2` |
-| ❌ | The Carol Burnette Show | Other Services | `` |
+| ✅ | The Carol Burnette Show | Other Services | `` |
 | ✅ | The Connors | Backend: Amagi | `` |
-| ❌ | The Dick Van Dyke Show | Other Services | `` |
+| ✅ | The Dick Van Dyke Show | Other Services | `` |
 | ✅ | The Doctors | Other Services | `` |
-| ❌ | The Ed Sullivan Show | Other Services | `` |
+| ✅ | The Ed Sullivan Show | Other Services | `` |
 | ❌ | The Ellen Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
 | ✅ | The Good Wife | Pluto TV | `` |
 | ✅ | The Graham Norton Show | Other Services | `` |
