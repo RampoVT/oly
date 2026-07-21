@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-21 21:06
+# 📺 Playlist Status Update: 2026-07-21 22:54
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -488,7 +488,7 @@
 | ✅ | LocalNow | Local Now | `` |
 | ✅ | LocalNow (Los Angeles CA) | Spanish Services | `` |
 | ✅ | LocalNow (New York NY) | Spanish Services | `` |
-| ❌ | LocalNow (Chicago IL) | Spanish Services | `` |
+| ✅ | LocalNow (Chicago IL) | Spanish Services | `` |
 | ✅ | LocalNow (Detroit MI) | Spanish Services | `` |
 | ✅ | LocalNow (Minneapolis/St. Paul MN) | Spanish Services | `` |
 | ✅ | LocalNow (Miami FL) | Spanish Services | `` |
@@ -555,15 +555,15 @@
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -699,7 +699,7 @@
 | ✅ | Cerritos TV | Local Gov/Public | `` |
 | ✅ | CGTV (Champaign Government Television) (Champaign IL) | Local Gov/Public | `` |
 | ✅ | Charlotte County CC-TV (Charlotte County FL) | Other Services | `` |
-| ❌ | City of Detroit Channel 10 | Local Gov/Public | `` |
+| ✅ | City of Detroit Channel 10 | Local Gov/Public | `` |
 | ✅ | City of Las Vegas (Las Vegas NV) | Backend: Cloudfront | `` |
 | ✅ | City of Miami TV (Miami FL) | Other Services | `` |
 | ✅ | City of Scottsdale Channel 11 (Scottsdale AZ) | Other Services | `` |
@@ -1376,7 +1376,7 @@
 | ✅ | TBS+ (East) | Other Services | `TBS.HD.(Pacific).us2` |
 | ✅ | TBS+ (West) | Other Services | `TBS.HD.(Pacific).us2` |
 | ❌ | TCM (Turner Classic Movies) | Rocket Service | `` |
-| ❌ | TCM+ (East) | Other Services | `` |
+| ✅ | TCM+ (East) | Other Services | `` |
 | ✅ | TCM+ (West) | Other Services | `` |
 | ❌ | The Africa Channel | Rocket Service | `The.Africa.Channel.us2` |
 | ✅ | The BLK Effect | Backend: Amagi | `` |
