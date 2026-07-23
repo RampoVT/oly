@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-23 22:54
+# 📺 Playlist Status Update: 2026-07-23 23:58
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,7 +553,7 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -681,7 +681,7 @@
 | ✅ | Beach TV Panama City | Other Services | `` |
 | ✅ | BHTV10 (Beverly Hills Television) (Beverly Hills CA) | Other Services | `` |
 | ✅ | BHTV35 (Beverly Hills Television) (Beverly Hills CA) | Other Services | `` |
-| ✅ | BNN (Boston Neighborhood Network) | Local Gov/Public | `` |
+| ❌ | BNN (Boston Neighborhood Network) | Local Gov/Public | `` |
 | ✅ | Brevard County Government Access TV (Brevard FL) | Other Services | `` |
 | ✅ | Buena Park Television (Buena Park CA) | Local Gov/Public | `` |
 | ✅ | Burbank Channel (Burbank CA) | Other Services | `` |
@@ -917,7 +917,7 @@
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
 | ✅ | Canal Once.3 Digital (México) | Other Services | `` |
-| ✅ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ❌ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | KAKW-TV Univision 62 (Austin TX) | Other Services | `KAKW-DT.us_locals1` |
 | ❌ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket Service | `KASA-DT.us_locals1` |
 | ❌ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket Service | `KBLR-DT.us_locals1` |
@@ -949,11 +949,11 @@
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
 | ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
@@ -962,7 +962,7 @@
 | ✅ | Once (México) | Other Services | `Once.us2` |
 | ✅ | PSN Canal 45.1 | Other Services | `` |
 | ✅ | PSN Canal 45.2 | Other Services | `` |
-| ✅ | RCG | Other Services | `` |
+| ❌ | RCG | Other Services | `` |
 | ❌ | RCG .2 | Other Services | `` |
 | ❌ | RCG .3 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.1 | Other Services | `` |
@@ -998,7 +998,7 @@
 | ✅ | WBGO-TV Univision 66 (Chicago IL) | Spanish Services | `` |
 | ❌ | WDWL-DT1 36 (Bayamon PR) | Independent Streams | `WDWL-DT.us_locals1` |
 | ❌ | WECN-TV Único TV | Independent Streams | `WECN-DT.us_locals1` |
-| ✅ | WELU-DT1 CTNi 34 (Puerto Rico) | Other Services | `WELU-DT.us_locals1` |
+| ❌ | WELU-DT1 CTNi 34 (Puerto Rico) | Other Services | `WELU-DT.us_locals1` |
 | ✅ | WFUT-TV/WFTY-DT UniMás 67 (New York NY) | Spanish Services | `WFUT-DT.us_locals1` |
 | ✅ | WIPR-TV 6 (San Juan PR) | Other Services | `WIPR-DT.us_locals1` |
 | ✅ | WJAN-CD América TeVé 41 (Miami FL) | Other Services | `WJAN-CD.us_locals1` |
@@ -1150,7 +1150,7 @@
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
 | ✅ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
-| ❌ | 30A Ridiculous TV | Other Services | `` |
+| ✅ | 30A Ridiculous TV | Other Services | `` |
 | ✅ | Adult Swim 24/7 | Other Services | `` |
 | ✅ | Adult Swim+ (East) | Other Services | `` |
 | ✅ | Adult Swim+ (West) | Other Services | `` |
@@ -1376,7 +1376,7 @@
 | ✅ | TBS+ (East) | Other Services | `TBS.HD.(Pacific).us2` |
 | ✅ | TBS+ (West) | Other Services | `TBS.HD.(Pacific).us2` |
 | ❌ | TCM (Turner Classic Movies) | Rocket Service | `` |
-| ✅ | TCM+ (East) | Other Services | `` |
+| ❌ | TCM+ (East) | Other Services | `` |
 | ✅ | TCM+ (West) | Other Services | `` |
 | ❌ | The Africa Channel | Rocket Service | `The.Africa.Channel.us2` |
 | ✅ | The BLK Effect | Backend: Amagi | `` |
