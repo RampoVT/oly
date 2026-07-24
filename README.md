@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-23 23:58
+# 📺 Playlist Status Update: 2026-07-24 03:14
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,17 +553,17 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -681,7 +681,7 @@
 | ✅ | Beach TV Panama City | Other Services | `` |
 | ✅ | BHTV10 (Beverly Hills Television) (Beverly Hills CA) | Other Services | `` |
 | ✅ | BHTV35 (Beverly Hills Television) (Beverly Hills CA) | Other Services | `` |
-| ❌ | BNN (Boston Neighborhood Network) | Local Gov/Public | `` |
+| ✅ | BNN (Boston Neighborhood Network) | Local Gov/Public | `` |
 | ✅ | Brevard County Government Access TV (Brevard FL) | Other Services | `` |
 | ✅ | Buena Park Television (Buena Park CA) | Local Gov/Public | `` |
 | ✅ | Burbank Channel (Burbank CA) | Other Services | `` |
@@ -917,7 +917,7 @@
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
 | ✅ | Canal Once.3 Digital (México) | Other Services | `` |
-| ❌ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ✅ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | KAKW-TV Univision 62 (Austin TX) | Other Services | `KAKW-DT.us_locals1` |
 | ❌ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket Service | `KASA-DT.us_locals1` |
 | ❌ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket Service | `KBLR-DT.us_locals1` |
@@ -949,11 +949,11 @@
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
 | ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
@@ -1376,7 +1376,7 @@
 | ✅ | TBS+ (East) | Other Services | `TBS.HD.(Pacific).us2` |
 | ✅ | TBS+ (West) | Other Services | `TBS.HD.(Pacific).us2` |
 | ❌ | TCM (Turner Classic Movies) | Rocket Service | `` |
-| ❌ | TCM+ (East) | Other Services | `` |
+| ✅ | TCM+ (East) | Other Services | `` |
 | ✅ | TCM+ (West) | Other Services | `` |
 | ❌ | The Africa Channel | Rocket Service | `The.Africa.Channel.us2` |
 | ✅ | The BLK Effect | Backend: Amagi | `` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
