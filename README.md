@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-25 07:13
+# 📺 Playlist Status Update: 2026-07-25 09:44
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -555,14 +555,14 @@
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -839,7 +839,7 @@
 | ✅ | Pompano Beach Web Streaming (Pompano Beach FL) | Other Services | `` |
 | ✅ | Poudre School District TV (PSD TV) (Fort Collins CO) | Local Gov/Public | `` |
 | ✅ | Public Access Channel 3 (San Dimas CA) | Backend: Cloudfront | `` |
-| ✅ | Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) | Local Gov/Public | `` |
+| ❌ | Rancho Cucamonga RCTV3 (Rancho Cucamonga CA) | Local Gov/Public | `` |
 | ✅ | Regional Channel (San Bernardino CA) | Local Gov/Public | `` |
 | ✅ | RivCo (Riverside CA) | Backend: Cloudfront | `` |
 | ❌ | Rocky Hill Community TV (Rocky Hill CT) | Other Services | `` |
@@ -1510,7 +1510,7 @@
 | ✅ | HBCU Go Sports | Other Services | `` |
 | ✅ | HBO Boxing by WB | Backend: Amagi | `` |
 | ❌ | Impact Plus! | Backend: Cloudfront | `` |
-| ✅ | K-Baseball TV | Backend: Amagi | `` |
+| ❌ | K-Baseball TV | Backend: Amagi | `` |
 | ✅ | Lacrosse TV | Other Services | `` |
 | ✅ | Locked on Atlanta | Other Services | `` |
 | ✅ | Locked on College Sports | Other Services | `` |
