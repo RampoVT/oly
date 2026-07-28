@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-28 00:12
+# 📺 Playlist Status Update: 2026-07-28 04:01
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -403,8 +403,8 @@
 | ❌ | KTTV-TV FOX 11 24/7 News (Los Angeles CA) | Backend: Cloudfront | `KTTV-DT.us_locals1` |
 | ✅ | KNSD-TV NBC 7/39 24/7 News (San Diego CA) | Backend: Cloudfront | `KNSD-DT.us_locals1` |
 | ✅ | KFMB-TV CBS 8 24/7 News (San Diego CA) | Other Services | `KFMB-DT.us_locals1` |
-| ❌ | KGTV-TV ABC 10 24/7 News (San Diego CA) | Backend: Uplynk | `KGTV-DT.us_locals1` |
-| ❌ | KERO-TV ABC 23 24/7 News (Bakersfield CA) | Backend: Uplynk | `KERO-DT.us_locals1` |
+| ✅ | KGTV-TV ABC 10 24/7 News (San Diego CA) | Backend: Uplynk | `KGTV-DT.us_locals1` |
+| ✅ | KERO-TV ABC 23 24/7 News (Bakersfield CA) | Backend: Uplynk | `KERO-DT.us_locals1` |
 | ❌ | WITN-TV 22 24/7 News (Wilmington DE) | Local Gov/Public | `WITN-DT.us_locals1` |
 | ✅ | WJAX-TV CBS 47 24/7 News (Jacksonville FL) | Backend: Amagi | `WJAX-DT.us_locals1` |
 | ✅ | KTVU-TV FOX 2 24/7 News (San Francisco CA) | Backend: Amagi | `KTVU-DT.us_locals1` |
@@ -422,7 +422,7 @@
 | ✅ | WFLD-TV FOX 32 24/7 News (Chicago IL) | Backend: Amagi | `WFLD-DT.us_locals1` |
 | ✅ | WJBK-TV FOX 2 24/7 News (Detroit MI) | Backend: Amagi | `WJBK-DT.us_locals1` |
 | ✅ | WDIV-TV NBC 4 "Local 4+" 24/7 News (Detroit MI) | Other Services | `WDIV-DT.us_locals1` |
-| ❌ | WXYZ-TV ABC 7 24/7 News (Detroit MI) | Tubi TV | `WXYZ-DT.us_locals1` |
+| ✅ | WXYZ-TV ABC 7 24/7 News (Detroit MI) | Tubi TV | `WXYZ-DT.us_locals1` |
 | ✅ | WWJ-TV CBS 62 24/7 News (Detroit MI) | Other Services | `` |
 | ✅ | WCCO-TV CBS 4 24/7 News (Minneapolis/St. Paul MN) | Other Services | `WCCO-DT.us_locals1` |
 | ❌ | KSTP-TV ABC 5 24/7 News (Minneapolis/St. Paul MN) | Local Now | `KSTP-DT.us_locals1` |
@@ -437,15 +437,15 @@
 | ✅ | WBTS-CD NBC 10 24/7 News (Boston MA) | Backend: Cloudfront | `WBTS-CD.us_locals1` |
 | ✅ | WFXT-CD FOX 25 24/7 News (Boston MA) | Other Services | `WFXT-DT.us_locals1` |
 | ✅ | KDKA-TV CBS 2 24/7 News (Pittsburgh PA) | Other Services | `KDKA-DT.us_locals1` |
-| ❌ | WTAE-TV ABC 4 24/7 News (Pittsburgh PA) | Backend: Uplynk | `WTAE-DT.us_locals1` |
+| ✅ | WTAE-TV ABC 4 24/7 News (Pittsburgh PA) | Backend: Uplynk | `WTAE-DT.us_locals1` |
 | ✅ | WPXI-TV NBC 11 24/7 News (Pittsburgh PA) | Backend: Amagi | `WPXI-DT.us_locals1` |
 | ✅ | WFOR-TV CBS 4 24/7 News (Miami FL) | Other Services | `WFOR-DT.us_locals1` |
 | ✅ | WTVJ-TV NBC 6 24/7 News (Miami FL) | Backend: Cloudfront | `WTVJ-DT.us_locals1` |
 | ✅ | WPLG-TV ABC 10 24/7 News (Miami FL) | Backend: Cloudfront | `WPLG-DT.us_locals1` |
 | ✅ | WTSP-TV CBS 10 24/7 News (Tampa Bay FL) | Other Services | `WTSP-DT.us_locals1` |
 | ✅ | WTVT-TV FOX 13 24/7 News (Tampa Bay FL) | Backend: Amagi | `WTVT-DT.us_locals1` |
-| ❌ | WFTS-TV ABC 28 24/7 News (Tampa Bay FL) | Backend: Uplynk | `WFTS-DT.us_locals1` |
-| ❌ | WESH-TV NBC 2 24/7 News (Orlando FL) | Backend: Uplynk | `WESH-DT.us_locals1` |
+| ✅ | WFTS-TV ABC 28 24/7 News (Tampa Bay FL) | Backend: Uplynk | `WFTS-DT.us_locals1` |
+| ✅ | WESH-TV NBC 2 24/7 News (Orlando FL) | Backend: Uplynk | `WESH-DT.us_locals1` |
 | ✅ | WFTV-TV ABC 9 24/7 News (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
 | ✅ | WFTV-TV ABC 9 Now (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
 | ✅ | WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
@@ -463,10 +463,10 @@
 | ❌ | KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ) | Backend: Syncbak | `KTVK-DT.us_locals1` |
 | ✅ | KSAZ-TV FOX 10 (Phoenix AZ) | Backend: Amagi | `KSAZ-DT.us_locals1` |
 | ✅ | KPNX-TV NBC 12 24/7 News (Phoenix AZ) | Other Services | `KPNX-DT.us_locals1` |
-| ❌ | KNXV-TV ABC 15 24/7 News (Phoenix AZ) | Backend: Uplynk | `KNXV-DT.us_locals1` |
+| ✅ | KNXV-TV ABC 15 24/7 News (Phoenix AZ) | Backend: Uplynk | `KNXV-DT.us_locals1` |
 | ❌ | KSNV-TV NBC 3 24/7 News (Las Vegas NV) | Local Now | `KSNV-DT.us_locals1` |
 | ❌ | KVVU-TV FOX 5 (Las Vegas NV) | Backend: Amagi | `KVVU-DT.us_locals1` |
-| ❌ | KTNV-TV ABC 13 24/7 News (Las Vegas NV) | Backend: Uplynk | `KTNV-DT.us_locals1` |
+| ✅ | KTNV-TV ABC 13 24/7 News (Las Vegas NV) | Backend: Uplynk | `KTNV-DT.us_locals1` |
 | ✅ | WSB-TV ABC 2 24/7 News (Atlanta GA) | Backend: Amagi | `` |
 | ✅ | WAGA-TV FOX 5 24/7 News (Atlanta GA) | Backend: Amagi | `WAGA-DT.us_locals1` |
 | ✅ | WXIA-TV NBC 11 24/7 News (Atlanta GA) | Other Services | `WXIA-DT.us_locals1` |
@@ -475,7 +475,7 @@
 | ✅ | WSOC-TV ABC 9 24/7 News (Charlotte NC) | Backend: Amagi | `WSOC-DT.us_locals1` |
 | ✅ | WCNC-TV NBC 36 24/7 News (Charlotte NC) | Other Services | `WCNC-DT.us_locals1` |
 | ✅ | KCNC-TV CBS 4 24/7 News (Denver CO) | Other Services | `KCNC-DT.us_locals1` |
-| ❌ | KMGH-TV ABC 7 24/7 News (Denver CO) | Backend: Uplynk | `KMGH-DT.us_locals1` |
+| ✅ | KMGH-TV ABC 7 24/7 News (Denver CO) | Backend: Uplynk | `KMGH-DT.us_locals1` |
 | ✅ | KUSA-TV NBC 9 24/7 News (Denver CO) | Other Services | `KUSA-DT.us_locals1` |
 | ✅ | WRC-TV NBC 4 24/7 News (Washington DC) | Backend: Cloudfront | `` |
 | ✅ | WTTG-TV FOX 5 24/7 News (Washington DC) | Backend: Amagi | `WTTG-DT.us_locals1` |
@@ -485,7 +485,7 @@
 | ✅ | KING-TV NBC 5 24/7 News (Seattle WA) | Local Now | `KING-DT.us_locals1` |
 | ✅ | KIRO-TV CBS 7 24/7 News (Seattle WA) | Local Now | `KIRO-DT.us_locals1` |
 | ✅ | KCPQ-TV FOX 13 24/7 News (Seattle WA) | Backend: Amagi | `KCPQ-DT.us_locals1` |
-| ❌ | LocalNow | Local Now | `` |
+| ✅ | LocalNow | Local Now | `` |
 | ✅ | LocalNow (Los Angeles CA) | Spanish Services | `` |
 | ✅ | LocalNow (New York NY) | Spanish Services | `` |
 | ✅ | LocalNow (Chicago IL) | Spanish Services | `` |
@@ -507,7 +507,7 @@
 | ✅ | LocalNow (El Paso TX) | Spanish Services | `` |
 | ✅ | LocalNow (New Orleans LA) | Spanish Services | `` |
 | ✅ | ABC 20/20 | Backend: Amagi | `` |
-| ❌ | ABC Localish | Tubi TV | `` |
+| ✅ | ABC Localish | Tubi TV | `` |
 | ✅ | ABC News | Tubi TV | `ABC.News.Live.us2` |
 | ✅ | Al Jazeera English | Other Services | `` |
 | ✅ | BBC News North America | Other Services | `BBC.News.(North.America).HD.us2` |
@@ -551,18 +551,18 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -575,7 +575,7 @@
 | ✅ | Reuters TV | Backend: Amagi | `` |
 | ✅ | RT News | Other Services | `` |
 | ✅ | Salem News Channel | Backend: Amagi | `Salem.News.Channel.us2` |
-| ❌ | Scripps News | Backend: Uplynk | `Scripps.News.us2` |
+| ✅ | Scripps News | Backend: Uplynk | `Scripps.News.us2` |
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
@@ -662,7 +662,7 @@
 | ✅ | Access Tuolumne (Tuolumne County CA) | Local Gov/Public | `` |
 | ✅ | ACTV #1 | Other Services | `` |
 | ✅ | ACTV #2 | Local Gov/Public | `` |
-| ❌ | ACTV #3 | Other Services | `` |
+| ✅ | ACTV #3 | Other Services | `` |
 | ❌ | ACTV #4 | Other Services | `` |
 | ✅ | Akaku 53 (Maui Hi) | Other Services | `` |
 | ✅ | Akaku 54 (Maui Hi) | Other Services | `` |
@@ -766,7 +766,7 @@
 | ❌ | KOCT Oceanside Community Television Education and Government Channel 19 | Other Services | `` |
 | ✅ | KOCT-TV 18 (San Diego CA) | Other Services | `` |
 | ✅ | KOCT-TV 19 (San Diego CA) | Other Services | `` |
-| ❌ | KTOO-TV 360TV (Anchorage AK) | Other Services | `KTOO-DT.us_locals1` |
+| ✅ | KTOO-TV 360TV (Anchorage AK) | Other Services | `KTOO-DT.us_locals1` |
 | ❌ | KTOP-TV 10 City of Oakland (Oakland CA) | Other Services | `` |
 | ❌ | KTUU-TV 2 Alaska's News Source (Anchorage AK) | Backend: Syncbak | `KTUU-DT.us_locals1` |
 | ✅ | KVVB-TV 33 (Victorville CA) | Other Services | `` |
@@ -802,7 +802,7 @@
 | ❌ | Millbrae Community Television (Millbrae CA) | Independent Streams | `` |
 | ❌ | Moorpark Government Channel (Moorpark CA) | Other Services | `` |
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
-| ✅ | MPLS-TV | Other Services | `` |
+| ❌ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
 | ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
@@ -917,7 +917,7 @@
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
 | ✅ | Canal Once.3 Digital (México) | Other Services | `` |
-| ✅ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ❌ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | KAKW-TV Univision 62 (Austin TX) | Other Services | `KAKW-DT.us_locals1` |
 | ❌ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket Service | `KASA-DT.us_locals1` |
 | ❌ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket Service | `KBLR-DT.us_locals1` |
@@ -947,7 +947,7 @@
 | ❌ | Latin Hola TV | Rocket Service | `Â¡HOLA!.TV.us2` |
 | ✅ | LATV | Backend: Amagi | `` |
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
-| ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
@@ -1038,8 +1038,8 @@
 | ❌ | BBC Travel | Backend: Amagi | `Tastemade.Travel.us2` |
 | ✅ | CGTN Documentary | Other Services | `` |
 | ✅ | Choppertown | Other Services | `` |
-| ❌ | Court TV | Backend: Uplynk | `Court.TV.us2` |
-| ❌ | Court TV Legendary Trials | Backend: Uplynk | `Court.TV.us2` |
+| ✅ | Court TV | Backend: Uplynk | `Court.TV.us2` |
+| ✅ | Court TV Legendary Trials | Backend: Uplynk | `Court.TV.us2` |
 | ❌ | Crime & Investigation | Rocket Service | `Crime.and.Investigation.Network.HD.us2` |
 | ❌ | Curiosity Stream | Other Services | `Curiosity.Stream.Dummy.us` |
 | ❌ | Destination America | Rocket Service | `Destination.America.HD.us2` |
@@ -1047,14 +1047,14 @@
 | ❌ | Discovery Channel (West) | Rocket Service | `Discovery.Channel.HD.us2` |
 | ❌ | Discovery Life | Rocket Service | `Discovery.Life.Channel.us2` |
 | ❌ | Discovery Science | Rocket Service | `` |
-| ❌ | Discovery Turbo TV | Tubi TV | `Discovery.Turbo.TV.us2` |
+| ✅ | Discovery Turbo TV | Tubi TV | `Discovery.Turbo.TV.us2` |
 | ❌ | DOC+ | Backend: Cloudfront | `` |
-| ❌ | Documentary+ | Other Services | `` |
+| ✅ | Documentary+ | Other Services | `` |
 | ❌ | DogTV | KSTV US | `` |
 | ✅ | EarthXtra | Backend: Cloudfront | `` |
 | ✅ | FilmRise Fprensic Files | Backend: Cloudfront | `` |
 | ✅ | FilmRise Untold Stories of the ER | Backend: Cloudfront | `` |
-| ❌ | Go USA | Other Services | `` |
+| ✅ | Go USA | Other Services | `` |
 | ✅ | Haunt TV | Backend: Amagi | `Haunt.TV.us2` |
 | ❌ | History Channel | Rocket Service | `History.Channel.En.EspaÃ±ol.us2` |
 | ✅ | History Hit | Backend: Amagi | `History.Channel.En.EspaÃ±ol.us2` |
@@ -1098,7 +1098,7 @@
 | ✅ | truTV+ (East) | Other Services | `truTV.HD.(Pacific).us2` |
 | ✅ | truTV+ (West) | Other Services | `truTV.HD.(Pacific).us2` |
 | ✅ | TVS Hollywood History | Other Services | `` |
-| ❌ | WatchMojo | Other Services | `` |
+| ✅ | WatchMojo | Other Services | `` |
 | ✅ | Wild Earth | Backend: Cloudfront | `` |
 | ✅ | Xplore #1 | Backend: Amagi | `` |
 | ❌ | Xplore #2 | Backend: Cloudfront | `` |
@@ -1122,7 +1122,7 @@
 | ✅ | Go-Go Gadget (Pluto TV) | Pluto TV | `` |
 | ✅ | Kartoon Channel | Backend: Cloudfront | `` |
 | ✅ | Kids Net | Other Services | `` |
-| ❌ | Kids TV | Backend: Wurl | `LooLoo.Kids.TV.us2` |
+| ✅ | Kids TV | Backend: Wurl | `LooLoo.Kids.TV.us2` |
 | ❌ | MeTV Toons | Rocket Service | `MeTV.Toons.us2` |
 | ✅ | Nick (Pluto TV) | Pluto TV | `Nick.Jr.HD.us2` |
 | ❌ | Nick Jr. (East) | Rocket Service | `Nick.Jr.HD.us2` |
@@ -1139,7 +1139,7 @@
 | ✅ | PBS Kids (Hawaii) | Other Services | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Mountain) | Other Services | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Pacific) | Other Services | `PBS.KIDS.HD.us2` |
-| ❌ | PBS Kids (Rocky Mountain) | Other Services | `PBS.KIDS.HD.us2` |
+| ✅ | PBS Kids (Rocky Mountain) | Other Services | `PBS.KIDS.HD.us2` |
 | ❌ | Q Toons | Other Services | `MeTV.Toons.us2` |
 | ✅ | RetroCrush | Other Services | `` |
 | ❌ | TeenNick (East) | Rocket Service | `` |
@@ -1173,8 +1173,8 @@
 | ❌ | Funny Or Die | Backend: Wurl | `` |
 | ✅ | Hit Sitcoms by WB | Backend: Cloudfront | `` |
 | ✅ | Humor Mill | Backend: Cloudfront | `` |
-| ❌ | Just for Laughs Gags | Local Now | `` |
-| ❌ | Just for Laughs TV | Local Now | `` |
+| ✅ | Just for Laughs Gags | Local Now | `` |
+| ✅ | Just for Laughs TV | Local Now | `` |
 | ✅ | Kevin Hart’s LOL! Network | Backend: Cloudfront | `` |
 | ✅ | More TV Sitcoms | Pluto TV | `` |
 | ✅ | NBC Comedy Vault | Backend: Cloudfront | `NBC.Comedy.Vault.us2` |
@@ -1207,7 +1207,7 @@
 | ✅ | Afroland | Other Services | `` |
 | ❌ | AMC (American Movie Classics) (East) | Rocket Service | `AMC.HD.us2` |
 | ❌ | AMC (American Movie Classics) (West) | Rocket Service | `AMC.HD.us2` |
-| ❌ | AMC Thriller | Other Services | `` |
+| ✅ | AMC Thriller | Other Services | `` |
 | ❌ | AMC+ | Other Services | `AMC.HD.us2` |
 | ❌ | Antenna TV | Rocket Service | `Antenna.TV.us2` |
 | ❌ | Aspire | Rocket Service | `ASPiRE.HD.us2` |
@@ -1219,8 +1219,8 @@
 | ❌ | BBC America | Rocket Service | `BBC.America.HD.us2` |
 | ❌ | BBC Game Shows | Plex TV | `` |
 | ❌ | BBC Sci-Fi | Plex TV | `` |
-| ❌ | BET - Tyler Perry Comedy | Other Services | `` |
-| ❌ | BET - Tyler Perry Drama | Other Services | `` |
+| ✅ | BET - Tyler Perry Comedy | Other Services | `` |
+| ✅ | BET - Tyler Perry Drama | Other Services | `` |
 | ❌ | BET (East) | Rocket Service | `BET.GOSPEL.us2` |
 | ✅ | BET (Pluto TV) | Pluto TV | `BET.GOSPEL.us2` |
 | ❌ | BET (West) | Rocket Service | `BET.GOSPEL.us2` |
@@ -1261,7 +1261,7 @@
 | ❌ | E! (Entertainment Television) (West) | Rocket Service | `A.and.E.HD.East.us2` |
 | ✅ | Ebony TV by Lionsgate | Backend: Amagi | `` |
 | ✅ | El Rey Rebel | Backend: Amagi | `` |
-| ❌ | Farscape | Other Services | `` |
+| ✅ | Farscape | Other Services | `` |
 | ❌ | Fashion TV | Other Services | `` |
 | ❌ | fetv (Family Entertainment Television) | Rocket Service | `` |
 | ❌ | FMC (Family Movie Classics) | Rocket Service | `` |
@@ -1283,7 +1283,7 @@
 | ❌ | Game Show Central | Backend: Wurl | `` |
 | ❌ | Get Comedy | Backend: Wurl | `Catchy.Comedy.us2` |
 | ❌ | Get TV | Rocket Service | `` |
-| ❌ | Get TV (Alt) | Other Services | `` |
+| ✅ | Get TV (Alt) | Other Services | `` |
 | ✅ | Global Fashion Channel | Other Services | `` |
 | ❌ | Grit TV | Rocket Service | `` |
 | ✅ | Grit Xtra | Backend: Wurl | `` |
@@ -1317,7 +1317,7 @@
 | ❌ | LRW (LifeTime Real Women) | KSTV US | `` |
 | ✅ | Made In Hollywood by Movie Fone | Backend: Wurl | `` |
 | ❌ | Magnolia Network | Rocket Service | `Magnolia.Network.HD.us2` |
-| ❌ | Maverick Black Cinema | Tubi TV | `` |
+| ✅ | Maverick Black Cinema | Tubi TV | `` |
 | ❌ | Mediacorp Entertainment | Backend: Cloudfront | `` |
 | ❌ | MeTV (East) | Other Services | `MeTV.Plus.us2` |
 | ❌ | MeTV (West) | Rocket Service | `MeTV.Plus.us2` |
@@ -1338,7 +1338,7 @@
 | ❌ | Non-Stop 90's | Plex TV | `` |
 | ✅ | Nosey | Backend: Cloudfront | `Nosey.on.Peacock.us2` |
 | ❌ | Nosey (Alt) | Other Services | `Nosey.on.Peacock.us2` |
-| ❌ | NOST (The Nostalgia Network) | Other Services | `` |
+| ✅ | NOST (The Nostalgia Network) | Other Services | `` |
 | ✅ | ONTV4U | Other Services | `` |
 | ✅ | OuterSphere by Lionsgate | Backend: Amagi | `` |
 | ✅ | OUTtv Proud | Backend: Amagi | `` |
@@ -1460,11 +1460,11 @@
 | ✅ | CBS Sports HQ | Other Services | `CBS.Sports.Network.HD.us2` |
 | ❌ | CBS Sports Network | Rocket Service | `CBS.Sports.Network.HD.us2` |
 | ✅ | CBS Sports UEFA Champions League | Other Services | `UEFA.Champions.League.Dummy.us` |
-| ❌ | CHGO Sports | Other Services | `` |
+| ✅ | CHGO Sports | Other Services | `` |
 | ❌ | Chicago Sports Network | KSTV US | `CHSN.Chicago.Sports.Network.us2` |
-| ❌ | Court Sports Network | Other Services | `CBS.Sports.Network.HD.us2` |
+| ✅ | Court Sports Network | Other Services | `CBS.Sports.Network.HD.us2` |
 | ❌ | DAZN Ringside | Other Services | `` |
-| ❌ | DNVR Sports | Other Services | `` |
+| ✅ | DNVR Sports | Other Services | `` |
 | ❌ | Eleven Sports Network | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ❌ | EPG Fighting Network | Other Services | `` |
 | ❌ | ESPN | Rocket Service | `ESPN.Deportes.HD.us2` |
@@ -1497,17 +1497,17 @@
 | ❌ | FN (Fight Network) | Rocket Service | `` |
 | ❌ | FOX Soccer Plus | Rocket Service | `Fox.Soccer.Plus.HD.us2` |
 | ✅ | FOX Sports | Backend: Amagi | `Fox.Sports.4K.us2` |
-| ❌ | FOX Sports on Tubi | Tubi TV | `` |
+| ✅ | FOX Sports on Tubi | Tubi TV | `` |
 | ❌ | FOX Sports Racing | Rocket Service | `` |
 | ❌ | FS1 (Fox Sports 1) | Rocket Service | `FS1.Fox.Sports.1.HD.us2` |
 | ❌ | FS2 (Fox Sports 2) | Rocket Service | `FS2.Fox.Sports.2.HD.us2` |
 | ✅ | FTF Next Live | Other Services | `` |
-| ❌ | FTF Sports | Other Services | `AFN.sports.us2` |
+| ✅ | FTF Sports | Other Services | `AFN.sports.us2` |
 | ✅ | Fubo Sports Network | Other Services | `Fubo.Sports.us` |
 | ✅ | Fuel TV | Backend: Amagi | `` |
 | ✅ | Goal TV | Backend: Amagi | `` |
 | ❌ | Gol TV | Other Services | `GOL.TV.us2` |
-| ❌ | HBCU Go Sports | Other Services | `` |
+| ✅ | HBCU Go Sports | Other Services | `` |
 | ✅ | HBO Boxing by WB | Backend: Amagi | `` |
 | ❌ | Impact Plus! | Backend: Cloudfront | `` |
 | ✅ | K-Baseball TV | Backend: Amagi | `` |
@@ -1520,7 +1520,7 @@
 | ✅ | Marquee Sports Network | Other Services | `Marquee.Sports.Network.HD.us2` |
 | ❌ | MASN | Rocket Service | `MASN.-.Mid.Atlantic.Sports.Network.us2` |
 | ❌ | MASN 2 | Rocket Service | `MASN.-.Mid.Atlantic.Sports.Network.us2` |
-| ❌ | MLB Channel | Tubi TV | `ABS-CBN.News.Channel.us2` |
+| ✅ | MLB Channel | Tubi TV | `ABS-CBN.News.Channel.us2` |
 | ❌ | MLB Network | Rocket Service | `MLB.Network.HD.Alternate.us2` |
 | ❌ | MLB Network (Alt) | Rocket Service | `MLB.Network.HD.Alternate.us2` |
 | ❌ | MLB Strike Zone | Rocket Service | `MLB.Network.Strike.Zone.HD.us2` |
@@ -1532,7 +1532,7 @@
 | ❌ | MSG+ | Rocket Service | `MSG.(Alt..feed).-.MSG2.OVERFLOW.us2` |
 | ❌ | MSGSN | Rocket Service | `` |
 | ✅ | MTRSP1 | Backend: Amagi | `` |
-| ❌ | NASCAR | Tubi TV | `NASCAR.Channel.us2` |
+| ✅ | NASCAR | Tubi TV | `NASCAR.Channel.us2` |
 | ❌ | NBA TV | Rocket Service | `NBA.TV.HD.us2` |
 | ❌ | NBC Golf Channel | Rocket Service | `Golf.Channel.HD.us2` |
 | ✅ | NBC Golf Pass | Backend: Cloudfront | `` |
@@ -1554,15 +1554,15 @@
 | ❌ | NFL Red Zone #2 | Rocket Service | `NFL.SUNDAY.TICKET.RED.ZONE.us2` |
 | ✅ | NHL Channel | Backend: Amagi | `ABS-CBN.News.Channel.us2` |
 | ❌ | NHL Network | Rocket Service | `NHL.Network.HD.us2` |
-| ❌ | NHRA TV | Tubi TV | `` |
+| ✅ | NHRA TV | Tubi TV | `` |
 | ✅ | Outdoor America | Local Now | `Outdoor.America.Field.and.Stream.us2` |
 | ✅ | Outdoor TV | Backend: Amagi | `Outdoor.America.Field.and.Stream.us2` |
 | ✅ | PAC 12 Insider | Backend: Amagi | `` |
 | ✅ | PBR RidePass | Other Services | `` |
 | ✅ | PBTV Pickleball TV | Backend: Amagi | `` |
-| ❌ | People are Awesome | Other Services | `` |
+| ✅ | People are Awesome | Other Services | `` |
 | ✅ | PGA Tour | Backend: Cloudfront | `` |
-| ❌ | PHLY Sports | Other Services | `` |
+| ✅ | PHLY Sports | Other Services | `` |
 | ❌ | PHNX Sports | Backend: Cloudfront | `` |
 | ✅ | PickleTV | Backend: Wurl | `` |
 | ✅ | PokerGo | Local Now | `` |
@@ -1599,7 +1599,7 @@
 | ✅ | Tennis+ | Roku Channel | `Tennis.Channel.HD.us2` |
 | ❌ | The Cycling Channel | Other Services | `` |
 | ✅ | The NBA Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
-| ❌ | The Original Globetrotters | Other Services | `` |
+| ✅ | The Original Globetrotters | Other Services | `` |
 | ❌ | The Outdoor Channel | Rocket Service | `Outdoor.Channel.HD.us2` |
 | ✅ | TNA Wrestling Channel | Backend: Amagi | `` |
 | ✅ | TVS All American | Other Services | `` |
@@ -1615,7 +1615,7 @@
 | ✅ | Unbeaten | Backend: Amagi | `` |
 | ❌ | VSIN Sports | Rocket Service | `VSIN.Vegas.Sports.and.Information.Network.us2` |
 | ✅ | Willow Sports | Backend: Amagi | `` |
-| ❌ | Women's Sports Network | Tubi TV | `CBS.Sports.Network.HD.us2` |
+| ✅ | Women's Sports Network | Tubi TV | `CBS.Sports.Network.HD.us2` |
 | ✅ | WPT (World Poker Tour) | Backend: Amagi | `` |
 | ✅ | WSN (Women's Sports Network) | Other Services | `` |
 | ❌ | WWE Network | Rocket Service | `WWE.Network.us2` |
@@ -1682,22 +1682,22 @@
 | ✅ | LG Channel Romance Showcase | Backend: Amagi | `` |
 | ✅ | LG Channel Showcase | Backend: Amagi | `` |
 | ❌ | Maverick Black Cinema | Other Services | `` |
-| ❌ | MGM Presents | Other Services | `MGM.Presents.Action.us2` |
-| ❌ | MGM Presents (Action) | Other Services | `MGM.Presents.Action.us2` |
-| ❌ | MGM Presents (Horror) | Other Services | `MGM.Presents.Action.us2` |
-| ❌ | MGM Presents (Western) | Other Services | `MGM.Presents.Action.us2` |
+| ✅ | MGM Presents | Other Services | `MGM.Presents.Action.us2` |
+| ✅ | MGM Presents (Action) | Other Services | `MGM.Presents.Action.us2` |
+| ✅ | MGM Presents (Horror) | Other Services | `MGM.Presents.Action.us2` |
+| ✅ | MGM Presents (Western) | Other Services | `MGM.Presents.Action.us2` |
 | ❌ | MGM+ (East) | Rocket Service | `MGM+.Drive-In.us2` |
 | ❌ | MGM+ (West) | Rocket Service | `MGM+.Drive-In.us2` |
 | ❌ | MGM+ Drive-In | Rocket Service | `MGM+.Drive-In.us2` |
 | ❌ | MGM+ Hits | Rocket Service | `MGM+.Hits.HD.us2` |
 | ❌ | MGM+ Marquee | Rocket Service | `MGM+.Marquee.HD.us2` |
-| ❌ | Miramax Movie Channel | Other Services | `FX.Movie.Channel.HD.us2` |
+| ✅ | Miramax Movie Channel | Other Services | `FX.Movie.Channel.HD.us2` |
 | ✅ | Movie Hub | Roku Channel | `Movie.Hub.Action.us2` |
 | ✅ | Movie Hub Action | Roku Channel | `Movie.Hub.Action.us2` |
 | ❌ | MoviePlex (East) | Rocket Service | `MoviePlex.HD.us2` |
 | ❌ | Movies Network | Rocket Service | `TViet.Network.us2` |
 | ✅ | MovieSphere by Lionsgate | Backend: Amagi | `` |
-| ❌ | National Lampoon Channel | Other Services | `` |
+| ✅ | National Lampoon Channel | Other Services | `` |
 | ❌ | Paramount+ with Showtime (East) | Rocket Service | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ❌ | Paramount+ with Showtime (West) | Rocket Service | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ❌ | PixL | Rocket Service | `PixL.us2` |
@@ -1714,7 +1714,7 @@
 | ❌ | Samuel Goldwyn Classics | Backend: Wurl | `` |
 | ❌ | Samuel Goldwyn Films | Backend: Wurl | `` |
 | ✅ | Scream Box TV | Other Services | `` |
-| ❌ | Scream! Factory TV | Other Services | `` |
+| ✅ | Scream! Factory TV | Other Services | `` |
 | ❌ | ScreenPix | Rocket Service | `ScreenPix.Action.us2` |
 | ❌ | ScreenPix Action | Rocket Service | `ScreenPix.Action.us2` |
 | ❌ | ScreenPix Voices | Rocket Service | `ScreenPix.Voices.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1770,7 +1770,7 @@
 | ✅ | Universal Movies | Backend: Cloudfront | `Universal.Movies.us2` |
 | ✅ | Western+ | Backend: Amagi | `Grjngo.-.Western.Movies.us2` |
 | ✅ | 21 Jump Street | Local Now | `` |
-| ❌ | ALF | Other Services | `` |
+| ✅ | ALF | Other Services | `` |
 | ✅ | Alfred Hitchcock Presents | Backend: Cloudfront | `` |
 | ✅ | American Gladiators | Other Services | `` |
 | ✅ | American Ninja Warrior | Backend: Cloudfront | `` |
@@ -1811,7 +1811,7 @@
 | ✅ | Garfield & Friends | Pluto TV | `` |
 | ✅ | Ghost Are Real | Backend: Amagi | `` |
 | ✅ | Ghost Hunters | Backend: Amagi | `` |
-| ❌ | Green Acres | Other Services | `` |
+| ✅ | Green Acres | Other Services | `` |
 | ✅ | Happy Days | Pluto TV | `` |
 | ❌ | Hardcore Pawn | Other Services | `` |
 | ✅ | Hell's Kitchen | Backend: Cloudfront | `` |
@@ -1895,7 +1895,7 @@
 | ❌ | Transformers | Other Services | `` |
 | ✅ | Unsolved Mysteries | Backend: Cloudfront | `` |
 | ✅ | Xena Warrior Princess | Backend: Cloudfront | `` |
-| ❌ | Yu-Gi-Oh! | Other Services | `` |
+| ✅ | Yu-Gi-Oh! | Other Services | `` |
 | ❌ | PPV Cinebox Animation | Other Services | `` |
 | ❌ | PPV Cinebox Blockbuster | Other Services | `` |
 | ❌ | PPV Cinebox Comedy | Other Services | `` |
@@ -1912,147 +1912,147 @@
 | ✅ | CMC (California Music Channel) | Backend: Amagi | `` |
 | ✅ | CMC (Country Music Channel) | Other Services | `` |
 | ❌ | Def Jam | Tubi TV | `` |
-| ❌ | iHeart 2000's Y2K | Radio: iHeart | `` |
-| ❌ | iHeart 2010's | Radio: iHeart | `` |
-| ❌ | iHeart 50's | Radio: iHeart | `` |
-| ❌ | iHeart 60's | Radio: iHeart | `` |
-| ❌ | iHeart 70's | Radio: iHeart | `` |
-| ❌ | iHeart 70's Rock Ride | Radio: iHeart | `` |
-| ❌ | iHeart 80's | Radio: iHeart | `` |
-| ❌ | iHeart 80's Rock Ride | Radio: iHeart | `` |
-| ❌ | iHeart 90's | Radio: iHeart | `` |
-| ❌ | iHeart After MidNite | Radio: iHeart | `` |
-| ❌ | iHeart ALT 2K | Radio: iHeart | `` |
-| ❌ | iHeart ALT Radio | Radio: iHeart | `` |
-| ❌ | iHeart ALT Rewind | Radio: iHeart | `` |
-| ❌ | iHeart ALT Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart ALT X | Radio: iHeart | `` |
-| ❌ | iHeart American Top 40 | Radio: iHeart | `` |
-| ❌ | iHeart Beso | Radio: iHeart | `` |
-| ❌ | iHeart Big Classic Hits (70's 80's & 90's) | Radio: iHeart | `` |
-| ❌ | iHeart Black Jazz & Blues | Radio: iHeart | `` |
-| ❌ | iHeart Bluegrass | Radio: iHeart | `` |
-| ❌ | iHeart Blues Hits Radio | Radio: iHeart | `` |
-| ❌ | iHeart Bluestown | Radio: iHeart | `` |
-| ❌ | iHeart British Invasion | Radio: iHeart | `` |
-| ❌ | iHeart Broadway | Radio: iHeart | `` |
-| ❌ | iHeart Café | Radio: iHeart | `` |
-| ❌ | iHeart Cardio Mix | Radio: iHeart | `` |
-| ❌ | iHeart Casey Kasem's Classic American Top 40 (70's & 80's) | Radio: iHeart | `` |
-| ❌ | iHeart Casey Kasem's Classic American Top 40 (90's & 2000's) | Radio: iHeart | `` |
-| ❌ | iHeart Chill Beats Radio | Radio: iHeart | `` |
-| ❌ | iHeart Chill Jams | Radio: iHeart | `` |
-| ❌ | iHeart Classic Funk | Radio: iHeart | `` |
-| ❌ | iHeart Classic Hard Rock | Radio: iHeart | `` |
-| ❌ | iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's) | Radio: iHeart | `` |
-| ❌ | iHeart Classic Rock | Radio: iHeart | `` |
-| ❌ | iHeart Classic Soul | Radio: iHeart | `` |
-| ❌ | iHeart Coffee Shop Radio | Radio: iHeart | `` |
-| ❌ | iHeart Cool Oldies (70's & 80's) | Radio: iHeart | `` |
-| ❌ | iHeart Country | Radio: iHeart | `` |
-| ❌ | iHeart Country 2000's | Radio: iHeart | `` |
-| ❌ | iHeart Country 80's | Radio: iHeart | `` |
-| ❌ | iHeart Country 90's | Radio: iHeart | `` |
-| ❌ | iHeart Country Classics | Radio: iHeart | `` |
-| ❌ | iHeart Country Favorites | Radio: iHeart | `` |
-| ❌ | iHeart Country Love Songs | Radio: iHeart | `` |
-| ❌ | iHeart Country Outlaws | Radio: iHeart | `` |
-| ❌ | iHeart Country Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Country Top 30 | Radio: iHeart | `` |
-| ❌ | iHeart Crook & Chase Countdown | Radio: iHeart | `` |
-| ❌ | iHeart Cross Country | Radio: iHeart | `` |
-| ❌ | iHeart Dance Nation 90's | Radio: iHeart | `` |
-| ❌ | iHeart Dance Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Deep Cuts | Radio: iHeart | `` |
-| ❌ | iHeart Delilah | Radio: iHeart | `` |
-| ❌ | iHeart Doo-Wop | Radio: iHeart | `` |
-| ❌ | iHeart El Patron | Radio: iHeart | `` |
-| ❌ | iHeart Emo Nation | Radio: iHeart | `` |
-| ❌ | iHeart Enrique Santos Morning Show | Radio: iHeart | `` |
-| ❌ | iHeart Evolution | Radio: iHeart | `` |
-| ❌ | iHeart Fiesta Latina | Radio: iHeart | `` |
-| ❌ | iHeart Fly Nation (Classic Hip-Hop) | Radio: iHeart | `` |
-| ❌ | iHeart Forever Disco | Radio: iHeart | `` |
-| ❌ | iHeart Freeform Radio | Radio: iHeart | `` |
-| ❌ | iHeart Freestyle | Radio: iHeart | `` |
-| ❌ | iHeart Full Metal Jackie | Radio: iHeart | `` |
-| ❌ | iHeart Hip-Hop 2000's | Radio: iHeart | `` |
-| ❌ | iHeart Hip-Hop 50 Radio | Radio: iHeart | `` |
-| ❌ | iHeart Hip-Hop Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Hit Nation | Radio: iHeart | `` |
-| ❌ | iHeart Indie Radio | Radio: iHeart | `` |
-| ❌ | iHeart Jam Bands | Radio: iHeart | `` |
-| ❌ | iHeart Jazz Classics | Radio: iHeart | `` |
-| ❌ | iHeart Jazz Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Kiss Radio | Radio: iHeart | `` |
-| ❌ | iHeart K-Pop Radio | Radio: iHeart | `` |
-| ❌ | iHeart La Preciosa | Radio: iHeart | `` |
+| ✅ | iHeart 2000's Y2K | Radio: iHeart | `` |
+| ✅ | iHeart 2010's | Radio: iHeart | `` |
+| ✅ | iHeart 50's | Radio: iHeart | `` |
+| ✅ | iHeart 60's | Radio: iHeart | `` |
+| ✅ | iHeart 70's | Radio: iHeart | `` |
+| ✅ | iHeart 70's Rock Ride | Radio: iHeart | `` |
+| ✅ | iHeart 80's | Radio: iHeart | `` |
+| ✅ | iHeart 80's Rock Ride | Radio: iHeart | `` |
+| ✅ | iHeart 90's | Radio: iHeart | `` |
+| ✅ | iHeart After MidNite | Radio: iHeart | `` |
+| ✅ | iHeart ALT 2K | Radio: iHeart | `` |
+| ✅ | iHeart ALT Radio | Radio: iHeart | `` |
+| ✅ | iHeart ALT Rewind | Radio: iHeart | `` |
+| ✅ | iHeart ALT Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart ALT X | Radio: iHeart | `` |
+| ✅ | iHeart American Top 40 | Radio: iHeart | `` |
+| ✅ | iHeart Beso | Radio: iHeart | `` |
+| ✅ | iHeart Big Classic Hits (70's 80's & 90's) | Radio: iHeart | `` |
+| ✅ | iHeart Black Jazz & Blues | Radio: iHeart | `` |
+| ✅ | iHeart Bluegrass | Radio: iHeart | `` |
+| ✅ | iHeart Blues Hits Radio | Radio: iHeart | `` |
+| ✅ | iHeart Bluestown | Radio: iHeart | `` |
+| ✅ | iHeart British Invasion | Radio: iHeart | `` |
+| ✅ | iHeart Broadway | Radio: iHeart | `` |
+| ✅ | iHeart Café | Radio: iHeart | `` |
+| ✅ | iHeart Cardio Mix | Radio: iHeart | `` |
+| ✅ | iHeart Casey Kasem's Classic American Top 40 (70's & 80's) | Radio: iHeart | `` |
+| ✅ | iHeart Casey Kasem's Classic American Top 40 (90's & 2000's) | Radio: iHeart | `` |
+| ✅ | iHeart Chill Beats Radio | Radio: iHeart | `` |
+| ✅ | iHeart Chill Jams | Radio: iHeart | `` |
+| ✅ | iHeart Classic Funk | Radio: iHeart | `` |
+| ✅ | iHeart Classic Hard Rock | Radio: iHeart | `` |
+| ✅ | iHeart Classic Rick Dees Weekly Top 40 (80's 90's & 2000's) | Radio: iHeart | `` |
+| ✅ | iHeart Classic Rock | Radio: iHeart | `` |
+| ✅ | iHeart Classic Soul | Radio: iHeart | `` |
+| ✅ | iHeart Coffee Shop Radio | Radio: iHeart | `` |
+| ✅ | iHeart Cool Oldies (70's & 80's) | Radio: iHeart | `` |
+| ✅ | iHeart Country | Radio: iHeart | `` |
+| ✅ | iHeart Country 2000's | Radio: iHeart | `` |
+| ✅ | iHeart Country 80's | Radio: iHeart | `` |
+| ✅ | iHeart Country 90's | Radio: iHeart | `` |
+| ✅ | iHeart Country Classics | Radio: iHeart | `` |
+| ✅ | iHeart Country Favorites | Radio: iHeart | `` |
+| ✅ | iHeart Country Love Songs | Radio: iHeart | `` |
+| ✅ | iHeart Country Outlaws | Radio: iHeart | `` |
+| ✅ | iHeart Country Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Country Top 30 | Radio: iHeart | `` |
+| ✅ | iHeart Crook & Chase Countdown | Radio: iHeart | `` |
+| ✅ | iHeart Cross Country | Radio: iHeart | `` |
+| ✅ | iHeart Dance Nation 90's | Radio: iHeart | `` |
+| ✅ | iHeart Dance Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Deep Cuts | Radio: iHeart | `` |
+| ✅ | iHeart Delilah | Radio: iHeart | `` |
+| ✅ | iHeart Doo-Wop | Radio: iHeart | `` |
+| ✅ | iHeart El Patron | Radio: iHeart | `` |
+| ✅ | iHeart Emo Nation | Radio: iHeart | `` |
+| ✅ | iHeart Enrique Santos Morning Show | Radio: iHeart | `` |
+| ✅ | iHeart Evolution | Radio: iHeart | `` |
+| ✅ | iHeart Fiesta Latina | Radio: iHeart | `` |
+| ✅ | iHeart Fly Nation (Classic Hip-Hop) | Radio: iHeart | `` |
+| ✅ | iHeart Forever Disco | Radio: iHeart | `` |
+| ✅ | iHeart Freeform Radio | Radio: iHeart | `` |
+| ✅ | iHeart Freestyle | Radio: iHeart | `` |
+| ✅ | iHeart Full Metal Jackie | Radio: iHeart | `` |
+| ✅ | iHeart Hip-Hop 2000's | Radio: iHeart | `` |
+| ✅ | iHeart Hip-Hop 50 Radio | Radio: iHeart | `` |
+| ✅ | iHeart Hip-Hop Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Hit Nation | Radio: iHeart | `` |
+| ✅ | iHeart Indie Radio | Radio: iHeart | `` |
+| ✅ | iHeart Jam Bands | Radio: iHeart | `` |
+| ✅ | iHeart Jazz Classics | Radio: iHeart | `` |
+| ✅ | iHeart Jazz Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Kiss Radio | Radio: iHeart | `` |
+| ✅ | iHeart K-Pop Radio | Radio: iHeart | `` |
+| ✅ | iHeart La Preciosa | Radio: iHeart | `` |
 | ❌ | iHeart Latino Hits | Backend: Wurl | `` |
-| ❌ | iHeart Latino Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Lite Rock | Radio: iHeart | `` |
-| ❌ | iHeart Lost 80's | Radio: iHeart | `` |
-| ❌ | iHeart Love Songs Radio | Radio: iHeart | `` |
-| ❌ | iHeart Magic (Música en Ingles y Español) | Radio: iHeart | `` |
-| ❌ | iHeart Mega | Radio: iHeart | `` |
-| ❌ | iHeart Minivan Rock | Radio: iHeart | `` |
-| ❌ | iHeart Mix Nation | Radio: iHeart | `` |
-| ❌ | iHeart Mix Rewind | Radio: iHeart | `` |
-| ❌ | iHeart Motown Sounds | Radio: iHeart | `` |
-| ❌ | iHeart New Country | Radio: iHeart | `` |
-| ❌ | iHeart Nu Metal Radio | Radio: iHeart | `` |
-| ❌ | iHeart One Hit Wonders | Radio: iHeart | `` |
-| ❌ | iHeart Pop Drive | Radio: iHeart | `` |
-| ❌ | iHeart Pop Rewind | Radio: iHeart | `` |
-| ❌ | iHeart Pop Rocks | Radio: iHeart | `` |
-| ❌ | iHeart Pop Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Power | Radio: iHeart | `` |
-| ❌ | iHeart PRIDE Radio | Radio: iHeart | `` |
-| ❌ | iHeart PRIDE Radio Flashback | Radio: iHeart | `` |
-| ❌ | iHeart Punk Tacos | Radio: iHeart | `` |
-| ❌ | iHeart R&B Jams | Radio: iHeart | `` |
-| ❌ | iHeart R&B Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Radio Tejano | Radio: iHeart | `` |
-| ❌ | iHeart Rat Pack Radio | Radio: iHeart | `` |
-| ❌ | iHeart Real Fun Beach Radio | Radio: iHeart | `` |
-| ❌ | iHeart Real Oldies (60's & 70's) | Radio: iHeart | `` |
-| ❌ | iHeart Red Dirt Radio | Radio: iHeart | `` |
-| ❌ | iHeart Reggae | Radio: iHeart | `` |
-| ❌ | iHeart Reggaeton Vieja Escuela | Radio: iHeart | `` |
-| ❌ | iHeart Regional Mexican Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Retro En Español | Radio: iHeart | `` |
-| ❌ | iHeart Rick Dees Weekly Top 40 | Radio: iHeart | `` |
-| ❌ | iHeart Rock Drive | Radio: iHeart | `` |
-| ❌ | iHeart Rock Nation | Radio: iHeart | `` |
-| ❌ | iHeart Rock Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Rumba | Radio: iHeart | `` |
-| ❌ | iHeart Salsa Bembé | Radio: iHeart | `` |
+| ✅ | iHeart Latino Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Lite Rock | Radio: iHeart | `` |
+| ✅ | iHeart Lost 80's | Radio: iHeart | `` |
+| ✅ | iHeart Love Songs Radio | Radio: iHeart | `` |
+| ✅ | iHeart Magic (Música en Ingles y Español) | Radio: iHeart | `` |
+| ✅ | iHeart Mega | Radio: iHeart | `` |
+| ✅ | iHeart Minivan Rock | Radio: iHeart | `` |
+| ✅ | iHeart Mix Nation | Radio: iHeart | `` |
+| ✅ | iHeart Mix Rewind | Radio: iHeart | `` |
+| ✅ | iHeart Motown Sounds | Radio: iHeart | `` |
+| ✅ | iHeart New Country | Radio: iHeart | `` |
+| ✅ | iHeart Nu Metal Radio | Radio: iHeart | `` |
+| ✅ | iHeart One Hit Wonders | Radio: iHeart | `` |
+| ✅ | iHeart Pop Drive | Radio: iHeart | `` |
+| ✅ | iHeart Pop Rewind | Radio: iHeart | `` |
+| ✅ | iHeart Pop Rocks | Radio: iHeart | `` |
+| ✅ | iHeart Pop Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Power | Radio: iHeart | `` |
+| ✅ | iHeart PRIDE Radio | Radio: iHeart | `` |
+| ✅ | iHeart PRIDE Radio Flashback | Radio: iHeart | `` |
+| ✅ | iHeart Punk Tacos | Radio: iHeart | `` |
+| ✅ | iHeart R&B Jams | Radio: iHeart | `` |
+| ✅ | iHeart R&B Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Radio Tejano | Radio: iHeart | `` |
+| ✅ | iHeart Rat Pack Radio | Radio: iHeart | `` |
+| ✅ | iHeart Real Fun Beach Radio | Radio: iHeart | `` |
+| ✅ | iHeart Real Oldies (60's & 70's) | Radio: iHeart | `` |
+| ✅ | iHeart Red Dirt Radio | Radio: iHeart | `` |
+| ✅ | iHeart Reggae | Radio: iHeart | `` |
+| ✅ | iHeart Reggaeton Vieja Escuela | Radio: iHeart | `` |
+| ✅ | iHeart Regional Mexican Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Retro En Español | Radio: iHeart | `` |
+| ✅ | iHeart Rick Dees Weekly Top 40 | Radio: iHeart | `` |
+| ✅ | iHeart Rock Drive | Radio: iHeart | `` |
+| ✅ | iHeart Rock Nation | Radio: iHeart | `` |
+| ✅ | iHeart Rock Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Rumba | Radio: iHeart | `` |
+| ✅ | iHeart Salsa Bembé | Radio: iHeart | `` |
 | ✅ | iHeart Scott Shannon's True Oldies Channel | Other Services | `` |
-| ❌ | iHeart Slippery When Wet | Radio: iHeart | `` |
-| ❌ | iHeart Smells Like the 90's | Radio: iHeart | `` |
-| ❌ | iHeart Smooth Jazz | Radio: iHeart | `` |
-| ❌ | iHeart Soft Rock | Radio: iHeart | `` |
-| ❌ | iHeart Southern Rock Ride | Radio: iHeart | `` |
-| ❌ | iHeart Sunny Radio | Radio: iHeart | `` |
-| ❌ | iHeart Sweat Hotel with Keith Sweat | Radio: iHeart | `` |
+| ✅ | iHeart Slippery When Wet | Radio: iHeart | `` |
+| ✅ | iHeart Smells Like the 90's | Radio: iHeart | `` |
+| ✅ | iHeart Smooth Jazz | Radio: iHeart | `` |
+| ✅ | iHeart Soft Rock | Radio: iHeart | `` |
+| ✅ | iHeart Southern Rock Ride | Radio: iHeart | `` |
+| ✅ | iHeart Sunny Radio | Radio: iHeart | `` |
+| ✅ | iHeart Sweat Hotel with Keith Sweat | Radio: iHeart | `` |
 | ❌ | iHeart The Beat | Backend: Wurl | `` |
-| ❌ | iHeart The Beatles Now And Then | Radio: iHeart | `` |
-| ❌ | iHeart The Breeze | Radio: iHeart | `` |
-| ❌ | iHeart The Brew | Radio: iHeart | `` |
-| ❌ | iHeart The iHeartRadio Countdown | Radio: iHeart | `` |
-| ❌ | iHeart The Vinyl Experience | Radio: iHeart | `` |
-| ❌ | iHeart Throwbacks (Classic Hip-Hop and R&B) | Radio: iHeart | `` |
-| ❌ | iHeart Today's Mix | Radio: iHeart | `` |
-| ❌ | iHeart Trancid | Radio: iHeart | `` |
-| ❌ | iHeart Trending Country Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Trending Hip-Hop Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Trending Pop Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Tropical Top 20 | Radio: iHeart | `` |
-| ❌ | iHeart Vinyl Classic Rock | Radio: iHeart | `` |
-| ❌ | iHeart Vinyl Jazz | Radio: iHeart | `` |
-| ❌ | iHeart WiLD | Radio: iHeart | `` |
-| ❌ | iHeart Women of iHeartCountry | Radio: iHeart | `` |
-| ❌ | iHeart Yacht Rock Radio | Radio: iHeart | `` |
-| ❌ | iHeart Yee Yee Radio | Radio: iHeart | `` |
+| ✅ | iHeart The Beatles Now And Then | Radio: iHeart | `` |
+| ✅ | iHeart The Breeze | Radio: iHeart | `` |
+| ✅ | iHeart The Brew | Radio: iHeart | `` |
+| ✅ | iHeart The iHeartRadio Countdown | Radio: iHeart | `` |
+| ✅ | iHeart The Vinyl Experience | Radio: iHeart | `` |
+| ✅ | iHeart Throwbacks (Classic Hip-Hop and R&B) | Radio: iHeart | `` |
+| ✅ | iHeart Today's Mix | Radio: iHeart | `` |
+| ✅ | iHeart Trancid | Radio: iHeart | `` |
+| ✅ | iHeart Trending Country Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Trending Hip-Hop Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Trending Pop Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Tropical Top 20 | Radio: iHeart | `` |
+| ✅ | iHeart Vinyl Classic Rock | Radio: iHeart | `` |
+| ✅ | iHeart Vinyl Jazz | Radio: iHeart | `` |
+| ✅ | iHeart WiLD | Radio: iHeart | `` |
+| ✅ | iHeart Women of iHeartCountry | Radio: iHeart | `` |
+| ✅ | iHeart Yacht Rock Radio | Radio: iHeart | `` |
+| ✅ | iHeart Yee Yee Radio | Radio: iHeart | `` |
 | ✅ | JAZZRADIO.com Love Smooth Jazz | Other Services | `` |
 | ✅ | JAZZRADIO.com Mellow Smooth Jazz | Other Services | `` |
 | ✅ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
@@ -2303,7 +2303,7 @@
 | ❌ | CBC Winnipeg (Canada) | Rocket Service | `` |
 | ❌ | CHCH (Canada) | KSTV US | `` |
 | ❌ | Cheddar News (Canada) | Backend: Wurl | `Cheddar.us2` |
-| ❌ | Christmas 365 (Canada) | Other Services | `Christmas.Dummy.us` |
+| ✅ | Christmas 365 (Canada) | Other Services | `Christmas.Dummy.us` |
 | ❌ | City TV Calgary (Canada) | KSTV US | `` |
 | ❌ | City TV Montreal (Canada) | KSTV US | `` |
 | ✅ | City TV News Calgary (Canada) | Other Services | `` |
@@ -2418,7 +2418,7 @@
 | ❌ | NBA TV (Canada) | KSTV US | `NBA.TV.HD.us2` |
 | ❌ | NBC Golf Channel (Canada) | KSTV US | `Golf.Channel.HD.us2` |
 | ❌ | NFL Network (Canada) | Rocket Service | `NFL.Network.HD.us2` |
-| ❌ | Nonstop Drama (Canada) | Other Services | `` |
+| ✅ | Nonstop Drama (Canada) | Other Services | `` |
 | ✅ | NTV St. John`s (Canada) | Other Services | `` |
 | ❌ | OMNI (Canada) | Rocket Service | `` |
 | ❌ | OMNI 2 (Canada) | KSTV US | `` |
@@ -2428,7 +2428,7 @@
 | ❌ | RDS (Canada) | KSTV US | `Radio.TV.RDS.Serie.A.Dummy.us` |
 | ❌ | RDS 2 (Canada) | KSTV US | `Radio.TV.RDS.Serie.A.Dummy.us` |
 | ❌ | RDS Info (Canada) | KSTV US | `` |
-| ❌ | Romance 365 (Canada) | Other Services | `Movie.Hub.Romance.us2` |
+| ✅ | Romance 365 (Canada) | Other Services | `Movie.Hub.Romance.us2` |
 | ❌ | Showcase (Canada) | Rocket Service | `Showtime.Showcase.HD.us2` |
 | ❌ | Silver Screen (Canada) | Rocket Service | `` |
 | ❌ | Slice TV (Canada) | KSTV US | `` |
@@ -2451,7 +2451,7 @@
 | ❌ | TFO French (Canada) | Rocket Service | `` |
 | ❌ | The Cooking Channel (Canada) | KSTV US | `Cooking.Channel.HD.us2` |
 | ❌ | The Weather Network (Canada) | Rocket Service | `` |
-| ❌ | Thrillers 365 (Canada) | Other Services | `` |
+| ✅ | Thrillers 365 (Canada) | Other Services | `` |
 | ❌ | TLC (Canada) | Rocket Service | `TLC.HD.(Pacific).us2` |
 | ❌ | Travel Escape (Canada) | Rocket Service | `` |
 | ❌ | Treehouse (Canada) | Rocket Service | `` |
