@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-29 16:20
+# 📺 Playlist Status Update: 2026-07-29 18:05
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -402,7 +402,7 @@
 | ❌ | KABC-TV ABC 7 24/7 News (Los Angeles CA) | Backend: Uplynk | `KABC-DT.us_locals1` |
 | ❌ | KTTV-TV FOX 11 24/7 News (Los Angeles CA) | Backend: Cloudfront | `KTTV-DT.us_locals1` |
 | ✅ | KNSD-TV NBC 7/39 24/7 News (San Diego CA) | Backend: Cloudfront | `KNSD-DT.us_locals1` |
-| ✅ | KFMB-TV CBS 8 24/7 News (San Diego CA) | Other Services | `KFMB-DT.us_locals1` |
+| ❌ | KFMB-TV CBS 8 24/7 News (San Diego CA) | Other Services | `KFMB-DT.us_locals1` |
 | ✅ | KGTV-TV ABC 10 24/7 News (San Diego CA) | Backend: Uplynk | `KGTV-DT.us_locals1` |
 | ✅ | KERO-TV ABC 23 24/7 News (Bakersfield CA) | Backend: Uplynk | `KERO-DT.us_locals1` |
 | ❌ | WITN-TV 22 24/7 News (Wilmington DE) | Local Gov/Public | `WITN-DT.us_locals1` |
@@ -415,7 +415,7 @@
 | ✅ | WCBS-TV CBS 2 24/7 News (New York NY) | Other Services | `WCBS-DT.us_locals1` |
 | ✅ | WNBC-TV NBC 4 24/7 News (New York NY) | Backend: Cloudfront | `WNBC-DT.us_locals1` |
 | ✅ | WNYW-TV FOX 5 24/7 News (New York NY) | Backend: Amagi | `WNYW-DT.us_locals1` |
-| ✅ | WABC-TV ABC 7 24/7 News (New York NY) | Backend: Amagi | `WABC-DT.us_locals1` |
+| ❌ | WABC-TV ABC 7 24/7 News (New York NY) | Backend: Amagi | `WABC-DT.us_locals1` |
 | ✅ | WBBM-TV CBS 2 24/7 News (Chicago IL) | Other Services | `WBBM-DT.us_locals1` |
 | ✅ | WMAQ-TV NBC 5 24/7 News (Chicago IL) | Backend: Cloudfront | `WMAQ-DT.us_locals1` |
 | ❌ | WLS-TV ABC 7 24/7 News (Chicago IL) | Backend: Uplynk | `` |
@@ -427,7 +427,7 @@
 | ✅ | WCCO-TV CBS 4 24/7 News (Minneapolis/St. Paul MN) | Other Services | `WCCO-DT.us_locals1` |
 | ❌ | KSTP-TV ABC 5 24/7 News (Minneapolis/St. Paul MN) | Local Now | `KSTP-DT.us_locals1` |
 | ❌ | KMSP-TV FOX 9 24/7 News (Minneapolis/St. Paul MN) | Backend: Amagi | `KMSP-DT.us_locals1` |
-| ✅ | KARE-TV NBC 11 24/7 News (Minneapolis/St. Paul MN) | Other Services | `KARE-DT.us_locals1` |
+| ❌ | KARE-TV NBC 11 24/7 News (Minneapolis/St. Paul MN) | Other Services | `KARE-DT.us_locals1` |
 | ✅ | KYW-TV CBS 3 24/7 News (Philadelphia PA) | Other Services | `` |
 | ❌ | WPVI-TV ABC 6 24/7 News (Philadelphia PA) | Backend: Uplynk | `WPVI-DT.us_locals1` |
 | ✅ | WCAU-TV NBC 10 24/7 News (Philadelphia PA) | Backend: Cloudfront | `WCAU-DT.us_locals1` |
@@ -442,7 +442,7 @@
 | ✅ | WFOR-TV CBS 4 24/7 News (Miami FL) | Other Services | `WFOR-DT.us_locals1` |
 | ✅ | WTVJ-TV NBC 6 24/7 News (Miami FL) | Backend: Cloudfront | `WTVJ-DT.us_locals1` |
 | ✅ | WPLG-TV ABC 10 24/7 News (Miami FL) | Backend: Cloudfront | `WPLG-DT.us_locals1` |
-| ✅ | WTSP-TV CBS 10 24/7 News (Tampa Bay FL) | Other Services | `WTSP-DT.us_locals1` |
+| ❌ | WTSP-TV CBS 10 24/7 News (Tampa Bay FL) | Other Services | `WTSP-DT.us_locals1` |
 | ✅ | WTVT-TV FOX 13 24/7 News (Tampa Bay FL) | Backend: Amagi | `WTVT-DT.us_locals1` |
 | ✅ | WFTS-TV ABC 28 24/7 News (Tampa Bay FL) | Backend: Uplynk | `WFTS-DT.us_locals1` |
 | ✅ | WESH-TV NBC 2 24/7 News (Orlando FL) | Backend: Uplynk | `WESH-DT.us_locals1` |
@@ -451,36 +451,36 @@
 | ✅ | WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
 | ✅ | WFTV-TV ABC 9 Weather 24/7 (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
 | ✅ | WOFL-TV FOX 35 24/7 News (Orlando FL) | Backend: Amagi | `WOFL-DT.us_locals1` |
-| ✅ | KENS-TV CBS 5 24/7 News (San Antonio TX) | Other Services | `KENS-DT.us_locals1` |
+| ❌ | KENS-TV CBS 5 24/7 News (San Antonio TX) | Other Services | `KENS-DT.us_locals1` |
 | ✅ | KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX) | Backend: Amagi | `KDFW-DT.us_locals1` |
 | ✅ | KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX) | Backend: Cloudfront | `KXAS-DT.us_locals1` |
-| ✅ | WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX) | Other Services | `` |
+| ❌ | WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX) | Other Services | `` |
 | ✅ | KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX) | Other Services | `KTVT-DT.us_locals1` |
 | ✅ | KPRC-TV NBC 2 24/7 News (Houston TX) | Other Services | `KPRC-DT.us_locals1` |
-| ✅ | KHOU-TV CBS 11 24/7 News (Houston TX) | Other Services | `KHOU-DT.us_locals1` |
+| ❌ | KHOU-TV CBS 11 24/7 News (Houston TX) | Other Services | `KHOU-DT.us_locals1` |
 | ❌ | KTRK-TV ABC 13 24/7 News (Houston TX) | Backend: Uplynk | `KTRK-DT.us_locals1` |
 | ✅ | KRIV-TV FOX 26 24/7 News (Houston TX) | Backend: Amagi | `KRIV-DT.us_locals1` |
 | ❌ | KTVK-TV/KPHO-TV 3TV & CBS 5 24/7 News (Phoenix AZ) | Backend: Syncbak | `KTVK-DT.us_locals1` |
-| ✅ | KSAZ-TV FOX 10 (Phoenix AZ) | Backend: Amagi | `KSAZ-DT.us_locals1` |
-| ✅ | KPNX-TV NBC 12 24/7 News (Phoenix AZ) | Other Services | `KPNX-DT.us_locals1` |
+| ❌ | KSAZ-TV FOX 10 (Phoenix AZ) | Backend: Amagi | `KSAZ-DT.us_locals1` |
+| ❌ | KPNX-TV NBC 12 24/7 News (Phoenix AZ) | Other Services | `KPNX-DT.us_locals1` |
 | ✅ | KNXV-TV ABC 15 24/7 News (Phoenix AZ) | Backend: Uplynk | `KNXV-DT.us_locals1` |
 | ❌ | KSNV-TV NBC 3 24/7 News (Las Vegas NV) | Local Now | `KSNV-DT.us_locals1` |
 | ❌ | KVVU-TV FOX 5 (Las Vegas NV) | Backend: Amagi | `KVVU-DT.us_locals1` |
 | ✅ | KTNV-TV ABC 13 24/7 News (Las Vegas NV) | Backend: Uplynk | `KTNV-DT.us_locals1` |
 | ✅ | WSB-TV ABC 2 24/7 News (Atlanta GA) | Backend: Amagi | `` |
 | ✅ | WAGA-TV FOX 5 24/7 News (Atlanta GA) | Backend: Amagi | `WAGA-DT.us_locals1` |
-| ✅ | WXIA-TV NBC 11 24/7 News (Atlanta GA) | Other Services | `WXIA-DT.us_locals1` |
+| ❌ | WXIA-TV NBC 11 24/7 News (Atlanta GA) | Other Services | `WXIA-DT.us_locals1` |
 | ❌ | WGCL-TV CBS 46 24/7 News (Atlanta GA) | Backend: Syncbak | `` |
 | ❌ | WBTV-TV CBS 3 24/7 News (Charlotte NC) | Backend: Syncbak | `WBTV-DT.us_locals1` |
 | ✅ | WSOC-TV ABC 9 24/7 News (Charlotte NC) | Backend: Amagi | `WSOC-DT.us_locals1` |
-| ✅ | WCNC-TV NBC 36 24/7 News (Charlotte NC) | Other Services | `WCNC-DT.us_locals1` |
+| ❌ | WCNC-TV NBC 36 24/7 News (Charlotte NC) | Other Services | `WCNC-DT.us_locals1` |
 | ✅ | KCNC-TV CBS 4 24/7 News (Denver CO) | Other Services | `KCNC-DT.us_locals1` |
 | ✅ | KMGH-TV ABC 7 24/7 News (Denver CO) | Backend: Uplynk | `KMGH-DT.us_locals1` |
-| ✅ | KUSA-TV NBC 9 24/7 News (Denver CO) | Other Services | `KUSA-DT.us_locals1` |
+| ❌ | KUSA-TV NBC 9 24/7 News (Denver CO) | Other Services | `KUSA-DT.us_locals1` |
 | ✅ | WRC-TV NBC 4 24/7 News (Washington DC) | Backend: Cloudfront | `` |
 | ✅ | WTTG-TV FOX 5 24/7 News (Washington DC) | Backend: Amagi | `WTTG-DT.us_locals1` |
 | ✅ | WJLA-TV ABC 7 24/7 News (Washington DC) | Local Now | `WJLA-DT.us_locals1` |
-| ✅ | WUSA-TV CBS 9 24/7 News (Washington DC) | Other Services | `WUSA-DT.us_locals1` |
+| ❌ | WUSA-TV CBS 9 24/7 News (Washington DC) | Other Services | `WUSA-DT.us_locals1` |
 | ✅ | KOMO-TV ABC 4 24/7 News (Seattle WA) | Local Now | `KOMO-DT.us_locals1` |
 | ✅ | KING-TV NBC 5 24/7 News (Seattle WA) | Local Now | `KING-DT.us_locals1` |
 | ✅ | KIRO-TV CBS 7 24/7 News (Seattle WA) | Local Now | `KIRO-DT.us_locals1` |
@@ -506,11 +506,11 @@
 | ✅ | LocalNow (Ft. Worth/Dallas TX) | Spanish Services | `` |
 | ✅ | LocalNow (El Paso TX) | Spanish Services | `` |
 | ✅ | LocalNow (New Orleans LA) | Spanish Services | `` |
-| ✅ | ABC 20/20 | Backend: Amagi | `` |
+| ❌ | ABC 20/20 | Backend: Amagi | `` |
 | ✅ | ABC Localish | Tubi TV | `` |
 | ✅ | ABC News | Tubi TV | `ABC.News.Live.us2` |
 | ✅ | Al Jazeera English | Other Services | `` |
-| ✅ | BBC News North America | Other Services | `BBC.News.(North.America).HD.us2` |
+| ❌ | BBC News North America | Other Services | `BBC.News.(North.America).HD.us2` |
 | ✅ | BEK TV News | Other Services | `` |
 | ✅ | Biz TV | Other Services | `Biz.TV.us2` |
 | ✅ | Bloomberg Originals | Other Services | `` |
@@ -551,16 +551,16 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ✅ | TED Talks | Backend: Amagi | `` |
+| ❌ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -605,10 +605,10 @@
 | ✅ | PBS Retro | Other Services | `RETRO.us2` |
 | ❌ | WVIZ-DT 25.2 The Ohio Channel (Cleveland OH) | Other Services | `WVIZ-DT.us_locals1` |
 | ❌ | WOSU-TV PBS 34 (Columbus OH) | Rocket Service | `WOSU-DT.us_locals1` |
-| ✅ | WTVS-DT 56.6 Michigan Learning Channel (Detroit MI) | Backend: Cloudfront | `WTVS-DT.us_locals1` |
+| ❌ | WTVS-DT 56.6 Michigan Learning Channel (Detroit MI) | Backend: Cloudfront | `WTVS-DT.us_locals1` |
 | ❌ | WTTW-TV PBS 11.1 (Chicago IL) | Rocket Service | `WTTW-DT.us_locals1` |
 | ❌ | WTTW-DT Prime 11.2 (Chicago IL) | Other Services | `WTTW-DT.us_locals1` |
-| ✅ | KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO) | Other Services | `KMOS-DT.us_locals1` |
+| ❌ | KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO) | Other Services | `KMOS-DT.us_locals1` |
 | ❌ | KCPT-TV PBS 19 (Kansas City MO) | Other Services | `KCPT-DT.us_locals1` |
 | ❌ | KETC-TV Nine PBS 9 (St. Louis MO) | Rocket Service | `KETC-DT.us_locals1` |
 | ❌ | KETS-TV PBS 2 (Little Rock AR) | Rocket Service | `KETS-DT.us_locals1` |
@@ -672,8 +672,8 @@
 | ✅ | Atlanta Channel (Atlanta GA) | Other Services | `` |
 | ✅ | AuroraTV (Aurora CO) | Local Gov/Public | `` |
 | ❌ | Banning CityTV (Banning CA) | Other Services | `` |
-| ❌ | BATV (Bloomfield Access Government TV) (Bloomfield CT) | Local Gov/Public | `` |
-| ❌ | BATV Bloomfield Access TV Channel 5 (Bloomfield CT) | Local Gov/Public | `` |
+| ✅ | BATV (Bloomfield Access Government TV) (Bloomfield CT) | Local Gov/Public | `` |
+| ✅ | BATV Bloomfield Access TV Channel 5 (Bloomfield CT) | Local Gov/Public | `` |
 | ❌ | Beach TV CSULB | Other Services | `` |
 | ✅ | Beach TV Florida & Alabama | Other Services | `` |
 | ✅ | Beach TV Key West & Florida Keys | Independent Streams | `West.TV.us2` |
@@ -788,10 +788,10 @@
 | ❌ | Marin TV Government Channel (San Rafael CA) | Other Services | `` |
 | ✅ | Martin County MCTV (Martin County FL) | Other Services | `` |
 | ❌ | MBTV (Miami Beach TV) (Miami Beach FL) | Other Services | `` |
-| ✅ | MCN 6 Arts Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `` |
-| ✅ | MCN 6 Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `` |
-| ✅ | MCN 6 Community Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `` |
-| ✅ | MCN 6 Music Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
+| ❌ | MCN 6 Arts Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `` |
+| ❌ | MCN 6 Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `` |
+| ❌ | MCN 6 Community Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `` |
+| ❌ | MCN 6 Music Channel (Minneapolis/St. Paul MN) | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
 | ✅ | MCPSS (Mobile County Public Schools TV Network) (Mobile AL) | Independent Streams | `` |
 | ✅ | MCTV (Monroe County Television) (Monroe County FL) | Other Services | `` |
 | ✅ | Midpen Media Center Arts Issues and Lifestyles Channel 30 | Independent Streams | `` |
@@ -847,7 +847,7 @@
 | ✅ | Room 120 (District of Columbia Channel) | Other Services | `` |
 | ✅ | Room 123 (District of Columbia Channel) | Other Services | `` |
 | ✅ | Room 412 (District of Columbia Channel) | Other Services | `` |
-| ✅ | Salem News Channel | Backend: Amagi | `Salem.News.Channel.us2` |
+| ❌ | Salem News Channel | Backend: Amagi | `Salem.News.Channel.us2` |
 | ✅ | Santa Maria Community Television Education Channel | Local Gov/Public | `` |
 | ✅ | Santa Maria Community Television Government Channel | Local Gov/Public | `` |
 | ✅ | Santa Maria Community Television Public Access Channel | Local Gov/Public | `` |
@@ -912,7 +912,7 @@
 | ✅ | Canal 66 Mexicali | Independent Streams | `` |
 | ❌ | Canal 7.1 (Bolivia) | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 7.2 Deportes (Bolivia) | Independent Streams | `` |
-| ❌ | Canal 8 TV+ | Other Services | `` |
+| ✅ | Canal 8 TV+ | Other Services | `` |
 | ❌ | Canal del Congreso 45.1 | Other Services | `` |
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
@@ -945,7 +945,7 @@
 | ✅ | KXLN-TV Univision 45 (Houston TX) | Spanish Services | `KXLN-DT.us_locals1` |
 | ❌ | KXTX-TV Telemundo 39 (Ft. Worth/Dallas TX) | Rocket Service | `KXTX-DT.us_locals1` |
 | ❌ | Latin Hola TV | Rocket Service | `Â¡HOLA!.TV.us2` |
-| ✅ | LATV | Backend: Amagi | `` |
+| ❌ | LATV | Backend: Amagi | `` |
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
 | ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
@@ -1063,7 +1063,7 @@
 | ❌ | Investigation | Backend: Amagi | `Crime.and.Investigation.Network.HD.us2` |
 | ❌ | Justice Central TV | Rocket Service | `Justice.Central.HD.us2` |
 | ❌ | Law & Crime | Local Now | `Law.and.Crime.us2` |
-| ✅ | Love & Nature | Backend: Amagi | `Love.Nature.Dummy.us` |
+| ❌ | Love & Nature | Backend: Amagi | `Love.Nature.Dummy.us` |
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
@@ -1076,10 +1076,10 @@
 | ✅ | Outside TV+ | Backend: Amagi | `Outside.Television.HD.us2` |
 | ❌ | Oxygen True Crime (East) | Rocket Service | `Oxygen.True.Crime.HD.us2` |
 | ❌ | Oxygen True Crime (West) | Rocket Service | `Oxygen.True.Crime.HD.us2` |
-| ✅ | PBS Genealogy | Backend: Amagi | `` |
-| ✅ | PBS History | Backend: Amagi | `History.Channel.En.EspaÃ±ol.us2` |
+| ❌ | PBS Genealogy | Backend: Amagi | `` |
+| ❌ | PBS History | Backend: Amagi | `History.Channel.En.EspaÃ±ol.us2` |
 | ✅ | PBS Nature | Local Now | `Love.Nature.Dummy.us` |
-| ✅ | PBS Science | Backend: Amagi | `Science.Channel.HD.us2` |
+| ❌ | PBS Science | Backend: Amagi | `Science.Channel.HD.us2` |
 | ✅ | Pluto TV History | Pluto TV | `` |
 | ❌ | Pursuit Channel | Backend: Cloudfront | `Pursuit.Channel.us2` |
 | ❌ | REELZ (East) | KSTV US | `` |
@@ -1148,14 +1148,14 @@
 | ✅ | Toonami Aftermath (East) | Other Services | `` |
 | ✅ | Toonami Aftermath (West) | Other Services | `` |
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
-| ✅ | Toons Goggles | Backend: Amagi | `` |
+| ❌ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
 | ✅ | 30A Ridiculous TV | Other Services | `` |
-| ✅ | Adult Swim 24/7 | Other Services | `` |
+| ❌ | Adult Swim 24/7 | Other Services | `` |
 | ✅ | Adult Swim+ (East) | Other Services | `` |
 | ✅ | Adult Swim+ (West) | Other Services | `` |
 | ❌ | AFV Family | Backend: Wurl | `AFN.family/AFN.pulse.us2` |
-| ✅ | Always Funny | Backend: Amagi | `` |
+| ❌ | Always Funny | Backend: Amagi | `` |
 | ❌ | Always Funny Pranks and Fail | Backend: Amagi | `` |
 | ✅ | Animation+ | Roku Channel | `` |
 | ❌ | BBC Comedy | Plex TV | `Catchy.Comedy.us2` |
@@ -1168,7 +1168,7 @@
 | ✅ | Comedy+ | Backend: Amagi | `Catchy.Comedy.us2` |
 | ✅ | FailArmy | Backend: Wurl | `` |
 | ❌ | FilmRise Comedy | Plex TV | `` |
-| ✅ | Free Comedy Network | Backend: Amagi | `` |
+| ❌ | Free Comedy Network | Backend: Amagi | `` |
 | ✅ | Funny AF | Pluto TV | `` |
 | ❌ | Funny Or Die | Backend: Wurl | `` |
 | ✅ | Hit Sitcoms by WB | Backend: Cloudfront | `` |
@@ -1196,10 +1196,10 @@
 | ✅ | Bon Appétit | Other Services | `Bon.AppÃ©tit.TV.us2` |
 | ✅ | PBS Food | Roku Channel | `` |
 | ✅ | BBC Food | Backend: Wurl | `` |
-| ✅ | Cook's Country Channel | Backend: Amagi | `Cooks.Country.us2` |
+| ❌ | Cook's Country Channel | Backend: Amagi | `Cooks.Country.us2` |
 | ✅ | Taste Made | Backend: Amagi | `` |
 | ✅ | Chef Roc Show | Other Services | `` |
-| ✅ | America's Test Kitchen | Backend: Amagi | `` |
+| ❌ | America's Test Kitchen | Backend: Amagi | `` |
 | ❌ | 80's Sitcom Flashback | Plex TV | `XITE.80s.Flashback.DUMMY.us` |
 | ❌ | A&E (Arts & Entertainment) | Other Services | `` |
 | ❌ | Ace TV | Backend: Cloudfront | `ACE.TV.us2` |
@@ -1266,7 +1266,7 @@
 | ❌ | fetv (Family Entertainment Television) | Rocket Service | `` |
 | ❌ | FMC (Family Movie Classics) | Rocket Service | `` |
 | ✅ | FOX Soul | Backend: Amagi | `FOX.SOUL.us2` |
-| ✅ | Free Western Network | Backend: Amagi | `` |
+| ❌ | Free Western Network | Backend: Amagi | `` |
 | ❌ | FreeTV Fantasy | Backend: Amagi | `` |
 | ❌ | Fuse | Rocket Service | `FM.Fuse.Music.us2` |
 | ❌ | FX (East) | Rocket Service | `FX.HD.(Pacific).us2` |
@@ -1278,7 +1278,7 @@
 | ❌ | FYI (West) | Rocket Service | `FYI.Channel.HD.us2` |
 | ❌ | GAC Great American Faith & Living | Rocket Service | `Great.American.Faith.and.Living.us2` |
 | ❌ | GAC Great American Family | Other Services | `Great.American.Family.HD.us2` |
-| ✅ | GAC Great American Pure Flix TV | Backend: Amagi | `Pure.Flix.TV.us2` |
+| ❌ | GAC Great American Pure Flix TV | Backend: Amagi | `Pure.Flix.TV.us2` |
 | ✅ | GAC Great American RomComs | Roku Channel | `Great.American.Romcoms.us2` |
 | ❌ | Game Show Central | Backend: Wurl | `` |
 | ❌ | Get Comedy | Backend: Wurl | `Catchy.Comedy.us2` |
@@ -1339,7 +1339,7 @@
 | ✅ | Nosey | Backend: Cloudfront | `Nosey.on.Peacock.us2` |
 | ❌ | Nosey (Alt) | Other Services | `Nosey.on.Peacock.us2` |
 | ✅ | NOST (The Nostalgia Network) | Other Services | `` |
-| ✅ | ONTV4U | Other Services | `` |
+| ❌ | ONTV4U | Other Services | `` |
 | ✅ | OuterSphere by Lionsgate | Backend: Amagi | `` |
 | ✅ | OUTtv Proud | Backend: Amagi | `` |
 | ❌ | Ovation | KSTV US | `Ovation.HD.us2` |
@@ -1358,7 +1358,7 @@
 | ❌ | Revolt | Rocket Service | `Revolt.HD.us2` |
 | ❌ | Rewind TV | Rocket Service | `Rewind.TV.us2` |
 | ✅ | Roar | Other Services | `ROAR.TV.us2` |
-| ✅ | Shades of Black | Backend: Amagi | `Shades.of.Black.us2` |
+| ❌ | Shades of Black | Backend: Amagi | `Shades.of.Black.us2` |
 | ❌ | Shorts TV | Rocket Service | `Shorts.TV.us2` |
 | ✅ | Smart Lifestyle TV | Other Services | `` |
 | ❌ | Smithsonian Channel (East) | KSTV US | `` |
@@ -1470,11 +1470,11 @@
 | ❌ | ESPN | Rocket Service | `ESPN.Deportes.HD.us2` |
 | ❌ | ESPN 2 | Rocket Service | `ESPN.Deportes.HD.us2` |
 | ❌ | ESPN News | Rocket Service | `` |
-| ✅ | ESPN Ocho | Backend: Amagi | `` |
+| ❌ | ESPN Ocho | Backend: Amagi | `` |
 | ❌ | ESPN U | Rocket Service | `ESPN.Deportes.HD.us2` |
 | ✅ | Extreme+ | Backend: Cloudfront | `Showtime.Extreme.HD.us2` |
-| ✅ | FanDuel 2 Racing | Backend: Cloudfront | `` |
-| ✅ | FanDuel Extra | Backend: Wurl | `` |
+| ❌ | FanDuel 2 Racing | Backend: Cloudfront | `` |
+| ❌ | FanDuel Extra | Backend: Wurl | `` |
 | ❌ | Fanduel Sports Network (Detroit) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ❌ | Fanduel Sports Network (Florida) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ❌ | Fanduel Sports Network (Indiana) | Rocket Service | `CBS.Sports.Network.HD.us2` |
@@ -1491,12 +1491,12 @@
 | ❌ | Fanduel Sports Network (West) | KSTV US | `CBS.Sports.Network.HD.us2` |
 | ❌ | Fanduel Sports Network (Wisconsin) | Rocket Service | `CBS.Sports.Network.HD.us2` |
 | ❌ | FanDuel TV (Formerly TVG) | Rocket Service | `` |
-| ✅ | FanDuel TV+ | Backend: Cloudfront | `` |
+| ❌ | FanDuel TV+ | Backend: Cloudfront | `` |
 | ✅ | FIFA+ | Backend: Wurl | `` |
 | ✅ | Fite 24/7 by Triller | Backend: Cloudfront | `` |
 | ❌ | FN (Fight Network) | Rocket Service | `` |
 | ❌ | FOX Soccer Plus | Rocket Service | `Fox.Soccer.Plus.HD.us2` |
-| ✅ | FOX Sports | Backend: Amagi | `Fox.Sports.4K.us2` |
+| ❌ | FOX Sports | Backend: Amagi | `Fox.Sports.4K.us2` |
 | ✅ | FOX Sports on Tubi | Tubi TV | `` |
 | ❌ | FOX Sports Racing | Rocket Service | `` |
 | ❌ | FS1 (Fox Sports 1) | Rocket Service | `FS1.Fox.Sports.1.HD.us2` |
@@ -1508,9 +1508,9 @@
 | ✅ | Goal TV | Backend: Amagi | `` |
 | ❌ | Gol TV | Other Services | `GOL.TV.us2` |
 | ✅ | HBCU Go Sports | Other Services | `` |
-| ✅ | HBO Boxing by WB | Backend: Amagi | `` |
+| ❌ | HBO Boxing by WB | Backend: Amagi | `` |
 | ❌ | Impact Plus! | Backend: Cloudfront | `` |
-| ✅ | K-Baseball TV | Backend: Amagi | `` |
+| ❌ | K-Baseball TV | Backend: Amagi | `` |
 | ✅ | Lacrosse TV | Other Services | `` |
 | ✅ | Locked on Atlanta | Other Services | `` |
 | ✅ | Locked on College Sports | Other Services | `` |
@@ -1567,7 +1567,7 @@
 | ✅ | PickleTV | Backend: Wurl | `` |
 | ✅ | PokerGo | Local Now | `` |
 | ❌ | Racer (Formerly MAV TV) | Rocket Service | `RACER.Network.HD.us2` |
-| ✅ | Racer International | Backend: Amagi | `3ABN.International.Network.us2` |
+| ❌ | Racer International | Backend: Amagi | `3ABN.International.Network.us2` |
 | ✅ | Racer Select | Backend: Amagi | `` |
 | ✅ | Red Bull TV | Other Services | `` |
 | ✅ | Right Now TV | Other Services | `Right.Now.TV.us2` |
@@ -1598,7 +1598,7 @@
 | ✅ | Tennis TV Classics | Backend: Amagi | `` |
 | ✅ | Tennis+ | Roku Channel | `Tennis.Channel.HD.us2` |
 | ❌ | The Cycling Channel | Other Services | `` |
-| ✅ | The NBA Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
+| ❌ | The NBA Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
 | ✅ | The Original Globetrotters | Other Services | `` |
 | ❌ | The Outdoor Channel | Rocket Service | `Outdoor.Channel.HD.us2` |
 | ✅ | TNA Wrestling Channel | Backend: Amagi | `` |
@@ -1622,12 +1622,12 @@
 | ❌ | Yahoo! Sports Network | Other Services | `CBS.Sports.Network.HD.us2` |
 | ❌ | YES Network | Rocket Service | `Yes.Network.Overflow.us2` |
 | ✅ | 00s Replay (Pluto TV) | Pluto TV | `` |
-| ✅ | 50 Cent Action | Backend: Amagi | `` |
+| ❌ | 50 Cent Action | Backend: Amagi | `` |
 | ✅ | 70s Cinema (Pluto TV) | Pluto TV | `Cinema.Dinamita.(HD.Feed).us2` |
 | ✅ | 80s Rewind (Pluto TV) | Pluto TV | `Rewind.HD.us2` |
 | ✅ | 90s Throwback (Pluto TV) | Pluto TV | `XITE.90s.Throwback.DUMMY.us` |
 | ✅ | Action Hollywood Movies | Local Now | `Movies!.us2` |
-| ✅ | Action! | Backend: Amagi | `Action.Channel.us2` |
+| ❌ | Action! | Backend: Amagi | `Action.Channel.us2` |
 | ✅ | Action+ | Backend: Amagi | `Action.Channel.us2` |
 | ❌ | At the Movies by WB | Backend: Amagi | `Movies!.us2` |
 | ✅ | BET Cinema (Pluto TV) | Pluto TV | `Cinema.Dinamita.(HD.Feed).us2` |
@@ -1635,7 +1635,7 @@
 | ✅ | BET Comedy Visionaries (Pluto TV) | Pluto TV | `` |
 | ✅ | BritBox Mysteries | Roku Channel | `` |
 | ✅ | Christmas+ | Backend: Amagi | `Christmas.Dummy.us` |
-| ✅ | CineLife | Backend: Amagi | `` |
+| ❌ | CineLife | Backend: Amagi | `` |
 | ❌ | Cinemax (East) | Rocket Service | `Cinemax.Action.us2` |
 | ❌ | Cinemax (West) | Rocket Service | `Cinemax.Action.us2` |
 | ❌ | Cinemax Action | Rocket Service | `Cinemax.Action.us2` |
@@ -1663,7 +1663,7 @@
 | ✅ | FilmRise Western | Roku Channel | `` |
 | ❌ | Flix (East) | Other Services | `Flix.us2` |
 | ❌ | Flix (West) | Other Services | `Flix.us2` |
-| ✅ | Free Movie Network | Backend: Amagi | `` |
+| ❌ | Free Movie Network | Backend: Amagi | `` |
 | ✅ | Free Movies+ | Backend: Amagi | `Movies!.us2` |
 | ❌ | HBO (East) | Rocket Service | `HBO.Comedy.HD.us2` |
 | ❌ | HBO (West) | Rocket Service | `HBO.Comedy.HD.us2` |
@@ -1677,7 +1677,7 @@
 | ❌ | HDNET Movies | Rocket Service | `HDNet.Movies.us2` |
 | ❌ | Hollywood Movie Classics | Backend: Cloudfront | `` |
 | ✅ | Horror by ALTER | Backend: Amagi | `` |
-| ✅ | Horror+ | Backend: Amagi | `Horror.Machine.us2` |
+| ❌ | Horror+ | Backend: Amagi | `Horror.Machine.us2` |
 | ❌ | IndiePlex (East) | Rocket Service | `IndiePlex.HD.us2` |
 | ✅ | LG Channel Romance Showcase | Backend: Amagi | `` |
 | ✅ | LG Channel Showcase | Backend: Amagi | `` |
@@ -1720,7 +1720,7 @@
 | ❌ | ScreenPix Voices | Rocket Service | `ScreenPix.Voices.us2` |
 | ❌ | ScreenPix Western | Rocket Service | `ScreenPix.Westerns.us2` |
 | ✅ | Shout! Factory TV | Backend: Amagi | `` |
-| ✅ | Shout! Movies | Backend: Amagi | `HBO.Movies.us2` |
+| ❌ | Shout! Movies | Backend: Amagi | `HBO.Movies.us2` |
 | ❌ | Showtime (Sho X BET) (East) | Rocket Service | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ❌ | Showtime (Sho X BET) (West) | Rocket Service | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ❌ | Showtime (ShoCase) (East) | Rocket Service | `Paramount+.with.Showtime.HD.(Pacific).us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1781,7 +1781,7 @@
 | ✅ | Aquí y Ahora (Español) | Other Services | `` |
 | ✅ | Are We There Yet? | Backend: Amagi | `` |
 | ✅ | Baby Shark TV | Other Services | `` |
-| ✅ | Bachelor Nation | Backend: Amagi | `` |
+| ❌ | Bachelor Nation | Backend: Amagi | `` |
 | ✅ | Bad Girls Club | Backend: Cloudfront | `` |
 | ✅ | Barney & Friends | Backend: Wurl | `` |
 | ✅ | Baywatch | Backend: Amagi | `` |
@@ -1795,21 +1795,21 @@
 | ✅ | Como Dice el Dicho (Español) | Other Services | `` |
 | ✅ | Cops | Pluto TV | `` |
 | ✅ | Dance Moms | Backend: Amagi | `` |
-| ✅ | Deal or No Deal | Backend: Amagi | `` |
+| ❌ | Deal or No Deal | Backend: Amagi | `` |
 | ✅ | Deal Zone | Other Services | `` |
 | ✅ | Declassified | Backend: Amagi | `` |
 | ✅ | Degrassi | Other Services | `` |
 | ✅ | Dog The Bounty Hunter | Backend: Amagi | `` |
-| ✅ | Dog Whisperer with Cesar Millan | Backend: Amagi | `` |
-| ✅ | Duck Dynasty | Backend: Amagi | `` |
+| ❌ | Dog Whisperer with Cesar Millan | Backend: Amagi | `` |
+| ❌ | Duck Dynasty | Backend: Amagi | `` |
 | ✅ | E! Keeping Up With The Kardashians | Backend: Cloudfront | `` |
-| ✅ | Emeril Lagasse Channel | Backend: Amagi | `` |
+| ❌ | Emeril Lagasse Channel | Backend: Amagi | `` |
 | ✅ | Family Feud | Backend: Cloudfront | `` |
 | ✅ | Family Feud Classics | Pluto TV | `Family.Movie.Classics.us2` |
 | ✅ | Family Ties | Pluto TV | `` |
 | ✅ | Fear Factor | Backend: Amagi | `` |
 | ✅ | Garfield & Friends | Pluto TV | `` |
-| ✅ | Ghost Are Real | Backend: Amagi | `` |
+| ❌ | Ghost Are Real | Backend: Amagi | `` |
 | ✅ | Ghost Hunters | Backend: Amagi | `` |
 | ✅ | Green Acres | Other Services | `` |
 | ✅ | Happy Days | Pluto TV | `` |
@@ -1827,19 +1827,19 @@
 | ✅ | JaJaJa (Español) | Other Services | `` |
 | ✅ | Jamie Oliver Channel | Other Services | `` |
 | ✅ | Jersey Shore | Pluto TV | `` |
-| ✅ | Johnny Carson TV | Backend: Amagi | `` |
+| ❌ | Johnny Carson TV | Backend: Amagi | `` |
 | ✅ | Lassie | Other Services | `` |
 | ✅ | Law & Order | Backend: Cloudfront | `` |
 | ✅ | Leave It To Beaver | Backend: Cloudfront | `` |
 | ✅ | Life With Derek | Other Services | `` |
 | ✅ | Little House on the Prairie | Backend: Cloudfront | `` |
 | ✅ | Love & Hip-Hop | Pluto TV | `` |
-| ✅ | Love Thy Neighbor | Backend: Amagi | `` |
-| ✅ | Martha Stewart Channel | Backend: Amagi | `` |
+| ❌ | Love Thy Neighbor | Backend: Amagi | `` |
+| ❌ | Martha Stewart Channel | Backend: Amagi | `` |
 | ✅ | Matched Married Meet | Backend: Amagi | `` |
 | ✅ | Mission Impossible | Pluto TV | `` |
 | ✅ | Murder She Wrote | Backend: Cloudfront | `` |
-| ✅ | Mythbusters | Backend: Amagi | `` |
+| ❌ | Mythbusters | Backend: Amagi | `` |
 | ✅ | Nikita | Backend: Amagi | `` |
 | ✅ | Nip/Tuck | Backend: Amagi | `` |
 | ✅ | Operation Repo | Local Now | `` |
@@ -1870,21 +1870,21 @@
 | ✅ | The Beverly Hillbillies | Other Services | `` |
 | ✅ | The Bob Ross Channel | Other Services | `The.Cowboy.Channel.us2` |
 | ✅ | The Carol Burnette Show | Other Services | `` |
-| ✅ | The Connors | Backend: Amagi | `` |
+| ❌ | The Connors | Backend: Amagi | `` |
 | ✅ | The Dick Van Dyke Show | Other Services | `` |
 | ✅ | The Doctors | Other Services | `` |
 | ✅ | The Ed Sullivan Show | Other Services | `` |
 | ❌ | The Ellen Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
 | ✅ | The Good Wife | Pluto TV | `` |
 | ✅ | The Graham Norton Show | Other Services | `` |
-| ✅ | The Incredible Dr Pol | Backend: Amagi | `` |
+| ❌ | The Incredible Dr Pol | Backend: Amagi | `` |
 | ✅ | The Jack Hannah Channel | Other Services | `` |
 | ✅ | The Jamie Kennedy | Local Now | `` |
 | ✅ | The Joel Osteen Channel | Other Services | `` |
 | ✅ | The Judge Judy Channel | Pluto TV | `` |
 | ✅ | The Love Boat | Pluto TV | `` |
 | ✅ | The Masked Singer | Roku Channel | `` |
-| ✅ | The Osbournes | Backend: Amagi | `` |
+| ❌ | The Osbournes | Backend: Amagi | `` |
 | ✅ | The Pink Panther | Other Services | `` |
 | ✅ | The Price Is Right | Pluto TV | `` |
 | ✅ | The Price Is Right - The Barker Era | Backend: Amagi | `` |
@@ -1909,7 +1909,7 @@
 | ❌ | PPV Cinebox Romance | Other Services | `` |
 | ❌ | PPV Cinebox Sci-Fi | Other Services | `` |
 | ❌ | Canela.TV Music Hits | Backend: Amagi | `` |
-| ✅ | CMC (California Music Channel) | Backend: Amagi | `` |
+| ❌ | CMC (California Music Channel) | Backend: Amagi | `` |
 | ✅ | CMC (Country Music Channel) | Other Services | `` |
 | ❌ | Def Jam | Tubi TV | `` |
 | ✅ | iHeart 2000's Y2K | Radio: iHeart | `` |
@@ -2061,12 +2061,12 @@
 | ✅ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
 | ❌ | La Mega Mundial | Other Services | `` |
 | ✅ | LiveXLive | Other Services | `` |
-| ✅ | MCN6 Music Channel | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
+| ❌ | MCN6 Music Channel | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
 | ❌ | Nago TV | Other Services | `` |
-| ✅ | Now 70s Music | Backend: Amagi | `` |
-| ✅ | Now 80s Music | Backend: Amagi | `` |
+| ❌ | Now 70s Music | Backend: Amagi | `` |
+| ❌ | Now 80s Music | Backend: Amagi | `` |
 | ✅ | Now 90s & 00s Music | Backend: Amagi | `` |
-| ✅ | Now Rock Music | Backend: Amagi | `` |
+| ❌ | Now Rock Music | Backend: Amagi | `` |
 | ✅ | Pop World TV | Other Services | `NHK.World.TV.us2` |
 | ✅ | Radio Tunes 2000's Dance | Other Services | `` |
 | ✅ | Radio Tunes 2000's Hits | Other Services | `` |
@@ -2175,7 +2175,7 @@
 | ❌ | Vevo R&B | Backend: Amagi | `` |
 | ✅ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
 | ✅ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
-| ✅ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
+| ❌ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
 | ✅ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
 | ✅ | Amazon | XITE 60s & 70s Groove | Backend: Amagi | `` |
 | ✅ | Amazon | XITE 80s Flashback | Backend: Amagi | `XITE.80s.Flashback.DUMMY.us` |
@@ -2488,7 +2488,7 @@
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
-| ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
+| ❌ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
 | ❌ | Challenge (UK) | Rocket Service | `Challenge.uk` |
@@ -2498,7 +2498,7 @@
 | ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
+| ❌ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
 | ❌ | CNN (UK) | KSTV UK | `CNN.HD.uk` |
 | ❌ | Comedy Central (UK) | KSTV UK | `` |
 | ❌ | Comedy Central Extra (UK) | KSTV UK | `` |
@@ -2515,8 +2515,8 @@
 | ❌ | FreeForm (UK) | Rocket Service | `` |
 | ❌ | Game One (UK) | Other Services | `` |
 | ✅ | GB News (UK) | Other Services | `GB.News.HD.uk` |
-| ✅ | Great! Movies (UK) | Backend: Amagi | `GREAT!.movies+1.uk` |
-| ✅ | Great! Romance (UK) | Backend: Amagi | `GREAT!.romance.uk` |
+| ❌ | Great! Movies (UK) | Backend: Amagi | `GREAT!.movies+1.uk` |
+| ❌ | Great! Romance (UK) | Backend: Amagi | `GREAT!.romance.uk` |
 | ❌ | H2 (History Channel 2) (UK) | Rocket Service | `` |
 | ❌ | History Channel (UK) | KSTV UK | `` |
 | ✅ | Hobby Maker (UK) | Other Services | `HobbyMaker.uk` |
@@ -2600,7 +2600,7 @@
 | ✅ | TBN Pacific (Austrailia) | Other Services | `ABC.National.Feed.Pacific.us2` |
 | ❌ | TCM (UK) | Rocket Service | `TCM.Movies+1.uk` |
 | ❌ | Tennis Channel (UK) | Backend: Amagi | `` |
-| ✅ | Tiny Pop (UK) | Backend: Amagi | `Tiny.Pop+1.uk` |
+| ❌ | Tiny Pop (UK) | Backend: Amagi | `Tiny.Pop+1.uk` |
 | ✅ | TJC (UK) | Other Services | `TJC.Beauty.uk` |
 | ❌ | TLC (The Learning Channel) (UK) | KSTV UK | `TLC+1.uk` |
 | ❌ | TNT Sports 1 (UK) | Rocket Service | `TNT.Sports.1.HD.uk` |
