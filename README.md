@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-29 21:59
+# 📺 Playlist Status Update: 2026-07-29 23:04
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -514,7 +514,7 @@
 | ✅ | BEK TV News | Other Services | `` |
 | ✅ | Biz TV | Other Services | `Biz.TV.us2` |
 | ✅ | Bloomberg Originals | Other Services | `` |
-| ✅ | Bloomberg Politics Live Event | Other Services | `Live.Event.us` |
+| ❌ | Bloomberg Politics Live Event | Other Services | `Live.Event.us` |
 | ✅ | Bloomberg TV | Other Services | `Bloomberg.Business.Television.us2` |
 | ✅ | Bloomberg TV+ (4K) | Backend: Wurl | `Bloomberg.Business.Television.us2` |
 | ✅ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
@@ -554,16 +554,16 @@
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -685,7 +685,7 @@
 | ✅ | Brevard County Government Access TV (Brevard FL) | Other Services | `` |
 | ✅ | Buena Park Television (Buena Park CA) | Local Gov/Public | `` |
 | ✅ | Burbank Channel (Burbank CA) | Other Services | `` |
-| ✅ | Calabasas Channel (Calabasas CA) | Other Services | `` |
+| ❌ | Calabasas Channel (Calabasas CA) | Other Services | `` |
 | ❌ | CAN TV19 (Chicago IL) | Other Services | `` |
 | ❌ | CAN TV21 (Chicago IL) | Other Services | `` |
 | ❌ | CAN TV27 (Chicago IL) | Other Services | `` |
@@ -917,7 +917,7 @@
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
 | ✅ | Canal Once.3 Digital (México) | Other Services | `` |
-| ✅ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ❌ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | KAKW-TV Univision 62 (Austin TX) | Other Services | `KAKW-DT.us_locals1` |
 | ❌ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket Service | `KASA-DT.us_locals1` |
 | ❌ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket Service | `KBLR-DT.us_locals1` |
@@ -947,15 +947,15 @@
 | ❌ | Latin Hola TV | Rocket Service | `Â¡HOLA!.TV.us2` |
 | ✅ | LATV | Backend: Amagi | `` |
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
-| ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
-| ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
+| ❌ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
 | ✅ | N+ Univision 24/7 | Spanish Services | `Univision.Network.HD.us2` |
 | ✅ | Noticias Telemundo Ahora | Backend: Cloudfront | `` |
@@ -1150,7 +1150,7 @@
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
 | ✅ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
-| ✅ | 30A Ridiculous TV | Other Services | `` |
+| ❌ | 30A Ridiculous TV | Other Services | `` |
 | ✅ | Adult Swim 24/7 | Other Services | `` |
 | ✅ | Adult Swim+ (East) | Other Services | `` |
 | ✅ | Adult Swim+ (West) | Other Services | `` |
