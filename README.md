@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-07-31 18:19
+# 📺 Playlist Status Update: 2026-07-31 20:18
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -517,7 +517,7 @@
 | ✅ | Bloomberg Politics Live Event | Other Services | `Live.Event.us` |
 | ✅ | Bloomberg TV | Other Services | `Bloomberg.Business.Television.us2` |
 | ✅ | Bloomberg TV+ (4K) | Backend: Wurl | `Bloomberg.Business.Television.us2` |
-| ✅ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
+| ❌ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
 | ✅ | CBS 48 Hours | Other Services | `` |
 | ✅ | CBS 60 Minutes | Other Services | `` |
 | ✅ | CBS ET (Entertainment Tonight) | Other Services | `` |
@@ -552,12 +552,12 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ✅ | TED Talks | Backend: Amagi | `` |
+| ❌ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -912,7 +912,7 @@
 | ✅ | Canal 66 Mexicali | Independent Streams | `` |
 | ❌ | Canal 7.1 (Bolivia) | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 7.2 Deportes (Bolivia) | Independent Streams | `` |
-| ✅ | Canal 8 TV+ | Other Services | `` |
+| ❌ | Canal 8 TV+ | Other Services | `` |
 | ❌ | Canal del Congreso 45.1 | Other Services | `` |
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
@@ -947,14 +947,14 @@
 | ❌ | Latin Hola TV | Rocket Service | `Â¡HOLA!.TV.us2` |
 | ✅ | LATV | Backend: Amagi | `` |
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
-| ❌ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
 | ✅ | N+ Univision 24/7 | Spanish Services | `Univision.Network.HD.us2` |
@@ -967,8 +967,8 @@
 | ❌ | RCG .3 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.1 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.2 | Other Services | `` |
-| ❌ | SIPSE TV 8.1 | Other Services | `` |
-| ❌ | SIPSE TVCUN 8.1 | Other Services | `` |
+| ✅ | SIPSE TV 8.1 | Other Services | `` |
+| ✅ | SIPSE TVCUN 8.1 | Other Services | `` |
 | ❌ | Spectrum Noticias NY1 | Rocket Service | `` |
 | ✅ | Telemundo Noticias California | Backend: Cloudfront | `` |
 | ✅ | Telemundo Noticias Florida | Backend: Cloudfront | `` |
@@ -1067,7 +1067,7 @@
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
-| ✅ | NASA | Other Services | `NASA.Plus.us2` |
+| ❌ | NASA | Other Services | `NASA.Plus.us2` |
 | ❌ | Nat Geo Wild | Rocket Service | `` |
 | ❌ | National Geographic (East) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
 | ❌ | National Geographic (West) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
@@ -1414,7 +1414,7 @@
 | ❌ | Wild West TV | Other Services | `West.TV.us2` |
 | ✅ | WPS TV | Other Services | `` |
 | ❌ | YouToo America | Backend: Cloudfront | `YTA.Youtoo.America.us2` |
-| ✅ | America's Auction Channel (AACTV) | Other Services | `` |
+| ❌ | America's Auction Channel (AACTV) | Other Services | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN 2 | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
@@ -1510,7 +1510,7 @@
 | ✅ | HBCU Go Sports | Other Services | `` |
 | ✅ | HBO Boxing by WB | Backend: Amagi | `` |
 | ❌ | Impact Plus! | Backend: Cloudfront | `` |
-| ✅ | K-Baseball TV | Backend: Amagi | `` |
+| ❌ | K-Baseball TV | Backend: Amagi | `` |
 | ✅ | Lacrosse TV | Other Services | `` |
 | ✅ | Locked on Atlanta | Other Services | `` |
 | ✅ | Locked on College Sports | Other Services | `` |
