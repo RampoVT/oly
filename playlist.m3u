@@ -597,7 +597,7 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/42489.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/34444.ts
 #EXTINF:-1 tvg-id="WCMH-DT.us_locals1" group-title="Rocket Service",WCMH-TV NBC 4 (Columbus OH)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/51092.ts
-#EXTINF:-1 tvg-id="WSYX-DT3.us_locals1" group-title="Rocket Service",WSYX-TV ABC 6 (Columbus OH)
+#EXTINF:-1 tvg-id="WSYX-DT2.us_locals1" group-title="Rocket Service",WSYX-TV ABC 6 (Columbus OH)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/112254.ts
 #EXTINF:-1 tvg-id="WBNS-DT.us_locals1" group-title="Rocket Service",WBNS-TV CBS 10 (Columbus OH)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2646.ts
