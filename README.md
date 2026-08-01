@@ -1,27 +1,27 @@
-# 📺 Playlist Status Update: 2026-08-01 19:17
+# 📺 Playlist Status Update: 2026-08-01 20:49
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
 | ❌ | KCBS-TV CBS 2 (Los Angeles CA) | Rocket Service | `KCBS-DT.us_locals1` |
 | ❌ | KNBC-TV NBC 4 (Los Angeles CA) | Rocket Service | `KNBC-DT.us_locals1` |
 | ❌ | KTLA-TV CW 5 (Los Angeles CA) | Rocket Service | `KTLA-DT.us_locals1` |
-| ❌ | KABC-TV ABC 7 (Los Angeles CA) | Rocket Service | `KABC-DT.us_locals1` |
-| ❌ | KCAL-TV CBS/Ind. 9 (Los Angeles CA) | Rocket Service | `KCAL-TV.us` |
+| ✅ | KABC-TV ABC 7 (Los Angeles CA) | Rocket Service | `KABC-DT.us_locals1` |
+| ✅ | KCAL-TV CBS/Ind. 9 (Los Angeles CA) | Rocket Service | `KCAL-TV.us` |
 | ❌ | KTTV-TV FOX 11 (Los Angeles CA) | Rocket Service | `KTTV-DT.us_locals1` |
-| ❌ | KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA) | Rocket Service | `KCOP-DT.us_locals1` |
+| ✅ | KCOP-TV MyNetworkTV 13 (FOX 11+) (Los Angeles CA) | Rocket Service | `KCOP-DT.us_locals1` |
 | ❌ | KSWB-TV FOX 5/69 (San Diego CA) | Rocket Service | `KSWB-DT.us_locals1` |
-| ❌ | KNSD-TV NBC 7/39 (San Diego CA) | Rocket Service | `KNSD-DT.us_locals1` |
+| ✅ | KNSD-TV NBC 7/39 (San Diego CA) | Rocket Service | `KNSD-DT.us_locals1` |
 | ❌ | KFMB-TV CBS 8.1 (CBS 8+) (San Diego CA) | Rocket Service | `KFMB-DT.us_locals1` |
 | ❌ | KFMB-DT CW/MyNetworkTV 8.2 (San Diego CA) | Rocket Service | `KFMB-DT.us_locals1` |
 | ❌ | KGTV-TV ABC 10 (San Diego CA) | Rocket Service | `KGTV-DT.us_locals1` |
 | ❌ | KUSI-TV Ind. 51 (San Diego CA) | Rocket Service | `KUSI-DT.us_locals1` |
 | ❌ | KESQ-TV ABC 3 (Palm Springs CA) | Other Services | `KESQ-DT3.us_locals1` |
 | ❌ | KDFX-CA FOX 11/33 (Palm Springs CA) | Rocket Service | `KDFX-CD.us_locals1` |
-| ❌ | KMIR-TV NBC 36 (Palm Springs CA) | Rocket Service | `KMIR-DT.us_locals1` |
-| ❌ | KTVU-TV FOX 2 (San Francisco CA) | Rocket Service | `KTVU-DT.us_locals1` |
+| ✅ | KMIR-TV NBC 36 (Palm Springs CA) | Rocket Service | `KMIR-DT.us_locals1` |
+| ✅ | KTVU-TV FOX 2 (San Francisco CA) | Rocket Service | `KTVU-DT.us_locals1` |
 | ❌ | KRON-TV CW 4 (San Francisco CA) | Rocket Service | `KRON-DT.us_locals1` |
 | ✅ | KPIX-TV CBS 5 (San Francisco CA) | Backend: Syncbak | `KPIX-DT.us_locals1` |
-| ❌ | KGO-TV ABC 7 (San Francisco CA) | Rocket Service | `` |
+| ✅ | KGO-TV ABC 7 (San Francisco CA) | Rocket Service | `` |
 | ❌ | KNTV-TV NBC 10 (San Francisco CA) | Rocket Service | `KNTV-DT.us_locals1` |
 | ❌ | KICU-TV MyNetworkTV 36 (FOX 2+) (San Francisco CA) | Rocket Service | `KICU-DT.us_locals1` |
 | ❌ | KPYX-TV/KBCW-TV Ind. 44 (KPIX+) (San Francisco CA) | Rocket Service | `KPYX-DT.us_locals1` |
@@ -29,7 +29,7 @@
 | ❌ | KXTV-TV ABC 10 (Sacramento CA) | Rocket Service | `KXTV-DT.us_locals1` |
 | ❌ | KOVR-TV CBS 13 (Stockton/Sacramento CA) | Rocket Service | `KOVR-DT.us_locals1` |
 | ❌ | KTXL-TV FOX 40 (Sacramento CA) | Rocket Service | `KTXL-DT.us_locals1` |
-| ❌ | KMAX-TV CW 31 (Sacramento CA) | Rocket Service | `KMAX-DT.us_locals1` |
+| ✅ | KMAX-TV CW 31 (Sacramento CA) | Rocket Service | `KMAX-DT.us_locals1` |
 | ❌ | KSEE-TV NBC 24 (Fresno CA) | Rocket Service | `KSEE-DT.us_locals1` |
 | ❌ | KMPH-TV FOX 26 (Fresno CA) | Rocket Service | `KMPH-CD.us_locals1` |
 | ❌ | KFSN-TV ABC 30 (Fresno CA) | Rocket Service | `KFSN-DT.us_locals1` |
@@ -551,18 +551,18 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -912,7 +912,7 @@
 | ✅ | Canal 66 Mexicali | Independent Streams | `` |
 | ❌ | Canal 7.1 (Bolivia) | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 7.2 Deportes (Bolivia) | Independent Streams | `` |
-| ✅ | Canal 8 TV+ | Other Services | `` |
+| ❌ | Canal 8 TV+ | Other Services | `` |
 | ❌ | Canal del Congreso 45.1 | Other Services | `` |
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
@@ -1067,7 +1067,7 @@
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
-| ❌ | NASA | Other Services | `NASA.Plus.us2` |
+| ✅ | NASA | Other Services | `NASA.Plus.us2` |
 | ❌ | Nat Geo Wild | Rocket Service | `` |
 | ❌ | National Geographic (East) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
 | ❌ | National Geographic (West) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
@@ -1414,7 +1414,7 @@
 | ❌ | Wild West TV | Other Services | `West.TV.us2` |
 | ✅ | WPS TV | Other Services | `` |
 | ❌ | YouToo America | Backend: Cloudfront | `YTA.Youtoo.America.us2` |
-| ❌ | America's Auction Channel (AACTV) | Other Services | `` |
+| ✅ | America's Auction Channel (AACTV) | Other Services | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN 2 | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1869,9 +1869,9 @@
 | ✅ | The Best of Dr. Phil | Pluto TV | `` |
 | ✅ | The Beverly Hillbillies | Other Services | `` |
 | ✅ | The Bob Ross Channel | Other Services | `The.Cowboy.Channel.us2` |
-| ❌ | The Carol Burnette Show | Other Services | `` |
+| ✅ | The Carol Burnette Show | Other Services | `` |
 | ✅ | The Connors | Backend: Amagi | `` |
-| ❌ | The Dick Van Dyke Show | Other Services | `` |
+| ✅ | The Dick Van Dyke Show | Other Services | `` |
 | ✅ | The Doctors | Other Services | `` |
 | ✅ | The Ed Sullivan Show | Other Services | `` |
 | ❌ | The Ellen Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
@@ -2053,12 +2053,12 @@
 | ✅ | iHeart Women of iHeartCountry | Radio: iHeart | `` |
 | ✅ | iHeart Yacht Rock Radio | Radio: iHeart | `` |
 | ✅ | iHeart Yee Yee Radio | Radio: iHeart | `` |
-| ✅ | JAZZRADIO.com Love Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Mellow Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Jazz 24/7 | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Uptempo | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
+| ❌ | JAZZRADIO.com Love Smooth Jazz | Other Services | `` |
+| ❌ | JAZZRADIO.com Mellow Smooth Jazz | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Jazz 24/7 | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Uptempo | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
 | ❌ | La Mega Mundial | Other Services | `` |
 | ✅ | LiveXLive | Other Services | `` |
 | ✅ | MCN6 Music Channel | Backend: Cloudfront | `Elvis.Presley.Music.Channel.DUMMY.us` |
@@ -2068,52 +2068,52 @@
 | ✅ | Now 90s & 00s Music | Backend: Amagi | `` |
 | ✅ | Now Rock Music | Backend: Amagi | `` |
 | ✅ | Pop World TV | Other Services | `NHK.World.TV.us2` |
-| ✅ | Radio Tunes 2000's Dance | Other Services | `` |
-| ✅ | Radio Tunes 2000's Hits | Other Services | `` |
-| ✅ | Radio Tunes 2000's R&B | Other Services | `` |
-| ✅ | Radio Tunes 60's Hits | Other Services | `` |
-| ✅ | Radio Tunes 60's Rock | Other Services | `` |
-| ✅ | Radio Tunes 70's Hits | Other Services | `` |
-| ✅ | Radio Tunes 70's Rock | Other Services | `` |
-| ✅ | Radio Tunes 80's Alt & New Wave | Other Services | `WAVE-DT.us_locals1` |
-| ✅ | Radio Tunes 80's Hits | Other Services | `` |
-| ✅ | Radio Tunes 80's Rock | Other Services | `` |
-| ✅ | Radio Tunes 90's Dance | Other Services | `` |
-| ✅ | Radio Tunes 90's Hits | Other Services | `` |
-| ✅ | Radio Tunes 90's R&B | Other Services | `` |
+| ❌ | Radio Tunes 2000's Dance | Other Services | `` |
+| ❌ | Radio Tunes 2000's Hits | Other Services | `` |
+| ❌ | Radio Tunes 2000's R&B | Other Services | `` |
+| ❌ | Radio Tunes 60's Hits | Other Services | `` |
+| ❌ | Radio Tunes 60's Rock | Other Services | `` |
+| ❌ | Radio Tunes 70's Hits | Other Services | `` |
+| ❌ | Radio Tunes 70's Rock | Other Services | `` |
+| ❌ | Radio Tunes 80's Alt & New Wave | Other Services | `WAVE-DT.us_locals1` |
+| ❌ | Radio Tunes 80's Hits | Other Services | `` |
+| ❌ | Radio Tunes 80's Rock | Other Services | `` |
+| ❌ | Radio Tunes 90's Dance | Other Services | `` |
+| ❌ | Radio Tunes 90's Hits | Other Services | `` |
+| ❌ | Radio Tunes 90's R&B | Other Services | `` |
 | ❌ | Radio Tunes Classic Christmas | Other Services | `Christmas.Radio.Dummy.us` |
-| ✅ | Radio Tunes Classic Hip-Hop | Other Services | `` |
-| ✅ | Radio Tunes Classic Motown | Other Services | `` |
-| ✅ | Radio Tunes Classic Rock | Other Services | `` |
-| ✅ | Radio Tunes Dance Hits | Other Services | `` |
-| ✅ | Radio Tunes Disco Party | Other Services | `` |
-| ✅ | Radio Tunes Easy Listening | Other Services | `` |
-| ✅ | Radio Tunes EuroDance | Other Services | `` |
-| ✅ | Radio Tunes Modern Rock | Other Services | `` |
-| ✅ | Radio Tunes Old School Funk & Soul | Other Services | `` |
-| ✅ | Radio Tunes Oldies | Other Services | `` |
+| ❌ | Radio Tunes Classic Hip-Hop | Other Services | `` |
+| ❌ | Radio Tunes Classic Motown | Other Services | `` |
+| ❌ | Radio Tunes Classic Rock | Other Services | `` |
+| ❌ | Radio Tunes Dance Hits | Other Services | `` |
+| ❌ | Radio Tunes Disco Party | Other Services | `` |
+| ❌ | Radio Tunes Easy Listening | Other Services | `` |
+| ❌ | Radio Tunes EuroDance | Other Services | `` |
+| ❌ | Radio Tunes Modern Rock | Other Services | `` |
+| ❌ | Radio Tunes Old School Funk & Soul | Other Services | `` |
+| ❌ | Radio Tunes Oldies | Other Services | `` |
 | ❌ | Radio Tunes Pop Christmas | Other Services | `Christmas.Radio.Dummy.us` |
 | ❌ | Radio Tunes Slow R&B | Other Services | `` |
-| ✅ | Radio Tunes Smooth Jazz | Other Services | `` |
-| ✅ | Radio Tunes Smooth Jazz 24/7 | Other Services | `` |
-| ✅ | Radio Tunes Soft Rock | Other Services | `` |
-| ✅ | Radio Tunes Top Hits | Other Services | `` |
-| ✅ | Radio Tunes Uptempo Smooth Jazz | Other Services | `` |
-| ✅ | Radio Tunes Urban Hits | Other Services | `` |
-| ✅ | Radio Tunes Urban Pop Hits | Other Services | `` |
-| ✅ | Radio Tunes Vocal Smooth Jazz | Other Services | `` |
-| ✅ | ROCKRADIO.com 60's Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com 70's Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com 80's Alternative | Other Services | `` |
-| ✅ | ROCKRADIO.com 80's Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Classic Folk-Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Classic Hard-Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Classic Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Modern Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Progressive Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Rock Ballads | Other Services | `` |
-| ✅ | ROCKRADIO.com Soft Rock | Other Services | `` |
-| ✅ | ROCKRADIO.com Yacht Radio | Other Services | `` |
+| ❌ | Radio Tunes Smooth Jazz | Other Services | `` |
+| ❌ | Radio Tunes Smooth Jazz 24/7 | Other Services | `` |
+| ❌ | Radio Tunes Soft Rock | Other Services | `` |
+| ❌ | Radio Tunes Top Hits | Other Services | `` |
+| ❌ | Radio Tunes Uptempo Smooth Jazz | Other Services | `` |
+| ❌ | Radio Tunes Urban Hits | Other Services | `` |
+| ❌ | Radio Tunes Urban Pop Hits | Other Services | `` |
+| ❌ | Radio Tunes Vocal Smooth Jazz | Other Services | `` |
+| ❌ | ROCKRADIO.com 60's Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com 70's Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com 80's Alternative | Other Services | `` |
+| ❌ | ROCKRADIO.com 80's Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Classic Folk-Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Classic Hard-Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Classic Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Modern Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Progressive Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Rock Ballads | Other Services | `` |
+| ❌ | ROCKRADIO.com Soft Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Yacht Radio | Other Services | `` |
 | ✅ | Stingray Music Alternative | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Stingray Music Classic Rock | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Stingray Music Country Greats | Radio: Stingray | `Stingray.Music.Dummy.us` |
@@ -2367,7 +2367,7 @@
 | ❌ | FXX (Canada) | Rocket Service | `FXX.HD.(Pacific).us2` |
 | ❌ | Game Show Network (Canada) | KSTV US | `Game.Show.Network.HD.us2` |
 | ❌ | Game TV (Canada) | Rocket Service | `` |
-| ❌ | Game+ (Canada) | Other Services | `Game+.Game.Plus.HD.us2` |
+| ✅ | Game+ (Canada) | Other Services | `Game+.Game.Plus.HD.us2` |
 | ❌ | Ginx esports TV (Canada) | Rocket Service | `` |
 | ❌ | Global Calgary (Canada) | Rocket Service | `` |
 | ❌ | Global Durham (CHEX-DT-2) (Canada) | Rocket Service | `` |
@@ -2487,7 +2487,7 @@
 | ❌ | BBC World News (UK) | Rocket Service | `BBC.World.News.Dummy.us` |
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
-| ❌ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
+| ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
 | ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
