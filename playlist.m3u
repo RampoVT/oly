@@ -2899,7 +2899,7 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/5310.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/5309.ts
 #EXTINF:-1 tvg-id="beIN.Sports.En.EspaÃ±ol.HD.us2" group-title="Backend: Amagi",beIN Sports XL
 https://amg01334-amg01334c2-canelatv-international-6036.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Other Services",BEK Sports West
+#EXTINF:-1 tvg-id="BEK.Sports.24/7.(KNDB2).Bismarck,.ND.us_locals1" group-title="Other Services",BEK Sports West
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" group-title="Rocket Service",Big Ten Network
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/4443.ts
