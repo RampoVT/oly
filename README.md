@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-06 02:57
+# 📺 Playlist Status Update: 2026-08-06 05:51
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,17 +553,17 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -802,7 +802,7 @@
 | ❌ | Millbrae Community Television (Millbrae CA) | Independent Streams | `` |
 | ❌ | Moorpark Government Channel (Moorpark CA) | Other Services | `` |
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
-| ✅ | MPLS-TV | Other Services | `` |
+| ❌ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
 | ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
@@ -905,7 +905,7 @@
 | ❌ | Canal 21 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 26 Aguascalientes | Independent Streams | `` |
 | ❌ | Canal 28 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
-| ❌ | Canal 33 Tijuana | Independent Streams | `` |
+| ✅ | Canal 33 Tijuana | Independent Streams | `` |
 | ✅ | Canal 44 Chihuahua (México) | Independent Streams | `` |
 | ✅ | Canal 5 (México) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 57 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
@@ -983,7 +983,7 @@
 | ✅ | TV 4.3 | Independent Streams | `` |
 | ❌ | TV BUAP | Other Services | `` |
 | ✅ | TV Cuatro 4.1 | Independent Streams | `` |
-| ❌ | TV Cuatro 4.2 | Independent Streams | `` |
+| ✅ | TV Cuatro 4.2 | Independent Streams | `` |
 | ❌ | TV Cuatro 4.3 | Independent Streams | `` |
 | ❌ | TV Daja Canal 48 | Other Services | `` |
 | ❌ | TV Mar Puerto Vallarta | Independent Streams | `` |
@@ -2367,7 +2367,7 @@
 | ❌ | FXX (Canada) | Rocket Service | `FXX.HD.(Pacific).us2` |
 | ❌ | Game Show Network (Canada) | KSTV US | `Game.Show.Network.HD.us2` |
 | ❌ | Game TV (Canada) | Rocket Service | `` |
-| ✅ | Game+ (Canada) | Other Services | `Game+.Game.Plus.HD.us2` |
+| ❌ | Game+ (Canada) | Other Services | `Game+.Game.Plus.HD.us2` |
 | ❌ | Ginx esports TV (Canada) | Rocket Service | `` |
 | ❌ | Global Calgary (Canada) | Rocket Service | `` |
 | ❌ | Global Durham (CHEX-DT-2) (Canada) | Rocket Service | `` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
