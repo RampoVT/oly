@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-06 14:02
+# 📺 Playlist Status Update: 2026-08-07 00:40
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,17 +553,17 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -702,7 +702,7 @@
 | ✅ | City of Detroit Channel 10 | Local Gov/Public | `` |
 | ✅ | City of Las Vegas (Las Vegas NV) | Backend: Cloudfront | `` |
 | ✅ | City of Miami TV (Miami FL) | Other Services | `` |
-| ✅ | City of Scottsdale Channel 11 (Scottsdale AZ) | Other Services | `` |
+| ❌ | City of Scottsdale Channel 11 (Scottsdale AZ) | Other Services | `` |
 | ✅ | City TV Channels 3/41 (Chino Hills CA) | Other Services | `` |
 | ✅ | City TV San Diego (San Diego CA) | Other Services | `` |
 | ✅ | CNC TV (County News Center) (San Diego CA) | Other Services | `` |
@@ -714,7 +714,7 @@
 | ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
 | ❌ | Coral Gables Television (Coral Gables FL) | Other Services | `` |
-| ✅ | Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA) | Other Services | `` |
+| ❌ | Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA) | Other Services | `` |
 | ❌ | Cox Enfield Public Access Channel 15 (Einfield CT) | Other Services | `` |
 | ❌ | Cox Manchester Public Access Channel 15 (Manchester CT) | Other Services | `` |
 | ✅ | CreaTV Bay Voice TV Channel 27 (San Jose CA) | Local Gov/Public | `` |
@@ -759,7 +759,7 @@
 | ❌ | Irvine Community Television (Irvine KY) | Other Services | `` |
 | ❌ | Jacksonville Freedom Fountain (Jacksonville NC) | Local Gov/Public | `` |
 | ❌ | KBRI Brighton Channel 8 (Brighton CO) | Local Gov/Public | `` |
-| ✅ | KCAT Public Media TV | Local Gov/Public | `` |
+| ❌ | KCAT Public Media TV | Local Gov/Public | `` |
 | ✅ | Kern County TV (Bakerfield CA) | Other Services | `` |
 | ✅ | KFON TV Fontana Community Television (Fontana CA) | Local Gov/Public | `` |
 | ❌ | KOCT Oceanside Community Television Community Channel 18 | Other Services | `` |
@@ -814,7 +814,7 @@
 | ❌ | Newington Community Television Channel 16 (Newington CT) | Other Services | `` |
 | ✅ | NOTV (New Orleans Television) | Independent Streams | `` |
 | ✅ | NYXT (New York NY) | Local Gov/Public | `` |
-| ✅ | Olelo Community Media Channel 49 | Other Services | `` |
+| ❌ | Olelo Community Media Channel 49 | Other Services | `` |
 | ✅ | Olelo Community Media Channel 53 | Other Services | `` |
 | ✅ | Olelo Community Media Channel 54 | Other Services | `` |
 | ✅ | Olelo Community Media Channel 55 | Other Services | `` |
@@ -1027,7 +1027,7 @@
 | ✅ | WXWZ-LD MásTV 23 (San Juan PR) | Independent Streams | `` |
 | ❌ | WZDC-CD Telemundo 44 (Washington DC) | Rocket Service | `WZDC-CD.us_locals1` |
 | ✅ | XHGV-TDT TVMás | Independent Streams | `` |
-| ❌ | XHMNL-TDT TV Nuevo León Canal 28 | Other Services | `` |
+| ✅ | XHMNL-TDT TV Nuevo León Canal 28 | Other Services | `` |
 | ❌ | 4K Travel | Backend: Cloudfront | `Tastemade.Travel.us2` |
 | ❌ | AHC (American Heroes Channel) | Rocket Service | `` |
 | ✅ | AKC TV | Other Services | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
