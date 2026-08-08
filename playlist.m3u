@@ -2387,7 +2387,7 @@ https://jmp2.uk/rok-bab0626ab5655e569790befb4522806a.m3u8
 https://live1009.delivery.roku.com/96414c68-02f2-4e5c-8e5d-355025ccf724/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Wurl",BBC Food
 https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="Cooks.Country.us2" group-title="Backend: Amagi",Cook's Country Channel
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Cook's Country Channel
 https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Taste Made
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv1624i-ono/playlist.m3u8
@@ -2531,7 +2531,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",FreeTV Fantasy
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-engmystify-freetv/playlist.m3u8
-#EXTINF:-1 tvg-id="FM.Fuse.Music.us2" group-title="Rocket Service",Fuse
+#EXTINF:-1 tvg-id="Fuse.HD.us2" group-title="Rocket Service",Fuse
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/30920.ts
 #EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" group-title="Rocket Service",FX (East)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3642.ts
@@ -3285,7 +3285,7 @@ https://apollo.production-public.tubi.io/live/cinevault-UZPUok.m3u8
 https://apollo.production-public.tubi.io/live/cinevault-classics-ObCDhf.m3u8
 #EXTINF:-1 tvg-id="CINEVAULT.Westerns.us2" group-title="Tubi TV",CineVault Westerns
 https://apollo.production-public.tubi.io/live/cinevault-westerns2-7z47L6.m3u8
-#EXTINF:-1 tvg-id="Classic.Cinema.us2" group-title="Backend: Amagi",Classic Cinema by WB
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" group-title="Backend: Amagi",Classic Cinema by WB
 https://amg00136-wbd-amg00136c18-tclideo-na-6554.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvclassiccinema-tclideona/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Pluto TV",Classic Movie Westerns (Pluto TV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f33318210549000806a530/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=0d9c1574-7b2e-11ef-9f59-f13f6c43689b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e2a04b0-a96c-4cc0-8658-f2d21c2cefef&userId=&serverSideAds=true
@@ -3359,13 +3359,13 @@ https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-
 https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",Maverick Black Cinema
 https://7f79ab38a34d49d4b985c99cafb976b1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vidaa-us_MaverickBlackCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" group-title="Other Services",MGM Presents
+#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" group-title="Other Services",MGM Presents
 https://linear-1071.frequency.stream/dist/tcltv/1071/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" group-title="Other Services",MGM Presents (Action)
+#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" group-title="Other Services",MGM Presents (Action)
 https://linear-1147.frequency.stream/dist/tcltv/1147/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" group-title="Other Services",MGM Presents (Horror)
+#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" group-title="Other Services",MGM Presents (Horror)
 https://linear-1217.frequency.stream/dist/tcltv/1217/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="MGM.Presents.Action.us2" group-title="Other Services",MGM Presents (Western)
+#EXTINF:-1 tvg-id="MGM.Presents:.Horror.us2" group-title="Other Services",MGM Presents (Western)
 https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="MGM+.Drive-In.us2" group-title="Rocket Service",MGM+ (East)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3949.ts
@@ -3505,7 +3505,7 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/631880.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3956.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-shift="-3" group-title="Rocket Service",Starz Kids & Family (West)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/631881.ts
-#EXTINF:-1 tvg-id="Asylum.Movie.us2" group-title="Rocket Service",The Asylum Movie Channel
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" group-title="Rocket Service",The Asylum Movie Channel
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/709958.ts
 #EXTINF:-1 tvg-id="The.Film.Detective.us2" group-title="Other Services",The Film Detective
 https://cineverse.g-mana.live/media/241999a9-fa38-4111-aa00-ee1f3293bca1/master.m3u8

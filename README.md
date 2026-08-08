@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-08 14:30
+# 📺 Playlist Status Update: 2026-08-08 15:27
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,18 +551,18 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -1150,7 +1150,7 @@
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
 | ✅ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
-| ✅ | 30A Ridiculous TV | Other Services | `` |
+| ❌ | 30A Ridiculous TV | Other Services | `` |
 | ✅ | Adult Swim 24/7 | Other Services | `` |
 | ✅ | Adult Swim+ (East) | Other Services | `` |
 | ✅ | Adult Swim+ (West) | Other Services | `` |
@@ -1196,7 +1196,7 @@
 | ✅ | Bon Appétit | Other Services | `Bon.AppÃ©tit.TV.us2` |
 | ✅ | PBS Food | Roku Channel | `` |
 | ✅ | BBC Food | Backend: Wurl | `` |
-| ✅ | Cook's Country Channel | Backend: Amagi | `Cooks.Country.us2` |
+| ✅ | Cook's Country Channel | Backend: Amagi | `` |
 | ✅ | Taste Made | Backend: Amagi | `` |
 | ✅ | Chef Roc Show | Other Services | `` |
 | ✅ | America's Test Kitchen | Backend: Amagi | `` |
@@ -1268,7 +1268,7 @@
 | ✅ | FOX Soul | Backend: Amagi | `FOX.SOUL.us2` |
 | ✅ | Free Western Network | Backend: Amagi | `` |
 | ❌ | FreeTV Fantasy | Backend: Amagi | `` |
-| ❌ | Fuse | Rocket Service | `FM.Fuse.Music.us2` |
+| ❌ | Fuse | Rocket Service | `Fuse.HD.us2` |
 | ❌ | FX (East) | Rocket Service | `FX.HD.(Pacific).us2` |
 | ❌ | FX (West) | Rocket Service | `FX.HD.(Pacific).us2` |
 | ❌ | FXM (FOX Movie Channel) | Rocket Service | `` |
@@ -1645,7 +1645,7 @@
 | ❌ | CineVault | Tubi TV | `Cinevault.Classics.us2` |
 | ❌ | CineVault Classics | Tubi TV | `Cinevault.Classics.us2` |
 | ❌ | CineVault Westerns | Tubi TV | `CINEVAULT.Westerns.us2` |
-| ❌ | Classic Cinema by WB | Backend: Amagi | `Classic.Cinema.us2` |
+| ❌ | Classic Cinema by WB | Backend: Amagi | `Cinemax.Classics.us2` |
 | ✅ | Classic Movie Westerns (Pluto TV) | Pluto TV | `` |
 | ✅ | Classic Movies Channel (Pluto TV) | Pluto TV | `Turner.Classic.Movies.HD.us2` |
 | ✅ | Comedy+ | Backend: Amagi | `Catchy.Comedy.us2` |
@@ -1682,10 +1682,10 @@
 | ✅ | LG Channel Romance Showcase | Backend: Amagi | `` |
 | ✅ | LG Channel Showcase | Backend: Amagi | `` |
 | ❌ | Maverick Black Cinema | Other Services | `` |
-| ✅ | MGM Presents | Other Services | `MGM.Presents.Action.us2` |
-| ✅ | MGM Presents (Action) | Other Services | `MGM.Presents.Action.us2` |
-| ✅ | MGM Presents (Horror) | Other Services | `MGM.Presents.Action.us2` |
-| ✅ | MGM Presents (Western) | Other Services | `MGM.Presents.Action.us2` |
+| ✅ | MGM Presents | Other Services | `MGM.Presents:.Horror.us2` |
+| ✅ | MGM Presents (Action) | Other Services | `MGM.Presents:.Horror.us2` |
+| ✅ | MGM Presents (Horror) | Other Services | `MGM.Presents:.Horror.us2` |
+| ✅ | MGM Presents (Western) | Other Services | `MGM.Presents:.Horror.us2` |
 | ❌ | MGM+ (East) | Rocket Service | `MGM+.Drive-In.us2` |
 | ❌ | MGM+ (West) | Rocket Service | `MGM+.Drive-In.us2` |
 | ❌ | MGM+ Drive-In | Rocket Service | `MGM+.Drive-In.us2` |
@@ -1755,14 +1755,14 @@
 | ❌ | Starz In Black (West) | Rocket Service | `Starz.in.Black.HD.us2` |
 | ❌ | Starz Kids & Family (East) | Rocket Service | `Starz.Encore.Family.SD.us2` |
 | ❌ | Starz Kids & Family (West) | Rocket Service | `Starz.Encore.Family.SD.us2` |
-| ❌ | The Asylum Movie Channel | Rocket Service | `Asylum.Movie.us2` |
+| ❌ | The Asylum Movie Channel | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | The Film Detective | Other Services | `The.Film.Detective.us2` |
 | ❌ | The Movie Channel (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
