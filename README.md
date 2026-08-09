@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-09 17:29
+# 📺 Playlist Status Update: 2026-08-09 18:37
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,19 +551,19 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -1338,7 +1338,7 @@
 | ❌ | Non-Stop 90's | Plex TV | `` |
 | ✅ | Nosey | Backend: Cloudfront | `Nosey.on.Peacock.us2` |
 | ❌ | Nosey (Alt) | Other Services | `Nosey.on.Peacock.us2` |
-| ❌ | NOST (The Nostalgia Network) | Other Services | `` |
+| ✅ | NOST (The Nostalgia Network) | Other Services | `` |
 | ✅ | ONTV4U | Other Services | `` |
 | ✅ | OuterSphere by Lionsgate | Backend: Amagi | `` |
 | ✅ | OUTtv Proud | Backend: Amagi | `` |
@@ -1607,7 +1607,7 @@
 | ✅ | TVS Boxing | Other Services | `Bowling.TV.us2` |
 | ✅ | TVS TeleSports | Other Services | `` |
 | ✅ | TVS Turbo Network | Other Services | `Start.TV.Network.us2` |
-| ❌ | TVS Women Sports | Other Services | `` |
+| ✅ | TVS Women Sports | Other Services | `` |
 | ❌ | UFC Channel | Other Services | `ABS-CBN.News.Channel.us2` |
 | ❌ | UFC Channel 24/7 | KSTV US | `` |
 | ❌ | UFC Fight Pass | Rocket Service | `UFC.Fight.Pass.Dummy.us` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -2175,7 +2175,7 @@
 | ❌ | Vevo R&B | Backend: Amagi | `` |
 | ✅ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
 | ✅ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
-| ✅ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
+| ❌ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
 | ✅ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
 | ✅ | Amazon | XITE 60s & 70s Groove | Backend: Amagi | `` |
 | ✅ | Amazon | XITE 80s Flashback | Backend: Amagi | `XITE.80s.Flashback.DUMMY.us` |
@@ -2495,7 +2495,7 @@
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
