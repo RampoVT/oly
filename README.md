@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-09 13:47
+# 📺 Playlist Status Update: 2026-08-09 14:32
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,14 +553,14 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -656,7 +656,7 @@
 | ❌ | Access Media Productions Marina TV | Local Gov/Public | `` |
 | ❌ | Access Media Productions Monterey Channel | Local Gov/Public | `` |
 | ❌ | Access Media Productions Peninsula Channel | Local Gov/Public | `` |
-| ❌ | Access Nashua | Local Gov/Public | `` |
+| ✅ | Access Nashua | Local Gov/Public | `` |
 | ✅ | Access Sacramento Channel 17 | Local Gov/Public | `` |
 | ✅ | Access Sacramento Channel 18 | Local Gov/Public | `` |
 | ✅ | Access Tuolumne (Tuolumne County CA) | Local Gov/Public | `` |
@@ -706,12 +706,12 @@
 | ✅ | City TV Channels 3/41 (Chino Hills CA) | Other Services | `` |
 | ✅ | City TV San Diego (San Diego CA) | Other Services | `` |
 | ❌ | CNC TV (County News Center) (San Diego CA) | Other Services | `` |
-| ❌ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
+| ✅ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
 | ❌ | CobbTV (Atlanta GA) | Other Services | `` |
 | ❌ | Collier Television CTV (Naples FL) | Local Gov/Public | `` |
 | ✅ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
-| ❌ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
-| ❌ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
 | ❌ | Coral Gables Television (Coral Gables FL) | Other Services | `` |
 | ✅ | Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA) | Other Services | `` |
@@ -725,7 +725,7 @@
 | ✅ | DCC (District Council Channel) | Other Services | `` |
 | ✅ | DCN (District of Columbia Network) | Other Services | `` |
 | ✅ | Denver 8 TV (Denver CO) | Other Services | `` |
-| ❌ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
+| ✅ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DKN (District Knowledge Network) | Other Services | `` |
 | ✅ | El Segundo Media (El Segundo CA) | Other Services | `` |
@@ -828,7 +828,7 @@
 | ❌ | Palm Springs Community Television (Palm Springs CA) | Other Services | `` |
 | ❌ | Pasco City Television (Pasco County FL) | Other Services | `` |
 | ❌ | Pasco TV (Pasco County FL) | Other Services | `` |
-| ❌ | PCTV (Piscataway Community Television) (Piscataway NJ) | Local Gov/Public | `` |
+| ✅ | PCTV (Piscataway Community Television) (Piscataway NJ) | Local Gov/Public | `` |
 | ✅ | PCTV Pinole Community Television Channel 26 (Pinole CA) | Other Services | `` |
 | ✅ | PCTV Pinole Community Television Channel 28 (Pinole CA) | Other Services | `` |
 | ✅ | PhillyCAM (Philadelphia PA) | Local Gov/Public | `` |
@@ -848,9 +848,9 @@
 | ✅ | Room 123 (District of Columbia Channel) | Other Services | `` |
 | ✅ | Room 412 (District of Columbia Channel) | Other Services | `` |
 | ✅ | Salem News Channel | Backend: Amagi | `Salem.News.Channel.us2` |
-| ❌ | Santa Maria Community Television Education Channel | Local Gov/Public | `` |
-| ❌ | Santa Maria Community Television Government Channel | Local Gov/Public | `` |
-| ❌ | Santa Maria Community Television Public Access Channel | Local Gov/Public | `` |
+| ✅ | Santa Maria Community Television Education Channel | Local Gov/Public | `` |
+| ✅ | Santa Maria Community Television Government Channel | Local Gov/Public | `` |
+| ✅ | Santa Maria Community Television Public Access Channel | Local Gov/Public | `` |
 | ✅ | Santa Monica City TV 20 (Santa Monica CA) | Other Services | `` |
 | ✅ | SCTV (Santa Clarita CA) | Local Gov/Public | `` |
 | ✅ | Seattle Channel (Seattle WA) | Other Services | `` |
@@ -863,7 +863,7 @@
 | ❌ | SLO County Channel 21 (San Luis Obispo CA) | Other Services | `` |
 | ✅ | Sound View Community Media Education | Local Gov/Public | `` |
 | ✅ | Sound View Community Media Government | Local Gov/Public | `` |
-| ❌ | Sound View Community Media Local Public | Local Gov/Public | `` |
+| ✅ | Sound View Community Media Local Public | Local Gov/Public | `` |
 | ✅ | St. Johns County Government GTV (St. Johns County FL) | Other Services | `` |
 | ✅ | St. Pete TV (SPTV) (St Petersburg FL) | Other Services | `` |
 | ❌ | Stockton GovTV (Stockton CA) | Other Services | `` |
@@ -900,8 +900,8 @@
 | ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
-| ✅ | Canal 2 de Ushuaia | Other Services | `` |
-| ✅ | Canal 2 Misiones | Other Services | `` |
+| ❌ | Canal 2 de Ushuaia | Other Services | `` |
+| ❌ | Canal 2 Misiones | Other Services | `` |
 | ❌ | Canal 21 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 26 Aguascalientes | Independent Streams | `` |
 | ❌ | Canal 28 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
@@ -1396,7 +1396,7 @@
 | ❌ | TV Land (East) | Rocket Service | `TV.Land.HD.(Pacific).us2` |
 | ❌ | TV Land (West) | Rocket Service | `TV.Land.HD.(Pacific).us2` |
 | ❌ | TV One | Rocket Service | `TV.ONE.HD.us2` |
-| ❌ | TVS Today Home Entertainment | Other Services | `` |
+| ✅ | TVS Today Home Entertainment | Other Services | `` |
 | ✅ | TVS Western Movie | Other Services | `` |
 | ✅ | Universal Action | Backend: Cloudfront | `Universal.Action.us2` |
 | ✅ | Universal Crime | Backend: Cloudfront | `Universal.Crime.us2` |
