@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-10 21:39
+# 📺 Playlist Status Update: 2026-08-10 22:35
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -517,7 +517,7 @@
 | ✅ | Bloomberg Politics Live Event | Other Services | `Live.Event.us` |
 | ✅ | Bloomberg TV | Other Services | `Bloomberg.Business.Television.us2` |
 | ✅ | Bloomberg TV+ (4K) | Backend: Wurl | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
+| ✅ | Bloomberg U.S. Live Event | Other Services | `Live.Event.us` |
 | ✅ | CBS 48 Hours | Other Services | `` |
 | ✅ | CBS 60 Minutes | Other Services | `` |
 | ✅ | CBS ET (Entertainment Tonight) | Other Services | `` |
@@ -555,15 +555,15 @@
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -947,14 +947,14 @@
 | ❌ | Latin Hola TV | Rocket Service | `Â¡HOLA!.TV.us2` |
 | ✅ | LATV | Backend: Amagi | `` |
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
-| ❌ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
 | ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
 | ✅ | N+ Univision 24/7 | Spanish Services | `Univision.Network.HD.us2` |
@@ -1067,7 +1067,7 @@
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
-| ❌ | NASA | Other Services | `NASA.Plus.us2` |
+| ✅ | NASA | Other Services | `NASA.Plus.us2` |
 | ❌ | Nat Geo Wild | Rocket Service | `` |
 | ❌ | National Geographic (East) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
 | ❌ | National Geographic (West) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
@@ -1246,7 +1246,7 @@
 | ✅ | Cloudflare TV | Other Services | `` |
 | ❌ | CMT (Country Music Television) (East) | Rocket Service | `CMT.HD.us2` |
 | ❌ | CMT (Country Music Television) (West) | Rocket Service | `CMT.HD.us2` |
-| ✅ | CMT Equal Music (Pluto TV) | Pluto TV | `` |
+| ❌ | CMT Equal Music (Pluto TV) | Pluto TV | `` |
 | ✅ | Comet | Other Services | `Comet.(Pacific).us2` |
 | ✅ | Confess by Nosey | Backend: Amagi | `` |
 | ❌ | COZI TV | Rocket Service | `COZI.TV.us2` |
@@ -1332,7 +1332,7 @@
 | ❌ | MTV 2 (West) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV Classic (West) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV Live | Other Services | `` |
-| ✅ | MTV Yo! (Pluto) | Pluto TV | `` |
+| ❌ | MTV Yo! (Pluto) | Pluto TV | `` |
 | ✅ | MyTime Movie Network | Backend: Amagi | `` |
 | ✅ | NBC LX Home | Other Services | `` |
 | ❌ | Non-Stop 90's | Plex TV | `` |
@@ -1414,7 +1414,7 @@
 | ❌ | Wild West TV | Other Services | `West.TV.us2` |
 | ✅ | WPS TV | Other Services | `` |
 | ❌ | YouToo America | Backend: Cloudfront | `YTA.Youtoo.America.us2` |
-| ❌ | America's Auction Channel (AACTV) | Other Services | `` |
+| ✅ | America's Auction Channel (AACTV) | Other Services | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN 2 | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1833,7 +1833,7 @@
 | ✅ | Leave It To Beaver | Backend: Cloudfront | `` |
 | ✅ | Life With Derek | Other Services | `` |
 | ✅ | Little House on the Prairie | Backend: Cloudfront | `` |
-| ✅ | Love & Hip-Hop | Pluto TV | `` |
+| ❌ | Love & Hip-Hop | Pluto TV | `` |
 | ✅ | Love Thy Neighbor | Backend: Amagi | `` |
 | ✅ | Martha Stewart Channel | Backend: Amagi | `` |
 | ✅ | Matched Married Meet | Backend: Amagi | `` |
