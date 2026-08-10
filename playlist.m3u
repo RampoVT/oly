@@ -2907,11 +2907,11 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/4443.ts
 https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",CampusLore
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Other Services",CBS Sports Golazo Network
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Other Services",CBS Sports Golazo Network
 http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Other Services",CBS Sports HQ
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Other Services",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Rocket Service",CBS Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Rocket Service",CBS Sports Network
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3621.ts
 #EXTINF:-1 tvg-id="UEFA.Champions.League.Dummy.us" group-title="Other Services",CBS Sports UEFA Champions League
 http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
@@ -2919,13 +2919,13 @@ http://dai.google.com/linear/hls/event/ydKcHHYQSt27vbSP38xMVw/master.m3u8
 https://b5528a73b0c245638393a5c57c12fe79.mediatailor.us-east-1.amazonaws.com/v1/master/d58cb533af925f0d206e7043f2eb25fe50b073e5/5dc2713f-7102-4912-8dcf-c0a459037a85/live.m3u8
 #EXTINF:-1 tvg-id="CHSN.Chicago.Sports.Network.us2" group-title="KSTV US",Chicago Sports Network
 http://kstv.us:8080/live/N427DpynGE/7049166651/28741.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Other Services",Court Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Other Services",Court Sports Network
 https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",DAZN Ringside
 https://jmp2.uk/rok-b6a492b04d7d534fa0e9e69380382d02.m3u8
 #EXTINF:-1 tvg-id="" group-title="Other Services",DNVR Sports
 https://f4fc23fd937b472abb333210b6760aea.mediatailor.us-east-1.amazonaws.com/v1/master/d58cb533af925f0d206e7043f2eb25fe50b073e5/cb056502-44b0-4c67-af41-65e6afa1b724/live.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Eleven Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Eleven Sports Network
 http://kstv.us:8080/live/N427DpynGE/7049166651/23327.ts
 #EXTINF:-1 tvg-id="" group-title="Other Services",EPG Fighting Network
 https://fight-network-3-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66d087ead8324e4d44074832_fight-network-3-live/main.m3u8
@@ -2945,35 +2945,35 @@ https://d3p1dbb9xrkmd5.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Wurl",FanDuel Extra
 https://ed94bc6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX0ZhbkR1ZWxUVkV4dHJhX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Detroit)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Detroit)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31589.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Florida)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Florida)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47468.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Rocket Service",Fanduel Sports Network (Indiana)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Rocket Service",Fanduel Sports Network (Indiana)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/663215.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Rocket Service",Fanduel Sports Network (Kansas City)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Rocket Service",Fanduel Sports Network (Kansas City)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/663147.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Midwest)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Midwest)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31588.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (North)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (North)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31587.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Ohio)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Ohio)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47720.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Oklahoma)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Oklahoma)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47469.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Socal)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Socal)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31585.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (South)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (South)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31583.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Southeast)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Southeast)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31582.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Southwest)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Southwest)
 http://kstv.us:8080/live/N427DpynGE/7049166651/31581.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="KSTV US",Fanduel Sports Network (Sun)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="KSTV US",Fanduel Sports Network (Sun)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47470.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-shift="-3" group-title="KSTV US",Fanduel Sports Network (West)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" tvg-shift="-3" group-title="KSTV US",Fanduel Sports Network (West)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47471.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Rocket Service",Fanduel Sports Network (Wisconsin)
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Rocket Service",Fanduel Sports Network (Wisconsin)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2506.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",FanDuel TV (Formerly TVG)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/629723.ts
@@ -3225,7 +3225,7 @@ https://unbeaten-tcl.amagi.tv/playlist.m3u8
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/563914.ts
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Willow Sports
 https://amg01269-amg01269c1-distrotv-us-5379.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Tubi TV",Women's Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Tubi TV",Women's Sports Network
 https://apollo.production-public.tubi.io/live/womens-sports-network-1O1OWm.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",WPT (World Poker Tour)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
@@ -3233,7 +3233,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertou
 https://jmp2.uk/rok-11f70f2cc59750f4ad9a019d72ad17b1.m3u8
 #EXTINF:-1 tvg-id="WWE.Network.us2" group-title="Rocket Service",WWE Network
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3701.ts
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" group-title="Other Services",Yahoo! Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Other Services",Yahoo! Sports Network
 https://yahoo2.global.transmit.live/hls/690b7473f01f0691850b8c7d/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Yes.Network.Overflow.us2" group-title="Rocket Service",YES Network
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3695.ts

@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-10 22:35
+# 📺 Playlist Status Update: 2026-08-10 23:33
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,16 +553,16 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -668,7 +668,7 @@
 | ✅ | Akaku 54 (Maui Hi) | Other Services | `` |
 | ✅ | Akaku 55 (Maui Hi) | Other Services | `` |
 | ✅ | Anaheim TV (Anaheim CA) | Local Gov/Public | `` |
-| ❌ | Anne Arundel County Government (Annapolis MN) | Local Gov/Public | `` |
+| ✅ | Anne Arundel County Government (Annapolis MN) | Local Gov/Public | `` |
 | ✅ | Atlanta Channel (Atlanta GA) | Other Services | `` |
 | ✅ | AuroraTV (Aurora CO) | Local Gov/Public | `` |
 | ❌ | Banning CityTV (Banning CA) | Other Services | `` |
@@ -900,8 +900,8 @@
 | ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
-| ❌ | Canal 2 de Ushuaia | Other Services | `` |
-| ❌ | Canal 2 Misiones | Other Services | `` |
+| ✅ | Canal 2 de Ushuaia | Other Services | `` |
+| ✅ | Canal 2 Misiones | Other Services | `` |
 | ❌ | Canal 21 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 26 Aguascalientes | Independent Streams | `` |
 | ❌ | Canal 28 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
@@ -1067,7 +1067,7 @@
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
-| ✅ | NASA | Other Services | `NASA.Plus.us2` |
+| ❌ | NASA | Other Services | `NASA.Plus.us2` |
 | ❌ | Nat Geo Wild | Rocket Service | `` |
 | ❌ | National Geographic (East) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
 | ❌ | National Geographic (West) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
@@ -1150,7 +1150,7 @@
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
 | ✅ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
-| ✅ | 30A Ridiculous TV | Other Services | `` |
+| ❌ | 30A Ridiculous TV | Other Services | `` |
 | ✅ | Adult Swim 24/7 | Other Services | `` |
 | ✅ | Adult Swim+ (East) | Other Services | `` |
 | ✅ | Adult Swim+ (West) | Other Services | `` |
@@ -1246,7 +1246,7 @@
 | ✅ | Cloudflare TV | Other Services | `` |
 | ❌ | CMT (Country Music Television) (East) | Rocket Service | `CMT.HD.us2` |
 | ❌ | CMT (Country Music Television) (West) | Rocket Service | `CMT.HD.us2` |
-| ❌ | CMT Equal Music (Pluto TV) | Pluto TV | `` |
+| ✅ | CMT Equal Music (Pluto TV) | Pluto TV | `` |
 | ✅ | Comet | Other Services | `Comet.(Pacific).us2` |
 | ✅ | Confess by Nosey | Backend: Amagi | `` |
 | ❌ | COZI TV | Rocket Service | `COZI.TV.us2` |
@@ -1332,7 +1332,7 @@
 | ❌ | MTV 2 (West) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV Classic (West) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV Live | Other Services | `` |
-| ❌ | MTV Yo! (Pluto) | Pluto TV | `` |
+| ✅ | MTV Yo! (Pluto) | Pluto TV | `` |
 | ✅ | MyTime Movie Network | Backend: Amagi | `` |
 | ✅ | NBC LX Home | Other Services | `` |
 | ❌ | Non-Stop 90's | Plex TV | `` |
@@ -1414,7 +1414,7 @@
 | ❌ | Wild West TV | Other Services | `West.TV.us2` |
 | ✅ | WPS TV | Other Services | `` |
 | ❌ | YouToo America | Backend: Cloudfront | `YTA.Youtoo.America.us2` |
-| ✅ | America's Auction Channel (AACTV) | Other Services | `` |
+| ❌ | America's Auction Channel (AACTV) | Other Services | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN 2 | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
@@ -1456,16 +1456,16 @@
 | ❌ | Big Ten Network | Rocket Service | `Big.Ten.Network.HD.us2` |
 | ❌ | Billiard TV | Backend: Wurl | `Billiard.TV.us2` |
 | ❌ | CampusLore | Other Services | `` |
-| ✅ | CBS Sports Golazo Network | Other Services | `CBS.Sports.Network.HD.us2` |
-| ✅ | CBS Sports HQ | Other Services | `CBS.Sports.Network.HD.us2` |
-| ❌ | CBS Sports Network | Rocket Service | `CBS.Sports.Network.HD.us2` |
+| ✅ | CBS Sports Golazo Network | Other Services | `CBS.Sports.Golazo.Network.us2` |
+| ✅ | CBS Sports HQ | Other Services | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | CBS Sports Network | Rocket Service | `CBS.Sports.Golazo.Network.us2` |
 | ✅ | CBS Sports UEFA Champions League | Other Services | `UEFA.Champions.League.Dummy.us` |
 | ✅ | CHGO Sports | Other Services | `` |
 | ❌ | Chicago Sports Network | KSTV US | `CHSN.Chicago.Sports.Network.us2` |
-| ✅ | Court Sports Network | Other Services | `CBS.Sports.Network.HD.us2` |
+| ✅ | Court Sports Network | Other Services | `CBS.Sports.Golazo.Network.us2` |
 | ❌ | DAZN Ringside | Other Services | `` |
 | ✅ | DNVR Sports | Other Services | `` |
-| ❌ | Eleven Sports Network | KSTV US | `CBS.Sports.Network.HD.us2` |
+| ❌ | Eleven Sports Network | KSTV US | `CBS.Sports.Golazo.Network.us2` |
 | ❌ | EPG Fighting Network | Other Services | `` |
 | ❌ | ESPN | Rocket Service | `ESPN.Deportes.HD.us2` |
 | ❌ | ESPN 2 | Rocket Service | `ESPN.Deportes.HD.us2` |
@@ -1475,21 +1475,21 @@
 | ✅ | Extreme+ | Backend: Cloudfront | `Showtime.Extreme.HD.us2` |
 | ✅ | FanDuel 2 Racing | Backend: Cloudfront | `` |
 | ✅ | FanDuel Extra | Backend: Wurl | `` |
-| ❌ | Fanduel Sports Network (Detroit) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Florida) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Indiana) | Rocket Service | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Kansas City) | Rocket Service | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Midwest) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (North) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Ohio) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Oklahoma) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Socal) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (South) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Southeast) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Southwest) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Sun) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (West) | KSTV US | `CBS.Sports.Network.HD.us2` |
-| ❌ | Fanduel Sports Network (Wisconsin) | Rocket Service | `CBS.Sports.Network.HD.us2` |
+| ❌ | Fanduel Sports Network (Detroit) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Florida) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Indiana) | Rocket Service | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Kansas City) | Rocket Service | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Midwest) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (North) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Ohio) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Oklahoma) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Socal) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (South) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Southeast) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Southwest) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Sun) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (West) | KSTV US | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | Fanduel Sports Network (Wisconsin) | Rocket Service | `CBS.Sports.Golazo.Network.us2` |
 | ❌ | FanDuel TV (Formerly TVG) | Rocket Service | `` |
 | ✅ | FanDuel TV+ | Backend: Cloudfront | `` |
 | ✅ | FIFA+ | Backend: Wurl | `` |
@@ -1615,11 +1615,11 @@
 | ✅ | Unbeaten | Backend: Amagi | `` |
 | ❌ | VSIN Sports | Rocket Service | `VSIN.Vegas.Sports.and.Information.Network.us2` |
 | ✅ | Willow Sports | Backend: Amagi | `` |
-| ✅ | Women's Sports Network | Tubi TV | `CBS.Sports.Network.HD.us2` |
+| ✅ | Women's Sports Network | Tubi TV | `CBS.Sports.Golazo.Network.us2` |
 | ✅ | WPT (World Poker Tour) | Backend: Amagi | `` |
 | ✅ | WSN (Women's Sports Network) | Other Services | `` |
 | ❌ | WWE Network | Rocket Service | `WWE.Network.us2` |
-| ❌ | Yahoo! Sports Network | Other Services | `CBS.Sports.Network.HD.us2` |
+| ❌ | Yahoo! Sports Network | Other Services | `CBS.Sports.Golazo.Network.us2` |
 | ❌ | YES Network | Rocket Service | `Yes.Network.Overflow.us2` |
 | ✅ | 00s Replay (Pluto TV) | Pluto TV | `` |
 | ✅ | 50 Cent Action | Backend: Amagi | `` |
@@ -1833,7 +1833,7 @@
 | ✅ | Leave It To Beaver | Backend: Cloudfront | `` |
 | ✅ | Life With Derek | Other Services | `` |
 | ✅ | Little House on the Prairie | Backend: Cloudfront | `` |
-| ❌ | Love & Hip-Hop | Pluto TV | `` |
+| ✅ | Love & Hip-Hop | Pluto TV | `` |
 | ✅ | Love Thy Neighbor | Backend: Amagi | `` |
 | ✅ | Martha Stewart Channel | Backend: Amagi | `` |
 | ✅ | Matched Married Meet | Backend: Amagi | `` |
@@ -1885,7 +1885,7 @@
 | ✅ | The Love Boat | Pluto TV | `` |
 | ✅ | The Masked Singer | Roku Channel | `` |
 | ✅ | The Osbournes | Backend: Amagi | `` |
-| ✅ | The Pink Panther | Other Services | `` |
+| ❌ | The Pink Panther | Other Services | `` |
 | ✅ | The Price Is Right | Pluto TV | `` |
 | ✅ | The Price Is Right - The Barker Era | Backend: Amagi | `` |
 | ✅ | The Three Stooges+ | Local Now | `` |
