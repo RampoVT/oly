@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-10 13:02
+# 📺 Playlist Status Update: 2026-08-10 14:56
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,15 +552,15 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -734,7 +734,7 @@
 | ✅ | FCPS Channel 21 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 25 (Fairfax County Public Schools) | Other Services | `` |
 | ✅ | FCPS Channel 99 (Fairfax County Public Schools) | Other Services | `` |
-| ❌ | Fernandina Beach City Meeting (Fernandina Beach FL) | Other Services | `` |
+| ✅ | Fernandina Beach City Meeting (Fernandina Beach FL) | Other Services | `` |
 | ✅ | Fort Lauderdale FLTV (Fort Lauderdale FL) | Other Services | `` |
 | ✅ | Fort Pierce Live Stream (Fort Pierce FL) | Other Services | `` |
 | ❌ | FPTV (Fayetteville Public Television) (Fayetteville AR) | Other Services | `` |
@@ -1780,7 +1780,7 @@
 | ✅ | Anime 24/7 | Backend: Amagi | `` |
 | ✅ | Aquí y Ahora (Español) | Other Services | `` |
 | ✅ | Are We There Yet? | Backend: Amagi | `` |
-| ❌ | Baby Shark TV | Other Services | `` |
+| ✅ | Baby Shark TV | Other Services | `` |
 | ✅ | Bachelor Nation | Backend: Amagi | `` |
 | ✅ | Bad Girls Club | Backend: Cloudfront | `` |
 | ❌ | Barney & Friends | Backend: Wurl | `` |
