@@ -4949,73 +4949,73 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3243.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/702668.ts
 #EXTINF:-1 tvg-id="AMC+.Originals.Dummy.us" group-title="Rocket Service",AMC (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2367.ts
-#EXTINF:-1 tvg-id="Animal.Planet.uk" group-title="Rocket Service",Animal Planet (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Animal Planet (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2365.ts
-#EXTINF:-1 tvg-id="BBC.6.Music.uk" group-title="Other Services",BBC 3 (UK)
+#EXTINF:-1 tvg-id="BBC.World.News.Dummy.us" group-title="Other Services",BBC 3 (UK)
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
-#EXTINF:-1 tvg-id="BBC.6.Music.uk" group-title="Rocket Service",BBC 4 (UK)
+#EXTINF:-1 tvg-id="BBC.World.News.Dummy.us" group-title="Rocket Service",BBC 4 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2356.ts
 #EXTINF:-1 tvg-id="" group-title="Other Services",BBC 4 Cbeebies (UK)
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-#EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" group-title="Rocket Service",BBC Alba (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",BBC Alba (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2355.ts
-#EXTINF:-1 tvg-id="BBC.One.CI.HD.uk" group-title="Rocket Service",BBC One (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",BBC One (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/542826.ts
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" group-title="Other Services",BBC Two (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",BBC Two (UK)
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 #EXTINF:-1 tvg-id="BBC.World.News.Dummy.us" group-title="Rocket Service",BBC World News (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2345.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",BET (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2344.ts
-#EXTINF:-1 tvg-id="BLAZE.uk" group-title="KSTV UK",Blaze (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Blaze (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47746.ts
 #EXTINF:-1 tvg-id="Bloomberg.Business.Television.us2" group-title="Other Services",Bloomberg (Austrailia)
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 tvg-id="Bloomberg.HD.uk" group-title="Other Services",Bloomberg (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Bloomberg (UK)
 https://www.bloomberg.com/media-manifest/videos/android/WiFi/c0fd1f87-6441-4321-a85c-d4594ab762b2.m3u8?idType=BMMP
-#EXTINF:-1 tvg-id="Boomerang+1.uk" group-title="KSTV UK",Boomerang (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Boomerang (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47748.ts
-#EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" group-title="KSTV UK",Cartoon Network (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Cartoon Network (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47749.ts
-#EXTINF:-1 tvg-id="Challenge.uk" group-title="Rocket Service",Challenge (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Challenge (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2316.ts
-#EXTINF:-1 tvg-id="Channel.4+1.uk" group-title="Other Services",Channel 4 (UK)
+#EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" group-title="Other Services",Channel 4 (UK)
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
-#EXTINF:-1 tvg-id="Channel.4+1.uk" group-title="Other Services",Channel 4 Seven (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Channel 4 Seven (UK)
 https://livetvde.net/4seven/index.m3u8?token=5f5b5ba498257e261f0671e12fb9af3cf201db44-d16a3e62ca9bc18d2cd36418de24fa1b-1739998779-1739987979
-#EXTINF:-1 tvg-id="Channel.5+1.uk" group-title="Other Services",Channel 5 (UK)
+#EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" group-title="Other Services",Channel 5 (UK)
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
-#EXTINF:-1 tvg-id="Channel.5.uk" group-title="Other Services",Channel 5 Action (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Channel 5 Action (UK)
 http://lunar.pm:8080/live/mrjayp/Spectrum2/110305.ts
-#EXTINF:-1 tvg-id="Channel.5.uk" group-title="Other Services",Channel 5 USA (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Channel 5 USA (UK)
 http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/12169.ts
-#EXTINF:-1 tvg-id="Channel.5+1.uk" group-title="Other Services",Channel 5+ (UK)
+#EXTINF:-1 tvg-id="Elvis.Presley.Music.Channel.DUMMY.us" group-title="Other Services",Channel 5+ (UK)
 http://92.114.85.81:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.HD.uk" group-title="Backend: Amagi",CNBC (UK)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",CNBC (UK)
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNN.HD.uk" group-title="KSTV UK",CNN (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",CNN (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47760.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",Comedy Central (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47761.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",Comedy Central Extra (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47762.ts
-#EXTINF:-1 tvg-id="Discovery+1.uk" group-title="Rocket Service",Discovery Channel (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Discovery Channel (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2302.ts
-#EXTINF:-1 tvg-id="Discovery+1.uk" group-title="KSTV UK",Discovery History (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Discovery History (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47766.ts
-#EXTINF:-1 tvg-id="Discovery+1.uk" group-title="KSTV UK",Discovery Science (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Discovery Science (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47767.ts
-#EXTINF:-1 tvg-id="Discovery+1.uk" group-title="KSTV UK",Discovery Turbo (UK)
+#EXTINF:-1 tvg-id="Discovery+.Dummy.us" group-title="KSTV UK",Discovery Turbo (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47768.ts
-#EXTINF:-1 tvg-id="E4+1.uk" group-title="Rocket Service",E4 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",E4 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2292.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",EuroSports 1 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2286.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",EuroSports 2 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2285.ts
-#EXTINF:-1 tvg-id="Film4+1.uk" group-title="KSTV UK",Film4 (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Film4 (UK)
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8#http://kstv.us:8080/live/N427DpynGE/7049166651/47774.ts
-#EXTINF:-1 tvg-id="Food.Network.uk" group-title="KSTV UK",Food Network (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Food Network (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47775.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",FOX News Channel (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2278.ts
@@ -5023,199 +5023,199 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2278.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2276.ts
 #EXTINF:-1 tvg-id="" group-title="Other Services",Game One (UK)
 https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
-#EXTINF:-1 tvg-id="GB.News.HD.uk" group-title="Other Services",GB News (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",GB News (UK)
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
-#EXTINF:-1 tvg-id="GREAT!.movies+1.uk" group-title="Backend: Amagi",Great! Movies (UK)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Great! Movies (UK)
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="GREAT!.romance.uk" group-title="Backend: Amagi",Great! Romance (UK)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Great! Romance (UK)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",H2 (History Channel 2) (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2273.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",History Channel (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47780.ts
-#EXTINF:-1 tvg-id="HobbyMaker.uk" group-title="Other Services",Hobby Maker (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Hobby Maker (UK)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Horse & Country TV (UK)
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="Ideal.World.HD.uk" group-title="Other Services",Ideal World (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Ideal World (UK)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(HDTJCBeauty)/index.m3u8
-#EXTINF:-1 tvg-id="Discovery+1.uk" group-title="KSTV UK",Investigation Discovery (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Investigation Discovery (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47782.ts
-#EXTINF:-1 tvg-id="Discovery+1.uk" group-title="KSTV UK",Investigation Discovery+ (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Investigation Discovery+ (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47783.ts
-#EXTINF:-1 tvg-id="ITV.Quiz.uk" group-title="Rocket Service",ITV 1 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",ITV 1 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/527497.ts
-#EXTINF:-1 tvg-id="ITV.Quiz.uk" group-title="Other Services",ITV 2 (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",ITV 2 (UK)
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
-#EXTINF:-1 tvg-id="ITV.Quiz.uk" group-title="Other Services",ITV 3 (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",ITV 3 (UK)
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
-#EXTINF:-1 tvg-id="ITV.Quiz.uk" group-title="Other Services",ITV 4 (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",ITV 4 (UK)
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",ITV Be (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47788.ts
-#EXTINF:-1 tvg-id="JewelleryMaker.uk" group-title="Other Services",Jewellery Maker (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Jewellery Maker (UK)
 https://la1.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Legend.Xtra+1.uk" group-title="KSTV UK",Legend Xtra (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Legend Xtra (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47781.ts
-#EXTINF:-1 tvg-id="More4+1.uk" group-title="Other Services",More4 (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",More4 (UK)
 https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Movie Spare (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2151.ts
-#EXTINF:-1 tvg-id="Movies24.uk" group-title="KSTV UK",Movie24 (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Movie24 (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47791.ts
-#EXTINF:-1 tvg-id="MTV.80s.uk" group-title="KSTV UK",MTV (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",MTV (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47792.ts
-#EXTINF:-1 tvg-id="MUTV.HD.uk" group-title="Rocket Service",MUTV (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",MUTV (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2242.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",NatGeo Wild (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47795.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",National Geographic Channel (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47794.ts
-#EXTINF:-1 tvg-id="Nick.Jr+1.uk" group-title="KSTV UK",Nick Jr. (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Nick Jr. (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47796.ts
-#EXTINF:-1 tvg-id="Nick.Jr..Too.uk" group-title="KSTV UK",Nick Jr. Too (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Nick Jr. Too (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47797.ts
-#EXTINF:-1 tvg-id="Nickelodeon+1.uk" group-title="Rocket Service",Nickelodeon (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Nickelodeon (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/650439.ts
-#EXTINF:-1 tvg-id="Nicktoons.uk" group-title="KSTV UK",Nicktoons (UK)
+#EXTINF:-1 tvg-id="Nicktoons.Canada.us" group-title="KSTV UK",Nicktoons (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47799.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Paramount Network (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2174.ts
-#EXTINF:-1 tvg-id="PBS.America.uk" group-title="KSTV UK",PBS America (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",PBS America (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47800.ts
-#EXTINF:-1 tvg-id="POP+1.uk" group-title="Backend: Amagi",Pop (UK)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Pop (UK)
 https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="POP.Max+1.uk" group-title="KSTV UK",Pop Max (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Pop Max (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47803.ts
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Rocket Service",Premier Sports 1 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Premier Sports 1 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89089.ts
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" group-title="Rocket Service",Premier Sports 2 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Premier Sports 2 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89090.ts
-#EXTINF:-1 tvg-id="QUEST+1.uk" group-title="KSTV UK",Quest (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Quest (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47804.ts
-#EXTINF:-1 tvg-id="QVC.Beauty.uk" group-title="Other Services",QVC (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",QVC (UK)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
-#EXTINF:-1 tvg-id="QVC.Beauty.uk" group-title="Other Services",QVC Beauty (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",QVC Beauty (UK)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
-#EXTINF:-1 tvg-id="QVC.Extra.uk" group-title="Other Services",QVC Extra (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",QVC Extra (UK)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
-#EXTINF:-1 tvg-id="QVC.Style.HD.uk" group-title="Other Services",QVC Style (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",QVC Style (UK)
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
-#EXTINF:-1 tvg-id="Racing.TV.HD.uk" group-title="KSTV UK",Racing TV (UK)
+#EXTINF:-1 tvg-id="Racing.Dummy.us" group-title="KSTV UK",Racing TV (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47860.ts
 #EXTINF:-1 tvg-id="" group-title="Other Services",Racing.com (Austrailia)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="Really.uk" group-title="KSTV UK",Really (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Really (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47805.ts
-#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" group-title="KSTV UK",Sky Arts (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Arts (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47811.ts
-#EXTINF:-1 tvg-id="Sky.Atlantic+1.uk" group-title="KSTV UK",Sky Atlantic (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Atlantic (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47812.ts
-#EXTINF:-1 tvg-id="Sky.Action.uk" group-title="KSTV UK",Sky Cinema Action (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Cinema Action (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47813.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Cinema Animation (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47814.ts
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk" group-title="KSTV UK",Sky Cinema Comedy (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Cinema Comedy (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47815.ts
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk" group-title="KSTV UK",Sky Cinema Drama (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Cinema Drama (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47816.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Cinema Sci-Fi & Horror (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47821.ts
-#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" group-title="KSTV UK",Sky Cinema Section (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Cinema Section (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47822.ts
-#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" group-title="KSTV UK",Sky Cinema Thriller (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Cinema Thriller (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47823.ts
-#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.uk" group-title="KSTV UK",Sky Comedy (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Comedy (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47825.ts
-#EXTINF:-1 tvg-id="Sky.Crime+1.uk" group-title="KSTV UK",Sky Crime (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Crime (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47826.ts
-#EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" group-title="KSTV UK",Sky Documentaries (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Documentaries (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47827.ts
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk" group-title="KSTV UK",Sky Family (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Family (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47817.ts
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" group-title="KSTV UK",Sky Greats (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Greats (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47818.ts
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" group-title="KSTV UK",Sky Hits (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Hits (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47819.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Max (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47829.ts
-#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" group-title="KSTV UK",Sky Nature (UK)
+#EXTINF:-1 tvg-id="Love.Nature.Dummy.us" group-title="KSTV UK",Sky Nature (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47830.ts
-#EXTINF:-1 tvg-id="Sky.News.HD.uk" group-title="Other Services",Sky News (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",Sky News (UK)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-id="Sky.One.HD.uk" group-title="Rocket Service",Sky One (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky One (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2196.ts
-#EXTINF:-1 tvg-id="Sky.Premiere.uk" group-title="KSTV UK",Sky Premiere (UK)
+#EXTINF:-1 tvg-id="Sky.Store.Premiere.us" group-title="KSTV UK",Sky Premiere (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47820.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Showcase (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47832.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Other Services",Sky Sports (UK)
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" group-title="Other Services",Sky Sports (UK)
 http://nocable.cc:8080/live/darriusthomas115@gmail.com/darriusthomas115@2025/35244.ts
-#EXTINF:-1 tvg-id="Sky.Action.uk" group-title="Rocket Service",Sky Sports Action (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky Sports Action (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2194.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Rocket Service",Sky Sports Arena (UK)
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" group-title="Rocket Service",Sky Sports Arena (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2193.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Rocket Service",Sky Sports F1 (UK)
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" group-title="Rocket Service",Sky Sports F1 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2189.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Rocket Service",Sky Sports Football (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky Sports Football (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/30822.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Rocket Service",Sky Sports Golf (UK)
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" group-title="Rocket Service",Sky Sports Golf (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2186.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="KSTV UK",Sky Sports Live+ (UK)
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" group-title="KSTV UK",Sky Sports Live+ (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47863.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky Sports Main Events (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2184.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Rocket Service",Sky Sports MIX (UK)
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" group-title="Rocket Service",Sky Sports MIX (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2180.ts
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" group-title="Rocket Service",Sky Sports News (UK)
+#EXTINF:-1 tvg-id="Sky.Sports+.Dummy.us" group-title="Rocket Service",Sky Sports News (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2179.ts
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" group-title="Rocket Service",Sky Sports Premier League (UK)
+#EXTINF:-1 tvg-id="Premier.League.Dummy.us" group-title="Rocket Service",Sky Sports Premier League (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2181.ts
-#EXTINF:-1 tvg-id="SkySp.Racing.uk" group-title="Rocket Service",Sky Sports Racing (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky Sports Racing (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/527483.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky SYFY (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2167.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Sky Two (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2178.ts
-#EXTINF:-1 tvg-id="Sky.Witness+1.uk" group-title="KSTV UK",Sky Witness (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sky Witness (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47833.ts
 #EXTINF:-1 tvg-id="" group-title="KSTV UK",Sony Channel (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47834.ts
-#EXTINF:-1 tvg-id="SONY.MAX.2.uk" group-title="KSTV UK",Sony Max (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Sony Max (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47835.ts
-#EXTINF:-1 tvg-id="STV.Central.+1.uk" group-title="Rocket Service",STV (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",STV (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2168.ts
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Talking Pictures (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2166.ts
-#EXTINF:-1 tvg-id="TBN.UK.uk" group-title="Other Services",TBN (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",TBN (UK)
 https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/r08fY89I/live.isml/.m3u8?user_id=00uo63wifd34FGAJu697
 #EXTINF:-1 tvg-id="ABC.National.Feed.Pacific.us2" group-title="Other Services",TBN Pacific (Austrailia)
 https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
-#EXTINF:-1 tvg-id="TCM.Movies+1.uk" group-title="Rocket Service",TCM (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",TCM (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2165.ts
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Tennis Channel (UK)
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tiny.Pop+1.uk" group-title="Backend: Amagi",Tiny Pop (UK)
+#EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Tiny Pop (UK)
 https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="TJC.Beauty.uk" group-title="Other Services",TJC (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",TJC (UK)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-id="TLC+1.uk" group-title="KSTV UK",TLC (The Learning Channel) (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",TLC (The Learning Channel) (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47840.ts
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="Rocket Service",TNT Sports 1 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",TNT Sports 1 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2337.ts
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="Rocket Service",TNT Sports 2 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",TNT Sports 2 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2336.ts
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" group-title="Rocket Service",TNT Sports 3 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",TNT Sports 3 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2335.ts
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" group-title="Rocket Service",TNT Sports 4 (UK)
+#EXTINF:-1 tvg-id="" group-title="Rocket Service",TNT Sports 4 (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/675021.ts
-#EXTINF:-1 tvg-id="TNT.Sports.Ultimate.HD.uk" group-title="Other Services",TNT Sports Ultimate 4K (UK)
+#EXTINF:-1 tvg-id="" group-title="Other Services",TNT Sports Ultimate 4K (UK)
 https://a1xs.vip/2000031
 #EXTINF:-1 tvg-id="" group-title="Rocket Service",Travel Channel (UK)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2159.ts
-#EXTINF:-1 tvg-id="True.Crime.+1.uk" group-title="KSTV UK",True Crime (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",True Crime (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47754.ts
-#EXTINF:-1 tvg-id="True.Crime.Xtra.uk" group-title="KSTV UK",True Crime Xtra (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",True Crime Xtra (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47753.ts
 #EXTINF:-1 tvg-id="" group-title="Other Services",TVSN (Austrailia)
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
@@ -5247,5 +5247,5 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3973.ts
 https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Backend: Amagi",Willow Sports (UK)
 https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
-#EXTINF:-1 tvg-id="U.and.YESTERDAY+1.uk" group-title="KSTV UK",Yesterday (UK)
+#EXTINF:-1 tvg-id="" group-title="KSTV UK",Yesterday (UK)
 http://kstv.us:8080/live/N427DpynGE/7049166651/47847.ts
