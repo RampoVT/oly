@@ -711,7 +711,7 @@ http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/529233.ts
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/89899.ts
 #EXTINF:-1 tvg-id="WITI-DT.us_locals1" group-title="Rocket Service",WITI-TV FOX 6 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2548.ts
-#EXTINF:-1 tvg-id="WVTV-DT.us_locals1" group-title="Rocket Service",WVTV-TV CW 18 (Milwaukee WI)
+#EXTINF:-1 tvg-id="WVTV-DT2.us_locals1" group-title="Rocket Service",WVTV-TV CW 18 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/38328.ts
 #EXTINF:-1 tvg-id="WISN-DT.us_locals1" group-title="Rocket Service",WISN-TV ABC 12 (Milwaukee WI)
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/2682.ts
@@ -2909,7 +2909,7 @@ https://newidco-billiardstv-1-us.lg.wurl.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/jUagUaeoSRWtvyFS-T1UOA/master.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Other Services",CBS Sports Golazo Network
 http://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Other Services",CBS Sports HQ
+#EXTINF:-1 tvg-id="CBS.Sports.HQ.us2" group-title="Other Services",CBS Sports HQ
 http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Golazo.Network.us2" group-title="Rocket Service",CBS Sports Network
 http://s.rocketdns.info:8080/live/Z3nXfkOnf0/Madt8rUvmN/3621.ts
