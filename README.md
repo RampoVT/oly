@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-11 12:58
+# 📺 Playlist Status Update: 2026-08-11 14:21
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -553,14 +553,14 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -706,10 +706,10 @@
 | ✅ | City TV Channels 3/41 (Chino Hills CA) | Other Services | `` |
 | ✅ | City TV San Diego (San Diego CA) | Other Services | `` |
 | ✅ | CNC TV (County News Center) (San Diego CA) | Other Services | `` |
-| ❌ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
+| ✅ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
 | ❌ | CobbTV (Atlanta GA) | Other Services | `` |
 | ❌ | Collier Television CTV (Naples FL) | Local Gov/Public | `` |
-| ❌ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
@@ -813,7 +813,7 @@
 | ❌ | Newington Community Television Channel 14 (Newington CT) | Other Services | `` |
 | ❌ | Newington Community Television Channel 16 (Newington CT) | Other Services | `` |
 | ✅ | NOTV (New Orleans Television) | Independent Streams | `` |
-| ❌ | NYXT (New York NY) | Local Gov/Public | `` |
+| ✅ | NYXT (New York NY) | Local Gov/Public | `` |
 | ✅ | Olelo Community Media Channel 49 | Other Services | `` |
 | ✅ | Olelo Community Media Channel 53 | Other Services | `` |
 | ✅ | Olelo Community Media Channel 54 | Other Services | `` |
@@ -1064,7 +1064,7 @@
 | ❌ | Justice Central TV | Rocket Service | `Justice.Central.HD.us2` |
 | ❌ | Law & Crime | Local Now | `Law.and.Crime.us2` |
 | ✅ | Love & Nature | Backend: Amagi | `Love.Nature.Dummy.us` |
-| ✅ | Meateater | Backend: Amagi | `` |
+| ❌ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
 | ❌ | NASA | Other Services | `NASA.Plus.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1878,7 +1878,7 @@
 | ✅ | The Good Wife | Pluto TV | `` |
 | ✅ | The Graham Norton Show | Other Services | `` |
 | ✅ | The Incredible Dr Pol | Backend: Amagi | `` |
-| ✅ | The Jack Hannah Channel | Other Services | `` |
+| ❌ | The Jack Hannah Channel | Other Services | `` |
 | ✅ | The Jamie Kennedy | Local Now | `` |
 | ✅ | The Joel Osteen Channel | Other Services | `` |
 | ✅ | The Judge Judy Channel | Pluto TV | `` |
@@ -2488,7 +2488,7 @@
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
+| ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
 | ❌ | Challenge (UK) | Rocket Service | `Challenge.uk` |
