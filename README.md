@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-11 18:58
+# 📺 Playlist Status Update: 2026-08-11 20:02
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,17 +552,17 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
@@ -912,7 +912,7 @@
 | ✅ | Canal 66 Mexicali | Independent Streams | `` |
 | ❌ | Canal 7.1 (Bolivia) | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 7.2 Deportes (Bolivia) | Independent Streams | `` |
-| ✅ | Canal 8 TV+ | Other Services | `` |
+| ❌ | Canal 8 TV+ | Other Services | `` |
 | ❌ | Canal del Congreso 45.1 | Other Services | `` |
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
@@ -1067,7 +1067,7 @@
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
-| ❌ | NASA | Other Services | `NASA.Plus.us2` |
+| ✅ | NASA | Other Services | `NASA.Plus.us2` |
 | ❌ | Nat Geo Wild | Rocket Service | `` |
 | ❌ | National Geographic (East) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
 | ❌ | National Geographic (West) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
@@ -1080,7 +1080,7 @@
 | ✅ | PBS History | Backend: Amagi | `History.Channel.En.EspaÃ±ol.us2` |
 | ✅ | PBS Nature | Local Now | `Love.Nature.Dummy.us` |
 | ✅ | PBS Science | Backend: Amagi | `Science.Channel.HD.us2` |
-| ❌ | Pluto TV History | Pluto TV | `` |
+| ✅ | Pluto TV History | Pluto TV | `` |
 | ❌ | Pursuit Channel | Backend: Cloudfront | `Pursuit.Channel.us2` |
 | ❌ | REELZ (East) | KSTV US | `` |
 | ❌ | REELZ (West) | Other Services | `` |
@@ -1119,20 +1119,20 @@
 | ❌ | Disney XD (West) | Rocket Service | `Disney.XD.HD.(Pacific).us2` |
 | ❌ | FreeForm (East) | Rocket Service | `Freeform.HD.us2` |
 | ❌ | FreeForm (West) | Rocket Service | `Freeform.HD.us2` |
-| ❌ | Go-Go Gadget (Pluto TV) | Pluto TV | `` |
+| ✅ | Go-Go Gadget (Pluto TV) | Pluto TV | `` |
 | ❌ | Kartoon Channel | Backend: Cloudfront | `` |
 | ✅ | Kids Net | Other Services | `` |
 | ✅ | Kids TV | Backend: Wurl | `LooLoo.Kids.TV.us2` |
 | ❌ | MeTV Toons | Rocket Service | `MeTV.Toons.us2` |
-| ❌ | Nick (Pluto TV) | Pluto TV | `Nick.Jr.HD.us2` |
+| ✅ | Nick (Pluto TV) | Pluto TV | `Nick.Jr.HD.us2` |
 | ❌ | Nick Jr. (East) | Rocket Service | `Nick.Jr.HD.us2` |
-| ❌ | Nick Jr. (Pluto TV) | Pluto TV | `Nick.Jr.HD.us2` |
+| ✅ | Nick Jr. (Pluto TV) | Pluto TV | `Nick.Jr.HD.us2` |
 | ❌ | Nick Jr. (West) | Rocket Service | `Nick.Jr.HD.us2` |
 | ❌ | Nick Music | Rocket Service | `Nick.Music.us2` |
 | ❌ | Nickelodeon (East) | Rocket Service | `Nickelodeon.HD.us2` |
 | ❌ | Nickelodeon (West) | Rocket Service | `Nickelodeon.HD.us2` |
-| ❌ | Nickelodeon 90's Kids (Pluto TV) | Pluto TV | `Nickelodeon.HD.us2` |
-| ❌ | Nickelodeon 90's Kids 2 (Pluto TV) | Pluto TV | `Nickelodeon.HD.us2` |
+| ✅ | Nickelodeon 90's Kids (Pluto TV) | Pluto TV | `Nickelodeon.HD.us2` |
+| ✅ | Nickelodeon 90's Kids 2 (Pluto TV) | Pluto TV | `Nickelodeon.HD.us2` |
 | ❌ | Nicktoons | Rocket Service | `Nicktoons.us2` |
 | ✅ | PBS Kids (Alaska) | Other Services | `PBS.KIDS.HD.us2` |
 | ✅ | PBS Kids (Eastern) | Other Services | `PBS.KIDS.HD.us2` |
@@ -1160,29 +1160,29 @@
 | ✅ | Animation+ | Roku Channel | `` |
 | ❌ | BBC Comedy | Plex TV | `Catchy.Comedy.us2` |
 | ❌ | Comedy Central (East) | Rocket Service | `Comedy.Central.HD.(Pacific).us2` |
-| ❌ | Comedy Central (Pluto TV) | Pluto TV | `Comedy.Central.HD.(Pacific).us2` |
+| ✅ | Comedy Central (Pluto TV) | Pluto TV | `Comedy.Central.HD.(Pacific).us2` |
 | ❌ | Comedy Central (West) | Rocket Service | `Comedy.Central.HD.(Pacific).us2` |
-| ❌ | Comedy Central Animation (Pluto TV) | Pluto TV | `Comedy.Central.HD.us2` |
+| ✅ | Comedy Central Animation (Pluto TV) | Pluto TV | `Comedy.Central.HD.us2` |
 | ✅ | Comedy Dynamics | Other Services | `` |
 | ❌ | Comedy.tv | Rocket Service | `` |
 | ✅ | Comedy+ | Backend: Amagi | `Catchy.Comedy.us2` |
 | ✅ | FailArmy | Backend: Wurl | `` |
 | ❌ | FilmRise Comedy | Plex TV | `` |
 | ✅ | Free Comedy Network | Backend: Amagi | `` |
-| ❌ | Funny AF | Pluto TV | `` |
+| ✅ | Funny AF | Pluto TV | `` |
 | ❌ | Funny Or Die | Backend: Wurl | `` |
 | ✅ | Hit Sitcoms by WB | Backend: Cloudfront | `` |
 | ❌ | Humor Mill | Backend: Cloudfront | `` |
 | ✅ | Just for Laughs Gags | Local Now | `` |
 | ✅ | Just for Laughs TV | Local Now | `` |
 | ❌ | Kevin Hart’s LOL! Network | Backend: Cloudfront | `` |
-| ❌ | More TV Sitcoms | Pluto TV | `` |
+| ✅ | More TV Sitcoms | Pluto TV | `` |
 | ✅ | NBC Comedy Vault | Backend: Cloudfront | `NBC.Comedy.Vault.us2` |
-| ❌ | Pluto Classic TV Comedy | Pluto TV | `` |
-| ❌ | Pluto TV Comedy | Pluto TV | `Comedy.TV.HD.us2` |
-| ❌ | Pluto TV Pranks | Pluto TV | `` |
-| ❌ | RiffTrax | Pluto TV | `` |
-| ❌ | Sketchy AF (Pluto TV) | Pluto TV | `` |
+| ✅ | Pluto Classic TV Comedy | Pluto TV | `` |
+| ✅ | Pluto TV Comedy | Pluto TV | `Comedy.TV.HD.us2` |
+| ✅ | Pluto TV Pranks | Pluto TV | `` |
+| ✅ | RiffTrax | Pluto TV | `` |
+| ✅ | Sketchy AF (Pluto TV) | Pluto TV | `` |
 | ✅ | Swim Rewind 24/7 | Other Services | `` |
 | ✅ | TVS Comedy Network | Other Services | `Me.TV.Network.us2` |
 | ✅ | TVS Flashback Network | Other Services | `` |
@@ -1222,15 +1222,15 @@
 | ✅ | BET - Tyler Perry Comedy | Other Services | `` |
 | ✅ | BET - Tyler Perry Drama | Other Services | `` |
 | ❌ | BET (East) | Rocket Service | `BET.GOSPEL.us2` |
-| ❌ | BET (Pluto TV) | Pluto TV | `BET.GOSPEL.us2` |
+| ✅ | BET (Pluto TV) | Pluto TV | `BET.GOSPEL.us2` |
 | ❌ | BET (West) | Rocket Service | `BET.GOSPEL.us2` |
-| ❌ | BET Classics (Pluto TV) | Pluto TV | `Cinemax.Classics.us2` |
+| ✅ | BET Classics (Pluto TV) | Pluto TV | `Cinemax.Classics.us2` |
 | ❌ | BET Gospel | Rocket Service | `BET.GOSPEL.us2` |
 | ❌ | BET Her (East) | Rocket Service | `BET.Her.us2` |
 | ❌ | BET Her (West) | Rocket Service | `BET.Her.us2` |
 | ❌ | BET Jams | Rocket Service | `BET.Jams.us2` |
 | ❌ | BET Soul | KSTV US | `BET.Soul.us2` |
-| ❌ | BET Throwbacks (Pluto TV) | Pluto TV | `` |
+| ✅ | BET Throwbacks (Pluto TV) | Pluto TV | `` |
 | ❌ | Bounce TV | Rocket Service | `Bounce.TV.us2` |
 | ✅ | Bounce XL | Other Services | `Bounce.TV.us2` |
 | ❌ | Bravo (East) | Rocket Service | `Bravo.HD.us2` |
@@ -1246,7 +1246,7 @@
 | ✅ | Cloudflare TV | Other Services | `` |
 | ❌ | CMT (Country Music Television) (East) | Rocket Service | `CMT.HD.us2` |
 | ❌ | CMT (Country Music Television) (West) | Rocket Service | `CMT.HD.us2` |
-| ❌ | CMT Equal Music (Pluto TV) | Pluto TV | `` |
+| ✅ | CMT Equal Music (Pluto TV) | Pluto TV | `` |
 | ✅ | Comet | Other Services | `Comet.(Pacific).us2` |
 | ✅ | Confess by Nosey | Backend: Amagi | `` |
 | ❌ | COZI TV | Rocket Service | `COZI.TV.us2` |
@@ -1326,13 +1326,13 @@
 | ❌ | Movies! | Other Services | `Amazon.Movies.us2` |
 | ❌ | MT (Motor Trend) | Rocket Service | `` |
 | ❌ | MTV (East) | Rocket Service | `MTV.Classic.us2` |
-| ❌ | MTV (Pluto TV) | Pluto TV | `MTV.Classic.us2` |
+| ✅ | MTV (Pluto TV) | Pluto TV | `MTV.Classic.us2` |
 | ❌ | MTV (West) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV 2 (East) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV 2 (West) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV Classic (West) | Rocket Service | `MTV.Classic.us2` |
 | ❌ | MTV Live | Other Services | `` |
-| ❌ | MTV Yo! (Pluto) | Pluto TV | `` |
+| ✅ | MTV Yo! (Pluto) | Pluto TV | `` |
 | ✅ | MyTime Movie Network | Backend: Amagi | `` |
 | ✅ | NBC LX Home | Other Services | `` |
 | ❌ | Non-Stop 90's | Plex TV | `` |
@@ -1345,12 +1345,12 @@
 | ❌ | Ovation | KSTV US | `Ovation.HD.us2` |
 | ❌ | OWN (Oprah Winfrey Network) (East) | Rocket Service | `` |
 | ❌ | OWN (Oprah Winfrey Network) (West) | Rocket Service | `` |
-| ❌ | Paramount Movie Channel (Pluto TV) | Pluto TV | `Paramount.Movie.Channel.DUMMY.us` |
+| ✅ | Paramount Movie Channel (Pluto TV) | Pluto TV | `Paramount.Movie.Channel.DUMMY.us` |
 | ❌ | Paramount Network (East) | Other Services | `Paramount.Network.HD.us2` |
 | ❌ | Paramount Network (West) | Rocket Service | `Paramount.Network.HD.us2` |
-| ❌ | Paramount+ Picks (Pluto TV) | Pluto TV | `Paramount.Network.HD.us2` |
-| ❌ | Pluto Black Classics | Pluto TV | `` |
-| ❌ | Pluto Classic TV Family | Pluto TV | `` |
+| ✅ | Paramount+ Picks (Pluto TV) | Pluto TV | `Paramount.Network.HD.us2` |
+| ✅ | Pluto Black Classics | Pluto TV | `` |
+| ✅ | Pluto Classic TV Family | Pluto TV | `` |
 | ❌ | Pop TV (East) | Rocket Service | `` |
 | ❌ | Pop TV (West) | Rocket Service | `` |
 | ✅ | Power Nation | Backend: Amagi | `` |
@@ -1362,9 +1362,9 @@
 | ❌ | Shorts TV | Rocket Service | `Shorts.TV.us2` |
 | ✅ | Smart Lifestyle TV | Other Services | `` |
 | ❌ | Smithsonian Channel (East) | KSTV US | `` |
-| ❌ | Smithsonian Channel (Pluto) | Pluto TV | `` |
+| ✅ | Smithsonian Channel (Pluto) | Pluto TV | `` |
 | ❌ | Smithsonian Channel (West) | Rocket Service | `` |
-| ❌ | Spike (Pluto TV) | Pluto TV | `` |
+| ✅ | Spike (Pluto TV) | Pluto TV | `` |
 | ❌ | Start TV | Rocket Service | `Start.TV.Network.us2` |
 | ❌ | Story Television | Rocket Service | `Bloomberg.Business.Television.us2` |
 | ❌ | SundanceTV | Rocket Service | `SundanceTV.HD.us2` |
@@ -1414,7 +1414,7 @@
 | ❌ | Wild West TV | Other Services | `West.TV.us2` |
 | ✅ | WPS TV | Other Services | `` |
 | ❌ | YouToo America | Backend: Cloudfront | `YTA.Youtoo.America.us2` |
-| ❌ | America's Auction Channel (AACTV) | Other Services | `` |
+| ✅ | America's Auction Channel (AACTV) | Other Services | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN 2 | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
@@ -1621,18 +1621,18 @@
 | ❌ | WWE Network | Rocket Service | `WWE.Network.us2` |
 | ❌ | Yahoo! Sports Network | Other Services | `CBS.Sports.Golazo.Network.us2` |
 | ❌ | YES Network | Rocket Service | `Yes.Network.Overflow.us2` |
-| ❌ | 00s Replay (Pluto TV) | Pluto TV | `` |
+| ✅ | 00s Replay (Pluto TV) | Pluto TV | `` |
 | ✅ | 50 Cent Action | Backend: Amagi | `` |
-| ❌ | 70s Cinema (Pluto TV) | Pluto TV | `Cinema.Dinamita.(HD.Feed).us2` |
-| ❌ | 80s Rewind (Pluto TV) | Pluto TV | `Rewind.HD.us2` |
-| ❌ | 90s Throwback (Pluto TV) | Pluto TV | `XITE.90s.Throwback.DUMMY.us` |
+| ✅ | 70s Cinema (Pluto TV) | Pluto TV | `Cinema.Dinamita.(HD.Feed).us2` |
+| ✅ | 80s Rewind (Pluto TV) | Pluto TV | `Rewind.HD.us2` |
+| ✅ | 90s Throwback (Pluto TV) | Pluto TV | `XITE.90s.Throwback.DUMMY.us` |
 | ✅ | Action Hollywood Movies | Local Now | `Movies!.us2` |
 | ✅ | Action! | Backend: Amagi | `Action.Channel.us2` |
 | ✅ | Action+ | Backend: Amagi | `Action.Channel.us2` |
 | ❌ | At the Movies by WB | Backend: Amagi | `Movies!.us2` |
-| ❌ | BET Cinema (Pluto TV) | Pluto TV | `Cinema.Dinamita.(HD.Feed).us2` |
-| ❌ | BET Comedy Movies (Pluto TV) | Pluto TV | `Movies!.us2` |
-| ❌ | BET Comedy Visionaries (Pluto TV) | Pluto TV | `` |
+| ✅ | BET Cinema (Pluto TV) | Pluto TV | `Cinema.Dinamita.(HD.Feed).us2` |
+| ✅ | BET Comedy Movies (Pluto TV) | Pluto TV | `Movies!.us2` |
+| ✅ | BET Comedy Visionaries (Pluto TV) | Pluto TV | `` |
 | ✅ | BritBox Mysteries | Roku Channel | `` |
 | ✅ | Christmas+ | Backend: Amagi | `Christmas.Dummy.us` |
 | ✅ | CineLife | Backend: Amagi | `` |
@@ -1646,8 +1646,8 @@
 | ❌ | CineVault Classics | Tubi TV | `Cinevault.Classics.us2` |
 | ❌ | CineVault Westerns | Tubi TV | `CINEVAULT.Westerns.us2` |
 | ❌ | Classic Cinema by WB | Backend: Amagi | `Cinemax.Classics.us2` |
-| ❌ | Classic Movie Westerns (Pluto TV) | Pluto TV | `` |
-| ❌ | Classic Movies Channel (Pluto TV) | Pluto TV | `Turner.Classic.Movies.HD.us2` |
+| ✅ | Classic Movie Westerns (Pluto TV) | Pluto TV | `` |
+| ✅ | Classic Movies Channel (Pluto TV) | Pluto TV | `Turner.Classic.Movies.HD.us2` |
 | ✅ | Comedy+ | Backend: Amagi | `Catchy.Comedy.us2` |
 | ✅ | Cowboy Movie Channel | Other Services | `The.Cowboy.Channel.us2` |
 | ✅ | CrimeFlix | Backend: Cloudfront | `` |
@@ -1701,14 +1701,14 @@
 | ❌ | Paramount+ with Showtime (East) | Rocket Service | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ❌ | Paramount+ with Showtime (West) | Rocket Service | `Paramount+.with.Showtime.HD.(Pacific).us2` |
 | ❌ | PixL | Rocket Service | `PixL.us2` |
-| ❌ | Pluto Action | Pluto TV | `` |
-| ❌ | Pluto Icon | Pluto TV | `` |
-| ❌ | Pluto Reaction | Pluto TV | `` |
-| ❌ | Pluto Trending Now | Pluto TV | `` |
-| ❌ | Pluto TV Cult Films | Pluto TV | `` |
-| ❌ | Pluto TV Fantastic | Pluto TV | `` |
-| ❌ | Pluto TV Flicks of Fury | Pluto TV | `` |
-| ❌ | Pluto TV Westerns | Pluto TV | `` |
+| ✅ | Pluto Action | Pluto TV | `` |
+| ✅ | Pluto Icon | Pluto TV | `` |
+| ✅ | Pluto Reaction | Pluto TV | `` |
+| ✅ | Pluto Trending Now | Pluto TV | `` |
+| ✅ | Pluto TV Cult Films | Pluto TV | `` |
+| ✅ | Pluto TV Fantastic | Pluto TV | `` |
+| ✅ | Pluto TV Flicks of Fury | Pluto TV | `` |
+| ✅ | Pluto TV Westerns | Pluto TV | `` |
 | ❌ | RetroPlex (East) | Rocket Service | `RetroPlex.HD.us2` |
 | ❌ | RetroPlex (West) | Rocket Service | `RetroPlex.HD.us2` |
 | ❌ | Samuel Goldwyn Classics | Backend: Wurl | `` |
@@ -1776,7 +1776,7 @@
 | ✅ | American Ninja Warrior | Backend: Cloudfront | `` |
 | ❌ | America's Funniest Home Videos | Plex TV | `` |
 | ❌ | America's Got Talent | Backend: Cloudfront | `` |
-| ❌ | America's Next Top Model | Pluto TV | `` |
+| ✅ | America's Next Top Model | Pluto TV | `` |
 | ✅ | Anime 24/7 | Backend: Amagi | `` |
 | ✅ | Aquí y Ahora (Español) | Other Services | `` |
 | ✅ | Are We There Yet? | Backend: Amagi | `` |
@@ -1786,14 +1786,14 @@
 | ❌ | Barney & Friends | Backend: Wurl | `` |
 | ✅ | Baywatch | Backend: Amagi | `` |
 | ✅ | BBC Dinos 24/7 | Backend: Amagi | `BBC.Dinos.24/7.us2` |
-| ❌ | Beverly Hills 90210 | Pluto TV | `` |
+| ✅ | Beverly Hills 90210 | Pluto TV | `` |
 | ✅ | Bizarre Foods with Andrew Zimmern | Backend: Amagi | `` |
 | ✅ | Bob The Builder | Backend: Cloudfront | `` |
 | ✅ | Caso Cerrado (Español) | Backend: Cloudfront | `` |
 | ✅ | Cheaters | Backend: Cloudfront | `` |
-| ❌ | Cheers & Frasier | Pluto TV | `` |
+| ✅ | Cheers & Frasier | Pluto TV | `` |
 | ✅ | Como Dice el Dicho (Español) | Other Services | `` |
-| ❌ | Cops | Pluto TV | `` |
+| ✅ | Cops | Pluto TV | `` |
 | ✅ | Dance Moms | Backend: Amagi | `` |
 | ✅ | Deal or No Deal | Backend: Amagi | `` |
 | ✅ | Deal Zone | Other Services | `` |
@@ -1805,39 +1805,39 @@
 | ✅ | E! Keeping Up With The Kardashians | Backend: Cloudfront | `` |
 | ✅ | Emeril Lagasse Channel | Backend: Amagi | `` |
 | ✅ | Family Feud | Backend: Cloudfront | `` |
-| ❌ | Family Feud Classics | Pluto TV | `Family.Movie.Classics.us2` |
-| ❌ | Family Ties | Pluto TV | `` |
+| ✅ | Family Feud Classics | Pluto TV | `Family.Movie.Classics.us2` |
+| ✅ | Family Ties | Pluto TV | `` |
 | ✅ | Fear Factor | Backend: Amagi | `` |
-| ❌ | Garfield & Friends | Pluto TV | `` |
+| ✅ | Garfield & Friends | Pluto TV | `` |
 | ✅ | Ghost Are Real | Backend: Amagi | `` |
 | ✅ | Ghost Hunters | Backend: Amagi | `` |
 | ✅ | Green Acres | Other Services | `` |
-| ❌ | Happy Days | Pluto TV | `` |
+| ✅ | Happy Days | Pluto TV | `` |
 | ❌ | Hardcore Pawn | Other Services | `` |
 | ✅ | Hell's Kitchen | Backend: Cloudfront | `` |
 | ✅ | Highway To Heaven | Other Services | `` |
 | ✅ | Hi-Yah! | Backend: Cloudfront | `` |
-| ❌ | Hogan Heroes | Pluto TV | `` |
-| ❌ | Hot Bench | Pluto TV | `` |
+| ✅ | Hogan Heroes | Pluto TV | `` |
+| ✅ | Hot Bench | Pluto TV | `` |
 | ✅ | Hot Ones | Other Services | `` |
 | ✅ | How To? | Backend: Amagi | `` |
 | ✅ | Impossible Quiz Show (UK) | Backend: Wurl | `` |
-| ❌ | Ink Master | Pluto TV | `` |
+| ✅ | Ink Master | Pluto TV | `` |
 | ✅ | Jail | Other Services | `` |
 | ✅ | JaJaJa (Español) | Other Services | `` |
 | ✅ | Jamie Oliver Channel | Other Services | `` |
-| ❌ | Jersey Shore | Pluto TV | `` |
+| ✅ | Jersey Shore | Pluto TV | `` |
 | ✅ | Johnny Carson TV | Backend: Amagi | `` |
 | ✅ | Lassie | Other Services | `` |
 | ✅ | Law & Order | Backend: Cloudfront | `` |
 | ✅ | Leave It To Beaver | Backend: Cloudfront | `` |
 | ✅ | Life With Derek | Other Services | `` |
 | ✅ | Little House on the Prairie | Backend: Cloudfront | `` |
-| ❌ | Love & Hip-Hop | Pluto TV | `` |
+| ✅ | Love & Hip-Hop | Pluto TV | `` |
 | ✅ | Love Thy Neighbor | Backend: Amagi | `` |
 | ✅ | Martha Stewart Channel | Backend: Amagi | `` |
 | ✅ | Matched Married Meet | Backend: Amagi | `` |
-| ❌ | Mission Impossible | Pluto TV | `` |
+| ✅ | Mission Impossible | Pluto TV | `` |
 | ✅ | Murder She Wrote | Backend: Cloudfront | `` |
 | ✅ | Mythbusters | Backend: Amagi | `` |
 | ✅ | Nikita | Backend: Amagi | `` |
@@ -1845,7 +1845,7 @@
 | ✅ | Operation Repo | Local Now | `` |
 | ✅ | PBS Antiques Roadshow | Backend: Amagi | `` |
 | ✅ | Pequeños Gigantes (Español) | Other Services | `` |
-| ❌ | Perry Mason | Pluto TV | `` |
+| ✅ | Perry Mason | Pluto TV | `` |
 | ❌ | Polly Pocket | Other Services | `` |
 | ✅ | Rainbow Ruby | Backend: Cloudfront | `` |
 | ✅ | Real Housewives Vault | Backend: Cloudfront | `` |
@@ -1854,19 +1854,19 @@
 | ✅ | SNL Vault | Backend: Cloudfront | `` |
 | ✅ | Sonic The Hedgehog | Backend: Cloudfront | `` |
 | ✅ | Space & Beyond | Backend: Amagi | `` |
-| ❌ | Star Trek | Pluto TV | `` |
+| ✅ | Star Trek | Pluto TV | `` |
 | ❌ | Stargate by MGM | Plex TV | `` |
 | ✅ | Strawberry Shortcake | Backend: Cloudfront | `` |
 | ✅ | Super Mario Bros. Channel | Roku Channel | `` |
 | ✅ | Supermarket Sweep | Roku Channel | `` |
-| ❌ | Teen Moms | Pluto TV | `` |
+| ✅ | Teen Moms | Pluto TV | `` |
 | ❌ | Teen Wolf by MGM | Other Services | `WOLF-DT.us_locals1` |
 | ❌ | Teletubbies | Backend: Cloudfront | `` |
-| ❌ | The Adams Family | Pluto TV | `The.Family.Channel.us2` |
-| ❌ | The Amazing Race | Pluto TV | `` |
-| ❌ | The Andy Griffith Show | Pluto TV | `` |
+| ✅ | The Adams Family | Pluto TV | `The.Family.Channel.us2` |
+| ✅ | The Amazing Race | Pluto TV | `` |
+| ✅ | The Andy Griffith Show | Pluto TV | `` |
 | ✅ | The Best of Booby Flay | Backend: Amagi | `` |
-| ❌ | The Best of Dr. Phil | Pluto TV | `` |
+| ✅ | The Best of Dr. Phil | Pluto TV | `` |
 | ✅ | The Beverly Hillbillies | Other Services | `` |
 | ✅ | The Bob Ross Channel | Other Services | `The.Cowboy.Channel.us2` |
 | ✅ | The Carol Burnette Show | Other Services | `` |
@@ -1875,22 +1875,22 @@
 | ✅ | The Doctors | Other Services | `` |
 | ✅ | The Ed Sullivan Show | Other Services | `` |
 | ❌ | The Ellen Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
-| ❌ | The Good Wife | Pluto TV | `` |
+| ✅ | The Good Wife | Pluto TV | `` |
 | ✅ | The Graham Norton Show | Other Services | `` |
 | ✅ | The Incredible Dr Pol | Backend: Amagi | `` |
 | ✅ | The Jack Hannah Channel | Other Services | `` |
 | ✅ | The Jamie Kennedy | Local Now | `` |
 | ✅ | The Joel Osteen Channel | Other Services | `` |
-| ❌ | The Judge Judy Channel | Pluto TV | `` |
-| ❌ | The Love Boat | Pluto TV | `` |
+| ✅ | The Judge Judy Channel | Pluto TV | `` |
+| ✅ | The Love Boat | Pluto TV | `` |
 | ✅ | The Masked Singer | Roku Channel | `` |
 | ✅ | The Osbournes | Backend: Amagi | `` |
 | ✅ | The Pink Panther | Other Services | `` |
-| ❌ | The Price Is Right | Pluto TV | `` |
+| ✅ | The Price Is Right | Pluto TV | `` |
 | ✅ | The Price Is Right - The Barker Era | Backend: Amagi | `` |
 | ✅ | The Three Stooges+ | Local Now | `` |
 | ✅ | The Walking Dead Universe | Other Services | `` |
-| ❌ | Three's Company | Pluto TV | `` |
+| ✅ | Three's Company | Pluto TV | `` |
 | ✅ | Today All Day | Backend: Cloudfront | `` |
 | ❌ | Transformers | Other Services | `` |
 | ✅ | Unsolved Mysteries | Backend: Cloudfront | `` |
@@ -2174,9 +2174,9 @@
 | ❌ | Vevo Pop | Backend: Amagi | `Vevo.Pop.us2` |
 | ❌ | Vevo R&B | Backend: Amagi | `` |
 | ✅ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
-| ❌ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
+| ✅ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
 | ✅ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
-| ❌ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
+| ✅ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
 | ✅ | Amazon | XITE 60s & 70s Groove | Backend: Amagi | `` |
 | ✅ | Amazon | XITE 80s Flashback | Backend: Amagi | `XITE.80s.Flashback.DUMMY.us` |
 | ✅ | Amazon | XITE 90s Throwback | Backend: Amagi | `XITE.90s.Throwback.DUMMY.us` |
