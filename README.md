@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-11 09:58
+# 📺 Playlist Status Update: 2026-08-11 10:54
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,19 +551,19 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -2055,8 +2055,8 @@
 | ✅ | iHeart Yee Yee Radio | Radio: iHeart | `` |
 | ❌ | JAZZRADIO.com Love Smooth Jazz | Other Services | `` |
 | ❌ | JAZZRADIO.com Mellow Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
-| ✅ | JAZZRADIO.com Smooth Jazz 24/7 | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Jazz | Other Services | `` |
+| ❌ | JAZZRADIO.com Smooth Jazz 24/7 | Other Services | `` |
 | ❌ | JAZZRADIO.com Smooth Uptempo | Other Services | `` |
 | ❌ | JAZZRADIO.com Smooth Vocals | Other Services | `` |
 | ❌ | La Mega Mundial | Other Services | `` |
@@ -2069,15 +2069,15 @@
 | ✅ | Now Rock Music | Backend: Amagi | `` |
 | ✅ | Pop World TV | Other Services | `NHK.World.TV.us2` |
 | ❌ | Radio Tunes 2000's Dance | Other Services | `` |
-| ✅ | Radio Tunes 2000's Hits | Other Services | `` |
+| ❌ | Radio Tunes 2000's Hits | Other Services | `` |
 | ❌ | Radio Tunes 2000's R&B | Other Services | `` |
 | ❌ | Radio Tunes 60's Hits | Other Services | `` |
 | ❌ | Radio Tunes 60's Rock | Other Services | `` |
-| ✅ | Radio Tunes 70's Hits | Other Services | `` |
+| ❌ | Radio Tunes 70's Hits | Other Services | `` |
 | ❌ | Radio Tunes 70's Rock | Other Services | `` |
 | ❌ | Radio Tunes 80's Alt & New Wave | Other Services | `WAVE-DT.us_locals1` |
 | ❌ | Radio Tunes 80's Hits | Other Services | `` |
-| ✅ | Radio Tunes 80's Rock | Other Services | `` |
+| ❌ | Radio Tunes 80's Rock | Other Services | `` |
 | ❌ | Radio Tunes 90's Dance | Other Services | `` |
 | ❌ | Radio Tunes 90's Hits | Other Services | `` |
 | ❌ | Radio Tunes 90's R&B | Other Services | `` |
@@ -2085,7 +2085,7 @@
 | ❌ | Radio Tunes Classic Hip-Hop | Other Services | `` |
 | ❌ | Radio Tunes Classic Motown | Other Services | `` |
 | ❌ | Radio Tunes Classic Rock | Other Services | `` |
-| ✅ | Radio Tunes Dance Hits | Other Services | `` |
+| ❌ | Radio Tunes Dance Hits | Other Services | `` |
 | ❌ | Radio Tunes Disco Party | Other Services | `` |
 | ❌ | Radio Tunes Easy Listening | Other Services | `` |
 | ❌ | Radio Tunes EuroDance | Other Services | `` |
@@ -2112,7 +2112,7 @@
 | ❌ | ROCKRADIO.com Modern Rock | Other Services | `` |
 | ❌ | ROCKRADIO.com Progressive Rock | Other Services | `` |
 | ❌ | ROCKRADIO.com Rock Ballads | Other Services | `` |
-| ✅ | ROCKRADIO.com Soft Rock | Other Services | `` |
+| ❌ | ROCKRADIO.com Soft Rock | Other Services | `` |
 | ❌ | ROCKRADIO.com Yacht Radio | Other Services | `` |
 | ✅ | Stingray Music Alternative | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Stingray Music Classic Rock | Radio: Stingray | `Stingray.Music.Dummy.us` |
@@ -2131,7 +2131,7 @@
 | ✅ | Stingray Music Smooth Jazz | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Stingray Music Soul Storm | Radio: Stingray | `Stingray.Music.Dummy.us` |
 | ✅ | Techno Warehouse | Other Services | `` |
-| ✅ | The Country Network | Other Services | `` |
+| ❌ | The Country Network | Other Services | `` |
 | ❌ | TuneIn 2000's Hits | Other Services | `` |
 | ❌ | TuneIn 60's Hits | Other Services | `` |
 | ❌ | TuneIn 70's Hits | Other Services | `` |
