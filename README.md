@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-11 05:05
+# 📺 Playlist Status Update: 2026-08-11 07:03
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,19 +551,19 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ❌ | TED Talks | Backend: Amagi | `` |
+| ✅ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -693,7 +693,7 @@
 | ❌ | CAPS Media Channel 15 (Ventura CA) | Local Gov/Public | `` |
 | ❌ | CAPS Media Channel 6 (Ventura CA) | Local Gov/Public | `` |
 | ✅ | Carlsbad City TV Channel (Carlsbad CA) | Other Services | `` |
-| ✅ | CCPS (Collier County Public Schools Education Channel) (Naples FL) | Other Services | `` |
+| ❌ | CCPS (Collier County Public Schools Education Channel) (Naples FL) | Other Services | `` |
 | ❌ | CCPTV (Community College of Philadelphia) (Philadelphia PA) | Local Gov/Public | `` |
 | ❌ | CCX Media (Minneapolis/St. Paul MN) | Local Gov/Public | `` |
 | ✅ | Cerritos TV | Local Gov/Public | `` |
@@ -900,8 +900,8 @@
 | ✅ | Canal 2 (San Antonio) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 2 Alpavisión Neiva | Other Services | `` |
 | ❌ | Canal 2 CR | Other Services | `` |
-| ❌ | Canal 2 de Ushuaia | Other Services | `` |
-| ❌ | Canal 2 Misiones | Other Services | `` |
+| ✅ | Canal 2 de Ushuaia | Other Services | `` |
+| ✅ | Canal 2 Misiones | Other Services | `` |
 | ❌ | Canal 21 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 26 Aguascalientes | Independent Streams | `` |
 | ❌ | Canal 28 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
@@ -1150,7 +1150,7 @@
 | ❌ | ToonOvation | Backend: Cloudfront | `` |
 | ✅ | Toons Goggles | Backend: Amagi | `` |
 | ❌ | Watch Mojo | Other Services | `` |
-| ✅ | 30A Ridiculous TV | Other Services | `` |
+| ❌ | 30A Ridiculous TV | Other Services | `` |
 | ✅ | Adult Swim 24/7 | Other Services | `` |
 | ✅ | Adult Swim+ (East) | Other Services | `` |
 | ✅ | Adult Swim+ (West) | Other Services | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -2175,7 +2175,7 @@
 | ❌ | Vevo R&B | Backend: Amagi | `` |
 | ✅ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
 | ✅ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
-| ❌ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
+| ✅ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
 | ✅ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
 | ✅ | Amazon | XITE 60s & 70s Groove | Backend: Amagi | `` |
 | ✅ | Amazon | XITE 80s Flashback | Backend: Amagi | `XITE.80s.Flashback.DUMMY.us` |
