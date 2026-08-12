@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-12 15:57
+# 📺 Playlist Status Update: 2026-08-12 16:58
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -554,9 +554,9 @@
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
@@ -668,7 +668,7 @@
 | ✅ | Akaku 54 (Maui Hi) | Other Services | `` |
 | ✅ | Akaku 55 (Maui Hi) | Other Services | `` |
 | ✅ | Anaheim TV (Anaheim CA) | Local Gov/Public | `` |
-| ❌ | Anne Arundel County Government (Annapolis MN) | Local Gov/Public | `` |
+| ✅ | Anne Arundel County Government (Annapolis MN) | Local Gov/Public | `` |
 | ✅ | Atlanta Channel (Atlanta GA) | Other Services | `` |
 | ✅ | AuroraTV (Aurora CO) | Local Gov/Public | `` |
 | ❌ | Banning CityTV (Banning CA) | Other Services | `` |
@@ -802,7 +802,7 @@
 | ❌ | Millbrae Community Television (Millbrae CA) | Independent Streams | `` |
 | ❌ | Moorpark Government Channel (Moorpark CA) | Other Services | `` |
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
-| ❌ | MPLS-TV | Other Services | `` |
+| ✅ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
 | ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
@@ -891,7 +891,7 @@
 | ✅ | 13Cultura | Other Services | `` |
 | ❌ | Canal 1 | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 1 Mar Menor-Torre Pacheco | Other Services | `` |
-| ✅ | Canal 10 | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
+| ❌ | Canal 10 | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 10 Cancun (México) | Other Services | `` |
 | ❌ | Canal 13 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 14 (México) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
