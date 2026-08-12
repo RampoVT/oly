@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-12 19:10
+# 📺 Playlist Status Update: 2026-08-12 20:40
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -554,14 +554,14 @@
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
@@ -728,7 +728,7 @@
 | ✅ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DKN (District Knowledge Network) | Other Services | `` |
-| ✅ | El Segundo Media (El Segundo CA) | Other Services | `` |
+| ❌ | El Segundo Media (El Segundo CA) | Other Services | `` |
 | ❌ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
 | ✅ | Fairfield Government Access Channel 26 (Fairfield CA) | Local Gov/Public | `` |
 | ✅ | FCPS Channel 21 (Fairfax County Public Schools) | Other Services | `` |
@@ -802,7 +802,7 @@
 | ❌ | Millbrae Community Television (Millbrae CA) | Independent Streams | `` |
 | ❌ | Moorpark Government Channel (Moorpark CA) | Other Services | `` |
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
-| ✅ | MPLS-TV | Other Services | `` |
+| ❌ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
 | ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
@@ -883,7 +883,7 @@
 | ❌ | WCAT Winthrop Community Access TV 9 Public Access (Winthrop MA) | Other Services | `` |
 | ✅ | West Hollywood WeHoTV (West Hollywood CA) | Other Services | `` |
 | ❌ | Westminster WTV Channel (Westminster CA) | Other Services | `` |
-| ✅ | White Plains Community Media (White Plains NY) | Other Services | `` |
+| ❌ | White Plains Community Media (White Plains NY) | Other Services | `` |
 | ✅ | Whittier CityTV (Whittier CA) | Local Gov/Public | `` |
 | ✅ | WHOH-TV Village of Hastings-On-Hudson (Hudson NY) | Other Services | `` |
 | ❌ | Wolcott Governmental TV (Wolcott CT) | Independent Streams | `` |
@@ -1067,7 +1067,7 @@
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
-| ❌ | NASA | Other Services | `NASA.Plus.us2` |
+| ✅ | NASA | Other Services | `NASA.Plus.us2` |
 | ❌ | Nat Geo Wild | Rocket Service | `` |
 | ❌ | National Geographic (East) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
 | ❌ | National Geographic (West) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
@@ -1414,7 +1414,7 @@
 | ❌ | Wild West TV | Other Services | `West.TV.us2` |
 | ✅ | WPS TV | Other Services | `` |
 | ❌ | YouToo America | Backend: Cloudfront | `YTA.Youtoo.America.us2` |
-| ❌ | America's Auction Channel (AACTV) | Other Services | `` |
+| ✅ | America's Auction Channel (AACTV) | Other Services | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN 2 | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
