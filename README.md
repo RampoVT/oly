@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-12 22:38
+# 📺 Playlist Status Update: 2026-08-12 23:38
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,18 +552,18 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ✅ | TED Talks | Backend: Amagi | `` |
+| ❌ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -594,7 +594,7 @@
 | ✅ | Sky News Weather | Other Services | `` |
 | ❌ | The Weather Channel | Other Services | `The.Weather.Channel.HD.us2` |
 | ✅ | The Weather Channel+ | Other Services | `The.Weather.Channel.HD.us2` |
-| ✅ | WeatherNation | Roku Channel | `` |
+| ❌ | WeatherNation | Roku Channel | `` |
 | ✅ | Weather Spy | Backend: Wurl | `The.Weather.Channel.HD.us2` |
 | ❌ | Create | Other Services | `Create.us2` |
 | ❌ | NHK World | Other Services | `NHK.World.TV.us2` |
@@ -668,7 +668,7 @@
 | ✅ | Akaku 54 (Maui Hi) | Other Services | `` |
 | ✅ | Akaku 55 (Maui Hi) | Other Services | `` |
 | ✅ | Anaheim TV (Anaheim CA) | Local Gov/Public | `` |
-| ❌ | Anne Arundel County Government (Annapolis MN) | Local Gov/Public | `` |
+| ✅ | Anne Arundel County Government (Annapolis MN) | Local Gov/Public | `` |
 | ✅ | Atlanta Channel (Atlanta GA) | Other Services | `` |
 | ✅ | AuroraTV (Aurora CO) | Local Gov/Public | `` |
 | ❌ | Banning CityTV (Banning CA) | Other Services | `` |
@@ -1157,7 +1157,7 @@
 | ❌ | AFV Family | Backend: Wurl | `AFN.family/AFN.pulse.us2` |
 | ✅ | Always Funny | Backend: Amagi | `` |
 | ❌ | Always Funny Pranks and Fail | Backend: Amagi | `` |
-| ✅ | Animation+ | Roku Channel | `` |
+| ❌ | Animation+ | Roku Channel | `` |
 | ❌ | BBC Comedy | Plex TV | `Catchy.Comedy.us2` |
 | ❌ | Comedy Central (East) | Rocket Service | `Comedy.Central.HD.(Pacific).us2` |
 | ✅ | Comedy Central (Pluto TV) | Pluto TV | `Comedy.Central.HD.(Pacific).us2` |
@@ -1194,7 +1194,7 @@
 | ❌ | Recipe.tv | Rocket Service | `` |
 | ✅ | Gusto TV | Backend: Amagi | `` |
 | ❌ | Bon Appétit | Other Services | `Bon.AppÃ©tit.TV.us2` |
-| ✅ | PBS Food | Roku Channel | `` |
+| ❌ | PBS Food | Roku Channel | `` |
 | ✅ | BBC Food | Backend: Wurl | `` |
 | ✅ | Cook's Country Channel | Backend: Amagi | `` |
 | ✅ | Taste Made | Backend: Amagi | `` |
@@ -1279,7 +1279,7 @@
 | ❌ | GAC Great American Faith & Living | Rocket Service | `Great.American.Faith.and.Living.us2` |
 | ❌ | GAC Great American Family | Other Services | `Great.American.Family.HD.us2` |
 | ✅ | GAC Great American Pure Flix TV | Backend: Amagi | `Pure.Flix.TV.us2` |
-| ✅ | GAC Great American RomComs | Roku Channel | `Great.American.Romcoms.us2` |
+| ❌ | GAC Great American RomComs | Roku Channel | `Great.American.Romcoms.us2` |
 | ❌ | Game Show Central | Backend: Wurl | `` |
 | ❌ | Get Comedy | Backend: Wurl | `Catchy.Comedy.us2` |
 | ❌ | Get TV | Rocket Service | `` |
@@ -1596,7 +1596,7 @@
 | ❌ | Tennis Channel | Rocket Service | `Tennis.Channel.HD.us2` |
 | ✅ | Tennis Channel (Alt) | Backend: Amagi | `Tennis.Channel.HD.us2` |
 | ✅ | Tennis TV Classics | Backend: Amagi | `` |
-| ✅ | Tennis+ | Roku Channel | `Tennis.Channel.HD.us2` |
+| ❌ | Tennis+ | Roku Channel | `Tennis.Channel.HD.us2` |
 | ❌ | The Cycling Channel | Other Services | `` |
 | ✅ | The NBA Channel | Backend: Amagi | `[TFC].The.Filipino.Channel.HD.us2` |
 | ✅ | The Original Globetrotters | Other Services | `` |
@@ -1633,7 +1633,7 @@
 | ✅ | BET Cinema (Pluto TV) | Pluto TV | `Cinema.Dinamita.(HD.Feed).us2` |
 | ✅ | BET Comedy Movies (Pluto TV) | Pluto TV | `Movies!.us2` |
 | ✅ | BET Comedy Visionaries (Pluto TV) | Pluto TV | `` |
-| ✅ | BritBox Mysteries | Roku Channel | `` |
+| ❌ | BritBox Mysteries | Roku Channel | `` |
 | ✅ | Christmas+ | Backend: Amagi | `Christmas.Dummy.us` |
 | ✅ | CineLife | Backend: Amagi | `` |
 | ❌ | Cinemax (East) | Rocket Service | `Cinemax.Action.us2` |
@@ -1653,14 +1653,14 @@
 | ✅ | CrimeFlix | Backend: Cloudfront | `` |
 | ✅ | Electric Now | Backend: Amagi | `` |
 | ✅ | Encore+ | Other Services | `Starz.Encore.Action.HD.us2` |
-| ✅ | FilmRise Action | Roku Channel | `` |
-| ✅ | FilmRise Black TV | Roku Channel | `` |
-| ✅ | FilmRise Classic TV | Roku Channel | `` |
-| ✅ | FilmRise Creators | Roku Channel | `` |
+| ❌ | FilmRise Action | Roku Channel | `` |
+| ❌ | FilmRise Black TV | Roku Channel | `` |
+| ❌ | FilmRise Classic TV | Roku Channel | `` |
+| ❌ | FilmRise Creators | Roku Channel | `` |
 | ✅ | FilmRise Free Movies | Other Services | `Movies!.us2` |
-| ✅ | FilmRise Horror | Roku Channel | `` |
-| ✅ | FilmRise Sci-Fi | Roku Channel | `` |
-| ✅ | FilmRise Western | Roku Channel | `` |
+| ❌ | FilmRise Horror | Roku Channel | `` |
+| ❌ | FilmRise Sci-Fi | Roku Channel | `` |
+| ❌ | FilmRise Western | Roku Channel | `` |
 | ❌ | Flix (East) | Other Services | `Flix.us2` |
 | ❌ | Flix (West) | Other Services | `Flix.us2` |
 | ✅ | Free Movie Network | Backend: Amagi | `` |
@@ -1692,8 +1692,8 @@
 | ❌ | MGM+ Hits | Rocket Service | `MGM+.Hits.HD.us2` |
 | ❌ | MGM+ Marquee | Rocket Service | `MGM+.Marquee.HD.us2` |
 | ✅ | Miramax Movie Channel | Other Services | `FX.Movie.Channel.HD.us2` |
-| ✅ | Movie Hub | Roku Channel | `Movie.Hub.Action.us2` |
-| ✅ | Movie Hub Action | Roku Channel | `Movie.Hub.Action.us2` |
+| ❌ | Movie Hub | Roku Channel | `Movie.Hub.Action.us2` |
+| ❌ | Movie Hub Action | Roku Channel | `Movie.Hub.Action.us2` |
 | ❌ | MoviePlex (East) | Rocket Service | `MoviePlex.HD.us2` |
 | ❌ | Movies Network | Rocket Service | `TViet.Network.us2` |
 | ✅ | MovieSphere by Lionsgate | Backend: Amagi | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
@@ -1857,7 +1857,7 @@
 | ✅ | Star Trek | Pluto TV | `` |
 | ❌ | Stargate by MGM | Plex TV | `` |
 | ✅ | Strawberry Shortcake | Backend: Cloudfront | `` |
-| ✅ | Super Mario Bros. Channel | Roku Channel | `` |
+| ❌ | Super Mario Bros. Channel | Roku Channel | `` |
 | ✅ | Supermarket Sweep | Roku Channel | `` |
 | ✅ | Teen Moms | Pluto TV | `` |
 | ❌ | Teen Wolf by MGM | Other Services | `WOLF-DT.us_locals1` |
@@ -2164,16 +2164,16 @@
 | ❌ | TuneIn Vintage Country | Other Services | `` |
 | ✅ | TVS Music Network | Other Services | `Me.TV.Network.us2` |
 | ✅ | V2BEAT TV (UK) | Other Services | `` |
-| ✅ | Vevo 2K | Roku Channel | `Vevo.2K.us2` |
+| ❌ | Vevo 2K | Roku Channel | `Vevo.2K.us2` |
 | ❌ | Vevo '70s | Backend: Amagi | `Vevo.70s.us2` |
 | ❌ | Vevo '80s | Backend: Amagi | `Vevo.80s.us2` |
 | ❌ | Vevo '90s | Backend: Amagi | `Vevo.90s.us2` |
 | ❌ | Vevo Country | Backend: Amagi | `Vevo.Country.us2` |
 | ❌ | Vevo Hip-Hop | Backend: Amagi | `Vevo.Hip-Hop.us2` |
-| ✅ | Vevo Latinos | Roku Channel | `Vevo.Ãconos.Latinos.us2` |
+| ❌ | Vevo Latinos | Roku Channel | `Vevo.Ãconos.Latinos.us2` |
 | ❌ | Vevo Pop | Backend: Amagi | `Vevo.Pop.us2` |
 | ❌ | Vevo R&B | Backend: Amagi | `` |
-| ✅ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
+| ❌ | Vevo Reggaeton & Trap | Roku Channel | `Vevo.Reggaeton.and.Trap.us2` |
 | ✅ | Vevo Regional Mexicano | Pluto TV | `Vevo.Regional.Mexicano.us2` |
 | ✅ | Vevo Retro Rock | Backend: Amagi | `Vevo.Rock.us2` |
 | ✅ | Vevo True School Hip-Hop | Pluto TV | `Vevo.True.School.Hip-Hop.us2` |
