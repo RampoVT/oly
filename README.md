@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-13 11:43
+# 📺 Playlist Status Update: 2026-08-13 13:04
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -407,7 +407,7 @@
 | ✅ | KERO-TV ABC 23 24/7 News (Bakersfield CA) | Backend: Uplynk | `KERO-DT.us_locals1` |
 | ❌ | WITN-TV 22 24/7 News (Wilmington DE) | Local Gov/Public | `WITN-DT.us_locals1` |
 | ✅ | WJAX-TV CBS 47 24/7 News (Jacksonville FL) | Backend: Amagi | `WJAX-DT.us_locals1` |
-| ✅ | KTVU-TV FOX 2 24/7 News (San Francisco CA) | Backend: Amagi | `KTVU-DT.us_locals1` |
+| ❌ | KTVU-TV FOX 2 24/7 News (San Francisco CA) | Backend: Amagi | `KTVU-DT.us_locals1` |
 | ✅ | KPIX-TV CBS 4 24/7 News (San Francisco CA) | Other Services | `KPIX-DT.us_locals1` |
 | ❌ | KGO-TV ABC 7 24/7 News (San Francisco CA) | Backend: Uplynk | `` |
 | ✅ | KNTV-TV NBC 10 24/7 News (San Francisco CA) | Backend: Cloudfront | `KNTV-DT.us_locals1` |
@@ -420,7 +420,7 @@
 | ✅ | WMAQ-TV NBC 5 24/7 News (Chicago IL) | Backend: Cloudfront | `WMAQ-DT.us_locals1` |
 | ❌ | WLS-TV ABC 7 24/7 News (Chicago IL) | Backend: Uplynk | `` |
 | ✅ | WFLD-TV FOX 32 24/7 News (Chicago IL) | Backend: Amagi | `WFLD-DT.us_locals1` |
-| ✅ | WJBK-TV FOX 2 24/7 News (Detroit MI) | Backend: Amagi | `WJBK-DT.us_locals1` |
+| ❌ | WJBK-TV FOX 2 24/7 News (Detroit MI) | Backend: Amagi | `WJBK-DT.us_locals1` |
 | ✅ | WDIV-TV NBC 4 "Local 4+" 24/7 News (Detroit MI) | Other Services | `WDIV-DT.us_locals1` |
 | ✅ | WXYZ-TV ABC 7 24/7 News (Detroit MI) | Tubi TV | `WXYZ-DT.us_locals1` |
 | ✅ | WWJ-TV CBS 62 24/7 News (Detroit MI) | Other Services | `` |
@@ -443,16 +443,16 @@
 | ✅ | WTVJ-TV NBC 6 24/7 News (Miami FL) | Backend: Cloudfront | `WTVJ-DT.us_locals1` |
 | ✅ | WPLG-TV ABC 10 24/7 News (Miami FL) | Backend: Cloudfront | `WPLG-DT.us_locals1` |
 | ✅ | WTSP-TV CBS 10 24/7 News (Tampa Bay FL) | Other Services | `WTSP-DT.us_locals1` |
-| ✅ | WTVT-TV FOX 13 24/7 News (Tampa Bay FL) | Backend: Amagi | `WTVT-DT.us_locals1` |
+| ❌ | WTVT-TV FOX 13 24/7 News (Tampa Bay FL) | Backend: Amagi | `WTVT-DT.us_locals1` |
 | ✅ | WFTS-TV ABC 28 24/7 News (Tampa Bay FL) | Backend: Uplynk | `WFTS-DT.us_locals1` |
 | ✅ | WESH-TV NBC 2 24/7 News (Orlando FL) | Backend: Uplynk | `WESH-DT.us_locals1` |
 | ✅ | WFTV-TV ABC 9 24/7 News (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
-| ✅ | WFTV-TV ABC 9 Now (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
+| ❌ | WFTV-TV ABC 9 Now (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
 | ✅ | WFTV-TV ABC 9 Breaking News 24/7 (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
 | ✅ | WFTV-TV ABC 9 Weather 24/7 (Orlando FL) | Backend: Amagi | `WFTV-DT.us_locals1` |
 | ✅ | WOFL-TV FOX 35 24/7 News (Orlando FL) | Backend: Amagi | `WOFL-DT.us_locals1` |
 | ✅ | KENS-TV CBS 5 24/7 News (San Antonio TX) | Other Services | `KENS-DT.us_locals1` |
-| ✅ | KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX) | Backend: Amagi | `KDFW-DT.us_locals1` |
+| ❌ | KDFW-TV FOX 4 24/7 News (Ft. Worth/Dallas TX) | Backend: Amagi | `KDFW-DT.us_locals1` |
 | ✅ | KXAS-TV NBC 5 24/7 News (Ft. Worth/Dallas TX) | Backend: Cloudfront | `KXAS-DT.us_locals1` |
 | ✅ | WFFA-TV ABC 8 24/7 News (Ft. Worth/Dallas TX) | Other Services | `` |
 | ✅ | KTVT-TV CBS 11 24/7 News (Ft. Worth/Dallas TX) | Other Services | `KTVT-DT.us_locals1` |
@@ -555,15 +555,15 @@
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -590,7 +590,7 @@
 | ✅ | USA Today News | Backend: Amagi | `` |
 | ✅ | Yahoo! Finance | Backend: Cloudfront | `` |
 | ✅ | AccuWeather | Backend: Amagi | `AccuWeather.HD.us2` |
-| ✅ | FOX Weather | Backend: Amagi | `The.Weather.Channel.HD.us2` |
+| ❌ | FOX Weather | Backend: Amagi | `The.Weather.Channel.HD.us2` |
 | ✅ | Sky News Weather | Other Services | `` |
 | ❌ | The Weather Channel | Other Services | `The.Weather.Channel.HD.us2` |
 | ✅ | The Weather Channel+ | Other Services | `The.Weather.Channel.HD.us2` |
@@ -908,7 +908,7 @@
 | ✅ | Canal 33 Tijuana | Independent Streams | `` |
 | ✅ | Canal 44 Chihuahua (México) | Independent Streams | `` |
 | ✅ | Canal 5 (México) | Other Services | `CANAL.22.INTERNACIONAL.us2` |
-| ❌ | Canal 57 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
+| ✅ | Canal 57 | Other Services | `CANAL.22.INTERNACIONAL.us2` |
 | ✅ | Canal 66 Mexicali | Independent Streams | `` |
 | ❌ | Canal 7.1 (Bolivia) | Independent Streams | `CANAL.22.INTERNACIONAL.us2` |
 | ❌ | Canal 7.2 Deportes (Bolivia) | Independent Streams | `` |
@@ -1215,7 +1215,7 @@
 | ✅ | AWE Encore | Other Services | `Starz.Encore.Action.HD.us2` |
 | ❌ | AXS-TV | Rocket Service | `AXS.TV.us2` |
 | ❌ | AXS-TV Now | Backend: Amagi | `` |
-| ✅ | Backstage | Backend: Amagi | `` |
+| ❌ | Backstage | Backend: Amagi | `` |
 | ❌ | BBC America | Rocket Service | `BBC.America.HD.us2` |
 | ❌ | BBC Game Shows | Plex TV | `` |
 | ❌ | BBC Sci-Fi | Plex TV | `` |
@@ -1265,7 +1265,7 @@
 | ❌ | Fashion TV | Other Services | `` |
 | ❌ | fetv (Family Entertainment Television) | Rocket Service | `` |
 | ❌ | FMC (Family Movie Classics) | Rocket Service | `` |
-| ✅ | FOX Soul | Backend: Amagi | `FOX.SOUL.us2` |
+| ❌ | FOX Soul | Backend: Amagi | `FOX.SOUL.us2` |
 | ✅ | Free Western Network | Backend: Amagi | `` |
 | ❌ | FreeTV Fantasy | Backend: Amagi | `` |
 | ❌ | Fuse | Rocket Service | `Fuse.HD.us2` |
@@ -1304,7 +1304,7 @@
 | ❌ | INSP | KSTV US | `INSP.HD.us2` |
 | ✅ | ION | Backend: Amagi | `ION.Mystery.us2` |
 | ✅ | ION Mystery | Backend: Amagi | `ION.Mystery.us2` |
-| ✅ | ION Plus | Backend: Amagi | `` |
+| ❌ | ION Plus | Backend: Amagi | `` |
 | ❌ | Judge Nosey | Other Services | `` |
 | ❌ | Laff | Rocket Service | `Laff.us2` |
 | ❌ | Laff More! | Backend: Wurl | `` |
@@ -1558,7 +1558,7 @@
 | ✅ | Outdoor America | Local Now | `Outdoor.America.Field.and.Stream.us2` |
 | ✅ | Outdoor TV | Backend: Amagi | `Outdoor.America.Field.and.Stream.us2` |
 | ✅ | PAC 12 Insider | Backend: Amagi | `` |
-| ❌ | PBR RidePass | Other Services | `` |
+| ✅ | PBR RidePass | Other Services | `` |
 | ✅ | PBTV Pickleball TV | Backend: Amagi | `` |
 | ✅ | People are Awesome | Other Services | `` |
 | ✅ | PGA Tour | Backend: Cloudfront | `` |
@@ -1568,7 +1568,7 @@
 | ❌ | PokerGo | Local Now | `` |
 | ❌ | Racer (Formerly MAV TV) | Rocket Service | `RACER.Network.HD.us2` |
 | ✅ | Racer International | Backend: Amagi | `3ABN.International.Network.us2` |
-| ✅ | Racer Select | Backend: Amagi | `` |
+| ❌ | Racer Select | Backend: Amagi | `` |
 | ✅ | Red Bull TV | Other Services | `` |
 | ✅ | Right Now TV | Other Services | `Right.Now.TV.us2` |
 | ❌ | SEC Network ESPN | Rocket Service | `SEC.Network.HD.us2` |
@@ -1780,11 +1780,11 @@
 | ✅ | Anime 24/7 | Backend: Amagi | `` |
 | ✅ | Aquí y Ahora (Español) | Other Services | `` |
 | ✅ | Are We There Yet? | Backend: Amagi | `` |
-| ✅ | Baby Shark TV | Other Services | `` |
+| ❌ | Baby Shark TV | Other Services | `` |
 | ✅ | Bachelor Nation | Backend: Amagi | `` |
 | ✅ | Bad Girls Club | Backend: Cloudfront | `` |
 | ❌ | Barney & Friends | Backend: Wurl | `` |
-| ❌ | Baywatch | Backend: Amagi | `` |
+| ✅ | Baywatch | Backend: Amagi | `` |
 | ✅ | BBC Dinos 24/7 | Backend: Amagi | `BBC.Dinos.24/7.us2` |
 | ✅ | Beverly Hills 90210 | Pluto TV | `` |
 | ✅ | Bizarre Foods with Andrew Zimmern | Backend: Amagi | `` |
