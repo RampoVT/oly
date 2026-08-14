@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-14 21:22
+# 📺 Playlist Status Update: 2026-08-14 22:20
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,18 +552,18 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -867,7 +867,7 @@
 | ✅ | St. Johns County Government GTV (St. Johns County FL) | Other Services | `` |
 | ✅ | St. Pete TV (SPTV) (St Petersburg FL) | Other Services | `` |
 | ❌ | Stockton GovTV (Stockton CA) | Other Services | `` |
-| ✅ | Tampa Bay Communnity Network TBCN (Tampa Bay FL) | Local Gov/Public | `` |
+| ❌ | Tampa Bay Communnity Network TBCN (Tampa Bay FL) | Local Gov/Public | `` |
 | ✅ | Temecula TV (Temecula CA) | Local Gov/Public | `` |
 | ❌ | The Florida Channel | Other Services | `The.Africa.Channel.us2` |
 | ✅ | The Southern Channel | Local Gov/Public | `` |
@@ -917,7 +917,7 @@
 | ❌ | Canal del Congreso 45.2 | Other Services | `` |
 | ❌ | Canal del Congreso 45.3 | Other Services | `` |
 | ✅ | Canal Once.3 Digital (México) | Other Services | `` |
-| ❌ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ✅ | CGTN en Español | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | KAKW-TV Univision 62 (Austin TX) | Other Services | `KAKW-DT.us_locals1` |
 | ❌ | KASA-TV Telemundo 2 (Santa Fe NM) | Rocket Service | `KASA-DT.us_locals1` |
 | ❌ | KBLR-TV Telemundo 39 (Las Vegas NV) | Rocket Service | `KBLR-DT.us_locals1` |
@@ -947,15 +947,15 @@
 | ❌ | Latin Hola TV | Rocket Service | `Â¡HOLA!.TV.us2` |
 | ✅ | LATV | Backend: Amagi | `` |
 | ❌ | Mega TV | Rocket Service | `Mega.TV.HD.us2` |
-| ❌ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
-| ❌ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Bajío México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Ciudad Juárez México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Costa Rica México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Guadalajara México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Laguna México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Mexico Ciy México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Monterey México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Puebla México) | Other Services | `` |
+| ✅ | Multimedios Canal 6 Telediario México (Saltillo México) | Other Services | `` |
 | ❌ | Multimedios Canal 6 Telediario México Delay | Other Services | `` |
 | ✅ | N+ Univision 24/7 | Spanish Services | `Univision.Network.HD.us2` |
 | ✅ | Noticias Telemundo Ahora | Backend: Cloudfront | `` |
@@ -967,7 +967,7 @@
 | ❌ | RCG .3 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.1 | Other Services | `` |
 | ❌ | SET Televisión Canal 26.2 | Other Services | `` |
-| ❌ | SIPSE TV 8.1 | Other Services | `` |
+| ✅ | SIPSE TV 8.1 | Other Services | `` |
 | ✅ | SIPSE TVCUN 8.1 | Other Services | `` |
 | ❌ | Spectrum Noticias NY1 | Rocket Service | `` |
 | ✅ | Telemundo Noticias California | Backend: Cloudfront | `` |
@@ -2488,7 +2488,7 @@
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
-| ❌ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
+| ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
 | ❌ | Challenge (UK) | Rocket Service | `Challenge.uk` |
