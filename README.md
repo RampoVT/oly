@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-14 18:50
+# 📺 Playlist Status Update: 2026-08-14 19:46
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -366,7 +366,7 @@
 | ❌ | WLUK-TV FOX 11 (Green Bay WI) | Rocket Service | `WLUK-DT.us_locals1` |
 | ❌ | WCWF-TV CW 14 (Green Bay WI) | Rocket Service | `WCWF-DT.us_locals1` |
 | ❌ | WBGA-TV NBC 26 (Green Bay WI) | Rocket Service | `` |
-| ❌ | KREM-TV CBS 2 (Spokane WA) | Backend: Syncbak | `KREM-DT.us_locals1` |
+| ✅ | KREM-TV CBS 2 (Spokane WA) | Backend: Syncbak | `KREM-DT.us_locals1` |
 | ❌ | KOMO-TV ABC 4 (Seattle WA) | Rocket Service | `KOMO-DT.us_locals1` |
 | ❌ | KING-TV NBC 5 (Seattle WA) | Rocket Service | `KING-DT.us_locals1` |
 | ❌ | KIRO-TV CBS 7 (Seattle WA) | Rocket Service | `KIRO-DT.us_locals1` |
@@ -554,13 +554,13 @@
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ✅ | TVS Action Network | Other Services | `` |
+| ❌ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
