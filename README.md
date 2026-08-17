@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-17 17:24
+# 📺 Playlist Status Update: 2026-08-17 18:35
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -109,7 +109,7 @@
 | ❌ | WFTV-TV ABC 9 (Orlando FL) | Rocket Service | `WFTV-DT.us_locals1` |
 | ❌ | WKCF-TV CW 18 (Orlando FL) | Rocket Service | `WKCF-DT.us_locals1` |
 | ❌ | WOFL-TV FOX 35 (Orlando FL) | Rocket Service | `WOFL-DT.us_locals1` |
-| ❌ | WACX-TV 55.1 SuperChannel Orlando (Orlando FL) | Independent Streams | `WACX-DT.us_locals1` |
+| ✅ | WACX-TV 55.1 SuperChannel Orlando (Orlando FL) | Independent Streams | `WACX-DT.us_locals1` |
 | ❌ | WRBW-TV MyNetworkTV 65 (FOX 35+) (Orlando FL) | Rocket Service | `WRBW-DT.us_locals1` |
 | ❌ | WNBW-DT NBC 9 (Gainsville FL) | Other Services | `WNBW-DT.us_locals1` |
 | ❌ | WCJB-TV ABC 20 (Gainsville FL) | Other Services | `WCJB-DT.us_locals1` |
@@ -553,14 +553,14 @@
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
@@ -1021,7 +1021,7 @@
 | ✅ | WUVG-TV Univision 34.1 (Atlanta GA) | Spanish Services | `WUVG-DT.us_locals1` |
 | ❌ | WUVP-TV Univision 65 (Philadelphia PA) | Other Services | `WUVP-DT.us_locals1` |
 | ❌ | WWSI-TV Telemundo 62 (Philadelphia PA) | Rocket Service | `WWSI-DT.us_locals1` |
-| ✅ | WWXY-DT 19.3 (San Juan PR) | Other Services | `WWXY-LD.us_locals1` |
+| ❌ | WWXY-DT 19.3 (San Juan PR) | Other Services | `WWXY-LD.us_locals1` |
 | ✅ | WWXY-TV Ind. 19.1 (San Juan PR) | Other Services | `WWXY-LD.us_locals1` |
 | ✅ | WXTV-TV Univision 41 (New York NY) | Spanish Services | `WXTV-DT.us_locals1` |
 | ✅ | WXWZ-LD MásTV 23 (San Juan PR) | Independent Streams | `` |
@@ -1067,7 +1067,7 @@
 | ✅ | Meateater | Backend: Amagi | `` |
 | ❌ | Military History | Rocket Service | `Military.History.Channel.us2` |
 | ✅ | MST3K (Mystery Science Theater 3000) | Backend: Amagi | `` |
-| ✅ | NASA | Other Services | `NASA.Plus.us2` |
+| ❌ | NASA | Other Services | `NASA.Plus.us2` |
 | ❌ | Nat Geo Wild | Rocket Service | `` |
 | ❌ | National Geographic (East) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
 | ❌ | National Geographic (West) | Rocket Service | `National.Geographic.HD.(Pacific).us2` |
@@ -1414,7 +1414,7 @@
 | ❌ | Wild West TV | Other Services | `West.TV.us2` |
 | ✅ | WPS TV | Other Services | `` |
 | ❌ | YouToo America | Backend: Cloudfront | `YTA.Youtoo.America.us2` |
-| ✅ | America's Auction Channel (AACTV) | Other Services | `` |
+| ❌ | America's Auction Channel (AACTV) | Other Services | `` |
 | ✅ | HSN (Home Shopping Network) (West) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN (Home Shopping Network) (East) | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
 | ✅ | HSN 2 | Other Services | `HSN.Home.Shopping.Network.HD.us2` |
