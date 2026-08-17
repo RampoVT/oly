@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-17 01:06
+# 📺 Playlist Status Update: 2026-08-17 02:57
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -556,14 +556,14 @@
 | ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -802,7 +802,7 @@
 | ❌ | Millbrae Community Television (Millbrae CA) | Independent Streams | `` |
 | ❌ | Moorpark Government Channel (Moorpark CA) | Other Services | `` |
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
-| ❌ | MPLS-TV | Other Services | `` |
+| ✅ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
 | ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
@@ -1762,7 +1762,7 @@
 | ❌ | The Movie Channel Xtra (East) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ❌ | The Movie Channel Xtra (West) | Rocket Service | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | Toonami Aftermath Movies | Other Services | `Movies!.us2` |
-| ❌ | TVS Action Network | Other Services | `` |
+| ✅ | TVS Action Network | Other Services | `` |
 | ✅ | TVS Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
 | ✅ | TVS Drive In Movie | Other Services | `` |
 | ✅ | TVS Horror | Other Services | `Horror.Machine.us2` |
