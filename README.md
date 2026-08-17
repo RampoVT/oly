@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-17 03:52
+# 📺 Playlist Status Update: 2026-08-17 04:39
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -551,19 +551,19 @@
 | ❌ | MS NOW | Rocket Service | `MS.NOW.HD.us2` |
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
-| ❌ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -579,7 +579,7 @@
 | ❌ | Spectrum News NY1 (New York NY) | Rocket Service | `Spectrum.News.-.NY1.-.STVA.us2` |
 | ✅ | Spectrum News+ | Backend: Cloudfront | `Spectrum.Bay.News.9.Tampa.us2` |
 | ❌ | Spend Smart | Local Now | `` |
-| ✅ | TED Talks | Backend: Amagi | `` |
+| ❌ | TED Talks | Backend: Amagi | `` |
 | ✅ | The First | Backend: Amagi | `The.First.us2` |
 | ❌ | The Hill | Backend: Cloudfront | `` |
 | ✅ | The National News Desk | Other Services | `` |
@@ -877,7 +877,7 @@
 | ❌ | TVSB (Television Santa Barbara) | Local Gov/Public | `` |
 | ✅ | UCTV University of California | Independent Streams | `` |
 | ❌ | Vacaville Channel 26 (Vacaville CA) | Other Services | `` |
-| ❌ | Valley Shore Community Television (VSCTV) (Clinton CT) | Local Gov/Public | `` |
+| ✅ | Valley Shore Community Television (VSCTV) (Clinton CT) | Local Gov/Public | `` |
 | ❌ | WCAT Winthrop Community Access TV 22 Government (Winthrop MA) | Other Services | `` |
 | ❌ | WCAT Winthrop Community Access TV 8 Educational (Winthrop MA) | Other Services | `` |
 | ❌ | WCAT Winthrop Community Access TV 9 Public Access (Winthrop MA) | Other Services | `` |
@@ -2488,14 +2488,14 @@
 | ❌ | BET (UK) | Rocket Service | `` |
 | ❌ | Blaze (UK) | KSTV UK | `BLAZE.uk` |
 | ✅ | Bloomberg (Austrailia) | Other Services | `Bloomberg.Business.Television.us2` |
-| ✅ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
+| ❌ | Bloomberg (UK) | Other Services | `Bloomberg.HD.uk` |
 | ❌ | Boomerang (UK) | KSTV UK | `Boomerang+1.uk` |
 | ❌ | Cartoon Network (UK) | KSTV UK | `Cartoon.Netwrk.uk` |
 | ❌ | Challenge (UK) | Rocket Service | `Challenge.uk` |
 | ❌ | Channel 4 (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 4 Seven (UK) | Other Services | `Channel.4+1.uk` |
 | ❌ | Channel 5 (UK) | Other Services | `Channel.5+1.uk` |
-| ✅ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
+| ❌ | Channel 5 Action (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5 USA (UK) | Other Services | `Channel.5.uk` |
 | ❌ | Channel 5+ (UK) | Other Services | `Channel.5+1.uk` |
 | ✅ | CNBC (UK) | Backend: Amagi | `CNBC.HD.uk` |
