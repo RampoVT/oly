@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-17 05:33
+# 📺 Playlist Status Update: 2026-08-17 06:50
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -552,18 +552,18 @@
 | ✅ | NBC Dateline 24/7 | Backend: Cloudfront | `` |
 | ✅ | NBC News Now | Other Services | `` |
 | ✅ | News 12 ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 ("Westchester" Yonkers NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12 (Bronx NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12 (Brooklyn NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News 12 (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
 | ✅ | News 12 (New York NY) | Backend: Wurl | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
-| ✅ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Connecticut" Norwalk CT) | Other Services | `News.12.New.Jersey.us2` |
+| ✅ | News 12+ ("Hudson Valley" West Nyack NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ ("New Jersey" Edison NJ) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (Long Island NY) | Other Services | `News.12.New.Jersey.us2` |
+| ❌ | News 12+ (New York NY) | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | News Nation | Rocket Service | `` |
 | ✅ | Newsmax | Other Services | `Newsmax.TV.HD.us2` |
 | ✅ | Newsmax 2 | Other Services | `Newsmax.TV.HD.us2` |
@@ -656,7 +656,7 @@
 | ❌ | Access Media Productions Marina TV | Local Gov/Public | `` |
 | ❌ | Access Media Productions Monterey Channel | Local Gov/Public | `` |
 | ❌ | Access Media Productions Peninsula Channel | Local Gov/Public | `` |
-| ❌ | Access Nashua | Local Gov/Public | `` |
+| ✅ | Access Nashua | Local Gov/Public | `` |
 | ✅ | Access Sacramento Channel 17 | Local Gov/Public | `` |
 | ✅ | Access Sacramento Channel 18 | Local Gov/Public | `` |
 | ✅ | Access Tuolumne (Tuolumne County CA) | Local Gov/Public | `` |
@@ -706,12 +706,12 @@
 | ✅ | City TV Channels 3/41 (Chino Hills CA) | Other Services | `` |
 | ✅ | City TV San Diego (San Diego CA) | Other Services | `` |
 | ✅ | CNC TV (County News Center) (San Diego CA) | Other Services | `` |
-| ❌ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
+| ✅ | CNJN (Central New Jersey Network) (Princeton NJ) | Local Gov/Public | `` |
 | ❌ | CobbTV (Atlanta GA) | Other Services | `` |
 | ❌ | Collier Television CTV (Naples FL) | Local Gov/Public | `` |
-| ❌ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
-| ❌ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
-| ❌ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Education Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Government Channel (Concord CA) | Local Gov/Public | `` |
+| ✅ | Concord TV Public Channel (Concord CA) | Local Gov/Public | `` |
 | ✅ | Contra Costa College TV (Martinez CA) | Local Gov/Public | `` |
 | ❌ | Coral Gables Television (Coral Gables FL) | Other Services | `` |
 | ✅ | Costa Mesa's Municipal Access Channel CMTV 3 (Costa Mesa CA) | Other Services | `` |
@@ -725,8 +725,8 @@
 | ✅ | DCC (District Council Channel) | Other Services | `` |
 | ✅ | DCN (District of Columbia Network) | Other Services | `` |
 | ✅ | Denver 8 TV (Denver CO) | Other Services | `` |
-| ❌ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
-| ❌ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
+| ✅ | DerryTV 17 (Derry NH) | Local Gov/Public | `` |
+| ✅ | DerryTV 23 (Derry NH) | Local Gov/Public | `` |
 | ✅ | DKN (District Knowledge Network) | Other Services | `` |
 | ✅ | El Segundo Media (El Segundo CA) | Other Services | `` |
 | ❌ | Escambia County TV ECTV (Escambia County FL) | Other Services | `` |
@@ -778,9 +778,9 @@
 | ❌ | LNKTV City (Lincoln NE) | Local Gov/Public | `` |
 | ❌ | LNKTV Education (Lincoln NE) | Local Gov/Public | `` |
 | ❌ | LNKTV Health (Lincoln NE) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Gov/Public | `` |
-| ❌ | Lompoc TAP TV Channel 25 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 23 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 24 (Lompoc CA) | Local Gov/Public | `` |
+| ✅ | Lompoc TAP TV Channel 25 (Lompoc CA) | Local Gov/Public | `` |
 | ❌ | Long Beach Television (Long Beach CA) | Other Services | `` |
 | ✅ | Manatee Schools Television MSTV (Manatee County FL) | Local Gov/Public | `` |
 | ❌ | Marin TV Community Channel (San Rafael CA) | Other Services | `` |
@@ -804,12 +804,12 @@
 | ❌ | Morro Bay Channel 20 (Morro Bay CA) | Other Services | `` |
 | ✅ | MPLS-TV | Other Services | `` |
 | ❌ | Naperville Community Television (Naperville IL) | Local Gov/Public | `` |
-| ❌ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
-| ❌ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
+| ✅ | Nashua ETV Channel 22 (Nashua NH) | Local Gov/Public | `` |
+| ✅ | Nashua GTV Channel 16 (Nashua NH) | Local Gov/Public | `` |
 | ✅ | NECAT Network Access Nashville (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network IQTV Education (Nashville TN) | Other Services | `` |
 | ✅ | NECAT Network Music City Arts (Nashville TN) | Other Services | `` |
-| ❌ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Local Gov/Public | `` |
+| ✅ | New Canaan Television 79 (NCTV79) (New Canaan CT) | Local Gov/Public | `` |
 | ❌ | Newington Community Television Channel 14 (Newington CT) | Other Services | `` |
 | ❌ | Newington Community Television Channel 16 (Newington CT) | Other Services | `` |
 | ✅ | NOTV (New Orleans Television) | Independent Streams | `` |
@@ -821,7 +821,7 @@
 | ✅ | ONNJ (On New Jersey) | Backend: Amagi | `` |
 | ✅ | Ontario Public Access Channel (Ontario CA) | Other Services | `` |
 | ✅ | Orange TV (Orange County CA) | Other Services | `` |
-| ❌ | Pacific Coast TV HMB Coastside Channel 27 (Pacifica CA) | Local Gov/Public | `` |
+| ✅ | Pacific Coast TV HMB Coastside Channel 27 (Pacifica CA) | Local Gov/Public | `` |
 | ✅ | Pacific Coast TV MWSD Channel 26 (Pacifica CA) | Local Gov/Public | `` |
 | ❌ | Palm Beach County TV Channel 20 (Palm Beach County FL) | Other Services | `` |
 | ✅ | Palm Beaches TV | Other Services | `` |
