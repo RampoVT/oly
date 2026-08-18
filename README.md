@@ -1,35 +1,35 @@
-# 📺 Playlist Status Update: 2026-08-18 01:05
+# 📺 Playlist Status Update: 2026-08-18 02:54
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
-| ✅ | 24/7 BARBRA STREISAND | Other Services | `` |
+| ❌ | 24/7 BARBRA STREISAND | Other Services | `` |
 | ❌ | 24/7 Billy Joel | Other Services | `` |
-| ❌ | 24/7 Bruce Springsteen | Other Services | `` |
-| ❌ | 24/7 Chicago Band | Other Services | `` |
+| ✅ | 24/7 Bruce Springsteen | Other Services | `` |
+| ✅ | 24/7 Chicago Band | Other Services | `` |
 | ❌ | 24/7 Drake | Other Services | `` |
-| ✅ | 24/7 Elton John | Other Services | `` |
-| ❌ | 24/7 Elvis Presley | Other Services | `Elvis.Presley.Music.Channel.DUMMY.us` |
+| ❌ | 24/7 Elton John | Other Services | `` |
+| ✅ | 24/7 Elvis Presley | Other Services | `Elvis.Presley.Music.Channel.DUMMY.us` |
 | ❌ | 24/7 Eminem | Other Services | `` |
 | ✅ | 24/7 Garth Brooks Red Strokes | Other Services | `` |
 | ✅ | 24/7 Herb Alpert | Other Services | `` |
-| ✅ | 24/7 JANET JACKSON | Other Services | `` |
+| ❌ | 24/7 JANET JACKSON | Other Services | `` |
 | ✅ | 24/7 Madonna | Other Services | `` |
-| ❌ | 24/7 Mariah Carey | Other Services | `` |
+| ✅ | 24/7 Mariah Carey | Other Services | `` |
 | ❌ | 24/7 Michael Jackson | Other Services | `` |
 | ✅ | 24/7 Music 2024 | Other Services | `` |
-| ❌ | 24/7 Neil Diamond | Other Services | `` |
+| ✅ | 24/7 Neil Diamond | Other Services | `` |
 | ✅ | 24/7 Paul McCartney | Other Services | `` |
-| ✅ | 24/7 Prince | Other Services | `` |
+| ❌ | 24/7 Prince | Other Services | `` |
 | ✅ | 24/7 Rihanna | Other Services | `` |
-| ❌ | 24/7 Rod Stewart | Other Services | `` |
+| ✅ | 24/7 Rod Stewart | Other Services | `` |
 | ❌ | 24/7 ROLLING STONES | Other Services | `` |
 | ❌ | 24/7 ROLLING STONES GREATEST HITS | Other Services | `` |
 | ✅ | 24/7 Stevie Wonder | Other Services | `` |
 | ✅ | 24/7 Taylor Swift | Other Services | `` |
-| ✅ | 24/7 The Beatles | Other Services | `` |
-| ❌ | 24/7 The Supremes | Other Services | `` |
-| ❌ | 24/7 Usher | Other Services | `` |
-| ❌ | 24/7 Whitney Houston | Other Services | `` |
+| ❌ | 24/7 The Beatles | Other Services | `` |
+| ✅ | 24/7 The Supremes | Other Services | `` |
+| ✅ | 24/7 Usher | Other Services | `` |
+| ✅ | 24/7 Whitney Houston | Other Services | `` |
 | ✅ | ABC KABC | Other Services | `KABC-DT.us_locals1` |
 | ✅ | CBS KCAL | Other Services | `KCAL-TV.us` |
 | ✅ | CBS KCBS | Other Services | `KCBS-DT.us_locals1` |
@@ -62,7 +62,7 @@
 | ✅ | USA Bloomberg | Other Services | `Bloomberg.HD.us2` |
 | ✅ | USA C-SPAN | Other Services | `CSPAN.us2` |
 | ✅ | USA C-SPAN 2 | Other Services | `CSPAN.us2` |
-| ✅ | USA C-SPAN 3 | Other Services | `CSPAN.us2` |
+| ❌ | USA C-SPAN 3 | Other Services | `CSPAN.us2` |
 | ✅ | USA CBS News LHD | Other Services | `` |
 | ✅ | USA CBSN Bay Area | Other Services | `` |
 | ✅ | USA CBSN Boston | Other Services | `` |
@@ -70,7 +70,7 @@
 | ✅ | USA CBSN Denver | Other Services | `` |
 | ✅ | USA CBSN Los Angeles | Other Services | `` |
 | ❌ | USA CBSN Minnesota | Other Services | `` |
-| ✅ | USA CBSN New York | Other Services | `` |
+| ❌ | USA CBSN New York | Other Services | `` |
 | ❌ | USA CBSN Philly | Other Services | `` |
 | ✅ | USA CBSN Pittsburgh | Other Services | `` |
 | ✅ | USA CGTN (English) | Other Services | `` |
@@ -84,7 +84,7 @@
 | ✅ | USA CNBC World | Other Services | `CNBC.World.us2` |
 | ✅ | USA CNN (SHD) | Other Services | `` |
 | ✅ | USA CNN INTERNATIONAL | Other Services | `CNN.International.us2` |
-| ✅ | USA CNN LHD | Other Services | `` |
+| ❌ | USA CNN LHD | Other Services | `` |
 | ✅ | USA CNN UHD | Other Services | `` |
 | ✅ | USA FOX Business Network (SHD) | Other Services | `Fox.Business.HD.us2` |
 | ✅ | USA Fox Business UHD | Other Services | `Fox.Business.HD.us2` |
@@ -118,10 +118,10 @@
 | ✅ | USA NewsNation | Other Services | `NewsNation.us2` |
 | ✅ | USA Newsnation (SHD) | Other Services | `NewsNation.us2` |
 | ✅ | USA Newsy | Other Services | `Newsy.us2` |
-| ❌ | USA NHK World (KCET) | Other Services | `KCET-DT.us_locals1` |
-| ❌ | USA NHK World (WTVI) | Other Services | `WTVI-DT.us_locals1` |
+| ✅ | USA NHK World (KCET) | Other Services | `KCET-DT.us_locals1` |
+| ✅ | USA NHK World (WTVI) | Other Services | `WTVI-DT.us_locals1` |
 | ✅ | USA One American News UHD | Other Services | `` |
-| ✅ | USA Spectrum Bay News 9 (SHD) | Other Services | `Spectrum.Bay.News.9.Tampa.us2` |
+| ❌ | USA Spectrum Bay News 9 (SHD) | Other Services | `Spectrum.Bay.News.9.Tampa.us2` |
 | ✅ | USA Spectrum News 1 Albany (SHD) | Other Services | `Spectrum.News.-.Albany.Capital.Region.STVA.us2` |
 | ✅ | USA Spectrum News 1 New York | Other Services | `Spectrum.News.-.(New.York).Rochester.STVA.us2` |
 | ✅ | USA Spectrum News NY1 (SHD) | Other Services | `Spectrum.News.-.NY1.-.STVA.us2` |
@@ -230,7 +230,7 @@
 | ✅ | NC | Raleigh | ABC WTVD | Other Services | `WTVD-DT.us_locals1` |
 | ✅ | ND | Bismarck | ABC KFYR-DT2 | Other Services | `KFYR-DT2.us_locals1` |
 | ✅ | ND | Minot | ABC 17 KBMY | Other Services | `KBMY-DT.us_locals1` |
-| ✅ | NE | Kearney | ABC KHGI | Other Services | `KHGI-CD.us_locals1` |
+| ❌ | NE | Kearney | ABC KHGI | Other Services | `KHGI-CD.us_locals1` |
 | ✅ | NE | Lincoln | ABC KLKN | Other Services | `KLKN-DT.us_locals1` |
 | ❌ | NE | OMAHA | USA ABC 13 KMTV | Other Services | `KMTV-DT.us_locals1` |
 | ✅ | NH | Manchester | ABC 9 WMUR | Other Services | `WMUR-DT.us_locals1` |
@@ -249,19 +249,19 @@
 | ✅ | NY | Utica | ABC WUTR | Other Services | `WUTR-DT.us_locals1` |
 | ✅ | OH | Bowling Green | ABC 13 WBKO | Other Services | `WBKO-DT.us_locals1` |
 | ✅ | OH | CINCINNATI | USA ABC 9 WCPO | Other Services | `WCPO-DT.us_locals1` |
-| ❌ | OH | Cleveland | ABC 5 WEWS | Other Services | `WEWS-DT.us_locals1` |
+| ✅ | OH | Cleveland | ABC 5 WEWS | Other Services | `WEWS-DT.us_locals1` |
 | ✅ | OH | Columbus | ABC 6 WSYX | Other Services | `WSYX-DT2.us_locals1` |
 | ✅ | OH | Columbus | ABC 6 WSYX | Other Services | `WSYX-DT2.us_locals1` |
 | ✅ | OH | DAYTON | USA ABC22 WKEF | Other Services | `WKEF-DT2.us_locals1` |
 | ✅ | OH | Toledo | ABC 13 WTVG | Other Services | `WTVG-DT.us_locals1` |
-| ❌ | OK | Lawton | ABC KSWO | Other Services | `KSWO-DT.us_locals1` |
+| ✅ | OK | Lawton | ABC KSWO | Other Services | `KSWO-DT.us_locals1` |
 | ✅ | OK | Oklahoma City | ABC 5 KOCO | Other Services | `KOCO-DT.us_locals1` |
 | ✅ | OK | Tulsa | ABC 8 KTUL | Other Services | `KTUL-DT2.us_locals1` |
 | ✅ | OR | Bend | ABC KOHD | Other Services | `KOHD-DT.us_locals1` |
 | ✅ | OR | Eugene | ABC 9 KEZI | Other Services | `KEZI-DT.us_locals1` |
 | ✅ | PA | ERIE | ABC 24 WJET | Other Services | `WJET-DT.us_locals1` |
-| ✅ | PA | Harrisburg | ABC 27 WHTM | Other Services | `WHTM-DT.us_locals1` |
-| ❌ | PA | Pittsburgh | ABC WTAE | Other Services | `WTAE-DT.us_locals1` |
+| ❌ | PA | Harrisburg | ABC 27 WHTM | Other Services | `WHTM-DT.us_locals1` |
+| ✅ | PA | Pittsburgh | ABC WTAE | Other Services | `WTAE-DT.us_locals1` |
 | ✅ | PA | Philadelphia | ABC WPVI | Other Services | `WPVI-DT.us_locals1` |
 | ✅ | PA | Scranton | ABC 16 WNEP | Other Services | `WNEP-DT.us_locals1` |
 | ✅ | RI | Providence |  ABC 6 WLNE | Other Services | `WLNE-DT.us_locals1` |
@@ -287,7 +287,7 @@
 | ✅ | TX | Midland | ABC 2 KMID | Other Services | `KMID-DT.us_locals1` |
 | ✅ | TX | San Angelo | ABC 12 KTXE | Other Services | `KTXE-LD.us_locals1` |
 | ✅ | TX | Sweetwater | ABC 12 KTXS | Other Services | `KTXS-DT.us_locals1` |
-| ❌ | TX | Victoria | ABC 25 KAVU | Other Services | `KAVU-DT.us_locals1` |
+| ✅ | TX | Victoria | ABC 25 KAVU | Other Services | `KAVU-DT.us_locals1` |
 | ✅ | TX | Weslaco | ABC 5 KRGV | Other Services | `KRGV-DT.us_locals1` |
 | ✅ | UT | Salt Lake City | ABC KTVX | Other Services | `KTVX-DT.us_locals1` |
 | ✅ | VA | HAMPTON ROADS | ABC 13 WVEC | Other Services | `WVEC-DT.us_locals1` |
@@ -299,10 +299,10 @@
 | ✅ | WA | Seattle | ABC 4 KOMO | Other Services | `KOMO-DT.us_locals1` |
 | ✅ | WA | Spokane | ABC 4 KXLY | Other Services | `KXLY-DT.us_locals1` |
 | ✅ | WA | Yakima | ABC 42 KVEW | Other Services | `KVEW-DT.us_locals1` |
-| ❌ | Washington DC | ABC 7  WJLA | Other Services | `WJLA-DT.us_locals1` |
+| ✅ | Washington DC | ABC 7  WJLA | Other Services | `WJLA-DT.us_locals1` |
 | ✅ | WI | Green Bay | ABC 2 WBAY | Other Services | `WBAY-DT.us_locals1` |
 | ✅ | WI | MADISON | ABC 27 WKOW | Other Services | `WKOW-DT.us_locals1` |
-| ❌ | WI | Milwaukee | ABC WISN | Other Services | `WISN-DT.us_locals1` |
+| ✅ | WI | Milwaukee | ABC WISN | Other Services | `WISN-DT.us_locals1` |
 | ✅ | WI | Wausau | ABC 9 WAOW | Other Services | `WAOW-DT.us_locals1` |
 | ✅ | WV | Clarksburg | ABC WBOY | Other Services | `WBOY-DT.us_locals1` |
 | ✅ | WV | Huntington | ABC WCHS | Other Services | `WCHS-DT2.us_locals1` |
@@ -311,7 +311,7 @@
 | ❌ | AK | Juneau | CBS 26 KYEX | Other Services | `KYEX-LD.us_locals1` |
 | ✅ | AL | Birmingham | CBS 42 WIAT | Other Services | `WIAT-DT.us_locals1` |
 | ✅ | AL | Huntsville | CBS 19 WHNT | Other Services | `WHNT-DT.us_locals1` |
-| ❌ | AL | Mobile | CBS WKRG | Other Services | `WKRG-DT.us_locals1` |
+| ✅ | AL | Mobile | CBS WKRG | Other Services | `WKRG-DT.us_locals1` |
 | ✅ | AL | Selma | CBS 8 WAKA | Other Services | `WAKA-DT.us_locals1` |
 | ✅ | AL | Selma | CBS WAKA | Other Services | `WAKA-DT.us_locals1` |
 | ✅ | AR | Little Rock | CBS KTHV | Other Services | `KTHV-DT.us_locals1` |
@@ -330,25 +330,25 @@
 | ✅ | CO | Colorado Springs | CBS KKTV | Other Services | `KKTV-DT.us_locals1` |
 | ✅ | CO | Denver | CBS 4 KCNC | Other Services | `KCNC-DT.us_locals1` |
 | ✅ | CO | Denver | CBS KCNC | Other Services | `KCNC-DT.us_locals1` |
-| ✅ | CO | Grand Junction | CBS 5 KREX | Other Services | `KREX-DT.us_locals1` |
+| ❌ | CO | Grand Junction | CBS 5 KREX | Other Services | `KREX-DT.us_locals1` |
 | ✅ | CT | Hartford | CBS WFSB | Other Services | `WFSB-DT.us_locals1` |
 | ✅ | CT | Hartford | CBS 3 WFSB | Other Services | `WFSB-DT.us_locals1` |
 | ✅ | FL | Fort Myers | CBS WINK | Other Services | `WINK-DT.us_locals1` |
 | ✅ | FL | Gainesville | CBS 4 WGFL | Other Services | `WGFL-DT3.us_locals1` |
-| ❌ | FL | Jacksonville | CBS WJAX | Other Services | `WJAX-DT.us_locals1` |
+| ✅ | FL | Jacksonville | CBS WJAX | Other Services | `WJAX-DT.us_locals1` |
 | ✅ | FL | Miami | CBS UHD WFOR | Other Services | `WFOR-DT.us_locals1` |
 | ✅ | FL | Miami | CBS WFOR | Other Services | `WFOR-DT.us_locals1` |
 | ✅ | FL | Orlando | CBS WKMG | Other Services | `WKMG-DT.us_locals1` |
 | ✅ | FL | Panama City | CBS 18 WECP | Other Services | `WECP-LD.us_locals1` |
-| ❌ | FL | Tallahassee | CBS 6 WCTV | Other Services | `WCTV-DT.us_locals1` |
-| ✅ | FL | Tampa | CBS 10  WTSP | Other Services | `WTSP-DT.us_locals1` |
+| ✅ | FL | Tallahassee | CBS 6 WCTV | Other Services | `WCTV-DT.us_locals1` |
+| ❌ | FL | Tampa | CBS 10  WTSP | Other Services | `WTSP-DT.us_locals1` |
 | ✅ | FL | West Palm Beach | CBS WPEC | Other Services | `CBS.West.us2` |
 | ✅ | GA | Macon | CBS 13 WMAZ | Other Services | `WMAZ-DT.us_locals1` |
 | ✅ | GA | Atlanta  | CBS WGCL | Other Services | `` |
 | ✅ | GA | Augusta | CBS WRDW | Other Services | `WRDW-DT.us_locals1` |
 | ✅ | GA | Columbus | CBS 3 WRBL | Other Services | `WRBL-DT.us_locals1` |
 | ✅ | GA | Savannah | CBS WTOC | Other Services | `WTOC-DT.us_locals1` |
-| ❌ | GA | Thomasville | CBS WCTV | Other Services | `WCTV-DT.us_locals1` |
+| ✅ | GA | Thomasville | CBS WCTV | Other Services | `WCTV-DT.us_locals1` |
 | ✅ | GA | Valdosta |  CBS 44 WSWG | Other Services | `WSWG-DT.us_locals1` |
 | ✅ | HI | Honolulu | CBS KGMB | Other Services | `KGMB-DT.us_locals1` |
 | ✅ | IA | Cedar Rapids | CBS 2 KGAN | Other Services | `KGAN-DT2.us_locals1` |
@@ -361,21 +361,21 @@
 | ✅ | IL | Harrisburg | CBS 12 KFVS | Other Services | `KFVS-DT.us_locals1` |
 | ✅ | IL | Peoria | CBS WMBD | Other Services | `WMBD-DT.us_locals1` |
 | ✅ | IN | Evansville | CBS WEVV | Other Services | `WEVV-DT2.us_locals1` |
-| ❌ | IN | Fort Wayne | CBS WANE | Other Services | `WANE-DT.us_locals1` |
+| ✅ | IN | Fort Wayne | CBS WANE | Other Services | `WANE-DT.us_locals1` |
 | ✅ | IN | Indianapolis | CBS WTTV | Other Services | `WTTV-DT.us_locals1` |
 | ✅ | IN | South Bend | CBS 22 WSBT | Other Services | `WSBT-DT2.us_locals1` |
-| ❌ | KS | Hutchinson | CBS KWCH | Other Services | `KWCH-DT.us_locals1` |
-| ❌ | KS | Topeka | CBS 13 WIBW | Other Services | `WIBW-DT.us_locals1` |
+| ✅ | KS | Hutchinson | CBS KWCH | Other Services | `KWCH-DT.us_locals1` |
+| ✅ | KS | Topeka | CBS 13 WIBW | Other Services | `WIBW-DT.us_locals1` |
 | ✅ | KY | Hazard | WYMT | Other Services | `WYMT-DT.us_locals1` |
 | ✅ | KY | Lexington | CBS WKYT | Other Services | `WKYT-DT.us_locals1` |
-| ❌ | KY | Louisville | CBS 32 WLKY | Other Services | `WLKY-DT.us_locals1` |
+| ✅ | KY | Louisville | CBS 32 WLKY | Other Services | `WLKY-DT.us_locals1` |
 | ✅ | KY | Louisville | CBS WLKY | Other Services | `WLKY-DT.us_locals1` |
 | ✅ | LA | NEW ORLEANS | CBS 4 WWL | Other Services | `` |
 | ✅ | LA | Alexandria | CBS 5 KALB | Other Services | `KALB-DT2.us_locals1` |
-| ✅ | LA | Baton Rouge | CBS 9 WAFB | Other Services | `WAFB-DT.us_locals1` |
+| ❌ | LA | Baton Rouge | CBS 9 WAFB | Other Services | `WAFB-DT.us_locals1` |
 | ✅ | LA | Baton Rouge | CBS WAFB | Other Services | `WAFB-DT.us_locals1` |
 | ✅ | LA | Lafayette | CBS KLFY | Other Services | `KLFY-DT.us_locals1` |
-| ❌ | LA | New Orleans | CBS WWL | Other Services | `` |
+| ✅ | LA | New Orleans | CBS WWL | Other Services | `` |
 | ✅ | LA | Shreveport | CBS KSLA | Other Services | `KSLA-DT.us_locals1` |
 | ✅ | MA | Boston | CBS 4 WBZ | Other Services | `` |
 | ✅ | MD | Baltimore | CBS WJZ | Other Services | `` |
@@ -384,29 +384,29 @@
 | ✅ | MI | Bay City | CBS WNEM | Other Services | `WNEM-DT.us_locals1` |
 | ✅ | MI | Cadillac | CBS 9 WWTV | Other Services | `WWTV-DT2.us_locals1` |
 | ✅ | MI | Detroit | CBS WWJ | Other Services | `` |
-| ❌ | MI | Detroit CBS 62 (WWJ) | Other Services | `` |
+| ✅ | MI | Detroit CBS 62 (WWJ) | Other Services | `` |
 | ✅ | MI | Grand Rapids | CBS 3 WWMT | Other Services | `WWMT-DT.us_locals1` |
 | ✅ | MI | Kalamazoo | CBS 3 WWMT | Other Services | `WWMT-DT.us_locals1` |
 | ✅ | MI | Lansing | CBS 6 WLNS | Other Services | `WLNS-DT.us_locals1` |
 | ✅ | MI | Lansing | CBS WLNS | Other Services | `WLNS-DT.us_locals1` |
 | ✅ | MN | Austin | CBS 3 KIMT | Other Services | `KIMT-DT.us_locals1` |
 | ✅ | MN | Duluth | CBS 6 KBJR | Other Services | `KBJR-DT.us_locals1` |
-| ✅ | MN | Minneapolis | CBS WCCO | Other Services | `WCCO-DT.us_locals1` |
-| ❌ | MO | Cape Girardeau | CBS KFVS | Other Services | `KFVS-DT.us_locals1` |
+| ❌ | MN | Minneapolis | CBS WCCO | Other Services | `WCCO-DT.us_locals1` |
+| ✅ | MO | Cape Girardeau | CBS KFVS | Other Services | `KFVS-DT.us_locals1` |
 | ✅ | MO | Jefferson City | CBS 13 KRCG | Other Services | `KRCG-DT.us_locals1` |
-| ✅ | MO | Kansas City | CBS  KCTV | Other Services | `KCTV-DT.us_locals1` |
+| ❌ | MO | Kansas City | CBS  KCTV | Other Services | `KCTV-DT.us_locals1` |
 | ✅ | MO | Kirksville | CBS 3 KTVO | Other Services | `KTVO-DT.us_locals1` |
 | ✅ | MO | Springfield | CBS 3 WSHM | Other Services | `WSHM-LD.us_locals1` |
 | ✅ | MO | Springfield | CBS KOLR | Other Services | `KOLR-DT.us_locals1` |
-| ✅ | MO | St. Louis | CBS KMOV | Other Services | `KMOV-DT.us_locals1` |
+| ❌ | MO | St. Louis | CBS KMOV | Other Services | `KMOV-DT.us_locals1` |
 | ✅ | MS | Columbus | CBS WCBI | Other Services | `WCBI-DT.us_locals1` |
 | ❌ | MS | Greenwood | CBS WMAO | Other Services | `WMAO-DT.us_locals1` |
 | ✅ | MS | Gulfport | CBS 13 WLOX | Other Services | `WLOX-DT2.us_locals1` |
 | ✅ | MS | Jackson | CBS WJTV | Other Services | `WJTV-DT.us_locals1` |
 | ✅ | MS | Meridian | CBS 24 WMDN | Other Services | `WMDN-DT.us_locals1` |
 | ✅ | MT | Billings | CBS 2 KTVQ | Other Services | `KTVQ-DT.us_locals1` |
-| ✅ | MT | Great Falls | CBS 3  KRTV | Other Services | `KRTV-DT.us_locals1` |
-| ✅ | NC | Charlotte | CBS WBTV | Other Services | `WBTV-DT.us_locals1` |
+| ❌ | MT | Great Falls | CBS 3  KRTV | Other Services | `KRTV-DT.us_locals1` |
+| ❌ | NC | Charlotte | CBS WBTV | Other Services | `WBTV-DT.us_locals1` |
 | ✅ | NC | Goldsboro | CBS WNCN | Other Services | `WNCN-DT.us_locals1` |
 | ✅ | NC | Greensboro | CBS 2 WFMY | Other Services | `WFMY-DT.us_locals1` |
 | ✅ | NC | Greenville | CBS WNCT | Other Services | `WNCT-DT.us_locals1` |
@@ -416,11 +416,11 @@
 | ❌ | ND | Minot | CBS 13 KXMC | Other Services | `KXMC-DT.us_locals1` |
 | ✅ | NE | Lincoln | CBS KOLN | Other Services | `KOLN-DT.us_locals1` |
 | ✅ | NE | Omaha | CBS KMTV | Other Services | `KMTV-DT.us_locals1` |
-| ❌ | NE | Omaha | CBS KMTV | Other Services | `KMTV-DT.us_locals1` |
+| ✅ | NE | Omaha | CBS KMTV | Other Services | `KMTV-DT.us_locals1` |
 | ✅ | NM | Albuquerque | CBS 13 KRQE | Other Services | `KRQE-DT2.us_locals1` |
 | ✅ | NV | Las Vegas | CBS KLAS | Other Services | `KLAS-DT.us_locals1` |
 | ✅ | NV | Reno | CBS KTVN | Other Services | `KTVN-DT.us_locals1` |
-| ✅ | NY | Buffalo | CBS 4 WIVB | Other Services | `WIVB-DT.us_locals1` |
+| ❌ | NY | Buffalo | CBS 4 WIVB | Other Services | `WIVB-DT.us_locals1` |
 | ✅ | NY | Buffalo | CBS WIVB | Other Services | `WIVB-DT.us_locals1` |
 | ✅ | NY | New York | CBS  WCBS | Other Services | `WCBS-DT.us_locals1` |
 | ✅ | NY | New York | CBS WCBS | Other Services | `WCBS-DT.us_locals1` |
@@ -428,86 +428,86 @@
 | ✅ | NY | Rochester | CBS WROC | Other Services | `WROC-DT.us_locals1` |
 | ✅ | NY | Schenectady | CBS WRGB | Other Services | `WRGB-DT.us_locals1` |
 | ✅ | NY | Syracuse | CBS 5 WTVH | Other Services | `WTVH-DT.us_locals1` |
-| ❌ | NY | Utica | CBS WKTV2 | Other Services | `` |
-| ❌ | OH | Cincinnati | CBS WKRC | Other Services | `WKRC-DT.us_locals1` |
-| ✅ | OH | Cleveland | CBS 19 WOIO | Other Services | `WOIO-DT.us_locals1` |
+| ✅ | NY | Utica | CBS WKTV2 | Other Services | `` |
+| ✅ | OH | Cincinnati | CBS WKRC | Other Services | `WKRC-DT.us_locals1` |
+| ❌ | OH | Cleveland | CBS 19 WOIO | Other Services | `WOIO-DT.us_locals1` |
 | ✅ | OH | Columbus | CBS 10 WBNS | Other Services | `WBNS-DT.us_locals1` |
 | ✅ | OH | Dayton | CBS 7 WHIO | Other Services | `WHIO-DT.us_locals1` |
 | ✅ | OH | Dayton | CBS WHIO | Other Services | `WHIO-DT.us_locals1` |
 | ✅ | OH | Toledo | CBS WTOL | Other Services | `WTOL-DT.us_locals1` |
 | ✅ | OH | Youngstown | CBS WKBN | Other Services | `WKBN-DT.us_locals1` |
-| ❌ | OK | Oklahoma City | CBS 9 KWTV | Other Services | `KWTV-DT.us_locals1` |
+| ✅ | OK | Oklahoma City | CBS 9 KWTV | Other Services | `KWTV-DT.us_locals1` |
 | ✅ | OK | Tulsa | CBS 6 KOTV | Other Services | `KOTV-DT.us_locals1` |
 | ✅ | OR | Bend | CBS 7 KBNZ | Other Services | `KBNZ-LD.us_locals1` |
 | ✅ | OR | Eugene | CBS KVAL | Other Services | `KVAL-DT.us_locals1` |
 | ✅ | OR | Portland | CBS KOIN | Other Services | `KOIN-DT.us_locals1` |
 | ✅ | PA | Altoona | CBS WTAJ | Other Services | `WTAJ-DT.us_locals1` |
-| ❌ | PA | ERIE | CBS 35 WSEE | Other Services | `WSEE-DT.us_locals1` |
+| ✅ | PA | ERIE | CBS 35 WSEE | Other Services | `WSEE-DT.us_locals1` |
 | ✅ | PA | Harrisburg | CBS WHP | Other Services | `` |
-| ❌ | PA | Philadelphia | CBS 3 KYW | Other Services | `` |
+| ✅ | PA | Philadelphia | CBS 3 KYW | Other Services | `` |
 | ✅ | PA | Pittsburgh | CBS  KDKA | Other Services | `KDKA-DT.us_locals1` |
 | ✅ | PA | Wilkes-Barre | CBS WYOU | Other Services | `WYOU-DT.us_locals1` |
 | ✅ | RI | Providence | CBS WPRI | Other Services | `WPRI-DT2.us_locals1` |
 | ✅ | SC | Charleston | CBS WCSC | Other Services | `WCSC-DT.us_locals1` |
 | ✅ | SC | Columbia | CBS 19  WLTX | Other Services | `WLTX-DT.us_locals1` |
-| ❌ | SC | Myrtle Beach | CBS 13 WBTW | Other Services | `WBTW-DT.us_locals1` |
+| ✅ | SC | Myrtle Beach | CBS 13 WBTW | Other Services | `WBTW-DT.us_locals1` |
 | ✅ | SC | Spartanburg | CBS WSPA | Other Services | `WSPA-DT.us_locals1` |
 | ✅ | SD | Sioux Falls | CBS KELO | Other Services | `KELO-DT.us_locals1` |
-| ✅ | TN | Nashville | CBS WTVF | Other Services | `WTVF-DT.us_locals1` |
+| ❌ | TN | Nashville | CBS WTVF | Other Services | `WTVF-DT.us_locals1` |
 | ✅ | TN | Chattanooga CBS 12 WDEF | Other Services | `WDEF-DT.us_locals1` |
 | ✅ | TN | Chattanooga | CBS WDEF | Other Services | `WDEF-DT.us_locals1` |
-| ✅ | TN | Knoxville | CBS WVLT | Other Services | `WVLT-DT.us_locals1` |
+| ❌ | TN | Knoxville | CBS WVLT | Other Services | `WVLT-DT.us_locals1` |
 | ✅ | TN | Memphis | CBS 3 WREG | Other Services | `WREG-DT.us_locals1` |
 | ✅ | TN-VA | Tri-Cities | CBS WJHL | Other Services | `WJHL-DT2.us_locals1` |
 | ✅ | TX | Dallas | CBS KTVT | Other Services | `KTVT-DT.us_locals1` |
 | ✅ | TX | Austin | CBS 42 KEYE | Other Services | `KEYE-DT.us_locals1` |
 | ✅ | TX | Beaumont | CBS 6 KFDM | Other Services | `KFDM-DT.us_locals1` |
-| ❌ | TX | Bryan | CBS 3 KBTX | Other Services | `KBTX-DT.us_locals1` |
-| ✅ | TX | Bryan | CBS KWTX | Other Services | `KWTX-DT.us_locals1` |
-| ✅ | TX | Corpus Christi | CBS KZTV | Other Services | `KZTV-DT.us_locals1` |
+| ✅ | TX | Bryan | CBS 3 KBTX | Other Services | `KBTX-DT.us_locals1` |
+| ❌ | TX | Bryan | CBS KWTX | Other Services | `KWTX-DT.us_locals1` |
+| ❌ | TX | Corpus Christi | CBS KZTV | Other Services | `KZTV-DT.us_locals1` |
 | ✅ | TX | El Paso | CBS 4 KDBC | Other Services | `KDBC-DT.us_locals1` |
-| ✅ | TX | Fort Worth | CBS KTXA | Other Services | `KTXA-DT.us_locals1` |
+| ❌ | TX | Fort Worth | CBS KTXA | Other Services | `KTXA-DT.us_locals1` |
 | ✅ | TX | Harlingen | CBS KGBT | Other Services | `KGBT-DT.us_locals1` |
 | ✅ | TX | Houston | CBS 11 KHOU | Other Services | `KHOU-DT.us_locals1` |
 | ✅ | TX | Lubbock | CBS 13  KLBK | Other Services | `KLBK-DT.us_locals1` |
 | ✅ | TX | Midland | CBS 7 KOSA | Other Services | `KOSA-DT.us_locals1` |
-| ❌ | TX | Nacogdoches | CBS KYTX | Other Services | `KYTX-DT.us_locals1` |
+| ✅ | TX | Nacogdoches | CBS KYTX | Other Services | `KYTX-DT.us_locals1` |
 | ✅ | TX | San Angelo | CBS KLST | Other Services | `KLST-DT.us_locals1` |
 | ✅ | TX | San Antonio | CBS KENS | Other Services | `KENS-DT.us_locals1` |
 | ✅ | TX | Sweetwater | CBS 32 KTAB | Other Services | `KTAB-DT.us_locals1` |
 | ✅ | TX | Tyler | CBS 19 KYTX | Other Services | `KYTX-DT.us_locals1` |
 | ❌ | TX | Victoria | CBS KXTS | Other Services | `KXTS-LD.us_locals1` |
-| ❌ | TX | Waco | CBS KWTX | Other Services | `` |
-| ❌ | TX | Wichita Falls | CBS 6 KAUZ | Other Services | `KAUZ-DT.us_locals1` |
+| ✅ | TX | Waco | CBS KWTX | Other Services | `` |
+| ✅ | TX | Wichita Falls | CBS 6 KAUZ | Other Services | `KAUZ-DT.us_locals1` |
 | ✅ | UT | Salt Lake City | CBS KUTV | Other Services | `KUTV-DT.us_locals1` |
 | ✅ | VA | HAMPTON ROADS | CBS 3 WTKR | Other Services | `WTKR-DT.us_locals1` |
-| ❌ | VA | Luray | CBS 9 WUSA | Other Services | `WUSA-DT.us_locals1` |
+| ✅ | VA | Luray | CBS 9 WUSA | Other Services | `WUSA-DT.us_locals1` |
 | ✅ | VA | Lynchburg | CBS 7 | Other Services | `` |
 | ✅ | VA | Roanoke | CBS WDBJ | Other Services | `WDBJ-DT.us_locals1` |
 | ✅ | VT | Burlington | CBS WCAX | Other Services | `WCAX-DT.us_locals1` |
 | ✅ | WA | Seattle | CBS  7 KIRO | Other Services | `KIRO-DT.us_locals1` |
 | ✅ | WA | Spokane | CBS KREM | Other Services | `KREM-DT.us_locals1` |
 | ✅ | WA | Yakima | CBS KIMA | Other Services | `KIMA-DT3.us_locals1` |
-| ❌ | Washington DC | CBS WUSA | Other Services | `WUSA-DT.us_locals1` |
+| ✅ | Washington DC | CBS WUSA | Other Services | `WUSA-DT.us_locals1` |
 | ✅ | WI | Green Bay | CBS 5 WFRV | Other Services | `WFRV-DT.us_locals1` |
-| ❌ | WI | La Crosse | CBS WKBT | Other Services | `WKBT-DT.us_locals1` |
+| ✅ | WI | La Crosse | CBS WKBT | Other Services | `WKBT-DT.us_locals1` |
 | ✅ | WI | Madison | CBS WISC | Other Services | `WISC-DT.us_locals1` |
 | ✅ | WI | Milwaukee | CBS WDJT | Other Services | `WDJT-DT.us_locals1` |
 | ✅ | WI | Wausau | CBS 7 WSAW | Other Services | `WSAW-DT.us_locals1` |
 | ✅ | WV | Clarksburg | CBS 5 WDTV | Other Services | `WDTV-DT.us_locals1` |
 | ✅ | WV | Huntington | CBS 13 WOWK | Other Services | `WOWK-DT.us_locals1` |
-| ❌ | WY | Casper | CBS 14 KGWC | Other Services | `KGWC-DT.us_locals1` |
+| ✅ | WY | Casper | CBS 14 KGWC | Other Services | `KGWC-DT.us_locals1` |
 | ✅ | WY | Cheyenne | CBS 5 KGWN | Other Services | `KGWN-DT.us_locals1` |
-| ✅ | WY | Laramie | CBS KXJB | Other Services | `KXJB-LD.us_locals1` |
-| ❌ | WI | MADISON | CBS WISC | Other Services | `WISC-DT.us_locals1` |
-| ❌ | AK | Anchorage | FOX 4 KTBY | Other Services | `KTBY-DT.us_locals1` |
-| ❌ | AK | Juneau | Fox KJUD | Other Services | `KJUD-DT.us_locals1` |
+| ❌ | WY | Laramie | CBS KXJB | Other Services | `KXJB-LD.us_locals1` |
+| ✅ | WI | MADISON | CBS WISC | Other Services | `WISC-DT.us_locals1` |
+| ✅ | AK | Anchorage | FOX 4 KTBY | Other Services | `KTBY-DT.us_locals1` |
+| ✅ | AK | Juneau | Fox KJUD | Other Services | `KJUD-DT.us_locals1` |
 | ✅ | AL | Birmingham | FOX 6 WBRC | Other Services | `WBRC-DT.us_locals1` |
 | ✅ | AL | Huntsville | FOX 54 WZDX | Other Services | `WZDX-DT.us_locals1` |
 | ✅ | AL | Mobile | FOX WALA | Other Services | `WALA-DT.us_locals1` |
 | ✅ | AL | Montgomery | FOX 20 WCOV | Other Services | `WCOV-DT.us_locals1` |
 | ✅ | AR | Fayetteville | FOX KFTA | Other Services | `KFTA-DT.us_locals1` |
-| ❌ | AR | Little Rock | FOX KLRT | Other Services | `KLRT-DT.us_locals1` |
+| ✅ | AR | Little Rock | FOX KLRT | Other Services | `KLRT-DT.us_locals1` |
 | ✅ | AZ | Phoenix | FOX 10 Xtra KUTP | Other Services | `KUTP-DT.us_locals1` |
 | ✅ | AZ | Phoenix | FOX KSAZ | Other Services | `KSAZ-DT.us_locals1` |
 | ✅ | AZ | Tucson | FOX KMSB | Other Services | `KMSB-DT.us_locals1` |
@@ -545,7 +545,7 @@
 | ✅ | GA | Columbus | FOX WXTX | Other Services | `WXTX-DT.us_locals1` |
 | ✅ | GA | Macon | FOX WGXA | Other Services | `WGXA-DT2.us_locals1` |
 | ✅ | GA | Savannah | FOX WTGS | Other Services | `WTGS-DT.us_locals1` |
-| ❌ | HI | Honolulu | FOX KHON | Other Services | `KHON-DT2.us_locals1` |
+| ✅ | HI | Honolulu | FOX KHON | Other Services | `KHON-DT2.us_locals1` |
 | ❌ | IA | Cedar Rapids | FOX KFXA | Other Services | `KFXA-DT.us_locals1` |
 | ✅ | IA | Davenport | FOX KLJB | Other Services | `KLJB-DT.us_locals1` |
 | ✅ | IA | Des Moines | FOX 17 KDSM | Other Services | `KDSM-DT.us_locals1` |
@@ -553,25 +553,25 @@
 | ✅ | ID | Caldwell | FOX KNIN | Other Services | `KNIN-DT.us_locals1` |
 | ✅ | ID | Idaho Falls–Pocatello  | FOX 5 KXPI | Other Services | `KXPI-LD2.us_locals1` |
 | ✅ | IL | Bloomington | FOX WYZZ | Other Services | `WYZZ-DT.us_locals1` |
-| ❌ | IL | Chicago | FOX WFLD | Other Services | `WFLD-DT.us_locals1` |
+| ✅ | IL | Chicago | FOX WFLD | Other Services | `WFLD-DT.us_locals1` |
 | ❌ | IL | Harrisburg | FOX 23 KBSI | Other Services | `KBSI-DT.us_locals1` |
 | ❌ | IN | Fort Wayne | FOX WFFT | Other Services | `WFFT-DT.us_locals1` |
 | ✅ | IN | Indianapolis | FOX WXIN | Other Services | `WXIN-DT.us_locals1` |
 | ✅ | KS | Wichita | FOX 24 KSAS | Other Services | `KSAS-DT.us_locals1` |
 | ✅ | KY | Lexington | FOX 56 WDKY | Other Services | `WDKY-DT.us_locals1` |
-| ❌ | KY | Louisville | FOX WDRB | Other Services | `WDRB-DT.us_locals1` |
+| ✅ | KY | Louisville | FOX WDRB | Other Services | `WDRB-DT.us_locals1` |
 | ✅ | KY | Louisville | FOX WDRB | Other Services | `WDRB-DT.us_locals1` |
 | ✅ | KY | Newport | FOX WXIX | Other Services | `WXIX-DT.us_locals1` |
 | ✅ | LA | Alexandria | FOX 48 WNTZ | Other Services | `WNTZ-DT.us_locals1` |
-| ❌ | LA | Baton Rouge | FOX WGMB | Other Services | `WGMB-DT.us_locals1` |
+| ✅ | LA | Baton Rouge | FOX WGMB | Other Services | `WGMB-DT.us_locals1` |
 | ✅ | LA | Baton Rouge | FOX WGMB | Other Services | `WGMB-DT.us_locals1` |
 | ✅ | LA | Lafayette | FOX 13 KADN | Other Services | `KADN-DT.us_locals1` |
 | ✅ | LA | New Orleans | | WVUE | Other Services | `WVUE-DT3.us_locals1` |
-| ❌ | LA | Shreveport | FOX KMSS | Other Services | `KMSS-DT.us_locals1` |
+| ✅ | LA | Shreveport | FOX KMSS | Other Services | `KMSS-DT.us_locals1` |
 | ✅ | MA | Boston | FOX WFXT | Other Services | `WFXT-DT.us_locals1` |
-| ❌ | MA | Springfield | FOX WGGB | Other Services | `WGGB-DT2.us_locals1` |
+| ✅ | MA | Springfield | FOX WGGB | Other Services | `WGGB-DT2.us_locals1` |
 | ✅ | MD | Baltimore | FOX 45 WBFF | Other Services | `WBFF-DT.us_locals1` |
-| ❌ | MD | Salisbury | Fox WBOC | Other Services | `WBOC-DT.us_locals1` |
+| ✅ | MD | Salisbury | Fox WBOC | Other Services | `WBOC-DT.us_locals1` |
 | ❌ | MI | Cadillac | FOX 32 WFQX | Other Services | `WFQX-DT.us_locals1` |
 | ✅ | MI | Detroit | FOX WJBK | Other Services | `WJBK-DT.us_locals1` |
 | ✅ | MI | Flint | FOX 66 WSMH | Other Services | `WSMH-DT2.us_locals1` |
@@ -585,17 +585,17 @@
 | ✅ | MO | Kansas City | FOX WDAF | Other Services | `WDAF-DT.us_locals1` |
 | ✅ | MO | Kansas City | FOX WDAF | Other Services | `WDAF-DT.us_locals1` |
 | ❌ | MO | Kirksville | FOX 15 KYOU | Other Services | `KYOU-DT2.us_locals1` |
-| ❌ | MO | Osage Beach | FOX KRBK | Other Services | `KRBK-DT.us_locals1` |
-| ❌ | MO | St. Louis | FOX KTVI | Other Services | `KTVI-DT.us_locals1` |
+| ✅ | MO | Osage Beach | FOX KRBK | Other Services | `KRBK-DT.us_locals1` |
+| ✅ | MO | St. Louis | FOX KTVI | Other Services | `KTVI-DT.us_locals1` |
 | ✅ | MO | St. Louis | FOX KTVI | Other Services | `KTVI-DT.us_locals1` |
 | ✅ | MS | Meridian | Fox 30  WGBC | Other Services | `WGBC-DT2.us_locals1` |
 | ✅ | MS | Columbus | Fox WCBI | Other Services | `WCBI-DT.us_locals1` |
-| ❌ | MS | Greenwood | FOX 10 WABG2 | Other Services | `` |
+| ✅ | MS | Greenwood | FOX 10 WABG2 | Other Services | `` |
 | ✅ | MS | Jackson | FOX WDBD | Other Services | `WDBD-DT.us_locals1` |
-| ❌ | MS | Jackson | FOX WDBD | Other Services | `WDBD-DT.us_locals1` |
-| ❌ | MT | Billings | FOX 4 KHMT | Other Services | `KHMT-DT.us_locals1` |
-| ❌ | MT | Great Falls | FOX KFBB | Other Services | `KFBB-DT2.us_locals1` |
-| ✅ | NC | Belmont | FOX WJZY | Other Services | `WJZY-DT.us_locals1` |
+| ✅ | MS | Jackson | FOX WDBD | Other Services | `WDBD-DT.us_locals1` |
+| ✅ | MT | Billings | FOX 4 KHMT | Other Services | `KHMT-DT.us_locals1` |
+| ✅ | MT | Great Falls | FOX KFBB | Other Services | `KFBB-DT2.us_locals1` |
+| ❌ | NC | Belmont | FOX WJZY | Other Services | `WJZY-DT.us_locals1` |
 | ✅ | NC | Belmont | FOX WJZY | Other Services | `WJZY-DT.us_locals1` |
 | ❌ | NC | CHARLOTTE | FOX 46  WJZY | Other Services | `WJZY-DT.us_locals1` |
 | ✅ | NC | Greensboro | FOX 8 WGHP | Other Services | `WGHP-DT.us_locals1` |
@@ -607,22 +607,22 @@
 | ✅ | ND | Fargo | FOX KVRR | Other Services | `KVRR-DT.us_locals1` |
 | ❌ | NE | Grand Island | Fox KFXL | Other Services | `KFXL-DT.us_locals1` |
 | ❌ | NE | Omaha | FOX KPTM | Other Services | `KPTM-DT.us_locals1` |
-| ❌ | NM | Albuquerque | FOX 4 KOB | Other Services | `` |
+| ✅ | NM | Albuquerque | FOX 4 KOB | Other Services | `` |
 | ❌ | NM | Albuquerque | FOX KRQE | Other Services | `KRQE-DT2.us_locals1` |
 | ✅ | NV | Henderson | FOX KVVU | Other Services | `KVVU-DT.us_locals1` |
 | ✅ | NV | Henderson | FOX KVVU | Other Services | `KVVU-DT.us_locals1` |
-| ❌ | NY | Albany | FOX WXXA | Other Services | `WXXA-DT.us_locals1` |
+| ✅ | NY | Albany | FOX WXXA | Other Services | `WXXA-DT.us_locals1` |
 | ✅ | NY | Buffalo | FOX WUTV | Other Services | `WUTV-DT.us_locals1` |
 | ✅ | NY | Buffalo | FOX WUTV | Other Services | `WUTV-DT.us_locals1` |
 | ✅ | NY | New York | FOX WNYW UHD | Other Services | `WNYW-DT.us_locals1` |
 | ✅ | NY | Rochester | FOX 31 WUHF | Other Services | `WUHF-DT.us_locals1` |
-| ❌ | NY | Syracuse | FOX 68 WSYT | Other Services | `WSYT-DT.us_locals1` |
+| ✅ | NY | Syracuse | FOX 68 WSYT | Other Services | `WSYT-DT.us_locals1` |
 | ✅ | NY | Utica | FOX 33 WFXV | Other Services | `WFXV-DT.us_locals1` |
 | ✅ | OH | Cincinnati  | FOX 19 WXIX | Other Services | `WXIX-DT.us_locals1` |
 | ✅ | OH | Cleveland | FOX WJW | Other Services | `` |
 | ✅ | OH | Dayton | FOX WRGT | Other Services | `WRGT-DT.us_locals1` |
 | ✅ | OH | Toledo | FOX WUPW | Other Services | `WUPW-DT.us_locals1` |
-| ❌ | OH | Youngstown | FOX WYFX | Other Services | `WYFX-LD.us_locals1` |
+| ✅ | OH | Youngstown | FOX WYFX | Other Services | `WYFX-LD.us_locals1` |
 | ✅ | OK | Oklahoma City | FOX KOKH | Other Services | `KOKH-DT.us_locals1` |
 | ✅ | OK | Tulsa | FOX 23 KOKI | Other Services | `KOKI-DT.us_locals1` |
 | ✅ | OR | Bend | FOX 39 KFXO | Other Services | `KFXO-CD.us_locals1` |
@@ -630,16 +630,16 @@
 | ✅ | OR | Portland | FOX KPTV | Other Services | `KPTV-DT.us_locals1` |
 | ✅ | PA | ERIE | FOX 66 WFXP | Other Services | `WFXP-DT.us_locals1` |
 | ✅ | PA | Harrisburg | FOX 43 WPMT | Other Services | `WPMT-DT.us_locals1` |
-| ❌ | PA | Johnstown | FOX WWCP | Other Services | `WWCP-DT.us_locals1` |
+| ✅ | PA | Johnstown | FOX WWCP | Other Services | `WWCP-DT.us_locals1` |
 | ✅ | PA | Philadelphia | FOX WTXF | Other Services | `WTXF-DT.us_locals1` |
 | ✅ | PA | Pittsburgh | FOX WPGH | Other Services | `WPGH-DT.us_locals1` |
 | ✅ | PA | Wilkes-Barre | FOX WOLF | Other Services | `WOLF-DT.us_locals1` |
 | ✅ | PA | York | FOX WPMT | Other Services | `WPMT-DT.us_locals1` |
 | ✅ | RI | Providence | FOX WNAC | Other Services | `WNAC-DT2.us_locals1` |
 | ✅ | SC | Charleston | FOX WTAT | Other Services | `WTAT-DT.us_locals1` |
-| ❌ | SC | Columbia | FOX WACH | Other Services | `WACH-DT.us_locals1` |
-| ❌ | SC | Greenville | FOX WHNS | Other Services | `WHNS-DT.us_locals1` |
-| ❌ | SC | Myrtle Beach | FOX WFXB | Other Services | `WFXB-DT.us_locals1` |
+| ✅ | SC | Columbia | FOX WACH | Other Services | `WACH-DT.us_locals1` |
+| ✅ | SC | Greenville | FOX WHNS | Other Services | `WHNS-DT.us_locals1` |
+| ✅ | SC | Myrtle Beach | FOX WFXB | Other Services | `WFXB-DT.us_locals1` |
 | ❌ | SD | Sioux Falls | FOX KTTW | Other Services | `KTTW-DT.us_locals1` |
 | ✅ | TN | Chattanooga | FOX WTVC | Other Services | `WTVC-DT2.us_locals1` |
 | ✅ | TN | Knoxville | FOX WTNZ | Other Services | `WTNZ-DT.us_locals1` |
@@ -667,11 +667,11 @@
 | ✅ | UT | Salt Lake City | FOX KSTU | Other Services | `KSTU-DT.us_locals1` |
 | ❌ | VA | HAMPTON ROADS | FOX 43 WAVY | Other Services | `WAVY-DT.us_locals1` |
 | ✅ | VA | Luray | FOX 5 WTTG | Other Services | `WTTG-DT.us_locals1` |
-| ✅ | VA | Lynchburg | FOX 27 WFXR | Other Services | `WFXR-DT.us_locals1` |
-| ❌ | VA | Richmond | FOX WRLH | Other Services | `WRLH-DT.us_locals1` |
-| ❌ | VA | Roanoke | FOX WFXR | Other Services | `WFXR-DT.us_locals1` |
+| ❌ | VA | Lynchburg | FOX 27 WFXR | Other Services | `WFXR-DT.us_locals1` |
+| ✅ | VA | Richmond | FOX WRLH | Other Services | `WRLH-DT.us_locals1` |
+| ✅ | VA | Roanoke | FOX WFXR | Other Services | `WFXR-DT.us_locals1` |
 | ✅ | VA | Virginia Beach | FOX WVBT | Other Services | `WVBT-DT.us_locals1` |
-| ❌ | VT | Burlington | FOX WFFF | Other Services | `WFFF-DT.us_locals1` |
+| ✅ | VT | Burlington | FOX WFFF | Other Services | `WFFF-DT.us_locals1` |
 | ✅ | WA | Seattle | FOX KCPQ | Other Services | `KCPQ-DT.us_locals1` |
 | ✅ | WA | Spokane | FOX KAYU | Other Services | `KAYU-DT.us_locals1` |
 | ❌ | WA | Yakima | FOX KCYU | Other Services | `KCYU-DT.us_locals1` |
@@ -682,18 +682,18 @@
 | ✅ | WI | Milwaukee | FOX WITI | Other Services | `WITI-DT.us_locals1` |
 | ✅ | WI | Wausau | FOX WZAW | Other Services | `WZAW-LD.us_locals1` |
 | ✅ | WV | Clarksburg | FOX 10 WVFX | Other Services | `WVFX-DT.us_locals1` |
-| ❌ | WV | Huntington | FOX 11 WCHS | Other Services | `WCHS-DT2.us_locals1` |
+| ✅ | WV | Huntington | FOX 11 WCHS | Other Services | `WCHS-DT2.us_locals1` |
 | ❌ | WY | Casper | FOX KFNB | Other Services | `KFNB-DT.us_locals1` |
 | ✅ | WY | Cheyenne | FOX 27 KLWY | Other Services | `KLWY-DT.us_locals1` |
 | ✅ | ND | BISMARCK | FOX 5 KFYR-DT | Other Services | `KFYR-DT2.us_locals1` |
 | ✅ | WA | Seattle | FOX 13 KZJO | Other Services | `KZJO-DT.us_locals1` |
 | ✅ | AK | Anchorage | NBC2 KTUU | Other Services | `KTUU-DT.us_locals1` |
 | ✅ | AK | Fairbanks | NBC KTVF | Other Services | `KTVF-DT.us_locals1` |
-| ❌ | AK | Fort Smith | NBC 51 KNWA | Other Services | `KNWA-DT.us_locals1` |
+| ✅ | AK | Fort Smith | NBC 51 KNWA | Other Services | `KNWA-DT.us_locals1` |
 | ✅ | AK | Juneau | NBC KATH | Other Services | `KATH-LD.us_locals1` |
 | ✅ | AL | Birmingham | NBC 13 WVTM | Other Services | `WVTM-DT.us_locals1` |
 | ✅ | AL | Dothan | NBC WRGX | Other Services | `WRGX-LD.us_locals1` |
-| ❌ | AL | Huntsville | NBC 48 WAFF | Other Services | `WAFF-DT.us_locals1` |
+| ✅ | AL | Huntsville | NBC 48 WAFF | Other Services | `WAFF-DT.us_locals1` |
 | ✅ | AL | Mobile | NBC 15 WPMI | Other Services | `WPMI-DT.us_locals1` |
 | ✅ | AL | Montgomery | NBC WSFA | Other Services | `WSFA-DT.us_locals1` |
 | ✅ | AL | Montgomery | USA NBC 12 WFSA | Other Services | `` |
@@ -732,7 +732,7 @@
 | ✅ | FL | TAMPA | NBC 8 WFLA | Other Services | `WFLA-DT.us_locals1` |
 | ✅ | FL | West Palm Beach | NBC WPTV | Other Services | `` |
 | ✅ | GA | Atlanta | NBC  WXIA | Other Services | `WXIA-DT.us_locals1` |
-| ✅ | GA | Atlanta | NBC WXIA (SD) | Other Services | `WXIA-DT.us_locals1` |
+| ❌ | GA | Atlanta | NBC WXIA (SD) | Other Services | `WXIA-DT.us_locals1` |
 | ✅ | GA | Augusta | NBC WAGT | Other Services | `WAGT-CD.us_locals1` |
 | ✅ | GA | Columbus | NBC WLTZ | Other Services | `WLTZ-DT.us_locals1` |
 | ✅ | GA | Macon | NBC WMGT | Other Services | `WMGT-DT.us_locals1` |
@@ -740,7 +740,7 @@
 | ✅ | HI | Honolulu | NBC KHNL | Other Services | `KHNL-DT.us_locals1` |
 | ✅ | IA | Cedar Rapids | NBC 7 KWWL | Other Services | `KWWL-DT.us_locals1` |
 | ✅ | IA | Davenport | NBC KWQC | Other Services | `KWQC-DT.us_locals1` |
-| ✅ | IA | Des Moines | NBC 13 WHO | Other Services | `` |
+| ❌ | IA | Des Moines | NBC 13 WHO | Other Services | `` |
 | ✅ | IA | Des Moines | NBC WHO | Other Services | `` |
 | ✅ | IA | Sioux City | NBC KTIV | Other Services | `KTIV-DT.us_locals1` |
 | ❌ | IA | Waterloo | NBC KWWL | Other Services | `KWWL-DT.us_locals1` |
@@ -807,28 +807,28 @@
 | ✅ | MT | Helena | NBC KTVH | Other Services | `KTVH-DT.us_locals1` |
 | ✅ | MT | Missoula | NBC KECI | Other Services | `KECI-DT.us_locals1` |
 | ✅ | NC | Charlotte | NBC WCNC | Other Services | `WCNC-DT.us_locals1` |
-| ✅ | NC | Greensboro | NBC 12  WXII | Other Services | `WXII-DT.us_locals1` |
+| ❌ | NC | Greensboro | NBC 12  WXII | Other Services | `WXII-DT.us_locals1` |
 | ✅ | NC | New Bern | NBC 7 WITN | Other Services | `WITN-DT.us_locals1` |
 | ✅ | NC | Raleigh | NBC WRAL | Other Services | `WRAL-DT.us_locals1` |
 | ✅ | NC | Washington | NBC WITN | Other Services | `WITN-DT.us_locals1` |
 | ✅ | NC | Wilmington | NBC WECT | Other Services | `WECT-DT.us_locals1` |
 | ✅ | ND | Fargo | NBC KVLY | Other Services | `KVLY-DT.us_locals1` |
 | ✅ | NE | North Platte | NBC KNOP | Other Services | `KNOP-DT.us_locals1` |
-| ✅ | NE | Omaha | NBC 6 WOWT | Other Services | `WOWT-DT.us_locals1` |
+| ❌ | NE | Omaha | NBC 6 WOWT | Other Services | `WOWT-DT.us_locals1` |
 | ✅ | NE | Superior | NBC KSNB | Other Services | `KSNB-DT.us_locals1` |
 | ✅ | NM | Albuquerque | NBC 4 KOB | Other Services | `` |
 | ✅ | NV | Las Vegas | NBC KSNV | Other Services | `KSNV-DT.us_locals1` |
 | ✅ | NV | Las Vegas | NBC 3 KSNV | Other Services | `KSNV-DT.us_locals1` |
 | ✅ | NV | Reno | NBC KRNV | Other Services | `KRNV-DT.us_locals1` |
-| ✅ | NY | Albany | NBC 10 WALB | Other Services | `WALB-DT.us_locals1` |
+| ❌ | NY | Albany | NBC 10 WALB | Other Services | `WALB-DT.us_locals1` |
 | ✅ | NY | Albany | NBC 13  WNYT (SHD) | Other Services | `WNYT-DT.us_locals1` |
 | ✅ | NY | Binghamton | NBC WBGH | Other Services | `WBGH-CD.us_locals1` |
 | ✅ | NY | Buffalo | NBC WGRZ | Other Services | `WGRZ-DT.us_locals1` |
 | ✅ | NY | Elmira |  NBC 18 WETM | Other Services | `WETM-DT.us_locals1` |
 | ✅ | NY | New York | NBC UHD WNBC | Other Services | `WNBC-DT.us_locals1` |
-| ✅ | NY | New York | NBC WNBC | Other Services | `WNBC-DT.us_locals1` |
+| ❌ | NY | New York | NBC WNBC | Other Services | `WNBC-DT.us_locals1` |
 | ✅ | NY | Onondaga | NBC 10 WILX | Other Services | `WILX-DT.us_locals1` |
-| ✅ | NY | Plattsburgh | NBC WPTZ | Other Services | `WPTZ-DT.us_locals1` |
+| ❌ | NY | Plattsburgh | NBC WPTZ | Other Services | `WPTZ-DT.us_locals1` |
 | ✅ | NY | Rochester | NBC 10 WHEC | Other Services | `WHEC-DT.us_locals1` |
 | ✅ | NY | Syracuse | NBC 3 WSTM | Other Services | `WSTM-DT.us_locals1` |
 | ✅ | NY | Syracuse | NBC 3 WSTM | Other Services | `WSTM-DT.us_locals1` |
@@ -843,7 +843,7 @@
 | ✅ | OH | Lima | NBC 8 WLIO | Other Services | `WLIO-DT.us_locals1` |
 | ✅ | OH | Steubenville | NBC WTOV | Other Services | `WTOV-DT.us_locals1` |
 | ✅ | OH | Toledo | NBC WNWO | Other Services | `WNWO-DT.us_locals1` |
-| ✅ | OH | Youngstown | NBC WFMJ | Other Services | `WFMJ-DT.us_locals1` |
+| ❌ | OH | Youngstown | NBC WFMJ | Other Services | `WFMJ-DT.us_locals1` |
 | ✅ | OH | Zanesville | NBC WHIZ | Other Services | `WHIZ-DT.us_locals1` |
 | ✅ | OK | Ada | NBC KTEN | Other Services | `KTEN-DT.us_locals1` |
 | ✅ | OK | Oklahoma City | NBC 4 KFOR | Other Services | `KFOR-DT.us_locals1` |
@@ -852,31 +852,31 @@
 | ✅ | OR | Eugene | NBC KMTR | Other Services | `KMTR-DT2.us_locals1` |
 | ✅ | OR | Medford | NBC KOBI | Other Services | `KOBI-DT.us_locals1` |
 | ✅ | PA | ERIE | NBC 12 WICU | Other Services | `WICU-DT.us_locals1` |
-| ✅ | PA | Erie | NBC WICU | Other Services | `WICU-DT.us_locals1` |
-| ✅ | PA | Johnstown | NBC WJAC | Other Services | `WJAC-DT.us_locals1` |
-| ✅ | PA | Joplin-Pittsburg | NBC KSNF | Other Services | `KSNF-DT.us_locals1` |
+| ❌ | PA | Erie | NBC WICU | Other Services | `WICU-DT.us_locals1` |
+| ❌ | PA | Johnstown | NBC WJAC | Other Services | `WJAC-DT.us_locals1` |
+| ❌ | PA | Joplin-Pittsburg | NBC KSNF | Other Services | `KSNF-DT.us_locals1` |
 | ✅ | PA | Lancaster | NBC WGAL | Other Services | `WGAL-DT.us_locals1` |
 | ✅ | PA | Philadelphia | NBC WCAU | Other Services | `WCAU-DT.us_locals1` |
 | ✅ | PA | Pittsburgh | NBC WPXI | Other Services | `WPXI-DT.us_locals1` |
 | ✅ | PA | Wilkes-Barre | NBC WBRE | Other Services | `WBRE-DT.us_locals1` |
 | ✅ | RI | Providence | NBC 10 WJAR | Other Services | `WJAR-DT2.us_locals1` |
-| ✅ | SC | Charleston | NBC 2 WCBD | Other Services | `WCBD-DT.us_locals1` |
+| ❌ | SC | Charleston | NBC 2 WCBD | Other Services | `WCBD-DT.us_locals1` |
 | ✅ | SC | Columbia |  NBC 10 WIS | Other Services | `` |
 | ✅ | SC | Greenville | NBC WYFF | Other Services | `WYFF-DT.us_locals1` |
 | ✅ | SC | Myrtle Beach | NBC 32 WMBF | Other Services | `WMBF-DT.us_locals1` |
 | ✅ | SD | Rapid City | NBC KNBN | Other Services | `KNBN-DT.us_locals1` |
 | ✅ | SD | Sioux Falls | NBC KDLT | Other Services | `KDLT-DT2.us_locals1` |
-| ✅ | TN | Chattanooga | NBC 3 WRCB | Other Services | `WRCB-DT.us_locals1` |
+| ❌ | TN | Chattanooga | NBC 3 WRCB | Other Services | `WRCB-DT.us_locals1` |
 | ✅ | TN | Jackson | NBC WNBJ | Other Services | `WNBJ-LD.us_locals1` |
 | ✅ | TN | Knoxville | NBC WBIR | Other Services | `WBIR-DT.us_locals1` |
-| ✅ | TN | Memphis | NBC 5 WMC | Other Services | `` |
+| ❌ | TN | Memphis | NBC 5 WMC | Other Services | `` |
 | ✅ | TN | Nashville | NBC WSMV | Other Services | `WSMV-DT.us_locals1` |
 | ✅ | TN-VA | Tri-Cities | NBC WCYB | Other Services | `WCYB-DT3.us_locals1` |
 | ✅ | TX | Wichita Falls |  NBC 3 KFDX | Other Services | `KFDX-DT.us_locals1` |
 | ✅ | TX | Amarillo | NBC KAMR | Other Services | `KAMR-DT.us_locals1` |
 | ✅ | TX | Austin | NBC 36 KXAN | Other Services | `KXAN-DT.us_locals1` |
 | ✅ | TX | Beaumont | NBC KBMT | Other Services | `KBMT-DT2.us_locals1` |
-| ✅ | TX | Brownsville | NBC KVEO | Other Services | `KVEO-DT2.us_locals1` |
+| ❌ | TX | Brownsville | NBC KVEO | Other Services | `KVEO-DT2.us_locals1` |
 | ✅ | TX | Bryan | NBC 23 KAGS | Other Services | `KAGS-LD.us_locals1` |
 | ✅ | TX | Corpus Christi | NBC KRIS | Other Services | `KRIS-DT.us_locals1` |
 | ✅ | TX | Dallas | NBC KXAS | Other Services | `KXAS-DT.us_locals1` |
@@ -884,17 +884,17 @@
 | ✅ | TX | Houston | NBC  KPRC | Other Services | `KPRC-DT.us_locals1` |
 | ❌ | TX | Laredo | NBC KGNS | Other Services | `KGNS-DT2.us_locals1` |
 | ✅ | TX | Lubbock | NBC 11 KCBD | Other Services | `KCBD-DT.us_locals1` |
-| ✅ | TX | Midland | NBC 9 KWES | Other Services | `KWES-DT.us_locals1` |
+| ❌ | TX | Midland | NBC 9 KWES | Other Services | `KWES-DT.us_locals1` |
 | ✅ | TX | San Angelo | NBC KSAN | Other Services | `KSAN-DT.us_locals1` |
 | ✅ | TX | San Antonio | NBC WOAI | Other Services | `WOAI-DT2.us_locals1` |
-| ✅ | TX | Sweetwater | NBC 9 KRBC | Other Services | `KRBC-DT.us_locals1` |
+| ❌ | TX | Sweetwater | NBC 9 KRBC | Other Services | `KRBC-DT.us_locals1` |
 | ✅ | TX | Temple | NBC KCEN | Other Services | `KCEN-DT.us_locals1` |
 | ✅ | TX | Texarkana | NBC KTAL | Other Services | `KTAL-DT.us_locals1` |
 | ✅ | TX | Tyler | NBC KETK | Other Services | `KETK-DT.us_locals1` |
-| ✅ | TX | Victoria | NBC KMOL | Other Services | `KMOL-LD.us_locals1` |
+| ❌ | TX | Victoria | NBC KMOL | Other Services | `KMOL-LD.us_locals1` |
 | ✅ | VA | Charlottesville | NBC WVIR | Other Services | `WVIR-CD.us_locals1` |
 | ✅ | VA | HAMPTON ROADS | NBC 10 WAVY | Other Services | `WAVY-DT.us_locals1` |
-| ✅ | VA | Harrisonburg | NBC WSVW | Other Services | `WSVW-LD.us_locals1` |
+| ❌ | VA | Harrisonburg | NBC WSVW | Other Services | `WSVW-LD.us_locals1` |
 | ✅ | VA | Lynchburg | NBC 10 WSLS | Other Services | `WSLS-DT.us_locals1` |
 | ✅ | VA | Portsmouth | NBC WAVY | Other Services | `WAVY-DT.us_locals1` |
 | ✅ | VA | Richmond | NBC WWBT | Other Services | `WWBT-DT.us_locals1` |
@@ -937,14 +937,14 @@
 | ✅ | DC | WASHINGTON | CW 50 WDCW | Other Services | `WDCW-DT.us_locals1` |
 | ✅ | FL | Jacksonville | Channel 4  WJXT | Other Services | `WJXT-DT.us_locals1` |
 | ✅ | FL | Jacksonville | CW 17 WCWJ | Other Services | `WCWJ-DT.us_locals1` |
-| ✅ | FL | Miami | CW 39 WSFL | Other Services | `WSFL-DT.us_locals1` |
+| ❌ | FL | Miami | CW 39 WSFL | Other Services | `WSFL-DT.us_locals1` |
 | ❌ | FL | Miami | MY33 WBFS | Other Services | `WBFS-DT.us_locals1` |
 | ❌ | FL | Orlando | My Network TV WRBW | Other Services | `WRBW-DT.us_locals1` |
 | ✅ | FL | Port Pierce | CW WTVX | Other Services | `WTVX-DT.us_locals1` |
 | ✅ | FL | St. Petersburg | CW WTOG | Other Services | `WTOG-DT.us_locals1` |
 | ✅ | FL | TAMPA | CW 44 WTOG | Other Services | `WTOG-DT.us_locals1` |
 | ✅ | GA | ATALANTA | Peachtree CW WPCH | Other Services | `WPCH-DT.us_locals1` |
-| ✅ | GA | Atlanta | CW WUPA | Other Services | `WUPA-DT.us_locals1` |
+| ❌ | GA | Atlanta | CW WUPA | Other Services | `WUPA-DT.us_locals1` |
 | ✅ | GA | Atlanta | CW69 WUPA | Other Services | `WUPA-DT.us_locals1` |
 | ❌ | GA | BAMA | CA WLTZ-D2 | Other Services | `WLTZ-DT.us_locals1` |
 | ✅ | HI | Honolulu | CW 2 KHON | Other Services | `KHON-DT2.us_locals1` |
@@ -957,10 +957,10 @@
 | ✅ | MI | BATTLE GREEK | CW WOTV-D2 | Other Services | `WOTV-DT.us_locals1` |
 | ✅ | MI | Cadillac | CW 32 WFQX | Other Services | `WFQX-DT.us_locals1` |
 | ✅ | MI | Detroit | CW WKBD | Other Services | `WKBD-DT.us_locals1` |
-| ✅ | MN | Duluth | CW 2 KDLH | Other Services | `KDLH-DT.us_locals1` |
+| ❌ | MN | Duluth | CW 2 KDLH | Other Services | `KDLH-DT.us_locals1` |
 | ✅ | MN | Minneapolis | CW 23 WUCW | Other Services | `WUCW-DT.us_locals1` |
 | ✅ | MO | Jefferson City | CW KOMU | Other Services | `KOMU-DT.us_locals1` |
-| ✅ | MO | Kansas City | CW 29 KCWE | Other Services | `KCWE-DT.us_locals1` |
+| ❌ | MO | Kansas City | CW 29 KCWE | Other Services | `KCWE-DT.us_locals1` |
 | ✅ | MO | St. Louis | CW KPLR | Other Services | `KPLR-DT.us_locals1` |
 | ✅ | MS | Jackson | CW WJTV | Other Services | `WJTV-DT.us_locals1` |
 | ✅ | NC | Raleigh| CW22 WLFL | Other Services | `WLFL-DT.us_locals1` |
@@ -968,7 +968,7 @@
 | ✅ | NC | Greensboro | CW 20 WCWG | Other Services | `WCWG-DT.us_locals1` |
 | ✅ | NC | Greensboro | MY 48 WMYV | Other Services | `WMYV-DT.us_locals1` |
 | ✅ | NC | Raleigh | CW WLFL | Other Services | `WLFL-DT.us_locals1` |
-| ❌ | NY | BUFFALO | CW WNLO | Other Services | `WNLO-CD.us_locals1` |
+| ✅ | NY | BUFFALO | CW WNLO | Other Services | `WNLO-CD.us_locals1` |
 | ✅ | NY | New York | CW WPIX | Other Services | `WPIX-DT.us_locals1` |
 | ❌ | NY | Rochester | CW KTTC | Other Services | `KTTC-DT2.us_locals1` |
 | ❌ | NY | Syracuse | CW 6 WSTQ | Other Services | `` |
@@ -977,7 +977,7 @@
 | ✅ | OH | LORAIN | CW WUAB | Other Services | `WUAB-DT.us_locals1` |
 | ✅ | OK | Oklahoma City | CW 34 KOCB | Other Services | `KOCB-DT.us_locals1` |
 | ✅ | OR | Eugene | CW KMTR | Other Services | `KMTR-DT2.us_locals1` |
-| ✅ | PA | CW 57 WPSG | Other Services | `WPSG-DT.us_locals1` |
+| ❌ | PA | CW 57 WPSG | Other Services | `WPSG-DT.us_locals1` |
 | ❌ | PA | ERIE | CW 35 WSEE | Other Services | `WSEE-DT.us_locals1` |
 | ✅ | PA | Harrisburg | MyNet WHP | Other Services | `` |
 | ❌ | PA | Jeannette | CW WPCW | Other Services | `` |
@@ -1016,8 +1016,8 @@
 | ✅ | USA CW53 (WWHO) Columbus | Other Services | `WWHO-DT.us_locals1` |
 | ✅ | USA MY 20 Houston KTXH | Other Services | `KTXH-DT.us_locals1` |
 | ✅ | USA MY 38 WSBK - BOSTON | Other Services | `WSBK-DT.us_locals1` |
-| ✅ | USA MY 50 - CHICAGO | Other Services | `` |
-| ✅ | USA MY 64 (WSTR) Cincinnati | Other Services | `WSTR-DT.us_locals1` |
+| ❌ | USA MY 50 - CHICAGO | Other Services | `` |
+| ❌ | USA MY 64 (WSTR) Cincinnati | Other Services | `WSTR-DT.us_locals1` |
 | ✅ | USA MY 9 (KECY-DT) El Centro | Other Services | `KECY-DT2.us_locals1` |
 | ❌ | USA MY 9 (KECY-DT) El Centro | Other Services | `KECY-DT2.us_locals1` |
 | ✅ | USA MY30 (WUXP) Nashville | Other Services | `WUXP-DT.us_locals1` |
@@ -1044,9 +1044,9 @@
 | ✅ | AZ | Phoenix | PBS KAET | Other Services | `KAET-DT.us_locals1` |
 | ✅ | AZ | Tucson | PBS KUAT | Other Services | `KUAT-DT.us_locals1` |
 | ❌ | CA PBS 10 (WMEM) Presque Isle | Other Services | `WMEM-DT.us_locals1` |
-| ✅ | CA PBS 17 (WNED) Buffalo | Other Services | `WNED-DT.us_locals1` |
+| ❌ | CA PBS 17 (WNED) Buffalo | Other Services | `WNED-DT.us_locals1` |
 | ✅ | CA PBS 54 (WQLN) Erie | Other Services | `WQLN-DT.us_locals1` |
-| ✅ | CA PBS Buffalo (WNED) | Other Services | `WNED-DT.us_locals1` |
+| ❌ | CA PBS Buffalo (WNED) | Other Services | `WNED-DT.us_locals1` |
 | ❌ | CA PBS Detroit (WTVS) | Other Services | `WTVS-DT.us_locals1` |
 | ✅ | CA | Bakersfield | PBS KCET | Other Services | `KCET-DT.us_locals1` |
 | ✅ | CA | Los Angeles | PBS Kids KOCE | Other Services | `` |
@@ -1061,7 +1061,7 @@
 | ❌ | DC | WASHINGTON | PBS WHUT | Other Services | `WHUT-DT.us_locals1` |
 | ✅ | FL | Jacksonville | PBS WJCT | Other Services | `WJCT-DT.us_locals1` |
 | ✅ | FL | MIAMI | PBS Kids WPBT | Other Services | `` |
-| ✅ | FL | MIAMI | PBS WPBT | Other Services | `WPBT-DT.us_locals1` |
+| ❌ | FL | MIAMI | PBS WPBT | Other Services | `WPBT-DT.us_locals1` |
 | ✅ | FL | Orlando | PBS WUCF | Other Services | `WUCF-DT.us_locals1` |
 | ❌ | FL | Pensacola | PBS WSRE | Other Services | `WSRE-DT.us_locals1` |
 | ✅ | FL | Tampa | PBS Kids WEDU | Other Services | `` |
@@ -1071,7 +1071,7 @@
 | ✅ | IA | Des Moines | PBS KDIN | Other Services | `KDIN-DT.us_locals1` |
 | ✅ | IA | Des Moines | PBS Kids KDIN | Other Services | `` |
 | ✅ | IL | Carbondale | PBS WSIU | Other Services | `WSIU-DT.us_locals1` |
-| ✅ | IL | CHICAGO | PBS WTTW | Other Services | `WTTW-DT.us_locals1` |
+| ❌ | IL | CHICAGO | PBS WTTW | Other Services | `WTTW-DT.us_locals1` |
 | ✅ | IL | Chicago | PBS WTTW | Other Services | `WTTW-DT.us_locals1` |
 | ❌ | IL | Moline | PBS WQPT | Other Services | `WQPT-DT.us_locals1` |
 | ✅ | IL | Urbana-Champaign | PBS Kids WILL | Other Services | `` |
@@ -1117,14 +1117,14 @@
 | ❌ | PBS Kids WHA | Other Services | `PBS.KIDS.HD.us2` |
 | ❌ | PBS Kids WKPC | Other Services | `PBS.KIDS.HD.us2` |
 | ❌ | SC |  PBS WRET | Other Services | `WRET-DT.us_locals1` |
-| ✅ | SC | Columbia | PBs Kids WRLK | Other Services | `` |
+| ❌ | SC | Columbia | PBs Kids WRLK | Other Services | `` |
 | ✅ | SC | Columbia | PBS WRLK | Other Services | `WRLK-DT.us_locals1` |
 | ✅ | TN | Cordova | PBS WKNO | Other Services | `WKNO-DT.us_locals1` |
-| ❌ | TX | Austin | PBS Kids KLRU | Other Services | `` |
+| ✅ | TX | Austin | PBS Kids KLRU | Other Services | `` |
 | ✅ | TX | Austin | PBS KLRU | Other Services | `KLRU-DT.us_locals1` |
-| ❌ | TX | Beaumont | PBS KUHT | Other Services | `KUHT-DT.us_locals1` |
+| ✅ | TX | Beaumont | PBS KUHT | Other Services | `KUHT-DT.us_locals1` |
 | ✅ | TX | Corpus Christi | PBS KEDT | Other Services | `KEDT-DT.us_locals1` |
-| ❌ | TX | Dallas | PBS Kids KERA | Other Services | `` |
+| ✅ | TX | Dallas | PBS Kids KERA | Other Services | `` |
 | ✅ | TX | Victoria | PBS Kids KLRN | Other Services | `` |
 | ✅ | TX | Victoria | PBS KLRN | Other Services | `KLRN-DT.us_locals1` |
 | ✅ | USA PBS Kids | Other Services | `PBS.KIDS.HD.us2` |
@@ -1142,7 +1142,7 @@
 | ✅ | NY | ALBANY | Fox WXXA (SD) | Other Services | `WXXA-DT.us_locals1` |
 | ✅ | FL | Miami |  CW WSFL (SD) | Other Services | `WSFL-DT.us_locals1` |
 | ❌ | NY | New York | CBW WCBS (SD) | Other Services | `WCBS-DT.us_locals1` |
-| ✅ | NY | New York | FOX WNYW (SD) | Other Services | `WNYW-DT.us_locals1` |
+| ❌ | NY | New York | FOX WNYW (SD) | Other Services | `WNYW-DT.us_locals1` |
 | ❌ | USA A&E (SD) | Other Services | `` |
 | ✅ | USA ABC Chicago WLS SD | Other Services | `` |
 | ❌ | USA Altitude Sports SD | Other Services | `Altitude.Sports.us2` |
@@ -1155,9 +1155,9 @@
 | ✅ | USA BBC America SD | Other Services | `BBC.America.HD.us2` |
 | ✅ | USA Bein Sports N Espanol SD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ✅ | USA Bein Sports USA SD | Other Services | `beIN.Sports.USA.HD.us2` |
-| ✅ | USA BET East (SD) | Other Services | `BET.Jams.us2` |
+| ❌ | USA BET East (SD) | Other Services | `BET.Jams.us2` |
 | ❌ | USA BET HER SD | Other Services | `BET.Her.us2` |
-| ✅ | USA BIG TEN NETWORK SD | Other Services | `Big.Ten.Network.HD.us2` |
+| ❌ | USA BIG TEN NETWORK SD | Other Services | `Big.Ten.Network.HD.us2` |
 | ❌ | USA Boomerang SD | Other Services | `Boomerang.us2` |
 | ✅ | USA Bravo East (SD) | Other Services | `HBO.East.us2` |
 | ❌ | USA Cars TV SD | Other Services | `Cars.TV.HD.us2` |
@@ -1170,42 +1170,42 @@
 | ✅ | USA CMT SD | Other Services | `CMT.HD.us2` |
 | ✅ | USA CNBC (SD) | Other Services | `` |
 | ✅ | USA CNN (SD) | Other Services | `` |
-| ✅ | USA Comedy Central East (SD) | Other Services | `Comedy.Central.HD.us2` |
+| ❌ | USA Comedy Central East (SD) | Other Services | `Comedy.Central.HD.us2` |
 | ✅ | USA COOKING CHANNEL SD | Other Services | `Cooking.Channel.HD.us2` |
 | ❌ | USA Crime & Investigation Network SD | Other Services | `Crime.and.Investigation.Network.HD.us2` |
-| ✅ | USA Discovery East (SD) | Other Services | `` |
+| ❌ | USA Discovery East (SD) | Other Services | `` |
 | ✅ | USA DISCOVERY FAMILY SD | Other Services | `Discovery.Family.Channel.HD.us2` |
-| ✅ | USA DISCOVERY LIFE (SD) | Other Services | `Discovery.Life.Channel.us2` |
-| ✅ | USA Discovery Science SD | Other Services | `Discovery.Channel.HD.us2` |
-| ✅ | USA Disney East (SD) | Other Services | `` |
-| ✅ | USA Disney XD SD | Other Services | `Disney.XD.HD.us2` |
-| ✅ | USA DIY SD | Other Services | `` |
-| ✅ | USA E! Entertainment East SD | Other Services | `` |
+| ❌ | USA DISCOVERY LIFE (SD) | Other Services | `Discovery.Life.Channel.us2` |
+| ❌ | USA Discovery Science SD | Other Services | `Discovery.Channel.HD.us2` |
+| ❌ | USA Disney East (SD) | Other Services | `` |
+| ❌ | USA Disney XD SD | Other Services | `Disney.XD.HD.us2` |
+| ❌ | USA DIY SD | Other Services | `` |
+| ❌ | USA E! Entertainment East SD | Other Services | `` |
 | ❌ | USA ELEVEN SPORTS SD | Other Services | `` |
-| ✅ | USA ESPN 2 (SD) | Other Services | `ESPN.HD.us2` |
+| ❌ | USA ESPN 2 (SD) | Other Services | `ESPN.HD.us2` |
 | ✅ | USA ESPN SD | Other Services | `ESPN.HD.us2` |
-| ❌ | USA FIGHT NETWORK SD | Other Services | `Fight.Network.us2` |
+| ✅ | USA FIGHT NETWORK SD | Other Services | `Fight.Network.us2` |
 | ✅ | USA Food Network East (SD) | Other Services | `Food.Network.HD.us2` |
 | ❌ | USA Fox Business (SD) | Other Services | `Fox.Business.HD.us2` |
-| ✅ | USA Fox News (SD) | Other Services | `Fox.News.Channel.HD.us2` |
+| ❌ | USA Fox News (SD) | Other Services | `Fox.News.Channel.HD.us2` |
 | ✅ | USA Fox Sports 1 SD | Other Services | `FS1.Fox.Sports.1.HD.us2` |
-| ✅ | USA Fox Sports 2 SD | Other Services | `FS2.Fox.Sports.2.HD.us2` |
+| ❌ | USA Fox Sports 2 SD | Other Services | `FS2.Fox.Sports.2.HD.us2` |
 | ✅ | USA Freeform East (SD) | Other Services | `Freeform.HD.us2` |
 | ❌ | USA Fuse TV SD | Other Services | `` |
 | ✅ | USA FX East (SD) | Other Services | `` |
-| ✅ | USA FXX East (SD) | Other Services | `` |
-| ✅ | USA FYI (SD) | Other Services | `` |
-| ✅ | USA GET TV SD | Other Services | `` |
+| ❌ | USA FXX East (SD) | Other Services | `` |
+| ❌ | USA FYI (SD) | Other Services | `` |
+| ❌ | USA GET TV SD | Other Services | `` |
 | ❌ | USA Gol TV (English) SD | Other Services | `GOD.TV.us2` |
 | ❌ | USA Gol TV (Spanish) SD | Other Services | `GOD.TV.us2` |
 | ❌ | USA Golf (SD) | Other Services | `` |
-| ✅ | USA Great American Family SD | Other Services | `Great.American.Family.HD.us2` |
-| ✅ | USA GSN (SD) | Other Services | `` |
+| ❌ | USA Great American Family SD | Other Services | `Great.American.Family.HD.us2` |
+| ❌ | USA GSN (SD) | Other Services | `` |
 | ❌ | USA Hallmark East (SD) | Other Services | `` |
 | ❌ | USA HALLMARK MOVIES & MYSTERIES (SD) | Other Services | `Movies!.us2` |
-| ❌ | USA HBO 2 SD | Other Services | `` |
+| ✅ | USA HBO 2 SD | Other Services | `` |
 | ❌ | USA HBO COMEDY SD | Other Services | `HBO.Comedy.HD.us2` |
-| ✅ | USA HBO East SD | Other Services | `HBO.East.us2` |
+| ❌ | USA HBO East SD | Other Services | `HBO.East.us2` |
 | ❌ | USA HBO SIGNATURE SD | Other Services | `HBO.Signature.HD.us2` |
 | ❌ | USA HBO ZONE SD | Other Services | `HBO.Zone.HD.us2` |
 | ❌ | USA Heroes & Icons SD | Other Services | `Heroes.and.Icons.Network.SD.us2` |
@@ -1220,14 +1220,14 @@
 | ❌ | USA Marquee Sports Network SD | Other Services | `Marquee.Sports.Network.HD.us2` |
 | ❌ | USA MASN 2 SD | Other Services | `` |
 | ❌ | USA MASN SD | Other Services | `` |
-| ❌ | USA MAV TV SD | Other Services | `` |
+| ✅ | USA MAV TV SD | Other Services | `` |
 | ❌ | USA MeTV (SD) | Other Services | `` |
 | ❌ | USA MLB Network SD | Other Services | `MLB.Network.HD.us2` |
 | ❌ | USA MOTORTREND SD | Other Services | `MOTORTREND.HD.us2` |
 | ❌ | USA MSG SD | Other Services | `` |
 | ❌ | USA MSNBC (SD) | Other Services | `MSNBC.HD.us2` |
-| ✅ | USA MTV (SD) | Other Services | `mtv-U.us2` |
-| ✅ | USA MTV 2 East (SD) | Other Services | `` |
+| ❌ | USA MTV (SD) | Other Services | `mtv-U.us2` |
+| ❌ | USA MTV 2 East (SD) | Other Services | `` |
 | ❌ | USA Nat Geo East (SD) | Other Services | `` |
 | ❌ | USA Nat Geo Wild East (SD) | Other Services | `` |
 | ❌ | USA NBA TV SD | Other Services | `NBA.TV.HD.us2` |
@@ -1235,17 +1235,17 @@
 | ❌ | USA NBC Sports Network (SD) | Other Services | `Ryz.Sports.Network.us2` |
 | ❌ | USA Newsmax (SD) | Other Services | `Newsmax.TV.HD.us2` |
 | ❌ | USA NFL Network (SD) | Other Services | `NFL.Network.HD.us2` |
-| ✅ | USA NFL RED ZONE SD | Other Services | `NFL.SUNDAY.TICKET.RED.ZONE.us2` |
+| ❌ | USA NFL RED ZONE SD | Other Services | `NFL.SUNDAY.TICKET.RED.ZONE.us2` |
 | ❌ | USA NHL Network (SD) | Other Services | `NHL.Network.HD.us2` |
 | ❌ | USA NICK JR SD | Other Services | `Nick.Jr.HD.us2` |
 | ❌ | USA Nickelodeon East (SD) | Other Services | `Nickelodeon.HD.us2` |
 | ❌ | USA NICKTOONS (SD) | Other Services | `Nicktoons.us2` |
-| ✅ | USA One America News Network SD | Other Services | `One.America.News.Network.HD.us2` |
+| ❌ | USA One America News Network SD | Other Services | `One.America.News.Network.HD.us2` |
 | ❌ | USA OUTSIDE TV SD | Other Services | `` |
 | ❌ | USA OWN East (SD) | Other Services | `HBO.East.us2` |
 | ❌ | USA Oxygen East SD | Other Services | `` |
 | ❌ | USA Paramount East (SD) | Other Services | `` |
-| ✅ | USA POP (SD) | Other Services | `` |
+| ❌ | USA POP (SD) | Other Services | `` |
 | ❌ | USA Pursuit SD | Other Services | `` |
 | ❌ | USA Reelz SD | Other Services | `` |
 | ❌ | USA RetroPlex SD | Other Services | `RetroPlex.HD.us2` |
@@ -1258,7 +1258,7 @@
 | ❌ | USA SHOxBET SD | Other Services | `` |
 | ❌ | USA SMITHSONIAN (SD) | Other Services | `Smithsonian.HD.Network.us2` |
 | ❌ | USA SONY MOVIE SD | Other Services | `` |
-| ✅ | USA Spectrum SportsNet LA Dodgers SD | Other Services | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
+| ❌ | USA Spectrum SportsNet LA Dodgers SD | Other Services | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
 | ❌ | USA Spectrum SportsNet Lakers SD | Other Services | `Spectrum.SportsNet.Lakers.HD.us2` |
 | ❌ | USA SPORTSMAN CHANNEL SD | Other Services | `Sportsman.Channel.us2` |
 | ❌ | USA SPORTSNET NY (SD) | Other Services | `Sportsnet+.Dummy.us` |
@@ -1312,7 +1312,7 @@
 | ❌ | USA MeTV (WNYT) | Other Services | `WNYT-DT.us_locals1` |
 | ❌ | USA MeTV (WPTZ-DT3) | Other Services | `WPTZ-DT.us_locals1` |
 | ❌ | USA MeTV (WYFF) | Other Services | `WYFF-DT.us_locals1` |
-| ❌ | USA MeTV Network East | Other Services | `Me.TV.Network.us2` |
+| ✅ | USA MeTV Network East | Other Services | `Me.TV.Network.us2` |
 | ✅ | USA MeTV New York WJLPDT | Other Services | `` |
 | ✅ | USA MeTV Plus (KHTV) | Other Services | `KHTV-CD.us_locals1` |
 | ❌ | USA MeTV West | Other Services | `West.TV.us2` |
@@ -1358,7 +1358,7 @@
 | ❌ | USA Start TV (WNYT) | Other Services | `WNYT-DT.us_locals1` |
 | ✅ | NY | Albany | Laff TV WXXA | Other Services | `WXXA-DT.us_locals1` |
 | ✅ | USA A&E (SHD) | Other Services | `` |
-| ❌ | USA A&E UHD | Other Services | `` |
+| ✅ | USA A&E UHD | Other Services | `` |
 | ✅ | USA Absolute Reality by WE tv | Other Services | `` |
 | ✅ | USA AccuWeather | Other Services | `AccuWeather.HD.us2` |
 | ✅ | USA Adult Swim West | Other Services | `` |
@@ -1387,13 +1387,13 @@
 | ✅ | USA BET West | Other Services | `West.TV.us2` |
 | ✅ | USA BOUNCE TV | Other Services | `Bounce.TV.us2` |
 | ✅ | USA Bounce XL | Other Services | `` |
-| ✅ | USA Bravo East (SHD) | Other Services | `HBO.East.us2` |
+| ❌ | USA Bravo East (SHD) | Other Services | `HBO.East.us2` |
 | ✅ | USA Bravo East LHD | Other Services | `` |
 | ✅ | USA Bravo East UHD | Other Services | `` |
 | ✅ | USA Bravo West | Other Services | `HBO.West.us2` |
 | ✅ | USA Buzzr | Other Services | `` |
 | ❌ | USA Cars TV | Other Services | `Cars.TV.HD.us2` |
-| ❌ | USA Charge! WCWN (SHD) | Other Services | `WCWN-DT.us_locals1` |
+| ✅ | USA Charge! WCWN (SHD) | Other Services | `WCWN-DT.us_locals1` |
 | ❌ | USA Circle (PC) | Other Services | `Circle.Country.us2` |
 | ✅ | USA Circle (SHD) | Other Services | `Circle.Country.us2` |
 | ✅ | USA Cleo TV (SHD) | Other Services | `Cleo.TV.HD.us2` |
@@ -1419,7 +1419,7 @@
 | ✅ | USA Discovery Familia | Other Services | `Discovery.Familia.En.EspaÃ±ol.us2` |
 | ✅ | USA Discovery Family (SHD) | Other Services | `Discovery.Family.Channel.HD.us2` |
 | ✅ | USA Discovery Life | Other Services | `Discovery.Life.Channel.us2` |
-| ❌ | USA Discovery Life Channel LHD | Other Services | `Discovery.Life.Channel.us2` |
+| ✅ | USA Discovery Life Channel LHD | Other Services | `Discovery.Life.Channel.us2` |
 | ✅ | USA Discovery Science (SHD) | Other Services | `` |
 | ✅ | USA Discovery Science LHD | Other Services | `` |
 | ✅ | USA Discovery Science UHD | Other Services | `` |
@@ -1452,7 +1452,7 @@
 | ✅ | USA Grit TV | Other Services | `Merit.TV.us2` |
 | ✅ | USA GSN (SHD) | Other Services | `` |
 | ✅ | USA GSN (UHD) | Other Services | `` |
-| ✅ | USA GUSTO | Other Services | `` |
+| ❌ | USA GUSTO | Other Services | `` |
 | ✅ | USA HALLMARK CHANNEL (PC) | Other Services | `Hallmark.Channel.HD.us2` |
 | ✅ | USA Hallmark Channel East LHD | Other Services | `Hallmark.Channel.HD.us2` |
 | ✅ | USA HALLMARK Family | Other Services | `Hallmark.Family.us2` |
@@ -1469,16 +1469,16 @@
 | ✅ | USA HGTV West | Other Services | `West.TV.us2` |
 | ✅ | USA History East (SHD) | Other Services | `` |
 | ✅ | USA History East UHD | Other Services | `` |
-| ❌ | USA History Espanol (SHD) | Other Services | `` |
+| ✅ | USA History Espanol (SHD) | Other Services | `` |
 | ❌ | USA HSN | Other Services | `HSN2.us2` |
 | ✅ | USA ID East (SHD) | Other Services | `` |
 | ✅ | USA ID East UHD | Other Services | `` |
 | ✅ | USA ID West | Other Services | `` |
-| ✅ | USA IFC (SHD) | Other Services | `` |
+| ❌ | USA IFC (SHD) | Other Services | `` |
 | ❌ | USA IFC West (SHD) | Other Services | `CBS.West.us2` |
 | ❌ | USA IMPACT Network (SHD) | Other Services | `Impact.Network.us2` |
 | ✅ | USA Info Wars | Other Services | `` |
-| ✅ | USA INSP (SHD) | Other Services | `` |
+| ❌ | USA INSP (SHD) | Other Services | `` |
 | ✅ | USA Jewelry Television | Other Services | `Jewelry.Television.us2` |
 | ✅ | USA Justice Central | Other Services | `Justice.Central.HD.us2` |
 | ✅ | USA KTVK 3TV Arizona's Family Phoenix | Other Services | `KTVK-DT.us_locals1` |
@@ -1538,18 +1538,18 @@
 | ❌ | USA Rotten Tomatoes (PC) | Other Services | `` |
 | ✅ | USA Shop LC | Other Services | `Shop.LC.us2` |
 | ✅ | USA SHORTS TV | Other Services | `Shorts.TV.us2` |
-| ✅ | USA Smithsonian Channel (SHD) | Other Services | `` |
+| ❌ | USA Smithsonian Channel (SHD) | Other Services | `` |
 | ✅ | USA Smithsonian West | Other Services | `` |
 | ✅ | USA Space City Home Network | Other Services | `Space.City.Home.Network.HD.us2` |
 | ❌ | USA Story TV (SHD) | Other Services | `Story.us2` |
 | ✅ | USA Syfy East LHD | Other Services | `` |
 | ✅ | USA Syfy East UHD | Other Services | `` |
 | ✅ | USA Syfy West | Other Services | `` |
-| ✅ | USA Tastemade Home | Other Services | `Tastemade.Home.us2` |
+| ❌ | USA Tastemade Home | Other Services | `Tastemade.Home.us2` |
 | ✅ | USA Tastemade Travel | Other Services | `Tastemade.Travel.us2` |
 | ✅ | USA TBD WRGB (SHD) | Other Services | `WRGB-DT.us_locals1` |
 | ✅ | USA TBN (SHD) | Other Services | `` |
-| ❌ | USA TBS East LHD | Other Services | `` |
+| ✅ | USA TBS East LHD | Other Services | `` |
 | ✅ | USA TBS East UHD | Other Services | `` |
 | ✅ | USA TBS West | Other Services | `CBS.West.us2` |
 | ❌ | USA The Africa Channel (SHD) | Other Services | `The.Africa.Channel.us2` |
@@ -1561,48 +1561,48 @@
 | ✅ | USA The Word Network | Other Services | `The.Word.Network.us2` |
 | ✅ | USA TheGrio (SHD) | Other Services | `` |
 | ✅ | USA TLC East LHD | Other Services | `` |
-| ✅ | USA TLC East UHD | Other Services | `` |
-| ✅ | USA TLC West | Other Services | `West.TV.us2` |
+| ❌ | USA TLC East UHD | Other Services | `` |
+| ❌ | USA TLC West | Other Services | `West.TV.us2` |
 | ✅ | USA TMZ | Other Services | `` |
 | ✅ | USA TNT East (SHD) | Other Services | `` |
 | ✅ | USA TNT East LHD | Other Services | `` |
-| ❌ | USA TNT East UHD | Other Services | `` |
-| ❌ | USA TNT West | Other Services | `West.TV.us2` |
+| ✅ | USA TNT East UHD | Other Services | `` |
+| ✅ | USA TNT West | Other Services | `West.TV.us2` |
 | ❌ | USA Travel Channel East LHD | Other Services | `The.Travel.Channel.HD.us2` |
-| ✅ | USA Travel Channel West | Other Services | `The.Travel.Channel.HD.(Pacific).us2` |
+| ❌ | USA Travel Channel West | Other Services | `The.Travel.Channel.HD.(Pacific).us2` |
 | ❌ | USA Travel East UHD | Other Services | `` |
-| ❌ | USA truTV East (SHD) | Other Services | `` |
-| ✅ | USA TruTV East UHD | Other Services | `` |
-| ❌ | USA truTV West | Other Services | `West.TV.us2` |
+| ✅ | USA truTV East (SHD) | Other Services | `` |
+| ❌ | USA TruTV East UHD | Other Services | `` |
+| ✅ | USA truTV West | Other Services | `West.TV.us2` |
 | ✅ | USA TV Land East (SHD) | Other Services | `` |
-| ✅ | USA TV Land UHD | Other Services | `TV.Land.HD.us2` |
-| ❌ | USA TV Land West | Other Services | `West.TV.us2` |
+| ❌ | USA TV Land UHD | Other Services | `TV.Land.HD.us2` |
+| ✅ | USA TV Land West | Other Services | `West.TV.us2` |
 | ❌ | USA TV One (SHD) | Other Services | `Bounce.TV.us2` |
 | ✅ | USA TXA21 (KTXA) Dallas | Other Services | `KTXA-DT.us_locals1` |
 | ✅ | USA UP TV (SHD) | Other Services | `mtv-U.us2` |
 | ✅ | USA USA Network East (SHD) | Other Services | `USA.Network.HD.(Pacific).us2` |
-| ✅ | USA USA Network East UHD | Other Services | `USA.Network.HD.us2` |
-| ✅ | USA USA Network West | Other Services | `WWE.Network.us2` |
+| ❌ | USA USA Network East UHD | Other Services | `USA.Network.HD.us2` |
+| ❌ | USA USA Network West | Other Services | `WWE.Network.us2` |
 | ✅ | USA Vice (SHD) | Other Services | `Vice.us2` |
 | ✅ | USA Viceland | Other Services | `` |
 | ❌ | USA Victory Channel  (SHD) | Other Services | `Victory.Channel.us2` |
 | ✅ | USA Wapa America | Other Services | `WAPA-DT.us_locals1` |
 | ✅ | USA WE TV (SHD) | Other Services | `West.TV.us2` |
 | ✅ | USA WGN 9 Chicago | Other Services | `` |
-| ✅ | USA WGN America | Other Services | `WAPA.America.us2` |
+| ❌ | USA WGN America | Other Services | `WAPA.America.us2` |
 | ✅ | USA WGN America SD | Other Services | `` |
 | ✅ | USA World Poker Tour | Other Services | `` |
 | ✅ | USA World WMHT | Other Services | `WMHT-DT.us_locals1` |
 | ✅ | USA DC News Now (WDVM) Washington D.C | Other Services | `WDVM-DT.us_locals1` |
 | ✅ | USA North Carolina | Kannapolis | WAXN-TV | Other Services | `WAXN-DT.us_locals1` |
 | ❌ | USA TV27 WRDQ | Other Services | `WRDQ-DT.us_locals1` |
-| ✅ | USA 5 Star Max | Other Services | `` |
-| ✅ | USA AMC Thrillers | Other Services | `` |
+| ❌ | USA 5 Star Max | Other Services | `` |
+| ❌ | USA AMC Thrillers | Other Services | `` |
 | ✅ | USA American Heroes | Other Services | `American.Heroes.Channel.HD.us2` |
 | ✅ | USA Catchy Comedy | Other Services | `Catchy.Comedy.us2` |
 | ✅ | USA Cinemax 5 StarMax East UHD | Other Services | `5.StarMAX.HD.East.us2` |
 | ✅ | USA CINEMAX ACTIONMAX EAST UHD | Other Services | `` |
-| ❌ | USA Cinemax ActionMax West | Other Services | `Cinemax.Action.us2` |
+| ✅ | USA Cinemax ActionMax West | Other Services | `Cinemax.Action.us2` |
 | ✅ | USA Cinemax East | Other Services | `Cinemax.Action.us2` |
 | ✅ | USA Cinemax East LHD | Other Services | `` |
 | ✅ | USA Cinemax East UHD | Other Services | `` |
@@ -1615,7 +1615,7 @@
 | ✅ | USA Comet | Other Services | `Comet.us2` |
 | ✅ | USA Cozi TV | Other Services | `COZI.TV.us2` |
 | ✅ | USA Disney Channel East (SHD) | Other Services | `Disney.Channel.HD.us2` |
-| ❌ | USA Disney Channel West | Other Services | `Disney.Channel.HD.us2` |
+| ✅ | USA Disney Channel West | Other Services | `Disney.Channel.HD.us2` |
 | ✅ | USA Disney Junior East | Other Services | `Disney.Junior.HD.us2` |
 | ✅ | USA Disney Junior West | Other Services | `Disney.Junior.HD.us2` |
 | ✅ | USA Family Movie Classic | Other Services | `Family.Movie.Classics.us2` |
@@ -1623,108 +1623,108 @@
 | ✅ | USA FX East (SHD) | Other Services | `` |
 | ❌ | USA FX East LHD | Other Services | `` |
 | ✅ | USA FX East UHD | Other Services | `` |
-| ❌ | USA FX West | Other Services | `` |
-| ❌ | USA FXM (SHD) | Other Services | `` |
+| ✅ | USA FX West | Other Services | `` |
+| ✅ | USA FXM (SHD) | Other Services | `` |
 | ✅ | USA FXM UHD | Other Services | `` |
 | ✅ | USA FXX East (SHD) | Other Services | `` |
-| ✅ | USA FXX East LHD | Other Services | `` |
+| ❌ | USA FXX East LHD | Other Services | `` |
 | ✅ | USA FXX East UHD | Other Services | `` |
-| ❌ | USA FXX West | Other Services | `` |
+| ✅ | USA FXX West | Other Services | `` |
 | ✅ | USA Hallmark Channel East (SHD) | Other Services | `Hallmark.Channel.HD.us2` |
 | ✅ | USA Hallmark Movies & Mysteries (SHD) | Other Services | `Movies!.us2` |
 | ✅ | USA HBO 2 (SHD) | Other Services | `` |
 | ✅ | USA HBO 2 East UHD | Other Services | `HBO.East.us2` |
-| ❌ | USA HBO 2 West UHD | Other Services | `HBO.West.us2` |
-| ❌ | USA HBO Comedy (SHD) | Other Services | `HBO.Comedy.HD.us2` |
+| ✅ | USA HBO 2 West UHD | Other Services | `HBO.West.us2` |
+| ✅ | USA HBO Comedy (SHD) | Other Services | `HBO.Comedy.HD.us2` |
 | ✅ | USA HBO Comedy UHD | Other Services | `HBO.Comedy.HD.us2` |
-| ❌ | USA HBO Comedy West | Other Services | `HBO.West.us2` |
+| ✅ | USA HBO Comedy West | Other Services | `HBO.West.us2` |
 | ✅ | USA HBO East (SHD) | Other Services | `HBO.East.us2` |
 | ✅ | USA HBO East LHD | Other Services | `HBO.East.us2` |
-| ✅ | USA HBO East UHD | Other Services | `HBO.East.us2` |
+| ❌ | USA HBO East UHD | Other Services | `HBO.East.us2` |
 | ❌ | USA HBO Family (SHD) | Other Services | `` |
 | ✅ | USA HBO Latin East (SHD) | Other Services | `HBO.East.us2` |
-| ❌ | USA HBO Latino West | Other Services | `HBO.West.us2` |
-| ❌ | USA HBO Signature East (SHD) | Other Services | `HBO.Signature.HD.us2` |
-| ❌ | USA HBO Signature UHD | Other Services | `HBO.Signature.HD.us2` |
+| ✅ | USA HBO Latino West | Other Services | `HBO.West.us2` |
+| ✅ | USA HBO Signature East (SHD) | Other Services | `HBO.Signature.HD.us2` |
+| ✅ | USA HBO Signature UHD | Other Services | `HBO.Signature.HD.us2` |
 | ❌ | USA HBO Signature West | Other Services | `HBO.West.us2` |
-| ❌ | USA HBO West | Other Services | `HBO.West.us2` |
-| ❌ | USA HBO West (SHD) | Other Services | `HBO.West.us2` |
-| ✅ | USA HBO Zone (SHD) | Other Services | `HBO.Zone.HD.us2` |
+| ✅ | USA HBO West | Other Services | `HBO.West.us2` |
+| ✅ | USA HBO West (SHD) | Other Services | `HBO.West.us2` |
+| ❌ | USA HBO Zone (SHD) | Other Services | `HBO.Zone.HD.us2` |
 | ✅ | USA HBO Zone UHD | Other Services | `HBO.Zone.HD.us2` |
-| ❌ | USA HBO Zone West | Other Services | `HBO.West.us2` |
+| ✅ | USA HBO Zone West | Other Services | `HBO.West.us2` |
 | ✅ | USA HDNET MOVIES | Other Services | `HDNet.Movies.us2` |
 | ✅ | USA HGTV East (SHD) | Other Services | `` |
 | ✅ | USA HLN (SHD) | Other Services | `` |
-| ❌ | USA IFC | Other Services | `` |
+| ✅ | USA IFC | Other Services | `` |
 | ✅ | USA INDIEPLEX East UHD | Other Services | `` |
 | ✅ | USA Law And Crime | Other Services | `Law.and.Crime.us2` |
 | ✅ | USA MGM+ Drive-In UHD | Other Services | `MGM+.Drive-In.us2` |
-| ✅ | USA MGM+ East UHD | Other Services | `` |
+| ❌ | USA MGM+ East UHD | Other Services | `` |
 | ✅ | USA MGM+ HITS | Other Services | `MGM+.Hits.HD.us2` |
 | ❌ | USA MGM+ MARQUEE | Other Services | `MGM+.Marquee.HD.us2` |
-| ❌ | USA MGM+ West | Other Services | `` |
+| ✅ | USA MGM+ West | Other Services | `` |
 | ✅ | USA MLB Strike Zone | Other Services | `MLB.Network.Strike.Zone.HD.us2` |
 | ❌ | USA MOVIEPLEX | Other Services | `MoviePlex.HD.us2` |
 | ✅ | USA Movies! | Other Services | `Movies!.us2` |
 | ✅ | USA MyTime Movie Network | Other Services | `USA.Network.HD.us2` |
-| ✅ | USA PIXL | Other Services | `PixL.us2` |
-| ✅ | USA Rewind TV | Other Services | `Rewind.TV.us2` |
-| ✅ | USA ScreenPix | Other Services | `ScreenPix.us2` |
-| ❌ | USA ScreenPix Action | Other Services | `ScreenPix.Action.us2` |
+| ❌ | USA PIXL | Other Services | `PixL.us2` |
+| ❌ | USA Rewind TV | Other Services | `Rewind.TV.us2` |
+| ❌ | USA ScreenPix | Other Services | `ScreenPix.us2` |
+| ✅ | USA ScreenPix Action | Other Services | `ScreenPix.Action.us2` |
 | ❌ | USA ScreenPix Voices | Other Services | `ScreenPix.Voices.us2` |
 | ❌ | USA ScreenPix Westerns | Other Services | `ScreenPix.Westerns.us2` |
-| ❌ | USA Showtime 2 East UHD | Other Services | `` |
+| ✅ | USA Showtime 2 East UHD | Other Services | `` |
 | ❌ | USA Showtime 2 West | Other Services | `Showtime.Women.HD.us2` |
 | ✅ | USA Showtime East (SHD) | Other Services | `Showtime.Next.HD.us2` |
 | ✅ | USA Showtime East LHD | Other Services | `` |
 | ✅ | USA Showtime East UHD | Other Services | `` |
-| ❌ | USA Showtime Extreme (SHD) | Other Services | `Showtime.Extreme.HD.us2` |
+| ✅ | USA Showtime Extreme (SHD) | Other Services | `Showtime.Extreme.HD.us2` |
 | ✅ | USA Showtime Extreme UHD | Other Services | `Showtime.Extreme.HD.us2` |
 | ✅ | USA Showtime Extreme West | Other Services | `Showtime.Extreme.HD.us2` |
 | ✅ | USA Showtime Family Zone UHD | Other Services | `` |
 | ❌ | USA Showtime Family Zone West | Other Services | `` |
 | ✅ | USA Showtime Next East (SHD) | Other Services | `Showtime.Next.HD.us2` |
 | ✅ | USA Showtime Next UHD | Other Services | `Showtime.Next.HD.us2` |
-| ✅ | USA SHOWTIME NEXT WEST | Other Services | `Showtime.Next.HD.us2` |
+| ❌ | USA SHOWTIME NEXT WEST | Other Services | `Showtime.Next.HD.us2` |
 | ✅ | USA Showtime Showcase UHD | Other Services | `Showtime.Showcase.HD.us2` |
-| ✅ | USA Showtime Showcase West | Other Services | `Showtime.Showcase.HD.us2` |
+| ❌ | USA Showtime Showcase West | Other Services | `Showtime.Showcase.HD.us2` |
 | ✅ | USA Showtime West | Other Services | `` |
 | ✅ | USA Showtime Women (SHD) | Other Services | `Showtime.Women.HD.us2` |
-| ✅ | USA Showtime Women UHD | Other Services | `Showtime.Women.HD.us2` |
-| ❌ | USA Showtime Women West | Other Services | `Showtime.Women.HD.us2` |
-| ✅ | USA SHOxBET | Other Services | `` |
+| ❌ | USA Showtime Women UHD | Other Services | `Showtime.Women.HD.us2` |
+| ✅ | USA Showtime Women West | Other Services | `Showtime.Women.HD.us2` |
+| ❌ | USA SHOxBET | Other Services | `` |
 | ✅ | USA SHOxBET (SHD) | Other Services | `` |
 | ✅ | USA SHOxBET West | Other Services | `` |
 | ✅ | USA Sony Movie Channel | Other Services | `Sony.Movie.Channel.HD.us2` |
 | ✅ | USA Sony Movie Channel LHD | Other Services | `Sony.Movie.Channel.HD.us2` |
-| ✅ | USA Starz Cinema (SHD) | Other Services | `Starz.Cinema.HD.us2` |
+| ❌ | USA Starz Cinema (SHD) | Other Services | `Starz.Cinema.HD.us2` |
 | ❌ | USA Starz Cinema West | Other Services | `Starz.Cinema.HD.us2` |
 | ✅ | USA Starz Comedy East | Other Services | `Starz.Comedy.HD.us2` |
-| ✅ | USA Starz Comedy East (SHD) | Other Services | `Starz.Comedy.HD.us2` |
+| ❌ | USA Starz Comedy East (SHD) | Other Services | `Starz.Comedy.HD.us2` |
 | ❌ | USA Starz Comedy West | Other Services | `Starz.Comedy.HD.us2` |
 | ✅ | USA Starz East (SHD) | Other Services | `` |
 | ✅ | USA StarZ East UHD | Other Services | `` |
 | ✅ | USA Starz Edge East (SHD) | Other Services | `Starz.Edge.HD.us2` |
 | ❌ | USA Starz Edge West | Other Services | `` |
-| ❌ | USA Starz Encore Action | Other Services | `Starz.Encore.Action.HD.us2` |
+| ✅ | USA Starz Encore Action | Other Services | `Starz.Encore.Action.HD.us2` |
 | ❌ | USA Starz Encore Black | Other Services | `Starz.Encore.Black.us2` |
 | ❌ | USA Starz Encore Classic | Other Services | `Starz.Encore.Classic.us2` |
 | ❌ | USA Starz Encore East (SHD) | Other Services | `Starz.Encore.EspaÃ±ol.SD.us2` |
 | ✅ | USA Starz Encore Español | Other Services | `Starz.Encore.EspaÃ±ol.SD.us2` |
 | ✅ | USA Starz Encore Family | Other Services | `Starz.Encore.Family.SD.us2` |
 | ❌ | USA Starz Encore Suspense | Other Services | `Starz.Encore.Suspense.us2` |
-| ❌ | USA Starz Encore West (SHD) | Other Services | `Starz.Encore.Westerns.SD.us2` |
-| ❌ | USA Starz Encore Westerns (SHD) | Other Services | `Starz.Encore.Westerns.(Pacific).us2` |
-| ❌ | USA Starz in Black East (SHD) | Other Services | `Starz.in.Black.HD.us2` |
+| ✅ | USA Starz Encore West (SHD) | Other Services | `Starz.Encore.Westerns.SD.us2` |
+| ✅ | USA Starz Encore Westerns (SHD) | Other Services | `Starz.Encore.Westerns.(Pacific).us2` |
+| ✅ | USA Starz in Black East (SHD) | Other Services | `Starz.in.Black.HD.us2` |
 | ❌ | USA Starz in Black West | Other Services | `Starz.in.Black.HD.us2` |
 | ❌ | USA Starz In Black West (SHD) | Other Services | `Starz.in.Black.HD.us2` |
 | ✅ | USA Starz Kids & Family (SHD) | Other Services | `` |
-| ❌ | USA Starz Kids & Family West | Other Services | `` |
-| ❌ | USA Starz West (SHD) | Other Services | `` |
+| ✅ | USA Starz Kids & Family West | Other Services | `` |
+| ✅ | USA Starz West (SHD) | Other Services | `` |
 | ✅ | USA Sundance (SHD) | Other Services | `SundanceTV.HD.us2` |
 | ✅ | USA TCM | Other Services | `` |
 | ✅ | USA The Movie Channel Extra (SHD) | Other Services | `The.Movie.Channel.Extra.HD.us2` |
-| ✅ | USA The Movie Channel Extra West (SHD) | Other Services | `The.Movie.Channel.Extra.HD.us2` |
+| ❌ | USA The Movie Channel Extra West (SHD) | Other Services | `The.Movie.Channel.Extra.HD.us2` |
 | ✅ | USA The Movie Channel UHD | Other Services | `The.Movie.Channel.HD.us2` |
 | ✅ | USA The Movie Channel West (SHD) | Other Services | `The.Movie.Channel.HD.us2` |
 | ✅ | USA TLC East (SHD) | Other Services | `` |
@@ -1865,28 +1865,28 @@
 | ❌ | USA Bally Sports Wisconsin Plus (DTV) | Other Services | `` |
 | ❌ | USA Bally Sports Wisconsin+ (FU) | Other Services | `` |
 | ✅ | USA BeIN Sports 4 | Other Services | `beIN.Sports.USA.HD.us2` |
-| ❌ | USA BeIN Sports 5 | Other Services | `beIN.Sports.USA.HD.us2` |
+| ✅ | USA BeIN Sports 5 | Other Services | `beIN.Sports.USA.HD.us2` |
 | ✅ | USA BeIN Sports 6 | Other Services | `beIN.Sports.USA.HD.us2` |
 | ✅ | USA BeIN Sports 7 | Other Services | `beIN.Sports.USA.HD.us2` |
 | ✅ | USA BeIN Sports 8 | Other Services | `beIN.Sports.USA.HD.us2` |
 | ✅ | USA Bein Sports en Espanol UHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ✅ | USA beIN SPORTS La Liga | Other Services | `beIN.Sports.USA.HD.us2` |
 | ✅ | USA BeIN Sports LaLiga | Other Services | `beIN.Sports.USA.HD.us2` |
-| ❌ | USA Bein Sports UHD | Other Services | `beIN.Sports.USA.HD.us2` |
+| ✅ | USA Bein Sports UHD | Other Services | `beIN.Sports.USA.HD.us2` |
 | ❌ | USA Bein Sports Xtra | Other Services | `beIN.Sports.USA.HD.us2` |
 | ✅ | USA Big Ten Network Overflow 2 | Other Services | `Big.Ten.Network.Overflow.us2` |
 | ✅ | USA Big Ten Network Overflow 3 | Other Services | `Big.Ten.Network.Overflow.us2` |
 | ✅ | USA Big Ten Network Overflow 4 | Other Services | `Big.Ten.Network.Overflow.us2` |
 | ✅ | USA Big Ten Network UHD | Other Services | `Big.Ten.Network.HD.us2` |
-| ❌ | USA Billiard TV | Other Services | `Billiard.TV.us2` |
+| ✅ | USA Billiard TV | Other Services | `Billiard.TV.us2` |
 | ✅ | USA CBS Sports Golazo Network (PC) | Other Services | `CBS.Sports.Golazo.Network.us2` |
 | ✅ | USA CBS SPORTS HQ | Other Services | `CBS.Sports.HQ.us2` |
-| ✅ | USA CBS Sports Network (SHD) | Other Services | `CBS.Sports.Golazo.Network.us2` |
+| ❌ | USA CBS Sports Network (SHD) | Other Services | `CBS.Sports.Golazo.Network.us2` |
 | ✅ | USA CBS Sports Network UHD | Other Services | `CBS.Sports.Network.HD.us2` |
 | ✅ | USA Chicago Sports Network  (CHSN) | Other Services | `CHSN.Chicago.Sports.Network.us2` |
 | ✅ | USA Disney XD | Other Services | `Disney.XD.HD.us2` |
 | ❌ | USA Disney XD West | Other Services | `` |
-| ❌ | USA DIY Network | Other Services | `USA.Network.HD.(Pacific).us2` |
+| ✅ | USA DIY Network | Other Services | `USA.Network.HD.(Pacific).us2` |
 | ❌ | USA E! East (SHD) | Other Services | `A.and.E.HD.East.us2` |
 | ❌ | USA Eleven Sports | Other Services | `` |
 | ✅ | USA ESPN (SHD) | Other Services | `` |
@@ -1896,11 +1896,11 @@
 | ✅ | USA ESPN Deportes (SHD) | Other Services | `ESPN.Deportes.HD.us2` |
 | ❌ | USA ESPN News (SHD) | Other Services | `` |
 | ✅ | USA ESPN News LHD | Other Services | `` |
-| ❌ | USA ESPN News UHD | Other Services | `ESPNEWS.HD.us2` |
-| ❌ | USA ESPN SEC Network | Other Services | `SEC.Network.HD.us2` |
+| ✅ | USA ESPN News UHD | Other Services | `ESPNEWS.HD.us2` |
+| ✅ | USA ESPN SEC Network | Other Services | `SEC.Network.HD.us2` |
 | ✅ | USA ESPN UHD | Other Services | `ESPN+.Dummy.us` |
-| ✅ | USA ESPNU | Other Services | `ESPNU.HD.us2` |
-| ❌ | USA ESPNU (SHD) | Other Services | `ESPNU.HD.us2` |
+| ❌ | USA ESPNU | Other Services | `ESPNU.HD.us2` |
+| ✅ | USA ESPNU (SHD) | Other Services | `ESPNU.HD.us2` |
 | ✅ | USA ESPNU UHD | Other Services | `ESPNU.HD.us2` |
 | ✅ | USA FanDuel Racing | Other Services | `` |
 | ❌ | USA Fanduel Sports Southwest (SHD) | Other Services | `` |
@@ -1924,12 +1924,12 @@
 | ❌ | USA FanDuel Sports Sun (South Florida) | Other Services | `` |
 | ❌ | USA FOX Sports Tennessee | Other Services | `` |
 | ✅ | USA Freeform (SHD) | Other Services | `Freeform.HD.us2` |
-| ✅ | USA Fubo Sports Network | Other Services | `Fubo.Sports.us` |
+| ❌ | USA Fubo Sports Network | Other Services | `Fubo.Sports.us` |
 | ❌ | USA Ginx TV | Other Services | `` |
 | ✅ | USA Golf Channel (SHD) | Other Services | `Golf.Channel.HD.us2` |
-| ❌ | USA Golf Channel LHD | Other Services | `Golf.Channel.HD.us2` |
-| ❌ | USA Golf Channel UHD | Other Services | `Golf.Channel.HD.us2` |
-| ❌ | USA Golf US Open  (PC) | Other Services | `` |
+| ✅ | USA Golf Channel LHD | Other Services | `Golf.Channel.HD.us2` |
+| ✅ | USA Golf Channel UHD | Other Services | `Golf.Channel.HD.us2` |
+| ✅ | USA Golf US Open  (PC) | Other Services | `` |
 | ✅ | USA Marquee Sports Network | Other Services | `Marquee.Sports.Network.HD.us2` |
 | ✅ | USA MASN | Other Services | `` |
 | ❌ | USA MASN 2 | Other Services | `` |
@@ -1939,30 +1939,30 @@
 | ✅ | USA MLB Network UHD | Other Services | `MLB.Network.HD.us2` |
 | ✅ | USA Monumental Sports network | Other Services | `Monumental.Sports.Network.2.HD.us2` |
 | ✅ | USA MSG | Other Services | `` |
-| ❌ | USA MSG 2 | Other Services | `` |
-| ❌ | USA MSG 2 Plus | Other Services | `MSG.Plus.us2` |
-| ❌ | USA MSG Plus | Other Services | `MSG.Plus.us2` |
+| ✅ | USA MSG 2 | Other Services | `` |
+| ✅ | USA MSG 2 Plus | Other Services | `MSG.Plus.us2` |
+| ✅ | USA MSG Plus | Other Services | `MSG.Plus.us2` |
 | ✅ | USA MSGSN | Other Services | `` |
 | ✅ | USA MSGSN 2  Zone 2 (SHD) | Other Services | `MSG.Zone.1.us2` |
 | ❌ | USA NBA TV | Other Services | `NRB.TV.us2` |
 | ✅ | USA NBA TV LHD | Other Services | `NBA.TV.HD.us2` |
-| ❌ | USA NBA TV UHD | Other Services | `NBA.TV.HD.us2` |
+| ✅ | USA NBA TV UHD | Other Services | `NBA.TV.HD.us2` |
 | ❌ | USA NBC Golf Pass (PC) | Other Services | `` |
-| ❌ | USA NBC Sports (PC) | Other Services | `NBC.Sports.4K.us2` |
+| ✅ | USA NBC Sports (PC) | Other Services | `NBC.Sports.4K.us2` |
 | ✅ | USA NBC Sports Bay Area | Other Services | `NBC.Sports.Bay.Area.HD.us2` |
 | ✅ | USA NBC Sports Bay Area Plus | Other Services | `NBC.Sports.Bay.Area.Plus.us2` |
-| ❌ | USA NBC Sports Boston LHD | Other Services | `NBC.Sports.Boston.HD.us2` |
+| ✅ | USA NBC Sports Boston LHD | Other Services | `NBC.Sports.Boston.HD.us2` |
 | ❌ | USA NBC Sports California | Other Services | `NBC.Sports.California.Outer.Market.us2` |
-| ✅ | USA NBC Sports California Plus | Other Services | `NBC.Sports.California.Plus.us2` |
+| ❌ | USA NBC Sports California Plus | Other Services | `NBC.Sports.California.Plus.us2` |
 | ✅ | USA NBC Sports California Plus 2 | Other Services | `NBC.Sports.California.Plus.3.us2` |
-| ✅ | USA NBC Sports Chicago | Other Services | `CHSN.Chicago.Sports.Network.us2` |
+| ❌ | USA NBC Sports Chicago | Other Services | `CHSN.Chicago.Sports.Network.us2` |
 | ✅ | USA NBC Sports Chicago Plus 2 | Other Services | `NBC.Sports.HD.2.us2` |
 | ✅ | USA NBC Sports Chicago Plus LHD | Other Services | `NBC.Sports.Philadelphia.Plus.us2` |
 | ❌ | USA NBC Sports Network | Other Services | `Ryz.Sports.Network.us2` |
 | ❌ | USA NBC Sports Network LHD | Other Services | `Ryz.Sports.Network.us2` |
 | ❌ | USA NBC Sports Network UHD | Other Services | `CBS.Sports.Network.HD.us2` |
 | ✅ | USA NBC Sports Philadelphia | Other Services | `NBC.Sports.Philadelphia.HD.us2` |
-| ❌ | USA NBC Sports Philadelphia Plus | Other Services | `NBC.Sports.Philadelphia.Plus.us2` |
+| ✅ | USA NBC Sports Philadelphia Plus | Other Services | `NBC.Sports.Philadelphia.Plus.us2` |
 | ✅ | USA NBC Sports Washington LHD | Other Services | `` |
 | ✅ | USA NESN Plus | Other Services | `NESN+.New.England.Sports.Network.Plus.us2` |
 | ✅ | USA NESN UHD | Other Services | `` |
@@ -1972,8 +1972,8 @@
 | ✅ | USA NFL Network LHD | Other Services | `NFL.Network.HD.us2` |
 | ✅ | USA NFL Network UHD | Other Services | `NFL.Network.HD.us2` |
 | ✅ | USA NHL Network UHD | Other Services | `NHL.Network.HD.us2` |
-| ❌ | USA Outside TV | Other Services | `` |
-| ❌ | USA OWN | Other Services | `` |
+| ✅ | USA Outside TV | Other Services | `` |
+| ✅ | USA OWN | Other Services | `` |
 | ❌ | USA PAC-12 Network (SHD) | Other Services | `ACC.Network.us2` |
 | ✅ | USA PlayersTV | Other Services | `` |
 | ✅ | USA Poker Go | Other Services | `` |
@@ -1983,10 +1983,10 @@
 | ❌ | USA Root Sports Plus | Other Services | `Root.Sports.Northwest.Plus.us2` |
 | ✅ | USA SEC Network | Other Services | `SEC.Network.HD.us2` |
 | ✅ | USA SEC Network (SHD) | Other Services | `SEC.Network.HD.us2` |
-| ❌ | USA Smithsonian Channel UHD | Other Services | `` |
+| ✅ | USA Smithsonian Channel UHD | Other Services | `` |
 | ✅ | USA SNL Vault (PC) | Other Services | `` |
-| ❌ | USA SNL Vault Sport (PC) | Other Services | `` |
-| ❌ | USA Spectrum OC16 (SHD) | Other Services | `` |
+| ✅ | USA SNL Vault Sport (PC) | Other Services | `` |
+| ✅ | USA Spectrum OC16 (SHD) | Other Services | `` |
 | ❌ | USA Spectrum Sports (SHD) | Other Services | `` |
 | ✅ | USA Spectrum SportsNet LA Dodgers | Other Services | `Spectrum.SportsNet.LA.Dodgers.HD.us2` |
 | ✅ | USA Spectrum SportsNet Lakers (HD) | Other Services | `Spectrum.SportsNet.Lakers.HD.us2` |
@@ -2000,19 +2000,19 @@
 | ❌ | USA Stadium | Other Services | `` |
 | ✅ | USA Sundance | Other Services | `SundanceTV.HD.us2` |
 | ✅ | USA Syfy East (SHD) | Other Services | `` |
-| ❌ | USA Tastemade | Other Services | `Tastemade.us2` |
-| ❌ | USA TBS East (SHD) | Other Services | `HBO.East.us2` |
+| ✅ | USA Tastemade | Other Services | `Tastemade.us2` |
+| ✅ | USA TBS East (SHD) | Other Services | `HBO.East.us2` |
 | ✅ | USA TCM (SHD) | Other Services | `` |
 | ❌ | USA TCN_Sports_Philadelfia | Other Services | `` |
 | ✅ | USA Telemundo Boston WNEU | Other Services | `WNEU-DT.us_locals1` |
 | ✅ | USA Telemundo Fresno KNSO | Other Services | `KNSO-DT.us_locals1` |
-| ✅ | USA Telemundo Las Vegas KBLR | Other Services | `KBLR-DT.us_locals1` |
+| ❌ | USA Telemundo Las Vegas KBLR | Other Services | `KBLR-DT.us_locals1` |
 | ❌ | USA Telemundo San Diego KUAN | Other Services | `KUAN-LD.us_locals1` |
-| ❌ | USA Tennis Channel | Other Services | `Tennis.Channel.HD.us2` |
+| ✅ | USA Tennis Channel | Other Services | `Tennis.Channel.HD.us2` |
 | ✅ | USA Tennis Channel (SHD) | Other Services | `Tennis.Channel.HD.us2` |
 | ✅ | USA Tennis Channel UHD | Other Services | `Tennis.Channel.HD.us2` |
-| ✅ | USA TNT West | Other Services | `West.TV.us2` |
-| ✅ | USA Travel East (SHD) | Other Services | `` |
+| ❌ | USA TNT West | Other Services | `West.TV.us2` |
+| ❌ | USA Travel East (SHD) | Other Services | `` |
 | ✅ | USA TVG 2 Network | Other Services | `Me.TV.Network.us2` |
 | ✅ | USA TVG Network | Other Services | `USA.Network.HD.(Pacific).us2` |
 | ✅ | USA TyC Sports | Other Services | `TyC.Sports.Internacional.USA.us2` |
@@ -2025,8 +2025,8 @@
 | ✅ | USA Willow Cricket | Other Services | `Cricket.Dummy.us` |
 | ✅ | USA Willow Cricket Extra | Other Services | `Cricket.Dummy.us` |
 | ✅ | USA World Fishing Network | Other Services | `World.Fishing.Network.HD.(US).us2` |
-| ❌ | USA WPIX New York | Other Services | `WPIX-DT.us_locals1` |
-| ✅ | USA WWE UHD | Other Services | `` |
+| ✅ | USA WPIX New York | Other Services | `WPIX-DT.us_locals1` |
+| ❌ | USA WWE UHD | Other Services | `` |
 | ✅ | USA Yes Network (SHD) | Other Services | `Yes.Network.us2` |
 | ✅ | USA YES Network LHD | Other Services | `Yes.Network.us2` |
 | ✅ | USA YES Network UHD | Other Services | `Yes.Network.us2` |
@@ -2062,9 +2062,9 @@
 | ❌ | USA Soccer21: | Other Services | `` |
 | ❌ | USA Soccer22: | Other Services | `` |
 | ❌ | USA Soccer23: | Other Services | `` |
-| ✅ | USA Baby First | Other Services | `BabyFirst.TV.us2` |
+| ❌ | USA Baby First | Other Services | `BabyFirst.TV.us2` |
 | ✅ | USA Baby First LHD | Other Services | `BabyFirst.TV.us2` |
-| ✅ | USA Baby TV | Other Services | `Baby.TV.US.us2` |
+| ❌ | USA Baby TV | Other Services | `Baby.TV.US.us2` |
 | ❌ | USA BabyTV | Other Services | `Baby.TV.US.us2` |
 | ✅ | USA Boomerang | Other Services | `Boomerang.us2` |
 | ✅ | USA Boomerang LHD | Other Services | `Boomerang.us2` |
@@ -2075,96 +2075,96 @@
 | ❌ | USA Cartoon Network West | Other Services | `Cartoon.Network.HD.us2` |
 | ✅ | USA Disney Channel East LHD | Other Services | `Disney.Channel.HD.us2` |
 | ✅ | USA Disney Channel East UHD | Other Services | `Disney.Channel.HD.us2` |
-| ✅ | USA Disney Channel West LHD | Other Services | `Disney.Channel.HD.us2` |
-| ❌ | USA Disney Junior East (SHD) | Other Services | `Disney.Junior.HD.us2` |
-| ✅ | USA Disney Junior UHD | Other Services | `Disney.Junior.HD.us2` |
-| ✅ | USA Disney Junior West LHD | Other Services | `Disney.Junior.HD.us2` |
-| ❌ | USA Disney XD East (SHD) | Other Services | `Disney.XD.HD.us2` |
+| ❌ | USA Disney Channel West LHD | Other Services | `Disney.Channel.HD.us2` |
+| ✅ | USA Disney Junior East (SHD) | Other Services | `Disney.Junior.HD.us2` |
+| ❌ | USA Disney Junior UHD | Other Services | `Disney.Junior.HD.us2` |
+| ❌ | USA Disney Junior West LHD | Other Services | `Disney.Junior.HD.us2` |
+| ✅ | USA Disney XD East (SHD) | Other Services | `Disney.XD.HD.us2` |
 | ✅ | USA Disney XD UHD | Other Services | `Disney.XD.HD.us2` |
-| ✅ | USA Disney XD West (SHD) | Other Services | `` |
+| ❌ | USA Disney XD West (SHD) | Other Services | `` |
 | ✅ | USA Nick Jr East | Other Services | `` |
-| ✅ | USA Nick Jr West | Other Services | `` |
-| ✅ | USA Nick Toon West | Other Services | `` |
+| ❌ | USA Nick Jr West | Other Services | `` |
+| ❌ | USA Nick Toon West | Other Services | `` |
 | ✅ | USA Nickelodeon East (SHD) | Other Services | `Nickelodeon.HD.us2` |
 | ✅ | USA Nickelodeon UHD | Other Services | `Nickelodeon.HD.us2` |
 | ✅ | USA Nickelodeon West | Other Services | `Nickelodeon.HD.us2` |
 | ✅ | USA Nicktoons UHD | Other Services | `Nicktoons.us2` |
 | ❌ | USA Starz Kids & Family West (SHD) | Other Services | `` |
-| ✅ | USA TeenNick East | Other Services | `` |
-| ✅ | USA TeenNick West | Other Services | `` |
-| ❌ | USA Metv Toons | Other Services | `MeTV.Toons.us2` |
-| ✅ | USA BET Gospel | Other Services | `BET.GOSPEL.us2` |
+| ❌ | USA TeenNick East | Other Services | `` |
+| ❌ | USA TeenNick West | Other Services | `` |
+| ✅ | USA Metv Toons | Other Services | `MeTV.Toons.us2` |
+| ❌ | USA BET Gospel | Other Services | `BET.GOSPEL.us2` |
 | ✅ | USA BET Jams | Other Services | `BET.Jams.us2` |
 | ✅ | USA BET SOUL (SHD) | Other Services | `BET.Soul.us2` |
 | ✅ | USA CMT UHD | Other Services | `mtv-U.us2` |
-| ✅ | USA CMT West | Other Services | `West.TV.us2` |
+| ❌ | USA CMT West | Other Services | `West.TV.us2` |
 | ❌ | USA Latin MTV_TR3S | Other Services | `` |
 | ✅ | USA MTV 2 | Other Services | `mtv-U.us2` |
-| ✅ | USA MTV 2 West | Other Services | `West.TV.us2` |
+| ❌ | USA MTV 2 West | Other Services | `West.TV.us2` |
 | ✅ | USA MTV Classic (SHD) | Other Services | `MTV.Classic.us2` |
 | ✅ | USA MTV Classic (UHD) | Other Services | `MTV.Classic.us2` |
 | ✅ | USA MTV Classic West | Other Services | `MTV.Classic.us2` |
 | ✅ | USA MTV East (SHD) | Other Services | `` |
-| ❌ | USA MTV East UHD | Other Services | `` |
+| ✅ | USA MTV East UHD | Other Services | `` |
 | ✅ | USA MTV Live | Other Services | `` |
 | ✅ | USA MTV U | Other Services | `mtv-U.us2` |
-| ✅ | USA MTV West | Other Services | `West.TV.us2` |
+| ❌ | USA MTV West | Other Services | `West.TV.us2` |
 | ❌ | USA Music Choice Video | '70s | Other Services | `` |
-| ❌ | USA Music Choice Video | 90's | Other Services | `` |
+| ✅ | USA Music Choice Video | 90's | Other Services | `` |
 | ✅ | USA Music Choice Video | Adult Alternative | Other Services | `` |
 | ✅ | USA Music Choice Video | Alternative | Other Services | `` |
 | ❌ | USA Music Choice Video | Brits + Hits | Other Services | `` |
-| ✅ | USA Music Choice Video | Classic Country | Other Services | `` |
-| ❌ | USA Music Choice Video | Classic Rock | Other Services | `` |
+| ❌ | USA Music Choice Video | Classic Country | Other Services | `` |
+| ✅ | USA Music Choice Video | Classic Rock | Other Services | `` |
 | ❌ | USA Music Choice Video | Country Hits | Other Services | `` |
 | ✅ | USA Music Choice Video | Dance/ EDM | Other Services | `` |
 | ✅ | USA Music Choice Video | Gospel | Other Services | `` |
 | ✅ | USA Music Choice Video | Hip-Hop and R&B | Other Services | `` |
 | ❌ | USA Music Choice Video | Hip-Hop Classics | Other Services | `` |
-| ❌ | USA Music Choice Video | Hit List | Other Services | `` |
+| ✅ | USA Music Choice Video | Hit List | Other Services | `` |
 | ❌ | USA Music Choice Video | Holiday Hits | Other Services | `` |
 | ❌ | USA Music Choice Video | Holiday Yule Logs | Other Services | `` |
 | ❌ | USA Music Choice Video | Indie | Other Services | `` |
 | ✅ | USA Music Choice Video | Kids Only | Other Services | `` |
 | ❌ | USA Music Choice Video | Kidz Bop | Other Services | `KIDZ-LD.us_locals1` |
-| ✅ | USA Music Choice Video | Kidz Only! | Other Services | `KIDZ-LD.us_locals1` |
+| ❌ | USA Music Choice Video | Kidz Only! | Other Services | `KIDZ-LD.us_locals1` |
 | ❌ | USA Music Choice Video | Love Songs | Other Services | `` |
 | ❌ | USA Music Choice Video | Metal | Other Services | `` |
-| ✅ | USA Music Choice Video | Mexicana | Other Services | `` |
+| ❌ | USA Music Choice Video | Mexicana | Other Services | `` |
 | ❌ | USA Music Choice Video | Music Choice Max | Other Services | `` |
-| ✅ | USA Music Choice Video | Musica Urbana | Other Services | `` |
+| ❌ | USA Music Choice Video | Musica Urbana | Other Services | `` |
 | ❌ | USA Music Choice Video | Party Favorites | Other Services | `` |
 | ❌ | USA Music Choice Video | Pop & Country | Other Services | `` |
-| ✅ | USA Music Choice Video | Pop Hits | Other Services | `` |
-| ✅ | USA Music Choice Video | Pop Latino | Other Services | `` |
+| ❌ | USA Music Choice Video | Pop Hits | Other Services | `` |
+| ❌ | USA Music Choice Video | Pop Latino | Other Services | `` |
 | ❌ | USA Music Choice Video | R&B | Other Services | `` |
 | ❌ | USA Music Choice Video | R&B Classics | Other Services | `` |
 | ✅ | USA Music Choice Video | R&B Soul | Other Services | `` |
 | ✅ | USA Music Choice Video | Rap | Other Services | `` |
 | ❌ | USA Music Choice Video | Rap 2K | Other Services | `` |
 | ❌ | USA Music Choice Video | Reggae | Other Services | `` |
-| ❌ | USA Music Choice Video | Rock | Other Services | `` |
+| ✅ | USA Music Choice Video | Rock | Other Services | `` |
 | ❌ | USA Music Choice Video | Rock Hits | Other Services | `` |
 | ✅ | USA Music Choice Video | Romances | Other Services | `` |
 | ❌ | USA Music Choice Video | Soft Rock | Other Services | `` |
-| ❌ | USA Music Choice Video | Solid Gold Oldies | Other Services | `` |
+| ✅ | USA Music Choice Video | Solid Gold Oldies | Other Services | `` |
 | ✅ | USA Music Choice Video | Soundscape | Other Services | `` |
 | ❌ | USA Music Choice Video | Tailgate Party | Other Services | `` |
-| ❌ | USA Music Choice Video | Teen Beats | Other Services | `` |
+| ✅ | USA Music Choice Video | Teen Beats | Other Services | `` |
 | ❌ | USA Music Choice Video | Throwback Jamz | Other Services | `` |
-| ❌ | USA Music Choice Video | Today's Country | Other Services | `` |
+| ✅ | USA Music Choice Video | Today's Country | Other Services | `` |
 | ❌ | USA Music Choice Video | Today's Country: CMA Awards | Other Services | `` |
 | ✅ | USA Music Choice Video | Toddler Tunes | Other Services | `` |
-| ✅ | USA Music Choice Video | Tropicales | Other Services | `` |
-| ✅ | USA Music Choice Video | Y2K | Other Services | `` |
+| ❌ | USA Music Choice Video | Tropicales | Other Services | `` |
+| ❌ | USA Music Choice Video | Y2K | Other Services | `` |
 | ❌ | USA Music Choice | '80s | Other Services | `Music.Choice.Dummy.us` |
-| ❌ | USA Music Choice | Blues | Other Services | `Music.Choice.Dummy.us` |
-| ❌ | USA Music Choice | Contemporary Christians | Other Services | `` |
+| ✅ | USA Music Choice | Blues | Other Services | `Music.Choice.Dummy.us` |
+| ✅ | USA Music Choice | Contemporary Christians | Other Services | `` |
 | ❌ | USA Music Choice | Easy Listening | Other Services | `` |
 | ❌ | USA Music Choice | Jazz | Other Services | `Music.Choice.Dummy.us` |
 | ❌ | USA Music Choice | Light Classical | Other Services | `` |
 | ❌ | USA Music Choice | Singers & Swing | Other Services | `` |
-| ❌ | USA Music Choice | Smooth Jazz | Other Services | `` |
+| ✅ | USA Music Choice | Smooth Jazz | Other Services | `` |
 | ❌ | USA Music Choice | Sound of the Season | Other Services | `` |
 | ❌ | USA Music Choice | Stage & Screen: Sunday at the Movies | Other Services | `Movies!.us2` |
 | ❌ | USA NICK MUSIC (SHD) | Other Services | `Nick.Music.us2` |
@@ -2173,76 +2173,76 @@
 | ❌ | USA Real Music Rock 00-99 | Other Services | `` |
 | ❌ | USA Real Music Rock 80-90 | Other Services | `` |
 | ❌ | USA Real Music Rock Modern 2020 | Other Services | `` |
-| ❌ | USA Vevo Holiday | Music: Vevo | `Vevo.Holiday.us2` |
+| ✅ | USA Vevo Holiday | Music: Vevo | `Vevo.Holiday.us2` |
 | ✅ | USA VH1 (SHD) | Other Services | `` |
 | ✅ | USA VH1 UHD | Other Services | `` |
 | ✅ | USA VH1 West | Other Services | `` |
-| ❌ | Vevo Pop | Music: Vevo | `Vevo.Pop.us2` |
+| ✅ | Vevo Pop | Music: Vevo | `Vevo.Pop.us2` |
 | ❌ | CA (ZH) Fairchild 2 HD (B) | Other Services | `` |
 | ❌ | CA (ZH) Fairchild Television (B) | Other Services | `` |
 | ❌ | CA (ZH) Fairchild Television Mandarin (B) | Other Services | `` |
 | ❌ | CA (ZH) Fairchild Television West (B) | Other Services | `` |
 | ❌ | CA A&E | Other Services | `` |
-| ✅ | CA ABC 5 (WCVB) Boston | Other Services | `WCVB-DT.us_locals1` |
+| ❌ | CA ABC 5 (WCVB) Boston | Other Services | `WCVB-DT.us_locals1` |
 | ✅ | CA ABC 7 (WXYZ) Detroit | Other Services | `WXYZ-DT.us_locals1` |
 | ❌ | CA ABC Buffalo | Other Services | `` |
 | ❌ | CA ABC Spark | Other Services | `` |
 | ❌ | CA Aboriginal Peoples Television Network | Other Services | `` |
 | ✅ | CA Addik TV (FR) | Other Services | `` |
-| ✅ | CA Adult Swim | Other Services | `` |
+| ❌ | CA Adult Swim | Other Services | `` |
 | ✅ | CA Amazing Discoveries TV | Other Services | `` |
 | ✅ | CA AMC (R) | Other Services | `` |
 | ❌ | CA American Heroes | Other Services | `American.Heroes.Channel.HD.us2` |
-| ✅ | CA AMI TV (R) | Other Services | `` |
+| ❌ | CA AMI TV (R) | Other Services | `` |
 | ❌ | CA AMI-TELE FR | Other Services | `` |
-| ✅ | CA ANIMAL PLANET (R) | Other Services | `Animal.Planet.HD.(Pacific).us2` |
+| ❌ | CA ANIMAL PLANET (R) | Other Services | `Animal.Planet.HD.(Pacific).us2` |
 | ✅ | CA APTN (R) | Other Services | `` |
 | ❌ | CA Aquarium (R) | Other Services | `` |
-| ✅ | CA Assemblee Nationale du Quebec | Other Services | `` |
+| ❌ | CA Assemblee Nationale du Quebec | Other Services | `` |
 | ✅ | CA BBC Earth | Other Services | `` |
-| ❌ | CA BBC First | Other Services | `` |
+| ✅ | CA BBC First | Other Services | `` |
 | ❌ | CA BBC Toronto Gaunda Punjab | Other Services | `` |
 | ✅ | CA BBC WORLD | Other Services | `BBC.World.News.Dummy.us` |
 | ✅ | CA Bloomberg (R) | Other Services | `Bloomberg.Business.Television.us2` |
 | ✅ | CA BOOMERANG | Other Services | `Boomerang.us2` |
-| ✅ | CA CablePulse 24 | Other Services | `` |
+| ❌ | CA CablePulse 24 | Other Services | `` |
 | ❌ | CA Canal 9 | Other Services | `` |
 | ✅ | CA Canal D (FR) | Other Services | `` |
 | ✅ | CA Canal M | Other Services | `` |
-| ❌ | CA CARTOON NETWORK | Other Services | `AdultSwim.com.Cartoon.Network.us2` |
+| ✅ | CA CARTOON NETWORK | Other Services | `AdultSwim.com.Cartoon.Network.us2` |
 | ✅ | CA Cartoon Network (R) | Other Services | `AdultSwim.com.Cartoon.Network.us2` |
 | ✅ | CA CBC Calgary | Other Services | `` |
 | ✅ | CA CBC Charlottetown | Other Services | `` |
-| ❌ | CA CBC Edmonton | Other Services | `` |
-| ❌ | CA CBC Edmonton | Other Services | `` |
+| ✅ | CA CBC Edmonton | Other Services | `` |
+| ✅ | CA CBC Edmonton | Other Services | `` |
 | ❌ | CA CBC Fredericton | Other Services | `` |
 | ❌ | CA CBC Halifax | Other Services | `` |
 | ❌ | CA CBC MONCTON | Other Services | `` |
-| ❌ | CA CBC Montreal | Other Services | `` |
-| ❌ | CA CBC Montreal HD | Other Services | `` |
-| ❌ | CA CBC News Network | Other Services | `One.America.News.Network.HD.us2` |
-| ❌ | CA CBC News Network | Other Services | `One.America.News.Network.HD.us2` |
+| ✅ | CA CBC Montreal | Other Services | `` |
+| ✅ | CA CBC Montreal HD | Other Services | `` |
+| ✅ | CA CBC News Network | Other Services | `One.America.News.Network.HD.us2` |
+| ✅ | CA CBC News Network | Other Services | `One.America.News.Network.HD.us2` |
 | ❌ | CA CBC OTTAWA | Other Services | `` |
-| ✅ | CA CBC Ottawa | Other Services | `` |
-| ❌ | CA CBC Regina | Other Services | `` |
-| ✅ | CA CBC St. John's | Other Services | `` |
+| ❌ | CA CBC Ottawa | Other Services | `` |
+| ✅ | CA CBC Regina | Other Services | `` |
 | ❌ | CA CBC St. John's | Other Services | `` |
-| ❌ | CA CBC TORONTO | Other Services | `` |
-| ❌ | CA CBC Toronto | Other Services | `` |
-| ❌ | CA CBC Toronto | Other Services | `` |
+| ✅ | CA CBC St. John's | Other Services | `` |
+| ✅ | CA CBC TORONTO | Other Services | `` |
+| ✅ | CA CBC Toronto | Other Services | `` |
+| ✅ | CA CBC Toronto | Other Services | `` |
 | ✅ | CA CBC VANCOUVER | Other Services | `` |
-| ❌ | CA CBC Vancouver | Other Services | `` |
+| ✅ | CA CBC Vancouver | Other Services | `` |
 | ✅ | CA CBC Windsor | Other Services | `` |
 | ❌ | CA CBC WINDSOR | Other Services | `` |
 | ✅ | CA CBC WINNIPEG | Other Services | `` |
 | ✅ | CA CBC Winnipeg | Other Services | `` |
 | ❌ | CA CBC WINNIPEG | Other Services | `` |
 | ✅ | CA CBC Yellowknife | Other Services | `` |
-| ✅ | CA CBC YELLOWKNIFE | Other Services | `` |
-| ❌ | CA CBS 4 (WBZ) Boston | Other Services | `` |
+| ❌ | CA CBC YELLOWKNIFE | Other Services | `` |
+| ✅ | CA CBS 4 (WBZ) Boston | Other Services | `` |
 | ❌ | CA CBS Buffalo | Other Services | `` |
 | ❌ | CA CGTN | Other Services | `` |
-| ❌ | CA CHCH | Other Services | `` |
+| ✅ | CA CHCH | Other Services | `` |
 | ❌ | CA CinePOP (FR) | Other Services | `` |
 | ✅ | CA CITY MONTREAL | Other Services | `` |
 | ✅ | CA CITY TORONTO | Other Services | `` |
@@ -2251,61 +2251,61 @@
 | ✅ | CA CMT | Other Services | `` |
 | ✅ | CA CNBC (R) | Other Services | `` |
 | ✅ | CA CNN | Other Services | `` |
-| ❌ | CA CNN HD | Other Services | `` |
+| ✅ | CA CNN HD | Other Services | `` |
 | ❌ | CA CNN International | Other Services | `CNN.International.us2` |
-| ❌ | CA COOKING CHANNEL | Other Services | `Cooking.Channel.HD.us2` |
+| ✅ | CA COOKING CHANNEL | Other Services | `Cooking.Channel.HD.us2` |
 | ✅ | CA COTTAGE Life | Other Services | `` |
 | ✅ | CA CP24 | Other Services | `` |
-| ❌ | CA CP24 (R) | Other Services | `` |
+| ✅ | CA CP24 (R) | Other Services | `` |
 | ✅ | CA CPAC EN (R) | Other Services | `` |
 | ❌ | CA CPAC FR (R) | Other Services | `` |
-| ❌ | CA Crave 1 (R) | Other Services | `` |
+| ✅ | CA Crave 1 (R) | Other Services | `` |
 | ❌ | CA Crave 2 (R) | Other Services | `` |
 | ❌ | CA Crave 3 (R) | Other Services | `` |
 | ❌ | CA Crave 4 (R) | Other Services | `` |
 | ✅ | CA Crime & Investigation | Other Services | `Crime.and.Investigation.Network.HD.us2` |
-| ❌ | CA CRIME & INVESTIGATION | Other Services | `Crime.and.Investigation.Network.HD.us2` |
+| ✅ | CA CRIME & INVESTIGATION | Other Services | `Crime.and.Investigation.Network.HD.us2` |
 | ❌ | CA CTV (Kitchener) | Other Services | `` |
 | ❌ | CA CTV (Ottawa) | Other Services | `` |
 | ❌ | CA CTV 2 (London) | Other Services | `` |
 | ❌ | CA CTV 2 (Ottawa) | Other Services | `` |
-| ❌ | CA CTV 2 Atlantic | Other Services | `` |
-| ❌ | CA CTV 2 ATLANTIC (B) | Other Services | `` |
-| ✅ | CA CTV 2 BARRIE | Other Services | `` |
-| ❌ | CA CTV 2 TORONTO | Other Services | `` |
+| ✅ | CA CTV 2 Atlantic | Other Services | `` |
+| ✅ | CA CTV 2 ATLANTIC (B) | Other Services | `` |
+| ❌ | CA CTV 2 BARRIE | Other Services | `` |
+| ✅ | CA CTV 2 TORONTO | Other Services | `` |
 | ❌ | CA CTV ATLANTIC | Other Services | `` |
 | ❌ | CA CTV Atlantic HD | Other Services | `` |
-| ❌ | CA CTV CALGARY | Other Services | `` |
 | ✅ | CA CTV CALGARY | Other Services | `` |
-| ❌ | CA CTV COMEDY East (R) | Other Services | `` |
+| ✅ | CA CTV CALGARY | Other Services | `` |
+| ✅ | CA CTV COMEDY East (R) | Other Services | `` |
 | ✅ | CA CTV COMEDY West (R) | Other Services | `` |
 | ❌ | CA CTV Drama (R) | Other Services | `` |
 | ✅ | CA CTV HALIFAX | Other Services | `` |
 | ❌ | CA CTV KITCHENER | Other Services | `` |
-| ❌ | CA CTV Life Channel (R) | Other Services | `Discovery.Life.Channel.us2` |
+| ✅ | CA CTV Life Channel (R) | Other Services | `Discovery.Life.Channel.us2` |
 | ❌ | CA CTV MONCTON (B) | Other Services | `` |
-| ❌ | CA CTV MONTREAL | Other Services | `` |
+| ✅ | CA CTV MONTREAL | Other Services | `` |
 | ❌ | CA CTV News Channel (R) | Other Services | `ABS-CBN.News.Channel.us2` |
 | ❌ | CA CTV News Live Events 3 | Other Services | `` |
-| ❌ | CA CTV NEWS NETWORK | Other Services | `One.America.News.Network.HD.us2` |
+| ✅ | CA CTV NEWS NETWORK | Other Services | `One.America.News.Network.HD.us2` |
 | ❌ | CA CTV News Saskatoon | Other Services | `` |
 | ❌ | CA CTV NORTH BAY (B) | Other Services | `` |
 | ✅ | CA CTV OTTAWA | Other Services | `` |
 | ❌ | CA CTV Ottawa HD | Other Services | `` |
 | ❌ | CA CTV Sault Ste. Marie HD (B) | Other Services | `` |
-| ✅ | CA CTV SCI-FI Channel (R) | Other Services | `` |
+| ❌ | CA CTV SCI-FI Channel (R) | Other Services | `` |
 | ❌ | CA CTV SUDBURY (B) | Other Services | `` |
 | ❌ | CA CTV Sydney | Other Services | `` |
 | ❌ | CA CTV Timmins HD (B) | Other Services | `` |
-| ❌ | CA CTV TORONTO | Other Services | `` |
+| ✅ | CA CTV TORONTO | Other Services | `` |
 | ❌ | CA CTV TORONTO (R) | Other Services | `` |
 | ❌ | CA CTV VANCOUVER | Other Services | `` |
 | ❌ | CA CTV WINNIPEG (B) | Other Services | `` |
 | ✅ | CA CTV2 Barrie | Other Services | `` |
-| ❌ | CA CTV2 LONDON | Other Services | `` |
+| ✅ | CA CTV2 LONDON | Other Services | `` |
 | ❌ | CA CTV2 OTTAWA | Other Services | `` |
-| ❌ | CA CTV2 VICTORIA | Other Services | `` |
-| ✅ | CA CTV2 WINDSOR (B) | Other Services | `` |
+| ✅ | CA CTV2 VICTORIA | Other Services | `` |
+| ❌ | CA CTV2 WINDSOR (B) | Other Services | `` |
 | ❌ | CA DAYSTAR TV (B) | Other Services | `` |
 | ❌ | CA DejaView | Other Services | `` |
 | ❌ | CA Discovery Channel (R) | Other Services | `Discovery.Channel.HD.us2` |
@@ -2317,7 +2317,7 @@
 | ❌ | CA DOCUMENTARY (R) | Other Services | `` |
 | ❌ | CA DTOUR | Other Services | `` |
 | ✅ | CA E! Entertainment | Other Services | `E!.Entertainment.Television.HD.us2` |
-| ❌ | CA FAITH TV | Other Services | `` |
+| ✅ | CA FAITH TV | Other Services | `` |
 | ❌ | CA FAMILY (R) | Other Services | `AFN.family/AFN.pulse.us2` |
 | ❌ | CA FAMILY CHRGD | Other Services | `` |
 | ❌ | CA FAMILY JR (R) | Other Services | `` |
@@ -2325,21 +2325,21 @@
 | ❌ | CA Fight Network | Other Services | `Fight.Network.us2` |
 | ✅ | CA Food Network (R) | Other Services | `Food.Network.HD.us2` |
 | ❌ | CA FOX NEWS | Other Services | `Fox.News.Channel.HD.us2` |
-| ❌ | CA Fox News HD (R) | Other Services | `Fox.News.Channel.HD.us2` |
+| ✅ | CA Fox News HD (R) | Other Services | `Fox.News.Channel.HD.us2` |
 | ✅ | CA FX | Other Services | `` |
 | ✅ | CA FXX | Other Services | `` |
 | ❌ | CA GAME SHOW NETWORK | Other Services | `Game.Show.Network.HD.us2` |
 | ❌ | CA Game TV | Other Services | `` |
 | ✅ | CA Game+ | Other Services | `` |
 | ✅ | CA Global Calgary | Other Services | `` |
-| ❌ | CA Global Durham | Other Services | `` |
 | ✅ | CA Global Durham | Other Services | `` |
+| ❌ | CA Global Durham | Other Services | `` |
 | ❌ | CA GLOBAL HALIFAX | Other Services | `` |
-| ✅ | CA GLOBAL KINGSTON | Other Services | `` |
+| ❌ | CA GLOBAL KINGSTON | Other Services | `` |
 | ❌ | CA Global Maritimes HD | Other Services | `` |
-| ❌ | CA GLOBAL MONTREAL | Other Services | `` |
+| ✅ | CA GLOBAL MONTREAL | Other Services | `` |
 | ✅ | CA Global National News | Other Services | `` |
-| ❌ | CA Global News Edmonton | Other Services | `` |
+| ✅ | CA Global News Edmonton | Other Services | `` |
 | ❌ | CA Global News Saskatoon | Other Services | `` |
 | ❌ | CA Global Peterborough (B) | Other Services | `` |
 | ❌ | CA GLOBAL TORONTO | Other Services | `` |
@@ -2349,11 +2349,11 @@
 | ❌ | CA HBO | Other Services | `` |
 | ✅ | CA HBO 2 | Other Services | `` |
 | ❌ | CA HDCBO | Other Services | `` |
-| ❌ | CA HGTV | Other Services | `` |
+| ✅ | CA HGTV | Other Services | `` |
 | ❌ | CA Historia (FR) | Other Services | `` |
 | ❌ | CA History 2 | Other Services | `` |
 | ❌ | CA HISTORY 2 (B) | Other Services | `` |
-| ❌ | CA History Channel | Other Services | `History.Channel.En.EspaÃ±ol.us2` |
+| ✅ | CA History Channel | Other Services | `History.Channel.En.EspaÃ±ol.us2` |
 | ✅ | CA HLN | Other Services | `` |
 | ✅ | CA HLN | Other Services | `` |
 | ❌ | CA Hollywood Suite 2000's | Other Services | `` |
@@ -2369,31 +2369,31 @@
 | ❌ | CA JOYTV 10 BRITISH COLUMBIA (B) | Other Services | `` |
 | ❌ | CA Knowledge Network | Other Services | `` |
 | ❌ | CA La Chaine Disney (FR) | Other Services | `` |
-| ❌ | CA LCN (FR) | Other Services | `` |
+| ✅ | CA LCN (FR) | Other Services | `` |
 | ❌ | CA Legislative Assembly of British Columbia Committee A | Other Services | `` |
 | ❌ | CA Legislative Assembly of Ontario | Other Services | `` |
 | ✅ | CA Lifetime | Other Services | `DIRECTV.Lifetime.us2` |
 | ❌ | CA Love Nature | Other Services | `Love.Nature.Dummy.us` |
-| ❌ | CA Love Nature | Other Services | `Love.Nature.Dummy.us` |
+| ✅ | CA Love Nature | Other Services | `Love.Nature.Dummy.us` |
 | ❌ | CA LOVE NATURE | Other Services | `Love.Nature.Dummy.us` |
-| ❌ | CA Makeful | Other Services | `` |
+| ✅ | CA Makeful | Other Services | `` |
 | ❌ | CA MEDIASET ITALIA | Other Services | `Mediaset.Italia.us2` |
 | ✅ | CA MLB Network | Other Services | `MLB.Network.HD.Alternate.us2` |
 | ❌ | CA MOI et CIE (FR) | Other Services | `` |
 | ❌ | CA Montreal Greek TV | Other Services | `` |
 | ✅ | CA MovieTime | Other Services | `` |
-| ❌ | CA MSNBC | Other Services | `MSNBC.HD.us2` |
+| ✅ | CA MSNBC | Other Services | `MSNBC.HD.us2` |
 | ❌ | CA MTV | Other Services | `` |
 | ❌ | CA MTV 2 | Other Services | `` |
 | ❌ | CA Much | Other Services | `` |
 | ✅ | CA MUCH_MUSIC | Other Services | `` |
-| ❌ | CA My 43 (WUAB) Cleveland | Other Services | `WUAB-DT.us_locals1` |
+| ✅ | CA My 43 (WUAB) Cleveland | Other Services | `WUAB-DT.us_locals1` |
 | ✅ | CA NAT GEO | Other Services | `Nat.Geo.Mundo.us2` |
 | ✅ | CA Nat Geo Wild | Other Services | `` |
 | ❌ | CA NAT GEO WILD | Other Services | `` |
 | ✅ | CA NBA TV | Other Services | `NBA.TV.HD.us2` |
 | ❌ | CA NBC 8 (WYCN) Boston | Other Services | `WYCN-LD.us_locals1` |
-| ❌ | CA Newfoundland | Other Services | `` |
+| ✅ | CA Newfoundland | Other Services | `` |
 | ✅ | CA NFL Network | Other Services | `NFL.Network.HD.us2` |
 | ❌ | CA Nickelodeon | Other Services | `Nickelodeon.HD.us2` |
 | ❌ | CA Bravo | Other Services | `Bravo.HD.us2` |
@@ -2404,12 +2404,12 @@
 | ❌ | CA PARAMOUNT | Other Services | `Paramount.Network.HD.us2` |
 | ❌ | CA Paramount Network | Other Services | `Paramount.Network.HD.us2` |
 | ❌ | CA PEACHTREE TV | Other Services | `Peachtree.TV.us2` |
-| ❌ | CA PRISE | Other Services | `` |
+| ✅ | CA PRISE | Other Services | `` |
 | ❌ | CA Quo Vadis TV | Other Services | `` |
 | ❌ | CA QVTV | Other Services | `` |
-| ❌ | CA RDS (FR) | Other Services | `` |
+| ✅ | CA RDS (FR) | Other Services | `` |
 | ❌ | CA RDS (HD) | Other Services | `` |
-| ❌ | CA RDS (HQ) | Other Services | `` |
+| ✅ | CA RDS (HQ) | Other Services | `` |
 | ❌ | CA RDS (LQ) | Other Services | `` |
 | ❌ | CA Rev TV | Other Services | `` |
 | ❌ | CA Rogers TV (Corner Brook) | Other Services | `` |
@@ -2431,18 +2431,18 @@
 | ❌ | CA Super Channel Heart & Home | Other Services | `` |
 | ❌ | CA Super Channel Vault  HD | Other Services | `` |
 | ❌ | CA Super Ecran 3 (FR) | Other Services | `` |
-| ❌ | CA T+E | Other Services | `` |
+| ✅ | CA T+E | Other Services | `` |
 | ❌ | CA TAG TV (Asian) | Other Services | `` |
-| ❌ | CA TELEMAGINO  (FR) | Other Services | `` |
+| ✅ | CA TELEMAGINO  (FR) | Other Services | `` |
 | ✅ | CA Teletoon (FR) | Other Services | `` |
 | ❌ | CA The Fight Network HD | Other Services | `Fight.Network.us2` |
 | ❌ | CA THE SHOPPING CHANNEL (B) | Other Services | `` |
 | ❌ | CA THE WEATHER NETWORK | Other Services | `` |
 | ❌ | CA TLC | Other Services | `` |
-| ❌ | CA TLN | Other Services | `` |
-| ❌ | CA TLN West | Other Services | `` |
-| ❌ | CA Toronto 360 | Other Services | `` |
-| ❌ | CA TRAVEL ESCAPE | Other Services | `` |
+| ✅ | CA TLN | Other Services | `` |
+| ✅ | CA TLN West | Other Services | `` |
+| ✅ | CA Toronto 360 | Other Services | `` |
+| ✅ | CA TRAVEL ESCAPE | Other Services | `` |
 | ✅ | CA Treehouse | Other Services | `` |
 | ✅ | CA TSC | Other Services | `` |
 | ✅ | CA Turner Classic Movies | Other Services | `Turner.Classic.Movies.HD.us2` |
@@ -2457,10 +2457,10 @@
 | ❌ | CA TVA Riviere-du-Loup (CIMT) | Other Services | `` |
 | ❌ | CA TVO | Other Services | `` |
 | ❌ | CA Télémagino (FR) | Other Services | `` |
-| ❌ | CA Unis | Other Services | `` |
-| ❌ | CA Unis_TV_(FR) | Other Services | `` |
+| ✅ | CA Unis | Other Services | `` |
+| ✅ | CA Unis_TV_(FR) | Other Services | `` |
 | ✅ | CA VISION | Other Services | `` |
-| ❌ | CA W NETWORK | Other Services | `` |
+| ✅ | CA W NETWORK | Other Services | `` |
 | ✅ | CA W NETWORK West | Other Services | `WWE.Network.us2` |
 | ❌ | CA WEATHER NETWORK | Other Services | `` |
 | ❌ | CA Wild TV (B) | Other Services | `` |
@@ -2470,11 +2470,11 @@
 | ❌ | CA Youth Television | Other Services | `` |
 | ✅ | CA YTV East | Other Services | `` |
 | ✅ | CA YTV West | Other Services | `` |
-| ❌ | CA BEIN SPORTS | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
-| ❌ | CA Bein Sports HD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ✅ | CA BEIN SPORTS | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ✅ | CA Bein Sports HD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | CA Euro World Sport (R) | Other Services | `` |
-| ❌ | CA Fox Sports Racing | Other Services | `` |
-| ❌ | CA SPORTSMAN (B) | Other Services | `Sportsman.Channel.us2` |
+| ✅ | CA Fox Sports Racing | Other Services | `` |
+| ✅ | CA SPORTSMAN (B) | Other Services | `Sportsman.Channel.us2` |
 | ✅ | CA SPORTSNET 360 | Other Services | `` |
 | ✅ | CA SPORTSNET EAST | Other Services | `` |
 | ✅ | CA SPORTSNET ONE | Other Services | `` |
@@ -2488,10 +2488,10 @@
 | ✅ | CA TSN 4 UHD | Other Services | `` |
 | ✅ | CA TSN 5 UHD | Other Services | `` |
 | ❌ | CA TSN4 HD Blackout | Other Services | `` |
-| ❌ | CA TSN5 Blackout | Other Services | `` |
+| ✅ | CA TSN5 Blackout | Other Services | `` |
 | ✅ | CA TSN5 HD Blackout 2 | Other Services | `` |
 | ✅ | CA TVA Sports | Other Services | `` |
-| ❌ | CA TVA Sports 2 | Other Services | `` |
+| ✅ | CA TVA Sports 2 | Other Services | `` |
 | ❌ | UK ABP News | Other Services | `` |
 | ✅ | UK Channel 4 HD | Other Services | `S-channel.us2` |
 | ✅ | UK Channel 5 HD | Other Services | `S-channel.us2` |
@@ -2513,7 +2513,7 @@
 | ❌ | UK Dave HD | Other Services | `` |
 | ✅ | UK Discovery | Other Services | `Discovery.Channel.HD.us2` |
 | ✅ | UK Discovery History | Other Services | `` |
-| ❌ | UK Discovery Science | Other Services | `` |
+| ✅ | UK Discovery Science | Other Services | `` |
 | ❌ | UK Discovery Turbo | Other Services | `Discovery.Turbo.TV.us2` |
 | ✅ | UK E! | Other Services | `EFL.uk` |
 | ✅ | UK E4 | Other Services | `` |
@@ -2567,151 +2567,151 @@
 | ❌ | UK Disney XD | Other Services | `Disney.XD.HD.(Pacific).us2` |
 | ✅ | UK HORROR CHANNEL | Other Services | `` |
 | ✅ | UK HORSE AND COUNTRY | Other Services | `` |
-| ❌ | UK Investigation Discovery | Other Services | `Investigation.Discovery.HD.(Pacific).us2` |
-| ❌ | UK ITV1 | Other Services | `` |
-| ❌ | UK ITV3 | Other Services | `` |
+| ✅ | UK Investigation Discovery | Other Services | `Investigation.Discovery.HD.(Pacific).us2` |
+| ✅ | UK ITV1 | Other Services | `` |
+| ✅ | UK ITV3 | Other Services | `` |
 | ❌ | UK ITV4 | Other Services | `` |
 | ❌ | UK NICK JUNIOR | Other Services | `` |
 | ❌ | UK Nick Junior Too | Other Services | `` |
-| ❌ | UK NICKTOONS | Other Services | `Nicktoons.us2` |
+| ✅ | UK NICKTOONS | Other Services | `Nicktoons.us2` |
 | ❌ | UK POP | Other Services | `` |
-| ❌ | UK Sky Nature | Other Services | `` |
+| ✅ | UK Sky Nature | Other Services | `` |
 | ❌ | UK Tiny Pop | Other Services | `` |
 | ❌ | UK True Crime | Other Services | `Oxygen.True.Crime.HD.us2` |
-| ❌ | BR CINEMAX | Other Services | `Cinemax.Action.us2` |
-| ❌ | Sky Cinema Animation (SHD) | Other Services | `` |
+| ✅ | BR CINEMAX | Other Services | `Cinemax.Action.us2` |
+| ✅ | Sky Cinema Animation (SHD) | Other Services | `` |
 | ❌ | UK B4U Movies | Other Services | `Movies!.us2` |
-| ❌ | UK Drama | Other Services | `HBO.Drama.us2` |
+| ✅ | UK Drama | Other Services | `HBO.Drama.us2` |
 | ❌ | UK Film 4 HD | Other Services | `Film.24h.us2` |
 | ❌ | UK Film 4 HD | Other Services | `Film.24h.us2` |
-| ❌ | UK ITV 2 | Other Services | `` |
-| ❌ | UK ITV 3 | Other Services | `` |
-| ❌ | UK Itv 4 | Other Services | `` |
+| ✅ | UK ITV 2 | Other Services | `` |
+| ✅ | UK ITV 3 | Other Services | `` |
+| ✅ | UK Itv 4 | Other Services | `` |
 | ❌ | UK ITVBE | Other Services | `` |
-| ❌ | UK Sky Cinema Action & Adventure (SHD) | Other Services | `` |
+| ✅ | UK Sky Cinema Action & Adventure (SHD) | Other Services | `` |
 | ❌ | UK Sky Cinema Animation FHD | Other Services | `` |
-| ❌ | UK Sky Cinema Comedy | Other Services | `` |
-| ❌ | UK Sky Cinema Drama | Other Services | `` |
-| ❌ | UK Sky Cinema Family | Other Services | `` |
+| ✅ | UK Sky Cinema Comedy | Other Services | `` |
+| ✅ | UK Sky Cinema Drama | Other Services | `` |
+| ✅ | UK Sky Cinema Family | Other Services | `` |
 | ❌ | UK Sky Cinema Gangsters | Other Services | `` |
-| ❌ | UK Sky Cinema Greats | Other Services | `` |
-| ❌ | UK Sky Cinema Hits | Other Services | `Cinemax.Hits.us2` |
-| ❌ | UK Sky Cinema Premiere | Other Services | `` |
+| ✅ | UK Sky Cinema Greats | Other Services | `` |
+| ✅ | UK Sky Cinema Hits | Other Services | `Cinemax.Hits.us2` |
+| ✅ | UK Sky Cinema Premiere | Other Services | `` |
 | ❌ | UK Sky Cinema Scifi & Horror | Other Services | `` |
 | ✅ | UK Sky Cinema Select | Other Services | `` |
-| ❌ | UK Sky Cinema Thriller | Other Services | `` |
+| ✅ | UK Sky Cinema Thriller | Other Services | `` |
 | ❌ | UK Sony Movies | Other Services | `Movies!.us2` |
 | ❌ | UK Sony Movies Action | Other Services | `Movies!.us2` |
 | ❌ | UK True Movies | Other Services | `Movies!.us2` |
 | ❌ | UK 4Music | Other Services | `` |
 | ❌ | UK 5 Star | Other Services | `` |
 | ❌ | UK B4U Music | Other Services | `` |
-| ❌ | UK MTV | Other Services | `` |
-| ❌ | UK MTV Base | Other Services | `` |
-| ❌ | UK MTV Classic | Other Services | `MTV.Classic.us2` |
+| ✅ | UK MTV | Other Services | `` |
+| ✅ | UK MTV Base | Other Services | `` |
+| ✅ | UK MTV Classic | Other Services | `MTV.Classic.us2` |
 | ❌ | UK MTV Dance | Other Services | `` |
-| ❌ | UK MTV HD | Other Services | `` |
-| ❌ | UK MTV Hits | Other Services | `` |
-| ❌ | UK MTV Music | Other Services | `MTV.-.Music.Television.HD.(Pacific).us2` |
+| ✅ | UK MTV HD | Other Services | `` |
+| ✅ | UK MTV Hits | Other Services | `` |
+| ✅ | UK MTV Music | Other Services | `MTV.-.Music.Television.HD.(Pacific).us2` |
 | ❌ | UK MTV Rocks | Other Services | `` |
 | ❌ | UK Star Bharat | Other Services | `` |
-| ❌ | UK Star Gold | Other Services | `` |
-| ❌ | UK Star Plus | Other Services | `` |
+| ✅ | UK Star Gold | Other Services | `` |
+| ✅ | UK Star Plus | Other Services | `` |
 | ❌ | UK Zing | Other Services | `` |
 | ❌ | UK Aaj Tak | Other Services | `` |
 | ✅ | UK Alibi | Other Services | `` |
-| ❌ | UK AMC | Other Services | `AMC+.us2` |
+| ✅ | UK AMC | Other Services | `AMC+.us2` |
 | ✅ | UK Animal Planet | Other Services | `Animal.Planet.HD.(Pacific).us2` |
 | ❌ | UK At The Races | Other Services | `` |
-| ❌ | UK baby tv | Other Services | `Baby.TV.US.us2` |
+| ✅ | UK baby tv | Other Services | `Baby.TV.US.us2` |
 | ❌ | UK BET | Other Services | `` |
 | ❌ | UK Blaze | Other Services | `Blaze.TV.us2` |
 | ❌ | UK Bloomberg | Other Services | `Bloomberg.Business.Television.us2` |
 | ❌ | UK Box Nation HD | Other Services | `` |
-| ❌ | UK BT Sports 1 FHD | Other Services | `` |
+| ✅ | UK BT Sports 1 FHD | Other Services | `` |
 | ❌ | UK BT Sports 10 Extra 6 | Other Services | `` |
 | ✅ | UK BT Sports 2 FHD | Other Services | `` |
 | ✅ | UK BT Sports 2 HD | Other Services | `` |
 | ✅ | UK BT Sports 3 FHD | Other Services | `` |
 | ✅ | UK BT Sports 3 HD | Other Services | `` |
-| ❌ | UK BT Sports 4 | Other Services | `NBC.Sports.4K.us2` |
-| ❌ | UK BT Sports 4 FHD | Other Services | `` |
+| ✅ | UK BT Sports 4 | Other Services | `NBC.Sports.4K.us2` |
+| ✅ | UK BT Sports 4 FHD | Other Services | `` |
 | ❌ | UK BT Sports 5 Extra 1 | Other Services | `` |
 | ❌ | UK BT Sports 6 Extra 2 | Other Services | `` |
 | ❌ | UK BT Sports 7 Extra 3 | Other Services | `` |
 | ❌ | UK BT Sports 8 Extra 4 | Other Services | `` |
 | ❌ | UK BT Sports 9 Extra 5 | Other Services | `` |
-| ❌ | UK Challenge | Other Services | `` |
+| ✅ | UK Challenge | Other Services | `` |
 | ❌ | UK Chelsea TV HD | Other Services | `` |
 | ✅ | UK Colors | Other Services | `AAPKA.Colors.US.us2` |
 | ❌ | UK Colors Rishtey | Other Services | `` |
 | ❌ | UK Colors TV | Other Services | `` |
 | ❌ | UK Comedy Central Extra | Other Services | `Comedy.Central.HD.us2` |
-| ❌ | UK Comedy Central HD | Other Services | `Comedy.Central.HD.(Pacific).us2` |
-| ❌ | UK Crime & Investigation HD | Other Services | `Crime.and.Investigation.Network.HD.us2` |
+| ✅ | UK Comedy Central HD | Other Services | `Comedy.Central.HD.(Pacific).us2` |
+| ✅ | UK Crime & Investigation HD | Other Services | `Crime.and.Investigation.Network.HD.us2` |
 | ❌ | UK DMAX HD | Other Services | `` |
 | ❌ | UK EDEN HD | Other Services | `` |
-| ❌ | UK Eir Sport 1 | Other Services | `` |
-| ❌ | UK Eir Sport 2 | Other Services | `` |
+| ✅ | UK Eir Sport 1 | Other Services | `` |
+| ✅ | UK Eir Sport 2 | Other Services | `` |
 | ❌ | UK EuroSport 1 | Other Services | `` |
 | ❌ | UK EuroSport 2 | Other Services | `` |
-| ❌ | UK Food Network | Other Services | `Food.Network.HD.us2` |
-| ❌ | UK FreeSports | Other Services | `` |
-| ❌ | UK Gold | Other Services | `` |
+| ✅ | UK Food Network | Other Services | `Food.Network.HD.us2` |
+| ✅ | UK FreeSports | Other Services | `` |
+| ✅ | UK Gold | Other Services | `` |
 | ❌ | UK Good Food | Other Services | `` |
 | ❌ | UK History 2 | Other Services | `History.HD.us2` |
-| ❌ | UK History HD | Other Services | `History.Channel.En.EspaÃ±ol.us2` |
-| ❌ | UK Home | Other Services | `` |
+| ✅ | UK History HD | Other Services | `History.Channel.En.EspaÃ±ol.us2` |
+| ✅ | UK Home | Other Services | `` |
 | ❌ | UK Home Health | Other Services | `` |
-| ❌ | UK Horse and Country | Other Services | `` |
+| ✅ | UK Horse and Country | Other Services | `` |
 | ❌ | UK LFC TV | Other Services | `` |
 | ❌ | UK Life Time HD | Other Services | `` |
-| ❌ | UK MUTV | Other Services | `` |
+| ✅ | UK MUTV | Other Services | `` |
 | ✅ | UK Nat Geo | Other Services | `Nat.Geo.Mundo.us2` |
 | ✅ | UK Nat Geo Wild | Other Services | `` |
 | ✅ | UK Paramount | Other Services | `Paramount.Network.HD.us2` |
-| ❌ | UK PICK | Other Services | `` |
-| ❌ | UK PREMIER  SPORTS 1 | Other Services | `` |
-| ❌ | UK PREMIER SPORTS 2 | Other Services | `` |
+| ✅ | UK PICK | Other Services | `` |
+| ✅ | UK PREMIER  SPORTS 1 | Other Services | `` |
+| ✅ | UK PREMIER SPORTS 2 | Other Services | `` |
 | ❌ | UK Quest | Other Services | `Quest.us2` |
-| ❌ | UK Quest Red | Other Services | `` |
+| ✅ | UK Quest Red | Other Services | `` |
 | ❌ | UK RTE 1 HD | Other Services | `` |
 | ❌ | UK RTE 2 | Other Services | `` |
 | ❌ | UK RTE 2 HD | Other Services | `` |
 | ✅ | UK RTE Junior | Other Services | `` |
 | ❌ | UK RTE One | Other Services | `` |
-| ❌ | UK S4C | Other Services | `` |
+| ✅ | UK S4C | Other Services | `` |
 | ❌ | UK Sab TV (SET) | Other Services | `` |
 | ❌ | UK SKY 1 HD | Other Services | `` |
-| ❌ | UK Sky Arts | Other Services | `` |
-| ❌ | UK Sky Atlantic | Other Services | `` |
-| ❌ | UK Sky One | Other Services | `` |
-| ❌ | UK Sky Sport Racing HD | Other Services | `` |
-| ❌ | UK Sky Sports Action | Other Services | `` |
-| ❌ | UK Sky Sports Action HD | Other Services | `` |
-| ✅ | UK Sky Sports Arena HD | Other Services | `` |
+| ✅ | UK Sky Arts | Other Services | `` |
+| ✅ | UK Sky Atlantic | Other Services | `` |
+| ✅ | UK Sky One | Other Services | `` |
+| ✅ | UK Sky Sport Racing HD | Other Services | `` |
+| ✅ | UK Sky Sports Action | Other Services | `` |
+| ✅ | UK Sky Sports Action HD | Other Services | `` |
+| ❌ | UK Sky Sports Arena HD | Other Services | `` |
 | ✅ | UK Sky Sports Cricket | Other Services | `` |
 | ✅ | UK Sky Sports Cricket HD | Other Services | `` |
-| ❌ | UK Sky Sports F1 | Other Services | `Sky.Sports+.Dummy.us` |
-| ❌ | UK Sky Sports F1 HD | Other Services | `Sky.Sports+.Dummy.us` |
-| ❌ | UK Sky Sports Football | Other Services | `` |
-| ❌ | UK Sky Sports Football HD | Other Services | `` |
-| ❌ | UK Sky Sports Golf | Other Services | `` |
-| ❌ | UK Sky Sports Golf HD | Other Services | `` |
-| ❌ | UK Sky Sports Main Events | Other Services | `` |
-| ❌ | UK Sky Sports Main Events HD | Other Services | `` |
-| ❌ | UK Sky Sports MIX | Other Services | `Sky.Sports+.Dummy.us` |
-| ❌ | UK Sky Sports Premier League | Other Services | `Premier.League.Dummy.us` |
-| ❌ | UK Sky Sports Premier League HD | Other Services | `Premier.League.Dummy.us` |
+| ✅ | UK Sky Sports F1 | Other Services | `Sky.Sports+.Dummy.us` |
+| ✅ | UK Sky Sports F1 HD | Other Services | `Sky.Sports+.Dummy.us` |
+| ✅ | UK Sky Sports Football | Other Services | `` |
+| ✅ | UK Sky Sports Football HD | Other Services | `` |
+| ✅ | UK Sky Sports Golf | Other Services | `` |
+| ✅ | UK Sky Sports Golf HD | Other Services | `` |
+| ✅ | UK Sky Sports Main Events | Other Services | `` |
+| ✅ | UK Sky Sports Main Events HD | Other Services | `` |
+| ✅ | UK Sky Sports MIX | Other Services | `Sky.Sports+.Dummy.us` |
+| ✅ | UK Sky Sports Premier League | Other Services | `Premier.League.Dummy.us` |
+| ✅ | UK Sky Sports Premier League HD | Other Services | `Premier.League.Dummy.us` |
 | ✅ | UK Sky Sports Racing | Other Services | `` |
 | ❌ | UK Sky Two | Other Services | `` |
-| ❌ | UK Sky Witness | Other Services | `` |
-| ❌ | UK STV HD | Other Services | `` |
-| ❌ | UK Syfy | Other Services | `` |
-| ❌ | UK Talking Pictures HD | Other Services | `` |
-| ❌ | UK TCM HD | Other Services | `` |
+| ✅ | UK Sky Witness | Other Services | `` |
+| ✅ | UK STV HD | Other Services | `` |
+| ✅ | UK Syfy | Other Services | `` |
+| ✅ | UK Talking Pictures HD | Other Services | `` |
+| ✅ | UK TCM HD | Other Services | `` |
 | ✅ | UK TG4 | Other Services | `` |
-| ❌ | UK TLC | Other Services | `` |
+| ✅ | UK TLC | Other Services | `` |
 | ❌ | UK True Drama | Other Services | `` |
 | ❌ | UK True Entertainment | Other Services | `AWE.A.Wealth.of.Entertainment.HD.us2` |
 | ❌ | UK UTV Ireland | Other Services | `UTV.uk` |
@@ -2731,13 +2731,13 @@
 | ✅ | beIN SPORTS 5 FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ✅ | beIN SPORTS 6 FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ✅ | beIN SPORTS 7 FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
-| ❌ | beIN SPORTS 8 FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
-| ❌ | beIN SPORTS 9 FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ✅ | beIN SPORTS 8 FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ✅ | beIN SPORTS 9 FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | beIN Sports EXTRA 1 FHD | Other Services | `` |
 | ❌ | beIN Sports EXTRA 2 FHD | Other Services | `` |
 | ❌ | beIN Sports EXTRA 3 FHD | Other Services | `` |
 | ✅ | beIN Sports Global | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
-| ❌ | beIN SPORTS NBA FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
+| ✅ | beIN SPORTS NBA FHD | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | beIN Sports News | Other Services | `beIN.Sports.En.EspaÃ±ol.HD.us2` |
 | ❌ | SPORT- Dubai Racing 1 HD | Other Services | `` |
 | ❌ | SPORT- Dubai Racing 2 HD | Other Services | `` |
@@ -2766,7 +2766,7 @@
 | ❌ | FR RMC Sport HD | Other Services | `` |
 | ❌ | Astro Arena HD | Other Services | `` |
 | ✅ | Astro Cricket HD | Other Services | `` |
-| ❌ | Astro SuperSport 2 Premier League | Other Services | `Premier.League.Dummy.us` |
+| ✅ | Astro SuperSport 2 Premier League | Other Services | `Premier.League.Dummy.us` |
 | ❌ | Astro SuperSport 3 Premier League | Other Services | `Premier.League.Dummy.us` |
 | ❌ | Astro SuperSport 4 Premier League | Other Services | `Premier.League.Dummy.us` |
 | ❌ | Astro SuperSport Football | Other Services | `` |
@@ -2774,7 +2774,7 @@
 | ❌ | PH AFN | Other Services | `` |
 | ❌ | PH ANIMAX | Other Services | `` |
 | ❌ | PH Arabic TFC | Other Services | `` |
-| ❌ | PH AXN | Other Services | `` |
+| ✅ | PH AXN | Other Services | `` |
 | ❌ | PH Cartoon NW | Other Services | `` |
 | ❌ | PH CGTV DOC | Other Services | `` |
 | ✅ | PH Cinema One | Other Services | `Cinema.One.us2` |
@@ -2787,9 +2787,9 @@
 | ✅ | PH Discovery Asia | Other Services | `` |
 | ❌ | PH DZRH NEWS TV | Other Services | `` |
 | ✅ | PH GMA Life TV | Other Services | `GMA.Life.TV.us2` |
-| ❌ | PH GMA Pinoy TV | Other Services | `GMA.Pinoy.TV.us2` |
+| ✅ | PH GMA Pinoy TV | Other Services | `GMA.Pinoy.TV.us2` |
 | ❌ | PH GMA_Life | Other Services | `` |
-| ❌ | PH GMA_News_TV | Other Services | `` |
+| ✅ | PH GMA_News_TV | Other Services | `` |
 | ❌ | PH GMA_Pinoy_TV | Other Services | `GMA.Pinoy.TV.us2` |
 | ❌ | PH Hilsong Channel | Other Services | `` |
 | ✅ | PH HITS Movies | Other Services | `Movies!.us2` |
@@ -2803,7 +2803,7 @@
 | ❌ | PH MOR | Other Services | `` |
 | ✅ | PH MYX | Other Services | `` |
 | ✅ | PH Nick | Other Services | `` |
-| ✅ | PH One PH | Other Services | `` |
+| ❌ | PH One PH | Other Services | `` |
 | ✅ | Ph ONE Sport | Other Services | `` |
 | ❌ | PH One Sports Plus | Other Services | `NBC.Sports.Bay.Area.Plus.us2` |
 | ✅ | PH Outdoor Channel | Other Services | `Outdoor.Channel.HD.us2` |
@@ -2813,7 +2813,7 @@
 | ✅ | PH PTV4 | Other Services | `` |
 | ❌ | PH SARI SARI | Other Services | `` |
 | ❌ | PH TeleNovela | Other Services | `` |
-| ✅ | PH TFC | Other Services | `` |
+| ❌ | PH TFC | Other Services | `` |
 | ❌ | PH TFC Australia | Other Services | `` |
 | ❌ | PH TFC Canada | Other Services | `` |
 | ❌ | PH TFC Europe | Other Services | `` |
@@ -2821,13 +2821,13 @@
 | ❌ | PH TFC SD | Other Services | `` |
 | ❌ | PH TFC USA | Other Services | `` |
 | ❌ | PH thill | Other Services | `` |
-| ✅ | PH TLC | Other Services | `` |
+| ❌ | PH TLC | Other Services | `` |
 | ❌ | PH Travel Channel | Other Services | `The.Travel.Channel.HD.(Pacific).us2` |
-| ✅ | PH TV5 | Other Services | `` |
-| ✅ | PH TV5 | Other Services | `` |
-| ✅ | PH UAAP Varsity CH | Other Services | `` |
+| ❌ | PH TV5 | Other Services | `` |
+| ❌ | PH TV5 | Other Services | `` |
+| ❌ | PH UAAP Varsity CH | Other Services | `` |
 | ✅ | PH UNTV | Other Services | `` |
-| ✅ | PT ELEVEN SPORTS 1 | Other Services | `` |
+| ❌ | PT ELEVEN SPORTS 1 | Other Services | `` |
 | ✅ | PT ELEVEN SPORTS 1 HD | Other Services | `` |
 | ✅ | PT ELEVEN SPORTS 2 | Other Services | `` |
 | ✅ | PT ELEVEN SPORTS 2 HD | Other Services | `` |
@@ -2835,8 +2835,8 @@
 | ✅ | PT ELEVEN SPORTS 3 HD | Other Services | `` |
 | ✅ | PT ELEVEN SPORTS 4 | Other Services | `` |
 | ❌ | PT ELEVEN SPORTS 4 HD | Other Services | `` |
-| ❌ | PT ELEVEN SPORTS 5 | Other Services | `` |
-| ❌ | PT ELEVEN SPORTS 5 HD | Other Services | `` |
+| ✅ | PT ELEVEN SPORTS 5 | Other Services | `` |
+| ✅ | PT ELEVEN SPORTS 5 HD | Other Services | `` |
 | ❌ | PT ELEVEN SPORTS 6 | Other Services | `` |
 | ❌ | PT ELEVEN SPORTS 6 HD | Other Services | `` |
 | ✅ | PT EUROSPORT 1 | Other Services | `` |
