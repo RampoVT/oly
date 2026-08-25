@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-08-25 22:24
+# 📺 Playlist Status Update: 2026-08-25 23:23
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -243,7 +243,7 @@
 | ❌ | NY | Elmira | ABC WENY | Other Services | `WENY-DT.us_locals1` |
 | ❌ | NY | New York | ABC 7 WABC | Other Services | `WABC-DT.us_locals1` |
 | ❌ | NY | New York | ABC UHD WABC | Other Services | `WABC-DT.us_locals1` |
-| ❌ | NY | Rochester | ABC 13 WHAM | Other Services | `WHAM-DT.us_locals1` |
+| ❌ | NY | Rochester | ABC 13 WHAM | Other Services | `WHAM-DT2.us_locals1` |
 | ❌ | NY | SYRACUSE | ABC 9 WSYR | Other Services | `WSYR-DT.us_locals1` |
 | ❌ | NY | Utica | ABC 20 WUTR | Other Services | `WUTR-DT.us_locals1` |
 | ❌ | NY | Utica | ABC WUTR | Other Services | `WUTR-DT.us_locals1` |
@@ -758,7 +758,7 @@
 | ❌ | IN | Fort Wayne | NBC WPTA | Other Services | `WPTA-DT2.us_locals1` |
 | ❌ | IN | Indianapolis | NBC WTHR | Other Services | `WTHR-DT.us_locals1` |
 | ❌ | IN | Lafayette | NBC 46 KLAF | Other Services | `KLAF-LD.us_locals1` |
-| ❌ | IN | Lafayette | NBC WPBI | Other Services | `WPBI-LD.us_locals1` |
+| ❌ | IN | Lafayette | NBC WPBI | Other Services | `WPBI-LD2.us_locals1` |
 | ❌ | IN | South Bend | NBC WNDU | Other Services | `WNDU-DT.us_locals1` |
 | ❌ | IN | Terre Haute | NBC WTWO | Other Services | `WTWO-DT.us_locals1` |
 | ❌ | KS | Topeka | NBC KSNT | Other Services | `KSNT-DT.us_locals1` |

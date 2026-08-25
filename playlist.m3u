@@ -481,7 +481,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/674970
 https://restream-live.realiptv.to:443/09145054/65339468/112234
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" group-title="Other Services",NY | New York | ABC UHD WABC
 https://restream-live.realiptv.to:443/09145054/65339468/3606
-#EXTINF:-1 tvg-id="WHAM-DT.us_locals1" group-title="Other Services",NY | Rochester | ABC 13 WHAM
+#EXTINF:-1 tvg-id="WHAM-DT2.us_locals1" group-title="Other Services",NY | Rochester | ABC 13 WHAM
 https://restream-live.realiptv.to:443/09145054/65339468/536273
 #EXTINF:-1 tvg-id="WSYR-DT.us_locals1" group-title="Other Services",NY | SYRACUSE | ABC 9 WSYR
 https://restream-live.realiptv.to:443/09145054/65339468/38313
@@ -1511,7 +1511,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/89568
 https://restream-live.realiptv.to:443/09145054/65339468/56256
 #EXTINF:-1 tvg-id="KLAF-LD.us_locals1" group-title="Other Services",IN | Lafayette | NBC 46 KLAF
 https://restream-live.realiptv.to:443/09145054/65339468/430037
-#EXTINF:-1 tvg-id="WPBI-LD.us_locals1" group-title="Other Services",IN | Lafayette | NBC WPBI
+#EXTINF:-1 tvg-id="WPBI-LD2.us_locals1" group-title="Other Services",IN | Lafayette | NBC WPBI
 https://restream-live.realiptv.to:443/09145054/65339468/89572
 #EXTINF:-1 tvg-id="WNDU-DT.us_locals1" group-title="Other Services",IN | South Bend | NBC WNDU
 https://restream-live.realiptv.to:443/09145054/65339468/89574
