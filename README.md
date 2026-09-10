@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-09-10 14:48
+# 📺 Playlist Status Update: 2026-09-10 18:05
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -862,7 +862,7 @@
 | ❌ | RI | Providence | NBC 10 WJAR | Other Services | `WJAR-DT2.us_locals1` |
 | ❌ | SC | Charleston | NBC 2 WCBD | Other Services | `WCBD-DT.us_locals1` |
 | ❌ | SC | Columbia |  NBC 10 WIS | Other Services | `` |
-| ❌ | SC | Greenville | NBC WYFF | Other Services | `WYFF-DT.us_locals1` |
+| ❌ | SC | Greenville | NBC WYFF | Other Services | `WYFF-DT3.us_locals1` |
 | ❌ | SC | Myrtle Beach | NBC 32 WMBF | Other Services | `WMBF-DT.us_locals1` |
 | ❌ | SD | Rapid City | NBC KNBN | Other Services | `KNBN-DT.us_locals1` |
 | ❌ | SD | Sioux Falls | NBC KDLT | Other Services | `KDLT-DT2.us_locals1` |
@@ -1311,7 +1311,7 @@
 | ❌ | USA MeTV (WMOR) | Other Services | `WMOR-DT.us_locals1` |
 | ❌ | USA MeTV (WNYT) | Other Services | `WNYT-DT.us_locals1` |
 | ❌ | USA MeTV (WPTZ-DT3) | Other Services | `WPTZ-DT.us_locals1` |
-| ❌ | USA MeTV (WYFF) | Other Services | `WYFF-DT.us_locals1` |
+| ❌ | USA MeTV (WYFF) | Other Services | `WYFF-DT3.us_locals1` |
 | ❌ | USA MeTV Network East | Other Services | `Me.TV.Network.us2` |
 | ❌ | USA MeTV New York WJLPDT | Other Services | `` |
 | ❌ | USA MeTV Plus (KHTV) | Other Services | `KHTV-CD.us_locals1` |

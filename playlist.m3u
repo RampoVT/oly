@@ -1719,7 +1719,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/98185
 https://restream-live.realiptv.to:443/09145054/65339468/38308
 #EXTINF:-1 tvg-id="" group-title="Other Services",SC | Columbia |  NBC 10 WIS
 https://restream-live.realiptv.to:443/09145054/65339468/61804
-#EXTINF:-1 tvg-id="WYFF-DT.us_locals1" group-title="Other Services",SC | Greenville | NBC WYFF
+#EXTINF:-1 tvg-id="WYFF-DT3.us_locals1" group-title="Other Services",SC | Greenville | NBC WYFF
 https://restream-live.realiptv.to:443/09145054/65339468/89791
 #EXTINF:-1 tvg-id="WMBF-DT.us_locals1" group-title="Other Services",SC | Myrtle Beach | NBC 32 WMBF
 https://restream-live.realiptv.to:443/09145054/65339468/70152
@@ -2617,7 +2617,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/597263
 https://restream-live.realiptv.to:443/09145054/65339468/597265
 #EXTINF:-1 tvg-id="WPTZ-DT.us_locals1" group-title="Other Services",USA MeTV (WPTZ-DT3)
 https://restream-live.realiptv.to:443/09145054/65339468/597266
-#EXTINF:-1 tvg-id="WYFF-DT.us_locals1" group-title="Other Services",USA MeTV (WYFF)
+#EXTINF:-1 tvg-id="WYFF-DT3.us_locals1" group-title="Other Services",USA MeTV (WYFF)
 https://restream-live.realiptv.to:443/09145054/65339468/597267
 #EXTINF:-1 tvg-id="Me.TV.Network.us2" group-title="Other Services",USA MeTV Network East
 https://restream-live.realiptv.to:443/09145054/65339468/597268
