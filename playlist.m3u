@@ -431,7 +431,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/2667
 https://restream-live.realiptv.to:443/09145054/65339468/565750
 #EXTINF:-1 tvg-id="WLOX-DT2.us_locals1" group-title="Other Services",MS | Gulfport | ABC 13 WLOX
 https://restream-live.realiptv.to:443/09145054/65339468/62430
-#EXTINF:-1 tvg-id="WAPT-DT.us_locals1" group-title="Other Services",MS | Jackson | ABC 16 WAPT
+#EXTINF:-1 tvg-id="WAPT-DT4.us_locals1" group-title="Other Services",MS | Jackson | ABC 16 WAPT
 https://restream-live.realiptv.to:443/09145054/65339468/565748
 #EXTINF:-1 tvg-id="WTOK-DT.us_locals1" group-title="Other Services",MS | Meridian | ABC 11 WTOK
 https://restream-live.realiptv.to:443/09145054/65339468/565749
@@ -453,7 +453,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/638521
 https://restream-live.realiptv.to:443/09145054/65339468/542959
 #EXTINF:-1 tvg-id="KFYR-DT2.us_locals1" group-title="Other Services",ND | Bismarck | ABC KFYR-DT2
 https://restream-live.realiptv.to:443/09145054/65339468/89679
-#EXTINF:-1 tvg-id="KBMY-DT.us_locals1" group-title="Other Services",ND | Minot | ABC 17 KBMY
+#EXTINF:-1 tvg-id="KBMY-DT2.us_locals1" group-title="Other Services",ND | Minot | ABC 17 KBMY
 https://restream-live.realiptv.to:443/09145054/65339468/629936
 #EXTINF:-1 tvg-id="KHGI-CD.us_locals1" group-title="Other Services",NE | Kearney | ABC KHGI
 https://restream-live.realiptv.to:443/09145054/65339468/629923
@@ -463,7 +463,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/629924
 https://restream-live.realiptv.to:443/09145054/65339468/61808
 #EXTINF:-1 tvg-id="WMUR-DT.us_locals1" group-title="Other Services",NH | Manchester | ABC 9 WMUR
 https://restream-live.realiptv.to:443/09145054/65339468/38299
-#EXTINF:-1 tvg-id="KOAT-DT.us_locals1" group-title="Other Services",NM | Albuquerque | ABC 7 KOAT
+#EXTINF:-1 tvg-id="KOAT-DT4.us_locals1" group-title="Other Services",NM | Albuquerque | ABC 7 KOAT
 https://restream-live.realiptv.to:443/09145054/65339468/38302
 #EXTINF:-1 tvg-id="KTNV-DT.us_locals1" group-title="Other Services",NV | Las Vegas | ABC 13 KTNV
 https://restream-live.realiptv.to:443/09145054/65339468/38255
@@ -475,7 +475,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/63934
 https://restream-live.realiptv.to:443/09145054/65339468/691402
 #EXTINF:-1 tvg-id="WKBW-DT.us_locals1" group-title="Other Services",NY | Buffalo | ABC 7 WKBW
 https://restream-live.realiptv.to:443/09145054/65339468/38280
-#EXTINF:-1 tvg-id="WENY-DT.us_locals1" group-title="Other Services",NY | Elmira | ABC WENY
+#EXTINF:-1 tvg-id="WENY-DT2.us_locals1" group-title="Other Services",NY | Elmira | ABC WENY
 https://restream-live.realiptv.to:443/09145054/65339468/674970
 #EXTINF:-1 tvg-id="WABC-DT.us_locals1" group-title="Other Services",NY | New York | ABC 7 WABC
 https://restream-live.realiptv.to:443/09145054/65339468/112234
@@ -775,7 +775,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/77759
 https://restream-live.realiptv.to:443/09145054/65339468/89629
 #EXTINF:-1 tvg-id="KIMT-DT.us_locals1" group-title="Other Services",MN | Austin | CBS 3 KIMT
 https://restream-live.realiptv.to:443/09145054/65339468/629908
-#EXTINF:-1 tvg-id="KBJR-DT.us_locals1" group-title="Other Services",MN | Duluth | CBS 6 KBJR
+#EXTINF:-1 tvg-id="KBJR-DT2.us_locals1" group-title="Other Services",MN | Duluth | CBS 6 KBJR
 https://restream-live.realiptv.to:443/09145054/65339468/629914
 #EXTINF:-1 tvg-id="WCCO-DT.us_locals1" group-title="Other Services",MN | Minneapolis | CBS WCCO
 https://restream-live.realiptv.to:443/09145054/65339468/2634
@@ -1377,7 +1377,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/89394
 https://restream-live.realiptv.to:443/09145054/65339468/38267
 #EXTINF:-1 tvg-id="KATH-LD.us_locals1" group-title="Other Services",AK | Juneau | NBC KATH
 https://restream-live.realiptv.to:443/09145054/65339468/89395
-#EXTINF:-1 tvg-id="WVTM-DT.us_locals1" group-title="Other Services",AL | Birmingham | NBC 13 WVTM
+#EXTINF:-1 tvg-id="WVTM-DT4.us_locals1" group-title="Other Services",AL | Birmingham | NBC 13 WVTM
 https://restream-live.realiptv.to:443/09145054/65339468/75348
 #EXTINF:-1 tvg-id="WRGX-LD.us_locals1" group-title="Other Services",AL | Dothan | NBC WRGX
 https://restream-live.realiptv.to:443/09145054/65339468/89400
@@ -1569,7 +1569,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/77755
 https://restream-live.realiptv.to:443/09145054/65339468/77764
 #EXTINF:-1 tvg-id="KTTC-DT2.us_locals1" group-title="Other Services",MN | Austin | NBC KTTC
 https://restream-live.realiptv.to:443/09145054/65339468/629910
-#EXTINF:-1 tvg-id="KBJR-DT.us_locals1" group-title="Other Services",MN | Duluth | NBC 6 KBJR
+#EXTINF:-1 tvg-id="KBJR-DT2.us_locals1" group-title="Other Services",MN | Duluth | NBC 6 KBJR
 https://restream-live.realiptv.to:443/09145054/65339468/629912
 #EXTINF:-1 tvg-id="KARE-DT.us_locals1" group-title="Other Services",MN | Minneapolis | NBC KARE
 https://restream-live.realiptv.to:443/09145054/65339468/2450
@@ -1819,7 +1819,7 @@ https://restream-live.realiptv.to:443/09145054/65339468/89896
 https://restream-live.realiptv.to:443/09145054/65339468/89899
 #EXTINF:-1 tvg-id="WTMJ-DT.us_locals1" group-title="Other Services",WI | Milwaukee | NBC WTMJ
 https://restream-live.realiptv.to:443/09145054/65339468/2451
-#EXTINF:-1 tvg-id="KBJR-DT.us_locals1" group-title="Other Services",WI | Superior | NBC KBJR
+#EXTINF:-1 tvg-id="KBJR-DT2.us_locals1" group-title="Other Services",WI | Superior | NBC KBJR
 https://restream-live.realiptv.to:443/09145054/65339468/89900
 #EXTINF:-1 tvg-id="WJFW-DT.us_locals1" group-title="Other Services",WI | Wausau | NBC WJFW
 https://restream-live.realiptv.to:443/09145054/65339468/89901

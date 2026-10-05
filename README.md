@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-10-05 17:52
+# 📺 Playlist Status Update: 2026-10-05 23:44
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -218,7 +218,7 @@
 | ❌ | MO | St Louis  | ABC KDNL | Other Services | `KDNL-DT.us_locals1` |
 | ❌ | MS | Greenwood | ABC 6 WABG | Other Services | `WABG-DT.us_locals1` |
 | ❌ | MS | Gulfport | ABC 13 WLOX | Other Services | `WLOX-DT2.us_locals1` |
-| ❌ | MS | Jackson | ABC 16 WAPT | Other Services | `WAPT-DT.us_locals1` |
+| ❌ | MS | Jackson | ABC 16 WAPT | Other Services | `WAPT-DT4.us_locals1` |
 | ❌ | MS | Meridian | ABC 11 WTOK | Other Services | `WTOK-DT.us_locals1` |
 | ❌ | MT | Billings | ABC 6 KSVI | Other Services | `KSVI-DT.us_locals1` |
 | ❌ | MT | Great Falls | ABC KFBB | Other Services | `KFBB-DT2.us_locals1` |
@@ -229,18 +229,18 @@
 | ❌ | NC | New Bern | ABC 12 WCTI | Other Services | `WCTI-DT.us_locals1` |
 | ❌ | NC | Raleigh | ABC WTVD | Other Services | `WTVD-DT.us_locals1` |
 | ❌ | ND | Bismarck | ABC KFYR-DT2 | Other Services | `KFYR-DT2.us_locals1` |
-| ❌ | ND | Minot | ABC 17 KBMY | Other Services | `KBMY-DT.us_locals1` |
+| ❌ | ND | Minot | ABC 17 KBMY | Other Services | `KBMY-DT2.us_locals1` |
 | ❌ | NE | Kearney | ABC KHGI | Other Services | `KHGI-CD.us_locals1` |
 | ❌ | NE | Lincoln | ABC KLKN | Other Services | `KLKN-DT.us_locals1` |
 | ❌ | NE | OMAHA | USA ABC 13 KMTV | Other Services | `KMTV-DT.us_locals1` |
 | ❌ | NH | Manchester | ABC 9 WMUR | Other Services | `WMUR-DT.us_locals1` |
-| ❌ | NM | Albuquerque | ABC 7 KOAT | Other Services | `KOAT-DT.us_locals1` |
+| ❌ | NM | Albuquerque | ABC 7 KOAT | Other Services | `KOAT-DT4.us_locals1` |
 | ❌ | NV | Las Vegas | ABC 13 KTNV | Other Services | `KTNV-DT.us_locals1` |
 | ❌ | NY | ALBANY | ABC 10  WTEN | Other Services | `WTEN-DT.us_locals1` |
 | ❌ | NY | ALBANY | USA ABC 10  WALB | Other Services | `WALB-DT.us_locals1` |
 | ❌ | NY | ALBANY | USA ABC 10 WALB | Other Services | `WALB-DT.us_locals1` |
 | ❌ | NY | Buffalo | ABC 7 WKBW | Other Services | `WKBW-DT.us_locals1` |
-| ❌ | NY | Elmira | ABC WENY | Other Services | `WENY-DT.us_locals1` |
+| ❌ | NY | Elmira | ABC WENY | Other Services | `WENY-DT2.us_locals1` |
 | ❌ | NY | New York | ABC 7 WABC | Other Services | `WABC-DT.us_locals1` |
 | ❌ | NY | New York | ABC UHD WABC | Other Services | `WABC-DT.us_locals1` |
 | ❌ | NY | Rochester | ABC 13 WHAM | Other Services | `WHAM-DT2.us_locals1` |
@@ -390,7 +390,7 @@
 | ❌ | MI | Lansing | CBS 6 WLNS | Other Services | `WLNS-DT.us_locals1` |
 | ❌ | MI | Lansing | CBS WLNS | Other Services | `WLNS-DT.us_locals1` |
 | ❌ | MN | Austin | CBS 3 KIMT | Other Services | `KIMT-DT.us_locals1` |
-| ❌ | MN | Duluth | CBS 6 KBJR | Other Services | `KBJR-DT.us_locals1` |
+| ❌ | MN | Duluth | CBS 6 KBJR | Other Services | `KBJR-DT2.us_locals1` |
 | ❌ | MN | Minneapolis | CBS WCCO | Other Services | `WCCO-DT.us_locals1` |
 | ❌ | MO | Cape Girardeau | CBS KFVS | Other Services | `KFVS-DT.us_locals1` |
 | ❌ | MO | Jefferson City | CBS 13 KRCG | Other Services | `KRCG-DT.us_locals1` |
@@ -691,7 +691,7 @@
 | ❌ | AK | Fairbanks | NBC KTVF | Other Services | `KTVF-DT.us_locals1` |
 | ❌ | AK | Fort Smith | NBC 51 KNWA | Other Services | `KNWA-DT.us_locals1` |
 | ❌ | AK | Juneau | NBC KATH | Other Services | `KATH-LD.us_locals1` |
-| ❌ | AL | Birmingham | NBC 13 WVTM | Other Services | `WVTM-DT.us_locals1` |
+| ❌ | AL | Birmingham | NBC 13 WVTM | Other Services | `WVTM-DT4.us_locals1` |
 | ❌ | AL | Dothan | NBC WRGX | Other Services | `WRGX-LD.us_locals1` |
 | ❌ | AL | Huntsville | NBC 48 WAFF | Other Services | `WAFF-DT.us_locals1` |
 | ❌ | AL | Mobile | NBC 15 WPMI | Other Services | `WPMI-DT.us_locals1` |
@@ -787,7 +787,7 @@
 | ❌ | MI | Saginaw | NBC 25 WEYI | Other Services | `WEYI-DT.us_locals1` |
 | ❌ | MI | Traverse City  | NBC 7 WPBN | Other Services | `WPBN-DT.us_locals1` |
 | ❌ | MN | Austin | NBC KTTC | Other Services | `KTTC-DT2.us_locals1` |
-| ❌ | MN | Duluth | NBC 6 KBJR | Other Services | `KBJR-DT.us_locals1` |
+| ❌ | MN | Duluth | NBC 6 KBJR | Other Services | `KBJR-DT2.us_locals1` |
 | ❌ | MN | Minneapolis | NBC KARE | Other Services | `KARE-DT.us_locals1` |
 | ❌ | MO | Jefferson City | NBC 8 KOMU | Other Services | `KOMU-DT.us_locals1` |
 | ❌ | MO | Kansas City | NBC KSHB | Other Services | `KSHB-DT.us_locals1` |
@@ -912,7 +912,7 @@
 | ❌ | WI | Madison | NBC WMTV | Other Services | `WMTV-DT.us_locals1` |
 | ❌ | WI | Milwaukee | NBC WTMJ | Other Services | `WTMJ-DT.us_locals1` |
 | ❌ | WI | Milwaukee | NBC WTMJ | Other Services | `WTMJ-DT.us_locals1` |
-| ❌ | WI | Superior | NBC KBJR | Other Services | `KBJR-DT.us_locals1` |
+| ❌ | WI | Superior | NBC KBJR | Other Services | `KBJR-DT2.us_locals1` |
 | ❌ | WI | Wausau | NBC WJFW | Other Services | `WJFW-DT.us_locals1` |
 | ❌ | WV | Bluefield | NBC WVVA | Other Services | `WVVA-DT.us_locals1` |
 | ❌ | WV | Clarksburg | NBC 12 WBOY | Other Services | `WBOY-DT.us_locals1` |
