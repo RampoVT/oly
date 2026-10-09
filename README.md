@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-10-09 10:02
+# 📺 Playlist Status Update: 2026-10-09 17:18
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -237,8 +237,8 @@
 | ❌ | NM | Albuquerque | ABC 7 KOAT | Other Services | `KOAT-DT4.us_locals1` |
 | ❌ | NV | Las Vegas | ABC 13 KTNV | Other Services | `KTNV-DT.us_locals1` |
 | ❌ | NY | ALBANY | ABC 10  WTEN | Other Services | `WTEN-DT.us_locals1` |
-| ❌ | NY | ALBANY | USA ABC 10  WALB | Other Services | `WALB-DT.us_locals1` |
-| ❌ | NY | ALBANY | USA ABC 10 WALB | Other Services | `WALB-DT.us_locals1` |
+| ❌ | NY | ALBANY | USA ABC 10  WALB | Other Services | `WALB-DT2.us_locals1` |
+| ❌ | NY | ALBANY | USA ABC 10 WALB | Other Services | `WALB-DT2.us_locals1` |
 | ❌ | NY | Buffalo | ABC 7 WKBW | Other Services | `WKBW-DT.us_locals1` |
 | ❌ | NY | Elmira | ABC WENY | Other Services | `WENY-DT2.us_locals1` |
 | ❌ | NY | New York | ABC 7 WABC | Other Services | `WABC-DT.us_locals1` |
@@ -398,7 +398,7 @@
 | ❌ | MO | Kirksville | CBS 3 KTVO | Other Services | `KTVO-DT.us_locals1` |
 | ❌ | MO | Springfield | CBS 3 WSHM | Other Services | `WSHM-LD.us_locals1` |
 | ❌ | MO | Springfield | CBS KOLR | Other Services | `KOLR-DT.us_locals1` |
-| ❌ | MO | St. Louis | CBS KMOV | Other Services | `KMOV-DT.us_locals1` |
+| ❌ | MO | St. Louis | CBS KMOV | Other Services | `KMOV-DT2.us_locals1` |
 | ❌ | MS | Columbus | CBS WCBI | Other Services | `WCBI-DT.us_locals1` |
 | ❌ | MS | Greenwood | CBS WMAO | Other Services | `WMAO-DT.us_locals1` |
 | ❌ | MS | Gulfport | CBS 13 WLOX | Other Services | `WLOX-DT2.us_locals1` |
@@ -497,7 +497,7 @@
 | ❌ | WV | Clarksburg | CBS 5 WDTV | Other Services | `WDTV-DT.us_locals1` |
 | ❌ | WV | Huntington | CBS 13 WOWK | Other Services | `WOWK-DT.us_locals1` |
 | ❌ | WY | Casper | CBS 14 KGWC | Other Services | `KGWC-DT.us_locals1` |
-| ❌ | WY | Cheyenne | CBS 5 KGWN | Other Services | `KGWN-DT.us_locals1` |
+| ❌ | WY | Cheyenne | CBS 5 KGWN | Other Services | `KGWN-DT2.us_locals1` |
 | ❌ | WY | Laramie | CBS KXJB | Other Services | `KXJB-LD.us_locals1` |
 | ❌ | WI | MADISON | CBS WISC | Other Services | `WISC-DT.us_locals1` |
 | ❌ | AK | Anchorage | FOX 4 KTBY | Other Services | `KTBY-DT.us_locals1` |
@@ -799,7 +799,7 @@
 | ❌ | MS | Greenwood | NBC 33 WNBD | Other Services | `WNBD-LD.us_locals1` |
 | ❌ | MS | Gulfport | NBC 25 WXXV | Other Services | `WXXV-DT2.us_locals1` |
 | ❌ | MS | Jackson | NBC WLBT | Other Services | `WLBT-DT.us_locals1` |
-| ❌ | MS | Laurel | NBC WDAM | Other Services | `WDAM-DT.us_locals1` |
+| ❌ | MS | Laurel | NBC WDAM | Other Services | `WDAM-DT2.us_locals1` |
 | ❌ | MS | Meridian | NBC WGBC | Other Services | `WGBC-DT2.us_locals1` |
 | ❌ | MT | Billings | NBC KULR | Other Services | `KULR-DT.us_locals1` |
 | ❌ | MT | Butte | NBC KTVM | Other Services | `KTVM-DT.us_locals1` |
@@ -820,7 +820,7 @@
 | ❌ | NV | Las Vegas | NBC KSNV | Other Services | `KSNV-DT.us_locals1` |
 | ❌ | NV | Las Vegas | NBC 3 KSNV | Other Services | `KSNV-DT.us_locals1` |
 | ❌ | NV | Reno | NBC KRNV | Other Services | `KRNV-DT.us_locals1` |
-| ❌ | NY | Albany | NBC 10 WALB | Other Services | `WALB-DT.us_locals1` |
+| ❌ | NY | Albany | NBC 10 WALB | Other Services | `WALB-DT2.us_locals1` |
 | ❌ | NY | Albany | NBC 13  WNYT (SHD) | Other Services | `WNYT-DT.us_locals1` |
 | ❌ | NY | Binghamton | NBC WBGH | Other Services | `WBGH-CD.us_locals1` |
 | ❌ | NY | Buffalo | NBC WGRZ | Other Services | `WGRZ-DT.us_locals1` |
@@ -841,11 +841,11 @@
 | ❌ | OH | Dayton | NBC WDTN | Other Services | `WDTN-DT.us_locals1` |
 | ❌ | OH | Lima | NBC WLIO | Other Services | `WLIO-DT.us_locals1` |
 | ❌ | OH | Lima | NBC 8 WLIO | Other Services | `WLIO-DT.us_locals1` |
-| ❌ | OH | Steubenville | NBC WTOV | Other Services | `WTOV-DT.us_locals1` |
+| ❌ | OH | Steubenville | NBC WTOV | Other Services | `WTOV-DT2.us_locals1` |
 | ❌ | OH | Toledo | NBC WNWO | Other Services | `WNWO-DT.us_locals1` |
 | ❌ | OH | Youngstown | NBC WFMJ | Other Services | `WFMJ-DT.us_locals1` |
-| ❌ | OH | Zanesville | NBC WHIZ | Other Services | `WHIZ-DT.us_locals1` |
-| ❌ | OK | Ada | NBC KTEN | Other Services | `KTEN-DT.us_locals1` |
+| ❌ | OH | Zanesville | NBC WHIZ | Other Services | `WHIZ-DT2.us_locals1` |
+| ❌ | OK | Ada | NBC KTEN | Other Services | `KTEN-DT3.us_locals1` |
 | ❌ | OK | Oklahoma City | NBC 4 KFOR | Other Services | `KFOR-DT.us_locals1` |
 | ❌ | OK | Tulsa | NBC 2 KJRH | Other Services | `KJRH-DT.us_locals1` |
 | ❌ | OR | Bend | NBC KTVZ | Other Services | `KTVZ-DT.us_locals1` |
@@ -918,7 +918,7 @@
 | ❌ | WV | Clarksburg | NBC 12 WBOY | Other Services | `WBOY-DT.us_locals1` |
 | ❌ | WV | Huntington | NBC WSAZ | Other Services | `WSAZ-DT.us_locals1` |
 | ❌ | WV | Parkersburg | NBC WTAP | Other Services | `WTAP-DT.us_locals1` |
-| ❌ | WV | Wheeling | NBC WTOV | Other Services | `WTOV-DT.us_locals1` |
+| ❌ | WV | Wheeling | NBC WTOV | Other Services | `WTOV-DT2.us_locals1` |
 | ❌ | WY | Casper | NBC 13 KCWY | Other Services | `KCWY-DT.us_locals1` |
 | ❌ | WY | Cheyenne | NBC KCWY | Other Services | `KCWY-DT.us_locals1` |
 | ❌ | UT | Salt Lake City | NBC 5 KSL | Other Services | `` |
@@ -1028,7 +1028,7 @@
 | ❌ | USA MyNet (WCIV) Charleston | Other Services | `WCIV-DT2.us_locals1` |
 | ❌ | USA MyTV (KCOP) | Other Services | `KCOP-DT.us_locals1` |
 | ❌ | USA MyTV (KDFI) | Other Services | `KDFI-DT.us_locals1` |
-| ❌ | USA MyTV (KMOV) | Other Services | `KMOV-DT.us_locals1` |
+| ❌ | USA MyTV (KMOV) | Other Services | `KMOV-DT2.us_locals1` |
 | ❌ | USA MyTV (KRON) | Other Services | `KRON-DT.us_locals1` |
 | ❌ | USA MyTV (WFTC) | Other Services | `WFTC-DT.us_locals1` |
 | ❌ | USA MyTV (WMYT) | Other Services | `WMYT-DT.us_locals1` |
@@ -1298,9 +1298,9 @@
 | ❌ | USA MeTV (KAZD) | Other Services | `KAZD-DT.us_locals1` |
 | ❌ | USA MeTV (KETV) | Other Services | `KETV-DT.us_locals1` |
 | ❌ | USA MeTV (KEZI) | Other Services | `KEZI-DT.us_locals1` |
-| ❌ | USA MeTV (KMOV) | Other Services | `KMOV-DT.us_locals1` |
+| ❌ | USA MeTV (KMOV) | Other Services | `KMOV-DT2.us_locals1` |
 | ❌ | USA MeTV (KNLC) | Other Services | `KNLC-DT.us_locals1` |
-| ❌ | USA MeTV (KOLO) | Other Services | `KOLO-DT.us_locals1` |
+| ❌ | USA MeTV (KOLO) | Other Services | `KOLO-DT3.us_locals1` |
 | ❌ | USA MeTV (KSTC) | Other Services | `KSTC-DT.us_locals1` |
 | ❌ | USA MeTV (KVEW) | Other Services | `KVEW-DT.us_locals1` |
 | ❌ | USA MeTV (KYAZ) | Other Services | `KYAZ-DT.us_locals1` |
