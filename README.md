@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-10-27 19:15
+# 📺 Playlist Status Update: 2026-10-27 23:28
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -105,14 +105,14 @@
 | ❌ | USA NBC Sports Boston | Other Services | `NBC.Sports.Boston.HD.us2` |
 | ❌ | USA NBC Sports Chicago Plus | Other Services | `NBC.Sports.California.Plus.us2` |
 | ❌ | USA New England Cable News | Other Services | `NECN.New.England.Cable.News.us2` |
-| ❌ | USA News 12 Brooklyn | Other Services | `` |
-| ❌ | USA News 12 Connecticut | Other Services | `` |
-| ❌ | USA News 12 Hudson Valley | Other Services | `Spectrum.News.-.Hudson.Valley.STVA.us2` |
-| ❌ | USA News 12 Long Island | Other Services | `` |
+| ❌ | USA News 12 Brooklyn | Other Services | `News.12.Brooklyn.us2` |
+| ❌ | USA News 12 Connecticut | Other Services | `News.12.Connecticut.us2` |
+| ❌ | USA News 12 Hudson Valley | Other Services | `News.12.Hudson.Valley.us2` |
+| ❌ | USA News 12 Long Island | Other Services | `News.12.Long.Island.us2` |
 | ❌ | USA News 12 New Jersey | Other Services | `News.12.New.Jersey.us2` |
 | ❌ | USA News 12 New Jersey | Other Services | `News.12.New.Jersey.us2` |
-| ❌ | USA News 12 The Bronx | Other Services | `` |
-| ❌ | USA News 12 Westchester | Other Services | `` |
+| ❌ | USA News 12 The Bronx | Other Services | `News.12.Bronx.us2` |
+| ❌ | USA News 12 Westchester | Other Services | `News.12.Westchester.us2` |
 | ❌ | USA Newsmax (SHD) | Other Services | `Newsmax.TV.HD.us2` |
 | ❌ | USA Newsmax UHD | Other Services | `` |
 | ❌ | USA NewsNation | Other Services | `NewsNation.us2` |
