@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-10-28 21:34
+# 📺 Playlist Status Update: 2026-10-29 01:31
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -1943,7 +1943,7 @@
 | ❌ | USA MSG 2 Plus | Other Services | `MSG.Plus.us2` |
 | ❌ | USA MSG Plus | Other Services | `MSG.Plus.us2` |
 | ❌ | USA MSGSN | Other Services | `` |
-| ❌ | USA MSGSN 2  Zone 2 (SHD) | Other Services | `MSG.Zone.1.us2` |
+| ❌ | USA MSGSN 2  Zone 2 (SHD) | Other Services | `MSG.Plus.(Zone.2).us2` |
 | ❌ | USA NBA TV | Other Services | `NRB.TV.us2` |
 | ❌ | USA NBA TV LHD | Other Services | `NBA.TV.HD.us2` |
 | ❌ | USA NBA TV UHD | Other Services | `NBA.TV.HD.us2` |
