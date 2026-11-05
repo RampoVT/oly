@@ -1,4 +1,4 @@
-# 📺 Playlist Status Update: 2026-11-04 18:27
+# 📺 Playlist Status Update: 2026-11-05 00:09
 
 | Status | Channel | Provider Group | EPG Match |
 | :---: | :--- | :--- | :--- |
@@ -1342,7 +1342,7 @@
 | ❌ | USA ION (WPXN) | Other Services | `WPXN-DT.us_locals1` |
 | ❌ | USA ION (WXPX) | Other Services | `WXPX-DT.us_locals1` |
 | ❌ | USA ION 31 New York WPXN (SHD) | Other Services | `WPXN-DT.us_locals1` |
-| ❌ | USA ION Plus | Other Services | `MBN.Plus.us2` |
+| ❌ | USA ION Plus | Other Services | `Action.Plus.us2` |
 | ❌ | USA ION Television | Other Services | `ION.Television.HD.us2` |
 | ❌ | USA ION Television (KPXM) | Other Services | `KPXM-DT.us_locals1` |
 | ❌ | USA ION Television (WRBU) | Other Services | `WRBU-DT.us_locals1` |
